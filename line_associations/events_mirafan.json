@@ -4,188 +4,188 @@
         "en_clean": "Big hat... Impossibly warm looking cloak...",
         "jp_raw": "大きな帽子... ありえないほど暖かそうなマント...",
         "jp_clean": "大きな帽子... ありえないほど暖かそうなマント...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "You must be one of the people traveling with Mirabelle!",
         "en_clean": "You must be one of the people traveling with Mirabelle!",
         "jp_raw": "ミラベルと旅してる人たちのひとりね！",
         "jp_clean": "ミラベルと旅してる人たちのひとりね！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "She's pretty well known around here. The chosen one, you know. Blessed by the Change God with the power to save Vaugarde.",
         "en_clean": "She's pretty well known around here. The chosen one, you know. Blessed by the Change God with the power to save Vaugarde.",
         "jp_raw": "ミラベルはこのへんじゃ有名なの。ほら、選ばれし者だから。ウツロイ様の祝福で、ヴォーガルドを救う力を授けられたのよね。",
         "jp_clean": "ミラベルはこのへんじゃ有名なの。ほら、選ばれし者だから。ウツロイ様の祝福で、ヴォーガルドを救う力を授けられたのよね。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Plus, before all this, she was a housemaiden at the House of Change nearby. She'd take classes, help out with chores, help the other housemaidens with their studies and craft. Little perfect Mirabelle.",
         "en_clean": "Plus, before all this, she was a housemaiden at the House of Change nearby. She'd take classes, help out with chores, help the other housemaidens with their studies and craft. Little perfect Mirabelle.",
         "jp_raw": "それに、こんなことになる前の彼女は、この近くにあるウツロイの館の侍祭だったの。勉強会に出たり、雑用をしたり、他の侍祭の研究やクラフトを手伝ったりしてたのよ。小さくてパーフェクトなミラベルだったの。",
         "jp_clean": "それに、こんなことになる前の彼女は、この近くにあるウツロイの館の侍祭だったの。勉強会に出たり、雑用をしたり、他の侍祭の研究やクラフトを手伝ったりしてたのよ。小さくてパーフェクトなミラベルだったの。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Hmf... As for me...",
         "en_clean": "Hmf... As for me...",
         "jp_raw": "あーあ... なのにあたしは...",
         "jp_clean": "あーあ... なのにあたしは...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "<span class=\"shake big\">\n I THINK SHE'S THE MOST WONDERFUL BEING ON EARTH.\n</span>",
         "en_clean": "I THINK SHE'S THE MOST WONDERFUL BEING ON EARTH.",
         "jp_raw": "<span class=\"shake\">\\{あたし、ミラベルは地上でもっともすばらしい存在だと思う。</span>",
         "jp_clean": "あたし、ミラベルは地上でもっともすばらしい存在だと思う。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "No wonder the Change God blessed her, when she's this wonderful!!!",
         "en_clean": "No wonder the Change God blessed her, when she's this wonderful!!!",
         "jp_raw": "ウツロイ様の祝福を受けるのもナットクのすばらしさね！！",
         "jp_clean": "ウツロイ様の祝福を受けるのもナットクのすばらしさね！！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "I used to go to the House a lot for my classes, and she was always there, taking the class with me!",
         "en_clean": "I used to go to the House a lot for my classes, and she was always there, taking the class with me!",
         "jp_raw": "あたしも昔は、館で勉強会に参加してた。ミラベルもいつもいて、いっしょに勉強してたのよ！",
         "jp_clean": "あたしも昔は、館で勉強会に参加してた。ミラベルもいつもいて、いっしょに勉強してたのよ！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "I've never had a class I didn't share with her. She's so cool. So helpful. So driven. Honestly, we're kind of best friends.",
         "en_clean": "I've never had a class I didn't share with her. She's so cool. So helpful. So driven. Honestly, we're kind of best friends.",
         "jp_raw": "ミラベルが勉強会にいなかったことは一度もないの。とってもクールよね。すごく親切だし。それにひたむきよ。実はね、あたしたちは親友だったの。",
         "jp_clean": "ミラベルが勉強会にいなかったことは一度もないの。とってもクールよね。すごく親切だし。それにひたむきよ。実はね、あたしたちは親友だったの。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "...Even though I've never had a single conversation with her...",
         "en_clean": "...Even though I've never had a single conversation with her...",
         "jp_raw": "...まあ、ミラベルと話したことはないけど...",
         "jp_clean": "...まあ、ミラベルと話したことはないけど...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(Talking to people is hard, you get it.)",
         "en_clean": "(Talking to people is hard, you get it.)",
         "jp_raw": "(分かる。人と話すのって大変だもんな。)",
         "jp_clean": "(分かる。人と話すのって大変だもんな。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(You hope she'll get to talk to Mirabelle before tomorrow!)",
         "en_clean": "(You hope she'll get to talk to Mirabelle before tomorrow!)",
         "jp_raw": "(明日になる前に、彼女がミラベルと話せるといいけど！)",
         "jp_clean": "(明日になる前に、彼女がミラベルと話せるといいけど！)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(You wonder if she managed to talk to Mirabelle before you went to the House...)",
         "en_clean": "(You wonder if she managed to talk to Mirabelle before you went to the House...)",
         "jp_raw": "(館に行く前に、彼女はミラベルと話せたのだろうか...)",
         "jp_clean": "(館に行く前に、彼女はミラベルと話せたのだろうか...)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Big hat... Impossibly warm looking cloak...",
         "en_clean": "Big hat... Impossibly warm looking cloak...",
         "jp_raw": "大きな帽子... ありえないほど暖かそうなマント...",
         "jp_clean": "大きな帽子... ありえないほど暖かそうなマント...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "You must be one of the people traveling with Mirabelle!",
         "en_clean": "You must be one of the people traveling with Mirabelle!",
         "jp_raw": "ミラベルと旅してる人たちのひとりね！",
         "jp_clean": "ミラベルと旅してる人たちのひとりね！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "She's pretty well known around here. The chosen one, you know. Blessed by the Change God with the power to save Vaugarde.",
         "en_clean": "She's pretty well known around here. The chosen one, you know. Blessed by the Change God with the power to save Vaugarde.",
         "jp_raw": "ミラベルはこのへんじゃ有名なの。ほら、選ばれし者だから。ウツロイ様の祝福で、ヴォーガルドを救う力を授けられたのよね。",
         "jp_clean": "ミラベルはこのへんじゃ有名なの。ほら、選ばれし者だから。ウツロイ様の祝福で、ヴォーガルドを救う力を授けられたのよね。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Plus, before all this, she was a housemaiden at the House of Change nearby. She'd take classes, help out with chores, help the other housemaidens with their studies and craft. Little perfect Mirabelle.",
         "en_clean": "Plus, before all this, she was a housemaiden at the House of Change nearby. She'd take classes, help out with chores, help the other housemaidens with their studies and craft. Little perfect Mirabelle.",
         "jp_raw": "それに、こんなことになる前の彼女は、この近くにあるウツロイの館の侍祭だったの。勉強会に出たり、雑用をしたり、他の侍祭の研究やクラフトを手伝ったりしてたのよ。小さくてパーフェクトなミラベルだったの。",
         "jp_clean": "それに、こんなことになる前の彼女は、この近くにあるウツロイの館の侍祭だったの。勉強会に出たり、雑用をしたり、他の侍祭の研究やクラフトを手伝ったりしてたのよ。小さくてパーフェクトなミラベルだったの。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Hmf... As for me...",
         "en_clean": "Hmf... As for me...",
         "jp_raw": "あーあ... なのにあたしは...",
         "jp_clean": "あーあ... なのにあたしは...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "<span class=\"shake big\">\n I THINK SHE'S THE MOST WONDERFUL BEING ON EARTH.\n</span>",
         "en_clean": "I THINK SHE'S THE MOST WONDERFUL BEING ON EARTH.",
         "jp_raw": "<span class=\"shake\">\\{あたし、ミラベルは地上でもっともすばらしい存在だと思う。</span>",
         "jp_clean": "あたし、ミラベルは地上でもっともすばらしい存在だと思う。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "No wonder the Change God blessed her, when she's this wonderful!!!",
         "en_clean": "No wonder the Change God blessed her, when she's this wonderful!!!",
         "jp_raw": "ウツロイ様の祝福を受けるのもナットクのすばらしさね！！",
         "jp_clean": "ウツロイ様の祝福を受けるのもナットクのすばらしさね！！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "I used to go to the House a lot for my classes, and she was always there, taking the class with me!",
         "en_clean": "I used to go to the House a lot for my classes, and she was always there, taking the class with me!",
         "jp_raw": "あたしも昔は、館で勉強会に参加してた。ミラベルもいつもいて、いっしょに勉強してたのよ！",
         "jp_clean": "あたしも昔は、館で勉強会に参加してた。ミラベルもいつもいて、いっしょに勉強してたのよ！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "I've never had a class I didn't share with her. She's so cool. So helpful. So driven. Honestly, we're kind of best friends.",
         "en_clean": "I've never had a class I didn't share with her. She's so cool. So helpful. So driven. Honestly, we're kind of best friends.",
         "jp_raw": "ミラベルが勉強会にいなかったことは一度もないの。とってもクールよね。すごく親切だし。それにひたむきよ。実はね、あたしたちは親友だったの。",
         "jp_clean": "ミラベルが勉強会にいなかったことは一度もないの。とってもクールよね。すごく親切だし。それにひたむきよ。実はね、あたしたちは親友だったの。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "...Even though I've never had a single conversation with her...",
         "en_clean": "...Even though I've never had a single conversation with her...",
         "jp_raw": "...まあ、ミラベルと話したことはないけど...",
         "jp_clean": "...まあ、ミラベルと話したことはないけど...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(Talking to people is hard, you get it.)",
         "en_clean": "(Talking to people is hard, you get it.)",
         "jp_raw": "(分かる。人と話すのって大変だもんな。)",
         "jp_clean": "(分かる。人と話すのって大変だもんな。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(You don't think she managed to talk to Mirabelle last time... Mirabelle would've mentioned it.)",
         "en_clean": "(You don't think she managed to talk to Mirabelle last time... Mirabelle would've mentioned it.)",
         "jp_raw": "(前回、彼女はミラベルと話せなかったはずだ... 話せたら、ミラベルが教えてくれてるはず。)",
         "jp_clean": "(前回、彼女はミラベルと話せなかったはずだ... 話せたら、ミラベルが教えてくれてるはず。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(You should go and tell Mirabelle yourself!)",
         "en_clean": "(You should go and tell Mirabelle yourself!)",
         "jp_raw": "(僕からミラベルに伝えないと！)",
         "jp_clean": "(僕からミラベルに伝えないと！)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "\"Mira has a fan...\"",
         "en_clean": "\"Mira has a fan...\"",
-        "jp_raw": null,
-        "jp_clean": null,
+        "jp_raw": "\"ミラにファンがいて...\"",
+        "jp_clean": "\"ミラにファンがいて...\"",
         "checked": false
     },
     {
@@ -193,27 +193,27 @@
         "en_clean": "She does. That stylish woman in Dormont, right?",
         "jp_raw": "そうだね。ドーモントのおしゃれさんのことだろ？",
         "jp_clean": "そうだね。ドーモントのおしゃれさんのことだろ？",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "You should tell your Housemaiden! It'll make her happy!",
         "en_clean": "You should tell your Housemaiden! It'll make her happy!",
         "jp_raw": "侍祭君に教えてあげなよ！ 彼女、うれしがると思うよ！",
         "jp_clean": "侍祭君に教えてあげなよ！ 彼女、うれしがると思うよ！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "\"You have a fan!\"",
         "en_clean": "\"You have a fan!\"",
-        "jp_raw": null,
-        "jp_clean": null,
-        "checked": false
+        "jp_raw": "\"きみにはファンがいるんだな。\"",
+        "jp_clean": "\"きみにはファンがいるんだな。\"",
+        "checked": true
     },
     {
         "en_raw": "I... I do?",
         "en_clean": "I... I do?",
-        "jp_raw": null,
-        "jp_clean": null,
+        "jp_raw": "そ... そうなの？",
+        "jp_clean": "そ... そうなの？",
         "checked": false
     },
     {
@@ -221,13 +221,13 @@
         "en_clean": "(You nod and point at the stylish woman's house.)",
         "jp_raw": "(うなずいて、おしゃれさんの家を指差す。)",
         "jp_clean": "(うなずいて、おしゃれさんの家を指差す。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "I... don't know whose house it is. A stylish lady?",
         "en_clean": "I... don't know whose house it is. A stylish lady?",
-        "jp_raw": null,
-        "jp_clean": null,
+        "jp_raw": "あれって... だれのお家かわからないよ。え？ おしゃれさん？",
+        "jp_clean": "あれって... だれのお家かわからないよ。え？ おしゃれさん？",
         "checked": false
     },
     {
@@ -235,41 +235,41 @@
         "en_clean": "(You describe the stylish lady as best you can.)",
         "jp_raw": "(おしゃれさんのことをなるべく詳しく説明する。)",
         "jp_clean": "(おしゃれさんのことをなるべく詳しく説明する。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Um... I'm sorry to tell you this, but stylish ladies aren't very rare in Vaugarde, haha.",
         "en_clean": "Um... I'm sorry to tell you this, but stylish ladies aren't very rare in Vaugarde, haha.",
         "jp_raw": "うーん... シフランには悪いけど、ヴォーガルドではおしゃれな女性は珍しくないよ。アハハ。",
         "jp_clean": "うーん... シフランには悪いけど、ヴォーガルドではおしゃれな女性は珍しくないよ。アハハ。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "And I see a lot of people during classes... I'm not smart enough to remember everyone I see...",
         "en_clean": "And I see a lot of people during classes... I'm not smart enough to remember everyone I see...",
         "jp_raw": "それにたくさんの人が授業を受けるし...見た人を全員覚えているわけじゃないから...",
         "jp_clean": "それにたくさんの人が授業を受けるし...見た人を全員覚えているわけじゃないから...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(Welp.)",
         "en_clean": "(Welp.)",
         "jp_raw": "(しゃあない。)",
         "jp_clean": "(しゃあない。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(Maybe eventually you'll find a way to jog her memory...)",
         "en_clean": "(Maybe eventually you'll find a way to jog her memory...)",
         "jp_raw": "(そのうち思い出させる方法が見つかるだろう...)",
         "jp_clean": "(そのうち思い出させる方法が見つかるだろう...)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "\"Mira has a fan...\"",
         "en_clean": "\"Mira has a fan...\"",
-        "jp_raw": null,
-        "jp_clean": null,
+        "jp_raw": "\"ミラにファンがいて...\"",
+        "jp_clean": "\"ミラにファンがいて...\"",
         "checked": false
     },
     {
@@ -277,69 +277,69 @@
         "en_clean": "She does...",
         "jp_raw": "そうだね...",
         "jp_clean": "そうだね...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "But she doesn't actually remember meeting her fan, even though they shared classes together! How devastating!",
         "en_clean": "But she doesn't actually remember meeting her fan, even though they shared classes together! How devastating!",
         "jp_raw": "でも、侍祭君は覚えていない。同じ勉強会に出席してたってのに！ ひどい話じゃないか！",
         "jp_clean": "でも、侍祭君は覚えていない。同じ勉強会に出席してたってのに！ ひどい話じゃないか！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "I wonder if there's a way to make her remember...",
         "en_clean": "I wonder if there's a way to make her remember...",
         "jp_raw": "侍祭君に思い出させる方法はないのなかな...",
         "jp_clean": "侍祭君に思い出させる方法はないのなかな...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(A desk with an open notebook.)",
         "en_clean": "(A desk with an open notebook.)",
         "jp_raw": "(机にノートが広げられている。)",
         "jp_clean": "(机にノートが広げられている。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(It has very lovely handwriting.)",
         "en_clean": "(It has very lovely handwriting.)",
         "jp_raw": "(すごく愛らしい字だ。)",
         "jp_clean": "(すごく愛らしい字だ。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Oh! I recognize this handwriting...",
         "en_clean": "Oh! I recognize this handwriting...",
         "jp_raw": "あっ！ この字は見覚えがある...",
         "jp_clean": "あっ！ この字は見覚えがある...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "This is the seat of a very stylish very scary lady with amazing fashion sense!",
         "en_clean": "This is the seat of a very stylish very scary lady with amazing fashion sense!",
         "jp_raw": "ここはファッションセンス抜群のおしゃれさんの席だね！",
         "jp_clean": "ここはファッションセンス抜群のおしゃれさんの席だね！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "She often wore this very cool dress, and she always has her dark hair in a bun...",
         "en_clean": "She often wore this very cool dress, and she always has her dark hair in a bun...",
         "jp_raw": "よくかっこいいドレスを着ていて、髪はいつもきれいにまとめてて...",
         "jp_clean": "よくかっこいいドレスを着ていて、髪はいつもきれいにまとめてて...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "We often had the same classes, but she probably doesn't know I exist. I'm a little sad about it, I always wanted to ask her for fashion tips...",
         "en_clean": "We often had the same classes, but she probably doesn't know I exist. I'm a little sad about it, I always wanted to ask her for fashion tips...",
         "jp_raw": "同じクラスのことが多かったんだけど、彼女はわたしの存在に気づいてもいないんだろうな。おしゃれのアドバイスをしてほしいなって思ってたから、少し悲しいけど...",
         "jp_clean": "同じクラスのことが多かったんだけど、彼女はわたしの存在に気づいてもいないんだろうな。おしゃれのアドバイスをしてほしいなって思ってたから、少し悲しいけど...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(Wait, this sounds like...) \"That's the stylish lady I was talking to you about.\"",
         "en_clean": "(Wait, this sounds like...) \"That's the stylish lady I was talking to you about.\"",
-        "jp_raw": null,
-        "jp_clean": null,
+        "jp_raw": "(待てよ、それって...) \"前に話したおしゃれさんって、その人のことだよ。\"",
+        "jp_clean": "(待てよ、それって...) \"前に話したおしゃれさんって、その人のことだよ。\"",
         "checked": false
     },
     {
@@ -354,13 +354,13 @@
         "en_clean": "THE STYLISH LADY NEXT DOOR IN DORMONT",
         "jp_raw": "\\{<span class=\"shake\">ドーモントでお隣りにいた、あのおしゃれさん！</span>",
         "jp_clean": "ドーモントでお隣りにいた、あのおしゃれさん！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(...) \"Yes, her. Your fan.\"",
         "en_clean": "(...) \"Yes, her. Your fan.\"",
-        "jp_raw": null,
-        "jp_clean": null,
+        "jp_raw": "(...) \"そうだよ。きみのファンだって。\"",
+        "jp_clean": "(...) \"そうだよ。きみのファンだって。\"",
         "checked": false
     },
     {
@@ -368,76 +368,76 @@
         "en_clean": "You have a fan, Belle?!",
         "jp_raw": "ベルにファンがいるの？！",
         "jp_clean": "ベルにファンがいるの？！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Mira... Remember us when you're famous...",
         "en_clean": "Mira... Remember us when you're famous...",
         "jp_raw": "ミラ... セレブになっても俺たちを忘れないで...",
         "jp_clean": "ミラ... セレブになっても俺たちを忘れないで...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "So that's who you meant... Yes, I know her!!!",
         "en_clean": "So that's who you meant... Yes, I know her!!!",
         "jp_raw": "あなたが言ってたのって... そうか！ 彼女なら知ってる！",
         "jp_clean": "あなたが言ってたのって... そうか！ 彼女なら知ってる！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "But see, if you said she was scary, I would've known who you meant.",
         "en_clean": "But see, if you said she was scary, I would've known who you meant.",
         "jp_raw": "「怖そうな人」って言ってくれれば、誰だか分かったかも。",
         "jp_clean": "「怖そうな人」って言ってくれれば、誰だか分かったかも。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "She has a very intense glare, and she talks in a way where I never know if she's making fun of people or not...",
         "en_clean": "She has a very intense glare, and she talks in a way where I never know if she's making fun of people or not...",
         "jp_raw": "すごく目力があるし、人をバカにしているのかどうか分からない話し方だったりするから...",
         "jp_clean": "すごく目力があるし、人をバカにしているのかどうか分からない話し方だったりするから...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(You make a face.)",
         "en_clean": "(You make a face.)",
         "jp_raw": "(顔をしかめる。)",
         "jp_clean": "(顔をしかめる。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(The stylish lady didn't look very scary when you talked to her...)",
         "en_clean": "(The stylish lady didn't look very scary when you talked to her...)",
         "jp_raw": "(あのおしゃれさん、僕が話しかけたときは怖そうに見えなかったけど...)",
         "jp_clean": "(あのおしゃれさん、僕が話しかけたときは怖そうに見えなかったけど...)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "If you see her again, look into her eyes. You'll know what I mean.",
         "en_clean": "If you see her again, look into her eyes. You'll know what I mean.",
         "jp_raw": "今度会ったときは彼女の目をよく見て。わたしの言わんとしていることが分かるはずだから。",
         "jp_clean": "今度会ったときは彼女の目をよく見て。わたしの言わんとしていることが分かるはずだから。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(You might try that.)",
         "en_clean": "(You might try that.)",
         "jp_raw": "(ならそうしてみよう。)",
         "jp_clean": "(ならそうしてみよう。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(Either way, you should go talk to the stylish lady and let her know that Mirabelle knows her...)",
         "en_clean": "(Either way, you should go talk to the stylish lady and let her know that Mirabelle knows her...)",
         "jp_raw": "(どちらにしても、おしゃれさんと話して、ミラベルが彼女を知っていると伝えよう...)",
         "jp_clean": "(どちらにしても、おしゃれさんと話して、ミラベルが彼女を知っていると伝えよう...)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "\"Mira has a fan...\"",
         "en_clean": "\"Mira has a fan...\"",
-        "jp_raw": null,
-        "jp_clean": null,
+        "jp_raw": "\"ミラにファンがいて...\"",
+        "jp_clean": "\"ミラにファンがいて...\"",
         "checked": false
     },
     {
@@ -445,105 +445,105 @@
         "en_clean": "She does! And the twist is...",
         "jp_raw": "そうだね！ それにおもしろいのが...",
         "jp_clean": "そうだね！ それにおもしろいのが...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Your Housemaiden thinks she's kinda cool but mostly scary!!!",
         "en_clean": "Your Housemaiden thinks she's kinda cool but mostly scary!!!",
         "jp_raw": "侍祭君はおしゃれさんのことをかっこいいとは思ってるけど、それよりも怖い人だって思ってること！！！",
         "jp_clean": "侍祭君はおしゃれさんのことをかっこいいとは思ってるけど、それよりも怖い人だって思ってること！！！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "You should let that stylish lady know... I wonder how she'll react?",
         "en_clean": "You should let that stylish lady know... I wonder how she'll react?",
         "jp_raw": "あのおしゃれさんに教えてあげなよ... 彼女、どんな反応をするかな？",
         "jp_clean": "あのおしゃれさんに教えてあげなよ... 彼女、どんな反応をするかな？",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Big hat... Impossibly warm looking cloak...",
         "en_clean": "Big hat... Impossibly warm looking cloak...",
         "jp_raw": "大きな帽子... ありえないほど暖かそうなマント...",
         "jp_clean": "大きな帽子... ありえないほど暖かそうなマント...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "You must be one of the people traveling with Mirabelle!",
         "en_clean": "You must be one of the people traveling with Mirabelle!",
         "jp_raw": "ミラベルと旅してる人たちのひとりね！",
         "jp_clean": "ミラベルと旅してる人たちのひとりね！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "She's pretty well known around here. The chosen one, you know. Blessed by the Change God with the power to save Vaugarde.",
         "en_clean": "She's pretty well known around here. The chosen one, you know. Blessed by the Change God with the power to save Vaugarde.",
         "jp_raw": "ミラベルはこのへんじゃ有名なの。ほら、選ばれし者だから。ウツロイ様の祝福で、ヴォーガルドを救う力を授けられたのよね。",
         "jp_clean": "ミラベルはこのへんじゃ有名なの。ほら、選ばれし者だから。ウツロイ様の祝福で、ヴォーガルドを救う力を授けられたのよね。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Plus, before all this, she was a housemaiden at the House of Change nearby. She'd take classes, help out with chores, help the other housemaidens with their studies and craft. Little perfect Mirabelle.",
         "en_clean": "Plus, before all this, she was a housemaiden at the House of Change nearby. She'd take classes, help out with chores, help the other housemaidens with their studies and craft. Little perfect Mirabelle.",
         "jp_raw": "それに、こんなことになる前の彼女は、この近くにあるウツロイの館の侍祭だったの。勉強会に出たり、雑用をしたり、他の侍祭の研究やクラフトを手伝ったりしてたのよ。小さくてパーフェクトなミラベルだったの。",
         "jp_clean": "それに、こんなことになる前の彼女は、この近くにあるウツロイの館の侍祭だったの。勉強会に出たり、雑用をしたり、他の侍祭の研究やクラフトを手伝ったりしてたのよ。小さくてパーフェクトなミラベルだったの。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Hmf... As for me...",
         "en_clean": "Hmf... As for me...",
         "jp_raw": "あーあ... なのにあたしは...",
         "jp_clean": "あーあ... なのにあたしは...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "<span class=\"shake big\">\n I THINK SHE'S THE MOST WONDERFUL BEING ON EARTH.\n</span>",
         "en_clean": "I THINK SHE'S THE MOST WONDERFUL BEING ON EARTH.",
         "jp_raw": "<span class=\"shake\">\\{あたし、ミラベルは地上でもっともすばらしい存在だと思う。</span>",
         "jp_clean": "あたし、ミラベルは地上でもっともすばらしい存在だと思う。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "No wonder the Change God blessed her, when she's this wonderful!!!",
         "en_clean": "No wonder the Change God blessed her, when she's this wonderful!!!",
         "jp_raw": "ウツロイ様の祝福を受けるのもナットクのすばらしさね！！",
         "jp_clean": "ウツロイ様の祝福を受けるのもナットクのすばらしさね！！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "I used to go to the House a lot for my classes, and she was always there, taking the class with me!",
         "en_clean": "I used to go to the House a lot for my classes, and she was always there, taking the class with me!",
         "jp_raw": "あたしも昔は、館で勉強会に参加してた。ミラベルもいつもいて、いっしょに勉強してたのよ！",
         "jp_clean": "あたしも昔は、館で勉強会に参加してた。ミラベルもいつもいて、いっしょに勉強してたのよ！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(You tell her what Mirabelle thinks of her.)",
         "en_clean": "(You tell her what Mirabelle thinks of her.)",
         "jp_raw": "(ミラベルが感じていることを伝えよう。)",
         "jp_clean": "(ミラベルが感じていることを伝えよう。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "<span class=\"shake big\">\n SHE THINKS I'M SCARY?!?\n</span>",
         "en_clean": "SHE THINKS I'M SCARY?!?",
         "jp_raw": "\\{<span class=\"shake\">あたしのこと、怖いと思ってんの！？</span>",
         "jp_clean": "あたしのこと、怖いと思ってんの！？",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "No... No... NO!!!!!",
         "en_clean": "No... No... NO!!!!!",
         "jp_raw": "え... うそ... うそでしょー！！！",
         "jp_clean": "え... うそ... うそでしょー！！！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "But wait, you said she also liked my style?",
         "en_clean": "But wait, you said she also liked my style?",
         "jp_raw": "でも待って、怖いけどすてきなファッションだって？",
         "jp_clean": "でも待って、怖いけどすてきなファッションだって？",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(You nod.)",
@@ -567,63 +567,63 @@
         "en_clean": "Oh... Oh Change... Oh yes. Oh wonderful. I know exactly what to do.",
         "jp_raw": "ああ... ああ、ウツロイ様... よかった。なんてすてきなの。だったらあたしは、こうすべきね。",
         "jp_clean": "ああ... ああ、ウツロイ様... よかった。なんてすてきなの。だったらあたしは、こうすべきね。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Give me three seconds, hatted one.",
         "en_clean": "Give me three seconds, hatted one.",
         "jp_raw": "ちょっと待ってて、帽子さん。",
         "jp_clean": "ちょっと待ってて、帽子さん。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "YES. OKAY. LET'S GO. Can you give this to Mirabelle?",
         "en_clean": "YES. OKAY. LET'S GO. Can you give this to Mirabelle?",
         "jp_raw": "よし。いいよ。いける。これをミラベルに渡してくれる？",
         "jp_clean": "よし。いいよ。いける。これをミラベルに渡してくれる？",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "I, um, I hope she likes it.",
         "en_clean": "I, um, I hope she likes it.",
         "jp_raw": "えっと、ミラベルが気に入ってくれるといいんだけど。",
         "jp_clean": "えっと、ミラベルが気に入ってくれるといいんだけど。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(You got the FANMAIL!)",
         "en_clean": "(You got the FANMAIL!)",
         "jp_raw": "(「ファンレター」を手に入れた！)",
         "jp_clean": "(「ファンレター」を手に入れた！)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(It's a package and a letter addressed to Mirabelle...)",
         "en_clean": "(It's a package and a letter addressed to Mirabelle...)",
         "jp_raw": "(ミラベルに宛てた手紙と小包みだ...)",
         "jp_clean": "(ミラベルに宛てた手紙と小包みだ...)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(You'd better give it to her before tomorrow.)",
         "en_clean": "(You'd better give it to her before tomorrow.)",
         "jp_raw": "(明日になる前に渡した方がよさそうだ。)",
         "jp_clean": "(明日になる前に渡した方がよさそうだ。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(You put the mail in your pocket along with your Souvenirs.)",
         "en_clean": "(You put the mail in your pocket along with your Souvenirs.)",
         "jp_raw": "(ポケットの「思い出の品」に入れておこう。)",
         "jp_clean": "(ポケットの「思い出の品」に入れておこう。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Thank you... Please give it to her... Please... I don't want to scare her... Please.",
         "en_clean": "Thank you... Please give it to her... Please... I don't want to scare her... Please.",
         "jp_raw": "よろしくね... ちゃんと彼女に渡して... お願いだからね... 怖がらせたくないの... 頼んだよ。",
         "jp_clean": "よろしくね... ちゃんと彼女に渡して... お願いだからね... 怖がらせたくないの... 頼んだよ。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "A gift for Mirabelle. It's lovingly wrapped.",
@@ -644,49 +644,49 @@
         "en_clean": "(A gift for Mirabelle from the stylish woman.)",
         "jp_raw": "(おしゃれな子から預かった、ミラベルへの贈り物だ。)",
         "jp_clean": "(おしゃれな子から預かった、ミラベルへの贈り物だ。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(It has a package and a letter.)",
         "en_clean": "(It has a package and a letter.)",
         "jp_raw": "(小包みと手紙だ。)",
         "jp_clean": "(小包みと手紙だ。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(Opening either would be rude, so you leave them alone.)",
         "en_clean": "(Opening either would be rude, so you leave them alone.)",
         "jp_raw": "(開けるわけにはいかない。どちらも触らないでおこう。)",
         "jp_clean": "(開けるわけにはいかない。どちらも触らないでおこう。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(A gift for Mirabelle from the stylish woman.)",
         "en_clean": "(A gift for Mirabelle from the stylish woman.)",
         "jp_raw": "(おしゃれな子から預かった、ミラベルへの贈り物だ。)",
         "jp_clean": "(おしゃれな子から預かった、ミラベルへの贈り物だ。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(It has a package with the Stylish Bow inside, and a letter.)",
         "en_clean": "(It has a package with the Stylish Bow inside, and a letter.)",
         "jp_raw": "(おしゃれなリボンと手紙が入った小包み。)",
         "jp_clean": "(おしゃれなリボンと手紙が入った小包み。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(Mirabelle didn't tell you the contents of the letter.)",
         "en_clean": "(Mirabelle didn't tell you the contents of the letter.)",
         "jp_raw": "(ミラベルは、手紙に書いてあったことを教えてくれなかった。)",
         "jp_clean": "(ミラベルは、手紙に書いてあったことを教えてくれなかった。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(If you open the letter now, you won't be able to give Mirabelle her gift.)",
         "en_clean": "(If you open the letter now, you won't be able to give Mirabelle her gift.)",
         "jp_raw": "(今、僕が手紙を開けたら、ミラベルに渡すことはできなくなる。)",
         "jp_clean": "(今、僕が手紙を開けたら、ミラベルに渡すことはできなくなる。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(...)",
@@ -810,35 +810,35 @@
         "en_clean": "(Open the letter?)",
         "jp_raw": "(手紙を開ける？)",
         "jp_clean": "(手紙を開ける？)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(You open the letter.)",
         "en_clean": "(You open the letter.)",
         "jp_raw": "(手紙を開けた。)",
         "jp_clean": "(手紙を開けた。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(It's many pages long. The stylish woman wrote about how she met Mirabelle, how much she admires her, and how she hopes the bow will fit her well...)",
         "en_clean": "(It's many pages long. The stylish woman wrote about how she met Mirabelle, how much she admires her, and how she hopes the bow will fit her well...)",
         "jp_raw": "(何枚にもわたって書かれている。あのおしゃれな子とミラベルの出会い、ミラベルを尊敬していること、リボンが似合うといいと思っていること...)",
         "jp_clean": "(何枚にもわたって書かれている。あのおしゃれな子とミラベルの出会い、ミラベルを尊敬していること、リボンが似合うといいと思っていること...)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(The last page only has one sentence written on it.)",
         "en_clean": "(The last page only has one sentence written on it.)",
         "jp_raw": "(最後のページは1文だけだ。)",
         "jp_clean": "(最後のページは1文だけだ。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(It just says: \"None of us blame you, Mirabelle.\")",
         "en_clean": "(It just says: \"None of us blame you, Mirabelle.\")",
         "jp_raw": "(書いてあるのは... 「私たち、誰もあなたを責めないよ、ミラベル」)",
         "jp_clean": "(書いてあるのは... 「私たち、誰もあなたを責めないよ、ミラベル」)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(...)",
@@ -962,7 +962,7 @@
         "en_clean": "(It just says: \"None of us blame you, Mirabelle.\")",
         "jp_raw": "(書いてあるのは... 「私たち、誰もあなたを責めないよ、ミラベル」)",
         "jp_clean": "(書いてあるのは... 「私たち、誰もあなたを責めないよ、ミラベル」)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(...)",
@@ -1086,20 +1086,20 @@
         "en_clean": "(You leave the letter alone.)",
         "jp_raw": "(手紙を閉じた。)",
         "jp_clean": "(手紙を閉じた。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(Did it satisfy your curiosity?)",
         "en_clean": "(Did it satisfy your curiosity?)",
         "jp_raw": "(好奇心を満たせたか？)",
         "jp_clean": "(好奇心を満たせたか？)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "\"Mira has a fan...\"",
         "en_clean": "\"Mira has a fan...\"",
-        "jp_raw": null,
-        "jp_clean": null,
+        "jp_raw": "\"ミラにファンがいて...\"",
+        "jp_clean": "\"ミラにファンがいて...\"",
         "checked": false
     },
     {
@@ -1107,35 +1107,35 @@
         "en_clean": "Yes, and the stylish woman gave you a gift for your Housemaiden!",
         "jp_raw": "そうだね。それに、おしゃれさんから侍祭君への贈り物を預かったらしいじゃないか！",
         "jp_clean": "そうだね。それに、おしゃれさんから侍祭君への贈り物を預かったらしいじゃないか！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Give it to her! Do it! Do it!!!",
         "en_clean": "Give it to her! Do it! Do it!!!",
         "jp_raw": "侍祭君に渡してあげなよ！ そうした方がいい！ 絶対に！！！",
         "jp_clean": "侍祭君に渡してあげなよ！ そうした方がいい！ 絶対に！！！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(You give her the gift.)",
         "en_clean": "(You give her the gift.)",
         "jp_raw": "(彼女に贈り物を渡す。)",
         "jp_clean": "(彼女に贈り物を渡す。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "F-Fanmail?!? From a stylish lady?!?",
         "en_clean": "F-Fanmail?!? From a stylish lady?!?",
         "jp_raw": "ファ、ファンレター？ おしゃれさんからの？",
         "jp_clean": "ファ、ファンレター？ おしゃれさんからの？",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Okay... Oh, it's from one of my classmates...? I...",
         "en_clean": "Okay... Oh, it's from one of my classmates...? I...",
         "jp_raw": "そう... えっ、クラスで一緒だった人なの？ わたし...",
         "jp_clean": "そう... えっ、クラスで一緒だった人なの？ わたし...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "...",
@@ -1333,56 +1333,56 @@
         "en_clean": "Oh... Oh!!!",
         "jp_raw": "えっ... えーっ！",
         "jp_clean": "えっ... えーっ！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "That's from, um, a scary classmate of mine...!",
         "en_clean": "That's from, um, a scary classmate of mine...!",
         "jp_raw": "これ、あの怖い人からだ...！",
         "jp_clean": "これ、あの怖い人からだ...！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Or at least, I thought she was scary! She has a very intense look, you know!!!",
         "en_clean": "Or at least, I thought she was scary! She has a very intense look, you know!!!",
         "jp_raw": "わたし、怖い人だと思ってたの！ すごくピリピリした感じの人だったから。",
         "jp_clean": "わたし、怖い人だと思ってたの！ すごくピリピリした感じの人だったから。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "But... She's gifting me a bow she made...",
         "en_clean": "But... She's gifting me a bow she made...",
         "jp_raw": "なのに... 手作りのリボンをくれた...",
         "jp_clean": "なのに... 手作りのリボンをくれた...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "She thought it would fit me well, and she says... She says...",
         "en_clean": "She thought it would fit me well, and she says... She says...",
         "jp_raw": "わたしに「すごく似合うと思う」って...m[wait] 書いてある...",
         "jp_clean": "わたしに「すごく似合うと思う」って... 書いてある...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(Suddenly, Mirabelle starts tearing up!!!)",
         "en_clean": "(Suddenly, Mirabelle starts tearing up!!!)",
         "jp_raw": "(ミラベルの目がうるうるしてきた！)",
         "jp_clean": "(ミラベルの目がうるうるしてきた！)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "S-She's such a nice person... I'm so glad that...",
         "en_clean": "S-She's such a nice person... I'm so glad that...",
         "jp_raw": "あ、あの人すごくいい人だね... 嬉しいな...",
         "jp_clean": "あ、あの人すごくいい人だね... 嬉しいな...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "So glad that...",
         "en_clean": "So glad that...",
         "jp_raw": "とっても嬉しい...",
         "jp_clean": "とっても嬉しい...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "...",
@@ -1580,97 +1580,97 @@
         "en_clean": "A-Anyway, look!!! Look at this bow! Isn't it pretty?",
         "jp_raw": "と、とにかく見て！ ほら、このリボン！ かわいくない？",
         "jp_clean": "と、とにかく見て！ ほら、このリボン！ かわいくない？",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(She's crying, but she must not want you to mention it...)",
         "en_clean": "(She's crying, but she must not want you to mention it...)",
         "jp_raw": "(泣いているけれど、僕にそれを指摘されたくはないはず...)",
         "jp_clean": "(泣いているけれど、僕にそれを指摘されたくはないはず...)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(You look at the bow.)",
         "en_clean": "(You look at the bow.)",
         "jp_raw": "(リボンを見る。)",
         "jp_clean": "(リボンを見る。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(It's a very bright shade, and seems to sparkle in the light.)",
         "en_clean": "(It's a very bright shade, and seems to sparkle in the light.)",
         "jp_raw": "(とても明るいトーンで、光を受けるとキラキラ輝く。)",
         "jp_clean": "(とても明るいトーンで、光を受けるとキラキラ輝く。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(It would probably fit Mirabelle very well...)",
         "en_clean": "(It would probably fit Mirabelle very well...)",
         "jp_raw": "(きっとミラベルに似合うだろうな...)",
         "jp_clean": "(きっとミラベルに似合うだろうな...)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "\"It looks wonderful.\"",
         "en_clean": "\"It looks wonderful.\"",
         "jp_raw": "\"素敵だね。\"",
         "jp_clean": "\"素敵だね。\"",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "It does!",
         "en_clean": "It does!",
         "jp_raw": "ほんとね！",
         "jp_clean": "ほんとね！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(You got the STYLISH BOW!)",
         "en_clean": "(You got the STYLISH BOW!)",
         "jp_raw": "(「おしゃれリボン」を手に入れた！)",
         "jp_clean": "(「おしゃれリボン」を手に入れた！)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(Mirabelle keeps it safe.)",
         "en_clean": "(Mirabelle keeps it safe.)",
         "jp_raw": "(ミラベルが大事にしまっている。)",
         "jp_clean": "(ミラベルが大事にしまっている。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "You gave her my gift? You did??? What did she say???",
         "en_clean": "You gave her my gift? You did??? What did she say???",
         "jp_raw": "ミラベルに贈り物を渡してくれたの？ 本当？？ 彼女、なんて言ってた？？",
         "jp_clean": "ミラベルに贈り物を渡してくれたの？ 本当？？ 彼女、なんて言ってた？？",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "\"She really liked it!\"",
         "en_clean": "\"She really liked it!\"",
         "jp_raw": "\"気に入ってたよ！\"",
         "jp_clean": "\"気に入ってたよ！\"",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "<span class=\"shake big\">\n SHE REALLY LIKED IT.......................\n</span>",
         "en_clean": "SHE REALLY LIKED IT.......................",
         "jp_raw": "<span class=\"shake\">\\{ミラベルが、気に入って、た...............</span>",
         "jp_clean": "ミラベルが、気に入って、た...............",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Thank you for giving it to her!!! Now, no matter what happens tomorrow...",
         "en_clean": "Thank you for giving it to her!!! Now, no matter what happens tomorrow...",
         "jp_raw": "渡してくれて、ありがとう！！！ これで、明日どうなっても...",
         "jp_clean": "渡してくれて、ありがとう！！！ これで、明日どうなっても...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "<span class=\"shake\">\n . . .\n</span>",
         "en_clean": ". . .",
-        "jp_raw": null,
-        "jp_clean": null,
+        "jp_raw": "<span class=\"shake\">\n . . .\n</span>",
+        "jp_clean": ". . .",
         "checked": false
     },
     {
@@ -1678,28 +1678,28 @@
         "en_clean": "A-actually!!! Please make sure to win, tomorrow!",
         "jp_raw": "う、ううん！！！ 明日は絶対に勝ってね！",
         "jp_clean": "う、ううん！！！ 明日は絶対に勝ってね！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "I want to tell her tomorrow how much she means to me, after she beats the King!",
         "en_clean": "I want to tell her tomorrow how much she means to me, after she beats the King!",
         "jp_raw": "あたしにとってミラベルがどんなに大きな存在か、王を倒した後で伝えたいから！",
         "jp_clean": "あたしにとってミラベルがどんなに大きな存在か、王を倒した後で伝えたいから！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "So she and I... can become friends!!!",
         "en_clean": "So she and I... can become friends!!!",
         "jp_raw": "そうすればミラベルとあたしは... 友達になれる！！！",
         "jp_clean": "そうすればミラベルとあたしは... 友達になれる！！！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Make sure to win tomorrow!!!!!",
         "en_clean": "Make sure to win tomorrow!!!!!",
         "jp_raw": "明日は絶対に勝ってよね！！！",
         "jp_clean": "明日は絶対に勝ってよね！！！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(...)",
@@ -1838,8 +1838,8 @@
     {
         "en_raw": "\"Mira has a fan...\"",
         "en_clean": "\"Mira has a fan...\"",
-        "jp_raw": null,
-        "jp_clean": null,
+        "jp_raw": "\"ミラにファンがいて...\"",
+        "jp_clean": "\"ミラにファンがいて...\"",
         "checked": false
     },
     {
@@ -1847,56 +1847,56 @@
         "en_clean": "And you gave that fan's gift to your Housemaiden!!!",
         "jp_raw": "ついに、ファンの子の贈り物を侍祭君に渡したんだね！！！",
         "jp_clean": "ついに、ファンの子の贈り物を侍祭君に渡したんだね！！！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "That was sweet. That was nice. Makes my heart grow warm.",
         "en_clean": "That was sweet. That was nice. Makes my heart grow warm.",
         "jp_raw": "優しいねえ。親切だよ。心温まる行動だ。",
         "jp_clean": "優しいねえ。親切だよ。心温まる行動だ。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "You got a pretty bow for your Housemaiden too!",
         "en_clean": "You got a pretty bow for your Housemaiden too!",
         "jp_raw": "きみも侍祭君のためにすてきなリボンを手に入れたんだね！",
         "jp_clean": "きみも侍祭君のためにすてきなリボンを手に入れたんだね！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "It's too bad you shouldn't give that gift to your Housemaiden again. Can't give her something she already owns, huh?",
         "en_clean": "It's too bad you shouldn't give that gift to your Housemaiden again. Can't give her something she already owns, huh?",
         "jp_raw": "侍祭君にもう一度プレゼントできないのは残念だね。彼女がすでに持っているものをあげることはできないんだろ？",
         "jp_clean": "侍祭君にもう一度プレゼントできないのは残念だね。彼女がすでに持っているものをあげることはできないんだろ？",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "And that's the end of this quest! Good job, stardust!",
         "en_clean": "And that's the end of this quest! Good job, stardust!",
         "jp_raw": "これでこのクエストは終わりだ！ 星くず君、おつかれさま！",
         "jp_clean": "これでこのクエストは終わりだ！ 星くず君、おつかれさま！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(You give her the gift.)",
         "en_clean": "(You give her the gift.)",
         "jp_raw": "(彼女に贈り物を渡す。)",
         "jp_clean": "(彼女に贈り物を渡す。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "F-Fanmail?!? From a stylish lady?!?",
         "en_clean": "F-Fanmail?!? From a stylish lady?!?",
         "jp_raw": "ファ、ファンレター？ おしゃれさんからの？",
         "jp_clean": "ファ、ファンレター？ おしゃれさんからの？",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Okay... Oh, it's from one of my classmates...? I...",
         "en_clean": "Okay... Oh, it's from one of my classmates...? I...",
         "jp_raw": "そう... えっ、クラスで一緒だった人なの？ わたし...",
         "jp_clean": "そう... えっ、クラスで一緒だった人なの？ わたし...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "...",
@@ -2094,56 +2094,56 @@
         "en_clean": "Oh... Oh!!!",
         "jp_raw": "えっ... えーっ！",
         "jp_clean": "えっ... えーっ！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "That's from, um, a scary classmate of mine...!",
         "en_clean": "That's from, um, a scary classmate of mine...!",
         "jp_raw": "これ、あの怖い人からだ...！",
         "jp_clean": "これ、あの怖い人からだ...！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Or at least, I thought she was scary! She has a very intense look, you know!!!",
         "en_clean": "Or at least, I thought she was scary! She has a very intense look, you know!!!",
         "jp_raw": "わたし、怖い人だと思ってたの！ すごくピリピリした感じの人だったから。",
         "jp_clean": "わたし、怖い人だと思ってたの！ すごくピリピリした感じの人だったから。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "But... She's gifting me a bow she made...",
         "en_clean": "But... She's gifting me a bow she made...",
         "jp_raw": "なのに... 手作りのリボンをくれた...",
         "jp_clean": "なのに... 手作りのリボンをくれた...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "She thought it would fit me well, and she says... She says...",
         "en_clean": "She thought it would fit me well, and she says... She says...",
         "jp_raw": "わたしに「すごく似合うと思う」って...m[wait] 書いてある...",
         "jp_clean": "わたしに「すごく似合うと思う」って... 書いてある...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(Mirabelle starts tearing up.)",
         "en_clean": "(Mirabelle starts tearing up.)",
         "jp_raw": "(ミラベルが泣き出すぞ。)",
         "jp_clean": "(ミラベルが泣き出すぞ。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "S-She's such a nice person... I'm so glad that...",
         "en_clean": "S-She's such a nice person... I'm so glad that...",
         "jp_raw": "あ、あの人すごくいい人だね... 嬉しいな...",
         "jp_clean": "あ、あの人すごくいい人だね... 嬉しいな...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "So glad that...",
         "en_clean": "So glad that...",
         "jp_raw": "とっても嬉しい...",
         "jp_clean": "とっても嬉しい...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "...",
@@ -2341,21 +2341,21 @@
         "en_clean": "A-Anyway, look!!! Look at this bow! Isn't it--",
         "jp_raw": "ほ、ほら見て！ 見てよ、このリボン！ これって――",
         "jp_clean": "ほ、ほら見て！ 見てよ、このリボン！ これって――",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(You already have the Stylish Bow.)",
         "en_clean": "(You already have the Stylish Bow.)",
         "jp_raw": "(「おしゃれリボン」はすでに持っている。)",
         "jp_clean": "(「おしゃれリボン」はすでに持っている。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(The bow disappeared from Mirabelle's hands.)",
         "en_clean": "(The bow disappeared from Mirabelle's hands.)",
         "jp_raw": "(ミラベルの手からリボンが消えた。)",
         "jp_clean": "(ミラベルの手からリボンが消えた。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "...Huh...?",
@@ -2380,8 +2380,8 @@
     {
         "en_raw": "(Huh?) \"Mirabelle?\"",
         "en_clean": "(Huh?) \"Mirabelle?\"",
-        "jp_raw": null,
-        "jp_clean": null,
+        "jp_raw": "(ん？) \"...ミラベル？\"",
+        "jp_clean": "(ん？) \"...ミラベル？\"",
         "checked": false
     },
     {
@@ -2389,7 +2389,7 @@
         "en_clean": "She mentioned... A bow, in her letter, but...",
         "jp_raw": "彼女は手紙に... リボンについて書いていたのに...",
         "jp_clean": "彼女は手紙に... リボンについて書いていたのに...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "The bow... Wasn't I... Wasn't I just holding it...?",
@@ -2403,20 +2403,20 @@
         "en_clean": "\"...\"",
         "jp_raw": "\"...\"",
         "jp_clean": "\"...\"",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "I... I can't remember... I...",
         "en_clean": "I... I can't remember... I...",
         "jp_raw": "わたし... 思い出せない... わたし...",
         "jp_clean": "わたし... 思い出せない... わたし...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Urgh!!! My head...\n<span class=\"shake\">\n My head hurts...!!!\n</span>",
         "en_clean": "Urgh!!! My head...My head hurts...!!!",
-        "jp_raw": null,
-        "jp_clean": null,
+        "jp_raw": "ううっ！頭が...\n<span class=\"shake\">\n 頭がいたい！！！\n</span>",
+        "jp_clean": "ううっ！頭が...頭がいたい！！！",
         "checked": false
     },
     {
@@ -2424,13 +2424,13 @@
         "en_clean": "(Oh, no.)",
         "jp_raw": "(やばいな。)",
         "jp_clean": "(やばいな。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(You have to do something!!!) \"I-It's right here, see???\"",
         "en_clean": "(You have to do something!!!) \"I-It's right here, see???\"",
-        "jp_raw": null,
-        "jp_clean": null,
+        "jp_raw": "(何かしないと！) \"そ、そこにあるよ？\"",
+        "jp_clean": "(何かしないと！) \"そ、そこにあるよ？\"",
         "checked": false
     },
     {
@@ -2438,34 +2438,34 @@
         "en_clean": "(You point at the bow Mirabelle is wearing.)",
         "jp_raw": "(ミラベルが着けているリボンを指差す。)",
         "jp_clean": "(ミラベルが着けているリボンを指差す。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(You point at Mirabelle's pockets.)",
         "en_clean": "(You point at Mirabelle's pockets.)",
         "jp_raw": "(ミラベルのポケットを指差す。)",
         "jp_clean": "(ミラベルのポケットを指差す。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "<span class=\"shake\">\n Right the--right there... It's right there...\n</span>",
         "en_clean": "Right the--right there... It's right there...",
         "jp_raw": "<span class=\"shake\">そ、そこ... そこにあるって...</span>",
         "jp_clean": "そ、そこ... そこにあるって...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "It's right there! Look at this bow! Isn't it pretty?",
         "en_clean": "It's right there! Look at this bow! Isn't it pretty?",
         "jp_raw": "ちゃんとある！ 見て、このリボン！ かわいいよね！",
         "jp_clean": "ちゃんとある！ 見て、このリボン！ かわいいよね！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(. . .) \"I-It looks wonderful!\"",
         "en_clean": "(. . .) \"I-It looks wonderful!\"",
-        "jp_raw": null,
-        "jp_clean": null,
+        "jp_raw": "(. . .) \"す、すごく素敵だ！\"",
+        "jp_clean": "(. . .) \"す、すごく素敵だ！\"",
         "checked": false
     },
     {
@@ -2473,7 +2473,7 @@
         "en_clean": "It does!",
         "jp_raw": "ほんとね！",
         "jp_clean": "ほんとね！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(...)",
@@ -2597,41 +2597,41 @@
         "en_clean": "\"You have a stylish bow!\"",
         "jp_raw": "\"これでおしゃれリボンの持ち主だね！\"",
         "jp_clean": "\"これでおしゃれリボンの持ち主だね！\"",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(You point at the bow Mirabelle is wearing.)",
         "en_clean": "(You point at the bow Mirabelle is wearing.)",
         "jp_raw": "(ミラベルが着けているリボンを指差す。)",
         "jp_clean": "(ミラベルが着けているリボンを指差す。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(You point at Mirabelle's pockets.)",
         "en_clean": "(You point at Mirabelle's pockets.)",
         "jp_raw": "(ミラベルのポケットを指差す。)",
         "jp_clean": "(ミラベルのポケットを指差す。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "I... I do...?",
         "en_clean": "I... I do...?",
         "jp_raw": "わ... わたしが？",
         "jp_clean": "わ... わたしが？",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "I do! Look at this bow! Isn't it pretty?",
         "en_clean": "I do! Look at this bow! Isn't it pretty?",
         "jp_raw": "そうね！ このリボンを見て！ かわいくない？",
         "jp_clean": "そうね！ このリボンを見て！ かわいくない？",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "\"It looks wonderful!\"",
         "en_clean": "\"It looks wonderful!\"",
-        "jp_raw": null,
-        "jp_clean": null,
+        "jp_raw": "\"素敵だね。\"",
+        "jp_clean": "\"素敵だね。\"",
         "checked": false
     },
     {
@@ -2639,7 +2639,7 @@
         "en_clean": "It does!",
         "jp_raw": "ほんとね！",
         "jp_clean": "ほんとね！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(...)",
