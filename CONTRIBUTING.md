@@ -1,6 +1,6 @@
-# ISAT Script Project Contribution Guide
+# ISAT Script Project JP Contribution Guide
 
-welcome to the ISAT Script Project Contribution Guide! i've been working on making a version of the ISAT Script Project with the game's Japanese script, but it's a lot of work even with all the automating i tried to do, so i'm making this guide and asking for help in the hopes that someone decides to help out. if you decide to do so, thank you!
+welcome to the ISAT Script Project JP Contribution Guide! i've been working on making a version of the ISAT Script Project with the game's Japanese script, but it's a lot of work even with all the automating i tried to do, so i'm making this guide and asking for help in the hopes that someone decides to help out. if you decide to do so, thank you!
 
 this guide will assume you have a GitHub account and know how to use Git and a code editor. if any of that isn't true but you'd still like to contribute, there are plenty of guides you can look up online.
 
@@ -30,7 +30,7 @@ each unchecked line will look like this:
 - leave `en_raw` and `en_clean` unchanged, even if it looks wrong
     - if `jp_raw` has html formatting (eg. `<span class=\"shake\">`) where `en_raw` does not, leave it be[^mistakes]
 - if `jp_raw` and `jp_clean` are lists or null:
-    - if it's "(...)" exactly in the english version, make it that in the japanese version as well
+    - if it's "(...)" or "..." exactly in `en_raw`, make it that in the japanese version as well
     - otherwise, you'll need to find the line yourself.
 
 to find the line yourself, check the game code. you can do this by searching through `Translations.json` most of the time, which is included in this repository. if this doesn't work, try opening up the game in RPG Maker MV[^rpgmaker] or searching through the contents of the files in the `www` directory[^search]. if you don't own the game and can't find the line in `Translations.json`, leave it unchecked and move on. if you've checked using all of those methods and still can't find the text, leave a note about it in your PR and move on.
