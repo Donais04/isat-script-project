@@ -247,19 +247,9 @@
     {
         "en_raw": "(You nod.)",
         "en_clean": "(You nod.)",
-        "jp_raw": [
-            "\\m[clear](うなずいてみせる。)",
-            "(僕はうなずく。)",
-            "\\m[wait](僕はうなずいた。)",
-            "\\m[vs](僕はうなずいた。)\\!\\"
-        ],
-        "jp_clean": [
-            "(うなずいてみせる。)",
-            "(僕はうなずく。)",
-            "(僕はうなずいた。)",
-            "(僕はうなずいた。)"
-        ],
-        "checked": false
+        "jp_raw": "(うなずいてみせる。)",
+        "jp_clean": "(うなずいてみせる。)",
+        "checked": true
     },
     {
         "en_raw": "Do you not have those, where you're from?",
@@ -537,29 +527,23 @@
     {
         "en_raw": "(Say something!)",
         "en_clean": "(Say something!)",
-        "jp_raw": "(何か言うんだ！！！)",
-        "jp_clean": "(何か言うんだ！！！)",
+        "jp_raw": "(何か言わなきゃ！)",
+        "jp_clean": "(何か言わなきゃ！)",
         "checked": true
     },
     {
         "en_raw": "(Say it again.)",
         "en_clean": "(Say it again.)",
-        "jp_raw": null,
-        "jp_clean": null,
-        "checked": false
+        "jp_raw": "(また言うか。)",
+        "jp_clean": "(また言うか。)",
+        "checked": true
     },
     {
         "en_raw": "(Follow the script.)",
         "en_clean": "(Follow the script.)",
-        "jp_raw": [
-            "(台本通りにやればいい。)",
-            "\\m[clear](台本通りにやれ。)"
-        ],
-        "jp_clean": [
-            "(台本通りにやればいい。)",
-            "(台本通りにやれ。)"
-        ],
-        "checked": false
+        "jp_raw": "(台本通りにやれ。)",
+        "jp_clean": "(台本通りにやれ。)",
+        "checked": true
     },
     {
         "en_raw": "Aw, you think so...?",
@@ -571,19 +555,9 @@
     {
         "en_raw": "(You nod.)",
         "en_clean": "(You nod.)",
-        "jp_raw": [
-            "\\m[clear](うなずいてみせる。)",
-            "(僕はうなずく。)",
-            "\\m[wait](僕はうなずいた。)",
-            "\\m[vs](僕はうなずいた。)\\!\\"
-        ],
-        "jp_clean": [
-            "(うなずいてみせる。)",
-            "(僕はうなずく。)",
-            "(僕はうなずいた。)",
-            "(僕はうなずいた。)"
-        ],
-        "checked": false
+        "jp_raw": "(うなずいてみせる。)",
+        "jp_clean": "(うなずいてみせる。)",
+        "checked": true
     },
     {
         "en_raw": "(Isabeau hides his face.)",
@@ -609,8 +583,8 @@
     {
         "en_raw": "...  Yes.",
         "en_clean": "...  Yes.",
-        "jp_raw": "...やる。",
-        "jp_clean": "...やる。",
+        "jp_raw": "...　そうだね。",
+        "jp_clean": "...　そうだね。",
         "checked": true
     },
     {
@@ -637,17 +611,9 @@
     {
         "en_raw": "(Hm...)",
         "en_clean": "(Hm...)",
-        "jp_raw": [
-            "\\m[clear](ふむ...)",
-            "(ふむ...)",
-            "\\m[vs](そうだな...)\\!\\"
-        ],
-        "jp_clean": [
-            "(ふむ...)",
-            "(ふむ...)",
-            "(そうだな...)"
-        ],
-        "checked": false
+        "jp_raw": "(ふむ...)",
+        "jp_clean": "(ふむ...)",
+        "checked": true
     },
     {
         "en_raw": "(Maybe you could go see that frozen person again, in a future loop.)",
