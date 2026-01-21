@@ -2,7 +2,7 @@
     {
         "en_raw": "(You're back.)",
         "en_clean": "(You're back.)",
-        "jp_raw": "\\m[clear](また戻った。)",
+        "jp_raw": "(また戻った。)",
         "jp_clean": "(また戻った。)",
         "checked": true
     },
@@ -44,7 +44,7 @@
     {
         "en_raw": "Were you taking a nap? That's just like... ...",
         "en_clean": "Were you taking a nap? That's just like... ...",
-        "jp_raw": "お昼寝してたの？ シフランらし... \\..\\..\\..",
+        "jp_raw": "お昼寝してたの？ シフランらし... ...",
         "jp_clean": "お昼寝してたの？ シフランらし... ...",
         "checked": true
     },
@@ -114,8 +114,8 @@
     {
         "en_raw": "(You're back here you're back here you're back here you're back here you're back here you're back here you're back here you're back here you're back here your journey was over a\n<span class=\"shake\">\n nd you're  back  here)\n</span>",
         "en_clean": "(You're back here you're back here you're back here you're back here you're back here you're back here you're back here you're back here you're back here your journey was over and you're  back  here)",
-        "jp_raw": "(元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、旅が終わったのに、\n<span class=\"shake\">\nまた  元に  戻った！)\n</span>",
-        "jp_clean": "(元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、旅が終わったのに、また  元に  戻った！)",
+        "jp_raw": "(元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、旅が終わったのに、\n<span class=\"shake\">\nま　元　戻った！)\n</span>",
+        "jp_clean": "(元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、旅が終わったのに、ま　元　戻った！)",
         "checked": true
     },
     {
@@ -135,7 +135,7 @@
     {
         "en_raw": "SIFFRIN!!!",
         "en_clean": "SIFFRIN!!!",
-        "jp_raw": "\\m[vm]シフラン！！！",
+        "jp_raw": "シフラン！！！",
         "jp_clean": "シフラン！！！",
         "checked": true
     },
@@ -177,8 +177,8 @@
     {
         "en_raw": "(Slowly,  gently,  she touches your cheek.)",
         "en_clean": "(Slowly,  gently,  she touches your cheek.)",
-        "jp_raw": "(恐る恐る、\\!優しく、\\!ミラベルが頬に触れる。)",
-        "jp_clean": "(恐る恐る、\\!優しく、\\!ミラベルが頬に触れる。)",
+        "jp_raw": "(恐る恐る、　優しく、　ミラベルが頬に触れる。)",
+        "jp_clean": "(恐る恐る、　優しく、　ミラベルが頬に触れる。)",
         "checked": true
     },
     {
@@ -202,12 +202,12 @@
         "jp_clean": "ごめんね......",
         "checked": true
     },
-    { ENG WRONG
-        "en_raw": "Did you...  have a nightmare?",
+    { // TYPO
+        "en_raw": "Did you...  have a nightmare?", // in-game: ...\!Did you...\!\m[wait] have a nightmare?
         "en_clean": "Did you...  have a nightmare?",
-        "jp_raw": "...\\!もしかして... 悪い夢でも見たの？",
-        "jp_clean": "...\\!もしかして... 悪い夢でも見たの？",
-        "checked": false
+        "jp_raw": "...もしかして... 悪い夢でも見たの？",
+        "jp_clean": "...もしかして... 悪い夢でも見たの？",
+        "checked": true
     },
     {
         "en_raw": "(...) ...",
@@ -373,8 +373,8 @@
     {
         "en_raw": "(You're  back.)",
         "en_clean": "(You're  back.)",
-        "jp_raw": "(また戻った。)",
-        "jp_clean": "(また戻った。)",
+        "jp_raw": "(やっぱり　戻ったんだ。)",
+        "jp_clean": "(やっぱり　戻ったんだ。)",
         "checked": true
     },
     {
@@ -444,7 +444,7 @@
         "en_raw": "(Well, this is new...) \"Yes, don't worry about me!\"",
         "en_clean": "(Well, this is new...) \"Yes, don't worry about me!\"",
         "jp_raw": "(ふむ、これは新しいパターンだ。) \"うん、心配いらないよ！\"",
-        "jp_clean": "(ふむ、これは新しいパターンだ。) \"うん、心配いらないよ！\"",,
+        "jp_clean": "(ふむ、これは新しいパターンだ。) \"うん、心配いらないよ！\"",
         "checked": true
     },
     {
@@ -640,7 +640,7 @@
         "en_raw": "(...)\n                        \"...I beat the King.\"",
         "en_clean": "(...)                       \"...I beat the King.\"",
         "jp_raw": "(...)\n                        \"...王を倒した。\"",
-        "jp_clean": "(...)                        \"...王を倒した。\"",,
+        "jp_clean": "(...)                        \"...王を倒した。\"",
         "checked": true
     },
     {
@@ -1259,7 +1259,8 @@
         "jp_clean": "なあに？",
         "checked": true
     },
-    {　wtf double choicer here no idea "\"きみがいるのは、本当に僕を助けるため？\"" "/"なんでもない。/""
+    { // wtf double choicer here no idea "\"きみがいるのは、本当に僕を助けるため？\"" "\"なんでもない。\""
+        // TODO/NOTE: choices here aren't marked as dialogue-lines, need to do them manually
         "en_raw": "",
         "en_clean": "",
         "jp_raw": null,
@@ -1272,7 +1273,7 @@
         "jp_raw": "星くず君...",
         "jp_clean": "星くず君...",
         "checked": true
-    }, ENGLISH "..." MISSING
+    }, // TYPO: ENGLISH "..." MISSING
     {
         "en_raw": "Yes.",
         "en_clean": "Yes.",
@@ -1462,14 +1463,14 @@
         "jp_clean": "(ほほ笑んでみせる。)",
         "checked": true
     },
-    { Another double choicer "\"...ありがとう、ループ。\""  "(言うわけないだろ。)"
+    { // TODO/NOTE: Another double choicer "\"...ありがとう、ループ。\""  "(言うわけないだろ。)"
         "en_raw": "",
         "en_clean": "",
         "jp_raw": null,
         "jp_clean": null,
         "checked": false
     },
-    { Missing "oh my, genuine thanks!" "うわあ、心からの感謝だね！！！"
+    { // TYPO: Missing "oh my, genuine thanks!" "うわあ、心からの感謝だね！！！"
         "en_raw": "GROSS!!!!!",
         "en_clean": "GROSS!!!!!",
         "jp_raw": "<span class=\"wave\">キモッ！！！！！！</span>",
