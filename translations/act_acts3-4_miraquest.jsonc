@@ -62,7 +62,7 @@
         "jp_clean": "(どうしてそんなことを言い出すんだ...？) \"もちろん教えるよ！\"",
         "checked": true
     },
-    { /*MISSING "Siffrin, I'm..." "シフラン、わたし..."*/
+    { // TODO/NOTE/TYPO: missing "Siffrin, I'm..." "シフラン、わたし..."
         "en_raw": "I'm  not sure you're telling me the truth here.",
         "en_clean": "I'm  not sure you're telling me the truth here.",
         "jp_raw": "わたしね、あなたが本当のことを言ってないような気がしているの。",
@@ -146,7 +146,7 @@
         "jp_clean": "(どういうことかというと、要するに...)　\"君のほうこそ、何か助けが必要じゃない？\"",
         "checked": true
     },
-    { /*MISSING <span class=\"big\"> ON ENGLISH*/
+    { // TYPO: MISSING <span class=\"big\"> ON ENGLISH
         "en_raw": "Huh? HUH? HUH?!?",
         "en_clean": "Huh? HUH? HUH?!?",
         "jp_raw": "えっ？ ええっ？<span class=\"big\">えええええ？！？</span>",
@@ -328,7 +328,7 @@
         "jp_clean": "(自分が力になれるかどうか、みんなに訊ねてみるべきだ。)",
         "checked": true
     },
-    { /*IDK WHAT TO DO HERE*/
+    { // TYPO: missing dialogue head
         "en_raw": "<span class=\"dialogue-name\">\n Siffrin\n</span>\n: \"Can I help you with anything?\"",
         "en_clean": "Siffrin: \"Can I help you with anything?\"",
         "jp_raw": null,
@@ -384,12 +384,12 @@
         "jp_clean": "誰について？",
         "checked": true
     },
-    { /*ENG WRONG "(Which...)" "(のうちの...)"*/
+    {
         "en_raw": "(Which ally...) \"Mirabelle.\"",
         "en_clean": "(Which ally...) \"Mirabelle.\"",
-        "jp_raw": "(のうちの...)　\"ミラベル\"",
-        "jp_clean": "(のうちの...)　\"ミラベル\"",
-        "checked": false
+        "jp_raw": "(仲間のうちの...)　\"ミラベル\"",
+        "jp_clean": "(仲間のうちの...)　\"ミラベル\"",
+        "checked": true
     },
     {
         "en_raw": "So your Housemaiden is hiding something? Some papers?",
@@ -489,12 +489,12 @@
         "jp_clean": "きみのルームメイトは、どんな子なんだい？",
         "checked": true
     },
-    { /*ENG HAS NO SHAKE??*/
+    { // TYPO: english needs shake
         "en_raw": "She's the worst I really don't like her.",
         "en_clean": "She's the worst I really don't like her.",
         "jp_raw": "<span class=\"shake\">最悪よ。好きになれない。</span>",
         "jp_clean": "最悪よ。好きになれない。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Oh???",
@@ -678,11 +678,11 @@
         "jp_clean": "誰について？",
         "checked": true
     },
-    {  /*ENG WRONG "(Which...)" "(のうちの...)"*/
+    {
         "en_raw": "(Which ally...) \"Mirabelle.\"",
         "en_clean": "(Which ally...) \"Mirabelle.\"",
-        "jp_raw": "(のうちの...)　\"ミラベル\"",
-        "jp_clean": "(のうちの...)　\"ミラベル\"",
+        "jp_raw": "(仲間のうちの...)　\"ミラベル\"",
+        "jp_clean": "(仲間のうちの...)　\"ミラベル\"",
         "checked": false
     },
     {
@@ -762,40 +762,40 @@
         "jp_clean": "なっ...",
         "checked": true
     },
-    { /*SUPPOSED TO BE BIG SHAKE ENG*/
+    { // TYPO: supposed to be big
         "en_raw": "<span class=\"shake\">\n !!!!!!!!!!!!!!!!!!!!!!\n</span>",
         "en_clean": "!!!!!!!!!!!!!!!!!!!!!!",
         "jp_raw": "<span class=\"shake big\">\n ！！！！！！\n</span>",
         "jp_clean": "！！！！！！",
-        "checked": false
+        "checked": true
     },
-    { /*SUPPOSED TO BE BIG*/
+    { // TYPO: supposed to be big
         "en_raw": "WHAT",
         "en_clean": "WHAT",
         "jp_raw": "<span class=\"big\">\n なに\n</span>",
         "jp_clean": "なに",
-        "checked": false
+        "checked": true
     },
-    { /*SUPPOSED TO BE BIG*/
+    { // TYPO: supposed to be big
         "en_raw": "HOW",
         "en_clean": "HOW",
         "jp_raw": "<span class=\"big\">\n どうして\n</span>",
         "jp_clean": "どうして",
-        "checked": false
+        "checked": true
     },
-    { /*SUPPOSED TO BE BIG*/
+    { // TYPO: supposed to be big
         "en_raw": "WHAT DO YOU KNOW",
         "en_clean": "WHAT DO YOU KNOW",
         "jp_raw": "<span class=\"big\">\n 何を知ってるの？\n</span>",
         "jp_clean": "何を知ってるの？",
-        "checked": false
+        "checked": true
     },
-    { /*SUPPOSED TO BE BIG*/
+    { // TYPO: supposed to be big
         "en_raw": "ANSWER ME!!!!!!!",
         "en_clean": "ANSWER ME!!!!!!!",
         "jp_raw": "<span class=\"big\">\n 答えて！！！\n</span>",
         "jp_clean": "答えて！！！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(!!!)",
@@ -818,7 +818,8 @@
         "jp_clean": "(ミラベルはレイピアに手をかけている。)",
         "checked": true
     },
-    { /*MISSING "Y-you're chosign someone for something, right?" AND "it seems important!!!"*/
+    {   // TODO/NOTE: missing in translation file: "Y-you're chosign someone for something, right?" AND "it seems important!!!"
+        // gonna need to fix manually
         "en_raw": "\"Maybe I can help?\"",
         "en_clean": "\"Maybe I can help?\"",
         "jp_raw": "\"よかったら力を貸すよ？\"",
@@ -1217,12 +1218,12 @@
         "jp_clean": "(ミラベルが見せてくれたのは、強そうでムキムキの男性だ。)",
         "checked": true
     },
-    { /*MISSING "is that mirabelle's type?" AND RELATED LINES*/
+    { // TODO: missing "is that mirabelle's type?" and related lines. have to do manually
         "en_raw": "He does, I suppose?",
         "en_clean": "He does, I suppose?",
         "jp_raw": "そうかもね...",
         "jp_clean": "そうかもね...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Yes, glad we agree.",
@@ -1252,7 +1253,7 @@
         "jp_clean": "うえっ、そうだね。",
         "checked": true
     },
-    { /*MISSING "is that worth an 'ew'?"*/
+    { // TODO: missing "is that worth an 'ew'?", have to do manually
         "en_raw": "(Either way, sounds like masculine people aren't her type. Probably.)",
         "en_clean": "(Either way, sounds like masculine people aren't her type. Probably.)",
         "jp_raw": "(いずれにしても、マッチョなのはタイプじゃないんだ。たぶんだけど。)",
@@ -1343,7 +1344,7 @@
         "jp_clean": "うえっ、そうだね。",
         "checked": true
     },
-    { /*MISSING "is that worth an 'ew'?",*/
+    { // TODO: missing "is that worth an 'ew'?", have to do that manually
         "en_raw": "(So, well, not into feminine people either, apparently.)",
         "en_clean": "(So, well, not into feminine people either, apparently.)",
         "jp_raw": "(つまり女性的な人もタイプじゃないってことだな。)",
@@ -1364,7 +1365,7 @@
         "jp_clean": "(セリフを言え、シフラン。)",
         "checked": true
     },
-    { /*MISSING "\"so, what is your type?\""*/
+    { // TODO: missing "so what's your type?", have to do that manually
         "en_raw": "Oh, I don't have a type! I like all kinds of people equally!",
         "en_clean": "Oh, I don't have a type! I like all kinds of people equally!",
         "jp_raw": "いや、好みのタイプって特にないの！ どんな人でも同じくらい好きだよ！",
@@ -1406,7 +1407,7 @@
         "jp_clean": "それから... 見た目が... きれいな人？",
         "checked": true
     },
-    { /*MISSING "you... nod" and "you nod, a beat later"*/
+    { // TODO: nodding missing, have to do manually
         "en_raw": "And... Someone who... Likes me?",
         "en_clean": "And... Someone who... Likes me?",
         "jp_raw": "あとは... わたしを... 好きになってくれる人？",
@@ -1616,7 +1617,7 @@
         "jp_clean": "じ、自分では全然やりたくないと思うことにも！",
         "checked": true
     },
-    { /*MISSING "(Things she doesn't want to do?)" and "(...)"*/
+    { // TODO: missing lines, have to do manually
         "en_raw": "\"Like... Dating?\"",
         "en_clean": "\"Like... Dating?\"",
         "jp_raw": "\"例えば... お付き合いとか？\"",
@@ -2036,7 +2037,7 @@
         "jp_clean": "(ミラベルが僕の手を握る。)",
         "checked": true
     },
-    {/*MISSING "(you jump a little but she doesn't notice)" and "(you don't react)"*/
+    {// TODO:  missing lines, have to do manually
         "en_raw": "YEAH!!! Yeah!!! It's just weird! And gross! It's awful!!! I don't want it at all!!!",
         "en_clean": "YEAH!!! Yeah!!! It's just weird! And gross! It's awful!!! I don't want it at all!!!",
         "jp_raw": "そう！ そうなの！！！ 違和感があるんだよ！ それにきたない！ キモい！！！ わたしは望んでない！！！",
@@ -2141,7 +2142,7 @@
         "jp_clean": "(. . .)",
         "checked": true
     },
-    { /*MISSING "(you think about the stars)" and "(you  don't  think about anything)"*/
+    { // TODO:  missing lines, have to do manually
         "en_raw": "\"It's more complicated than that for me, but...",
         "en_clean": "\"It's more complicated than that for me, but...",
         "jp_raw": "\"僕にとってはさらに複雑だけど...\"",
@@ -2190,7 +2191,7 @@
         "jp_clean": "それはちょっと... 卑怯なことに思えるな。",
         "checked": true
     },
-    { /*MISSING "(ouch.)" and "(...)"*/
+    { // TODO:  missing lines, have to do manually
         "en_raw": "I-I mean!!! I'm sorry, I didn't mean to say--!!!",
         "en_clean": "I-I mean!!! I'm sorry, I didn't mean to say--!!!",
         "jp_raw": "あ、違うの！ ごめん、そういう意味じゃなくて！！！",
@@ -2260,24 +2261,12 @@
         "jp_clean": "(...そんな単純な話ではないんだろうけど。)",
         "checked": true
     },
-    { /*UNSURE WHICH TO USE*/
+    { // TODO:  missing lines, have to do manually
         "en_raw": "(You smile.)",
         "en_clean": "(You smile.)",
-        "jp_raw": [
-            "(笑みが浮かぶ。)",
-            "\\m[clear](ほほ笑んでみせる。)",
-            "\\(笑みがこぼれる。)\\\\^",
-            "\\(顔がほころぶ。)",
-            "\\m[clear](僕は微笑む。)\\!\\"
-        ],
-        "jp_clean": [
-            "(笑みが浮かぶ。)",
-            "(ほほ笑んでみせる。)",
-            "(笑みがこぼれる。)",
-            "(顔がほころぶ。)",
-            "(僕は微笑む。)"
-        ],
-        "checked": false
+        "jp_raw": "(ほほ笑んでみせる。)",
+        "jp_clean": "(ほほ笑んでみせる。)",
+        "checked": true
     },
     {
         "en_raw": "(...)",
@@ -2338,8 +2327,8 @@
     {
         "en_raw": "(But  changing the script is scary.)",
         "en_clean": "(But  changing the script is scary.)",
-        "jp_raw": "(でも、\\!台本を変えるのには不安がある。)",
-        "jp_clean": "(でも、\\!台本を変えるのには不安がある。)",
+        "jp_raw": "(でも、台本を変えるのには不安がある。)",
+        "jp_clean": "(でも、台本を変えるのには不安がある。)",
         "checked": true
     },
     {
@@ -2580,20 +2569,12 @@
         "jp_clean": "(それでも僕は構わない。構わない。構わない。)",
         "checked": true
     },
-    { /*UNSURE WHICH TO CHOOSE*/
+    { 
         "en_raw": "(You're fine.)",
         "en_clean": "(You're fine.)",
-        "jp_raw": [
-            "\\m[clear](別に平気だ。)",
-            "(僕は平気だ。)",
-            "(僕は平気だ。)\\!\\\\^"
-        ],
-        "jp_clean": [
-            "(別に平気だ。)",
-            "(僕は平気だ。)",
-            "(僕は平気だ。)"
-        ],
-        "checked": false
+        "jp_raw": "(僕は平気だ。)",
+        "jp_clean": "(僕は平気だ。)",
+        "checked": true
     },
     {
         "en_raw": ". . .",
@@ -2630,14 +2611,14 @@
         "jp_clean": "(微笑みを返す。)",
         "checked": true
     },
-    { 
+    { // TODO/TYPO: mistakes here, have to do manually
         "en_raw": "<span class=\"dialogue-name\">\n Mirabelle\n</span>\n:\n                    Thank you, Siffrin...",
         "en_clean": "Mirabelle:                   Thank you, Siffrin...",
         "jp_raw": "<span class=\"dialogue-name\">\n ミラベル\n</span>\n:\n                     ありがとう、シフラン...",
         "jp_clean": "ミラベル:                   ありがとう、シフラン...",
         "checked": true
     },
-    {
+    { // TODO/TYPO: mistakes here, have to do manually
         "en_raw": "<span class=\"dialogue-name\">\n Mirabelle\n</span>\n:\n                    Thank you! For talking with me!",
         "en_clean": "Mirabelle:                   Thank you! For talking with me!",
         "jp_raw": "<span class=\"dialogue-name\">\n ミラベル\n</span>\n:\n                     ありがとう！ お話ししてくれて！",
@@ -2675,7 +2656,7 @@
     {
         "en_raw": "...I'll see you later, okay?",
         "en_clean": "...I'll see you later, okay?",
-        "jp_raw": "...\\!\\じゃあまた後でね？",
+        "jp_raw": "...じゃあまた後でね？",
         "jp_clean": "...じゃあまた後でね？",
         "checked": true
     },
@@ -2817,139 +2798,139 @@
         "en_clean": "(You sit down.)",
         "jp_raw": "(腰を下ろす。)",
         "jp_clean": "(腰を下ろす。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Oh.",
         "en_clean": "Oh.",
         "jp_raw": "えっ。",
         "jp_clean": "えっ。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "NO WAIT THAT'S NOT EXACTLY IT PLEASE STOP LOOKING AT ME",
         "en_clean": "NO WAIT THAT'S NOT EXACTLY IT PLEASE STOP LOOKING AT ME",
         "jp_raw": "違うのそういうわけじゃないのそんな目で見ないで！！！",
         "jp_clean": "違うのそういうわけじゃないのそんな目で見ないで！！！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "So I figured I could at least get that done today.",
         "en_clean": "So I figured I could at least get that done today.",
         "jp_raw": "今日のうちに見るだけ見ておこうって思ったんだ。",
         "jp_clean": "今日のうちに見るだけ見ておこうって思ったんだ。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Um, so, w-well, tell me what you think about him!!!",
         "en_clean": "Um, so, w-well, tell me what you think about him!!!",
         "jp_raw": "そ、そしたらこの人についてどう思うか聞かせて！",
         "jp_clean": "そ、そしたらこの人についてどう思うか聞かせて！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "I like all kinds of people equally!",
         "en_clean": "I like all kinds of people equally!",
         "jp_raw": "どんな人でも同じくらい好きだよ！",
         "jp_clean": "どんな人でも同じくらい好きだよ！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "I want... Someone who...",
         "en_clean": "I want... Someone who...",
         "jp_raw": "わたしが...求める人は...",
         "jp_clean": "わたしが...求める人は...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "N-NO!!!!!!!!",
         "en_clean": "N-NO!!!!!!!!",
         "jp_raw": "し、してないよ！！！",
         "jp_clean": "し、してないよ！！！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "You got me, Siffrin.",
         "en_clean": "You got me, Siffrin.",
         "jp_raw": "シフランの言う通りだよ。",
         "jp_clean": "シフランの言う通りだよ。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "You know, Siffrin...",
         "en_clean": "You know, Siffrin...",
         "jp_raw": "あのね、シフラン...",
         "jp_clean": "あのね、シフラン...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "--romantic love is one of the biggest ways to Change!",
         "en_clean": "--romantic love is one of the biggest ways to Change!",
         "jp_raw": "で、でもでも、恋愛はもっとも大きな移ろいになり得るものなんだよ！",
         "jp_clean": "で、でもでも、恋愛はもっとも大きな移ろいになり得るものなんだよ！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "And I don't want to...",
         "en_clean": "And I don't want to...",
         "jp_raw": "それでもやりたくない...",
         "jp_clean": "それでもやりたくない...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "To appeal to a deity that...",
         "en_clean": "To appeal to a deity that...",
         "jp_raw": "神様にそれをアピールするなんて...",
         "jp_clean": "神様にそれをアピールするなんて...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Huh?",
         "en_clean": "Huh?",
         "jp_raw": "えっ？",
         "jp_clean": "えっ？",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "...But it doesn't fix anything.",
         "en_clean": "...But it doesn't fix anything.",
         "jp_raw": "だからといって、何も解決してないけど。",
         "jp_clean": "...だからといって、何も解決してないけど。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "So you do, too...",
         "en_clean": "So you do, too...",
         "jp_raw": "あなたもそうなんだね...",
         "jp_clean": "あなたもそうなんだね...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Change myself...",
         "en_clean": "Change myself...",
         "jp_raw": "自分を変える、かぁ...",
         "jp_clean": "自分を変える、かぁ...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "It does sound challenging and fun!!!",
         "en_clean": "It does sound challenging and fun!!!",
         "jp_raw": "確かに大変だろうし、楽しいだろうね！",
         "jp_clean": "確かに大変だろうし、楽しいだろうね！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Thank you, Siffrin...",
         "en_clean": "Thank you, Siffrin...",
         "jp_raw": "ありがとう、シフラン...",
         "jp_clean": "ありがとう、シフラン...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "...I'll see you later, okay?",
         "en_clean": "...I'll see you later, okay?",
         "jp_raw": "...じゃあまた後でね？",
         "jp_clean": "...じゃあまた後でね？",
-        "checked": false
+        "checked": true
     }
 ]
