@@ -6,7 +6,7 @@
         "jp_clean": "(ミラベルが新しいスキルを習得した...)",
         "checked": true
     },
-    {
+    { // TYPO: english should be "Oh, thank Change...! I'll be able to help out more!"
         "en_raw": "Oh, thank Change... I'll be able to help out more!",
         "en_clean": "Oh, thank Change... I'll be able to help out more!",
         "jp_raw": "感謝します、ウツロイ様...！ わたし、もっと役に立てるようになりますね！",
