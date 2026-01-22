@@ -1,0 +1,1430 @@
+[
+    {
+        "en_raw": "Y'know... The end of the world is fine and all... But I only have one regret...",
+        "en_clean": "Y'know... The end of the world is fine and all... But I only have one regret...",
+        "jp_raw": "なんていうか... 世界が終わったって構わないんだが... 未練がひとつだけあって...",
+        "jp_clean": "なんていうか... 世界が終わったって構わないんだが... 未練がひとつだけあって...",
+        "checked": true
+    },
+    {
+        "en_raw": "I......",
+        "en_clean": "I......",
+        "jp_raw": "俺は...",
+        "jp_clean": "俺は...",
+        "checked": true
+    },
+    { //TODO double check formatting
+        "en_raw": "<span class=\"big shake\">\n I WON'T BE ABLE TO KNOW WHAT HAPPENS\n <br/>\n TO LORD JOSÉPHANDRE IN THE FINAL ISSUE OF \"THE CURSING OF CHÂTEAU CASTLE\"!\n</span>",
+        "en_clean": "I WON'T BE ABLE TO KNOW WHAT HAPPENS TO LORD JOSÉPHANDRE IN THE FINAL ISSUE OF \"THE CURSING OF CHÂTEAU CASTLE\"!",
+        "jp_raw": "<span class=\"big shake\">\nけして知ることはできないんだ。\n <br/>\nジョゼファンドル卿と「キャッスル城の呪い」の結末をな！\n</span>",
+        "jp_clean": "けして知ることはできないんだ。ジョゼファンドル卿と「キャッスル城の呪い」の結末をな！",
+        "checked": false
+    },
+    {
+        "en_raw": "Did he manage to protect his castle to the very end?!? Did he finally find his friend Pierre-Jacques-Erneste, did he finally find more about himself?!?",
+        "en_clean": "Did he manage to protect his castle to the very end?!? Did he finally find his friend Pierre-Jacques-Erneste, did he finally find more about himself?!?",
+        "jp_raw": "卿は城を守ることができるのか！？ 友人のピエール=ジャック=エルネストを見つけだし、自分の出自を知ることができるのか！？",
+        "jp_clean": "卿は城を守ることができるのか！？ 友人のピエール=ジャック=エルネストを見つけだし、自分の出自を知ることができるのか！？",
+        "checked": true
+    },
+    {
+        "en_raw": "Oh... I'll never know...",
+        "en_clean": "Oh... I'll never know...",
+        "jp_raw": "ああ... 俺が知ることはないんだ...",
+        "jp_clean": "ああ... 俺が知ることはないんだ...",
+        "checked": true
+    },
+    {
+        "en_raw": "(Is that really what they're worrying about today...? A book series? Not their imminent death or anything?)",
+        "en_clean": "(Is that really what they're worrying about today...? A book series? Not their imminent death or anything?)",
+        "jp_raw": "(今日みたいな日に心配することがソレ...？ シリーズ本の結末だって？ 差し迫った死じゃなく？)",
+        "jp_clean": "(今日みたいな日に心配することがソレ...？ シリーズ本の結末だって？ 差し迫った死じゃなく？)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Weird.)",
+        "en_clean": "(Weird.)",
+        "jp_raw": "(変なの。)",
+        "jp_clean": "(変なの。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You didn't really care about their problem before, but...)",
+        "en_clean": "(You didn't really care about their problem before, but...)",
+        "jp_raw": "(前は彼の言っていることなど、どうでもよかったけれど...)",
+        "jp_clean": "(前は彼の言っていることなど、どうでもよかったけれど...)",
+        "checked": true
+    },
+    {
+        "en_raw": "(\"The Cursing of Château Castle\", is it? Interesting...)",
+        "en_clean": "(\"The Cursing of Château Castle\", is it? Interesting...)",
+        "jp_raw": "(「キャッスル城の呪い」だっけ？ おもしろそう...)",
+        "jp_clean": "(「キャッスル城の呪い」だっけ？ おもしろそう...)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Maybe you could find the last issue for them?)",
+        "en_clean": "(Maybe you could find the last issue for them?)",
+        "jp_raw": "(最終巻を見つけてあげるのもいいかも。)",
+        "jp_clean": "(最終巻を見つけてあげるのもいいかも。)",
+        "checked": true
+    },
+    {
+        "en_raw": "\"There's this book fan...\"",
+        "en_clean": "\"There's this book fan...\"",
+        "jp_raw": "\"本のファンがいて...\"",
+        "jp_clean": "\"本のファンがいて...\"",
+        "checked": true
+    },
+    {
+        "en_raw": "Ah, that man living in the house full of books?",
+        "en_clean": "Ah, that man living in the house full of books?",
+        "jp_raw": "ああ、本がいっぱいの家に住んでる人？",
+        "jp_clean": "ああ、本がいっぱいの家に住んでる人？",
+        "checked": true
+    },
+    {
+        "en_raw": "He seems to be really into that book series your Housemaiden likes... \"The Cursing of Château Castle\", right?",
+        "en_clean": "He seems to be really into that book series your Housemaiden likes... \"The Cursing of Château Castle\", right?",
+        "jp_raw": "彼も、侍祭君が好きなあのシリーズものにハマってるみたいだね... 「キャッスル城の呪い」だっけ？",
+        "jp_clean": "彼も、侍祭君が好きなあのシリーズものにハマってるみたいだね... 「キャッスル城の呪い」だっけ？",
+        "checked": true
+    },
+    {
+        "en_raw": "Didn't the last issue come out right as the King's Curse started freezing Vaugarde in time? It might be hard to find...",
+        "en_clean": "Didn't the last issue come out right as the King's Curse started freezing Vaugarde in time? It might be hard to find...",
+        "jp_raw": "最新巻が出たのは、王の呪いがヴォーガルドの時間を止め始めてすぐの頃だね？ 最新巻を見つけるのは難しそうだ...",
+        "jp_clean": "最新巻が出たのは、王の呪いがヴォーガルドの時間を止め始めてすぐの頃だね？ 最新巻を見つけるのは難しそうだ...",
+        "checked": true
+    },
+    {
+        "en_raw": "If you find any issues, you should remember the issue number and tell him! Maybe you might end up finding the very last one!",
+        "en_clean": "If you find any issues, you should remember the issue number and tell him! Maybe you might end up finding the very last one!",
+        "jp_raw": "シリーズの本を見つけたら、巻数を覚えておいて、彼に教えてあげなよ！ そのうち、最新巻を見つけられるかもしれない！",
+        "jp_clean": "シリーズの本を見つけたら、巻数を覚えておいて、彼に教えてあげなよ！ そのうち、最新巻を見つけられるかもしれない！",
+        "checked": true
+    },
+    {
+        "en_raw": "(A book thief, frozen in time.)",
+        "en_clean": "(A book thief, frozen in time.)",
+        "jp_raw": "(本泥棒だ。時間を止められている。)",
+        "jp_clean": "(本泥棒だ。時間を止められている。)",
+        "checked": true
+    },
+    {
+        "en_raw": "Oh. Him.",
+        "en_clean": "Oh. Him.",
+        "jp_raw": "ああ。この人。",
+        "jp_clean": "ああ。この人。",
+        "checked": true
+    },
+    { //TODO double check. Guessed based on speaker
+        "en_raw": "Oh?",
+        "en_clean": "Oh?",
+        "jp_raw": "ええっ？",
+        "jp_clean": "ええっ？",
+        "checked": false
+    },
+    {
+        "en_raw": "Oh???",
+        "en_clean": "Oh???",
+        "jp_raw": "へえ？？",
+        "jp_clean": "へえ？？",
+        "checked": true
+    },
+    {
+        "en_raw": "Please tell us more.",
+        "en_clean": "Please tell us more.",
+        "jp_raw": "詳しく話してくれ。",
+        "jp_clean": "詳しく話してくれ。",
+        "checked": true
+    },
+    {
+        "en_raw": "N-No, that's, uh, sorry, I mean--!!!",
+        "en_clean": "N-No, that's, uh, sorry, I mean--!!!",
+        "jp_raw": "あ、いや。別に、その、なんて言うか――",
+        "jp_clean": "あ、いや。別に、その、なんて言うか――",
+        "checked": true
+    },
+    {
+        "en_raw": "This man is another housemaiden, he's a scholar... He's working really hard on a project! It--",
+        "en_clean": "This man is another housemaiden, he's a scholar... He's working really hard on a project! It--",
+        "jp_raw": "この男の人も侍祭なの。学者さんで... すごく熱心に研究してたんだよ！ それが――",
+        "jp_clean": "この男の人も侍祭なの。学者さんで... すごく熱心に研究してたんだよ！ それが――",
+        "checked": true
+    },
+    {
+        "en_raw": "<span class=\"wave\">\n Booooriiiiing.\n</span>",
+        "en_clean": "Booooriiiiing.",
+        "jp_raw": "<span class=\"wave\">つーまーんなーい。</span>",
+        "jp_clean": "つーまーんなーい。",
+        "checked": true
+    },
+    {
+        "en_raw": "Why don't you like him?",
+        "en_clean": "Why don't you like him?",
+        "jp_raw": "なんで嫌いだったんだ？",
+        "jp_clean": "なんで嫌いだったんだ？",
+        "checked": true
+    },
+    {
+        "en_raw": "Was he mean to you?",
+        "en_clean": "Was he mean to you?",
+        "jp_raw": "イジワルされたの？",
+        "jp_clean": "イジワルされたの？",
+        "checked": true
+    },
+    {
+        "en_raw": "Should we... Do something to him?",
+        "en_clean": "Should we... Do something to him?",
+        "jp_raw": "彼に何か... イタズラするか？",
+        "jp_clean": "彼に何か... イタズラするか？",
+        "checked": true
+    },
+    {
+        "en_raw": "PLEASE, DON'T!!! He is, um...",
+        "en_clean": "PLEASE, DON'T!!! He is, um...",
+        "jp_raw": "しないで、お願い！！！ 彼は、その...",
+        "jp_clean": "しないで、お願い！！！ 彼は、その...",
+        "checked": true
+    },
+    {
+        "en_raw": "He is... A human man. That exists.",
+        "en_clean": "He is... A human man. That exists.",
+        "jp_raw": "彼は... 人間の男性なの。実在する。",
+        "jp_clean": "彼は... 人間の男性なの。実在する。",
+        "checked": true
+    },
+    {
+        "en_raw": "...",
+        "en_clean": "...",
+        "jp_raw": "...",
+        "jp_clean": "...",
+        "checked": true
+    },
+    {
+        "en_raw": "...",
+        "en_clean": "...",
+        "jp_raw": "...",
+        "jp_clean": "...",
+        "checked": true
+    },
+    {
+        "en_raw": "...",
+        "en_clean": "...",
+        "jp_raw": "...",
+        "jp_clean": "...",
+        "checked": true
+    },
+    {
+        "en_raw": "Okay. Listen.",
+        "en_clean": "Okay. Listen.",
+        "jp_raw": "分かった。話すね。",
+        "jp_clean": "分かった。話すね。",
+        "checked": true
+    },
+    {
+        "en_raw": "I think he stole one of my priceless issues of \"The Cursing of Château Castle\".",
+        "en_clean": "I think he stole one of my priceless issues of \"The Cursing of Château Castle\".",
+        "jp_raw": "私が持ってた貴重な「キャッスル城の呪い」を、彼に盗まれたかもしれないんだ。",
+        "jp_clean": "私が持ってた貴重な「キャッスル城の呪い」を、彼に盗まれたかもしれないんだ。",
+        "checked": true
+    },
+    { //TODO double check. Guessed based on speaker
+        "en_raw": "Oh no!",
+        "en_clean": "Oh no!",
+        "jp_raw": "そんな！",
+        "jp_clean": "そんな！",
+        "checked": false
+    },
+    {
+        "en_raw": "A thief!!!!!",
+        "en_clean": "A thief!!!!!",
+        "jp_raw": "盗っ人か！！！",
+        "jp_clean": "盗っ人か！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "N-No!!! Forget I said that! I have no concrete proof! B-but...",
+        "en_clean": "N-No!!! Forget I said that! I have no concrete proof! B-but...",
+        "jp_raw": "ち、違うの！ 今のは忘れて！ 証拠がないから！ で、でも...",
+        "jp_clean": "ち、違うの！ 今のは忘れて！ 証拠がないから！ で、でも...",
+        "checked": true
+    },
+    {
+        "en_raw": "...But my issue disappeared shortly after he came to my dorm room to ask me something, that's all.",
+        "en_clean": "...But my issue disappeared shortly after he came to my dorm room to ask me something, that's all.",
+        "jp_raw": "...ただね、彼が何か質問をしに私の部屋に来たことがあって、そのすぐ後に本がなくなったの。それだけ。",
+        "jp_clean": "...ただね、彼が何か質問をしに私の部屋に来たことがあって、そのすぐ後に本がなくなったの。それだけ。",
+        "checked": true
+    },
+    {
+        "en_raw": "A thief.........",
+        "en_clean": "A thief.........",
+        "jp_raw": "盗っ人だ......",
+        "jp_clean": "盗っ人だ......",
+        "checked": true
+    },
+    { //TODO unsure which, I'm not looking at game this time
+        "en_raw": "(Hm...)",
+        "en_clean": "(Hm...)",
+        "jp_raw": [
+            "\\m[clear](ふむ...)",
+            "(ふむ...)",
+            "\\m[vs](そうだな...)\\!\\"
+        ],
+        "jp_clean": [
+            "(ふむ...)",
+            "(ふむ...)",
+            "(そうだな...)"
+        ],
+        "checked": false
+    },
+    {
+        "en_raw": "(You look through his pockets.)",
+        "en_clean": "(You look through his pockets.)",
+        "jp_raw": "(男性のポケットを調べてみる。)",
+        "jp_clean": "(男性のポケットを調べてみる。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(...  There's a book inside.)",
+        "en_clean": "(...  There's a book inside.)",
+        "jp_raw": "(...中に本が入っている。)",
+        "jp_clean": "(...中に本が入っている。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(The title reads \"The Cursing of Château Castle\", issue #3.)",
+        "en_clean": "(The title reads \"The Cursing of Château Castle\", issue #3.)",
+        "jp_raw": "(表紙には「キャッスル城の呪い」第3巻と書かれている。)",
+        "jp_clean": "(表紙には「キャッスル城の呪い」第3巻と書かれている。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You wave it around.)",
+        "en_clean": "(You wave it around.)",
+        "jp_raw": "(本をひらひらと見せびらかす。)",
+        "jp_clean": "(本をひらひらと見せびらかす。)",
+        "checked": true
+    },
+    {
+        "en_raw": "Well, what do we have here.",
+        "en_clean": "Well, what do we have here.",
+        "jp_raw": "おや、これはいったい何だ？",
+        "jp_clean": "おや、これはいったい何だ？",
+        "checked": true
+    },
+    {
+        "en_raw": "SO I WAS RIGHT!!! THIS... THIS...!!!",
+        "en_clean": "SO I WAS RIGHT!!! THIS... THIS...!!!",
+        "jp_raw": "やっぱりそうだ！！！ こ... この...！",
+        "jp_clean": "やっぱりそうだ！！！ こ... この...！",
+        "checked": true
+    },
+    {
+        "en_raw": "HORRIBLE THIEF!!!!!!!",
+        "en_clean": "HORRIBLE THIEF!!!!!!!",
+        "jp_raw": "盗っ人野郎！！！",
+        "jp_clean": "盗っ人野郎！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "(Mirabelle got back her priceless copy of \"The Cursing of Château Castle\"!)",
+        "en_clean": "(Mirabelle got back her priceless copy of \"The Cursing of Château Castle\"!)",
+        "jp_raw": "(ミラベルが貴重な「キャッスル城の呪い」を取り戻した！)",
+        "jp_clean": "(ミラベルが貴重な「キャッスル城の呪い」を取り戻した！)",
+        "checked": true
+    },
+    {
+        "en_raw": "(She angrily stuffs it in her pocket.)",
+        "en_clean": "(She angrily stuffs it in her pocket.)",
+        "jp_raw": "(怒った様子で本をポケットにしまっている。)",
+        "jp_clean": "(怒った様子で本をポケットにしまっている。)",
+        "checked": true
+    },
+    {
+        "en_raw": "<span class=\"wave\">\n Victory!\n</span>",
+        "en_clean": "Victory!",
+        "jp_raw": "<span class=\"wave\">勝利だ！</span>",
+        "jp_clean": "勝利だ！",
+        "checked": true
+    },
+    {
+        "en_raw": "IT'S BACK!!!!",
+        "en_clean": "IT'S BACK!!!!",
+        "jp_raw": "取り戻した！",
+        "jp_clean": "取り戻した！",
+        "checked": true
+    },
+    {
+        "en_raw": "IT IS.",
+        "en_clean": "IT IS.",
+        "jp_raw": "まったくもう。",
+        "jp_clean": "まったくもう。",
+        "checked": true
+    },
+    {
+        "en_raw": "...  Sorry for badmouthing him while he's frozen in time. He is a very talented scholar, also.",
+        "en_clean": "...  Sorry for badmouthing him while he's frozen in time. He is a very talented scholar, also.",
+        "jp_raw": "...時間を止められている人の悪口を言ってごめんね。でも彼はすごく優秀な学者さんなんだよ。",
+        "jp_clean": "...時間を止められている人の悪口を言ってごめんね。でも彼はすごく優秀な学者さんなんだよ。",
+        "checked": true
+    },
+    {
+        "en_raw": "This was fun, Mirabelle. You should show your ruthless side more often.",
+        "en_clean": "This was fun, Mirabelle. You should show your ruthless side more often.",
+        "jp_raw": "楽しませてもらったぞ、ミラベル。きみはその冷徹な一面をもっと出してもいい。",
+        "jp_clean": "楽しませてもらったぞ、ミラベル。きみはその冷徹な一面をもっと出してもいい。",
+        "checked": true
+    },
+    {
+        "en_raw": "N-no!!!",
+        "en_clean": "N-no!!!",
+        "jp_raw": "や、やめて！",
+        "jp_clean": "や、やめて！",
+        "checked": true
+    },
+    {
+        "en_raw": "(Some medical books.)",
+        "en_clean": "(Some medical books.)",
+        "jp_raw": "(医学書がある。)",
+        "jp_clean": "(医学書がある。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(...And a volume of \"The Cursing of Château Castle\", issue #10.)",
+        "en_clean": "(...And a volume of \"The Cursing of Château Castle\", issue #10.)",
+        "jp_raw": "(...それと「キャッスル城の呪い」第10巻だ。)",
+        "jp_clean": "(...それと「キャッスル城の呪い」第10巻だ。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(...Issue #10? You should remember this number.)",
+        "en_clean": "(...Issue #10? You should remember this number.)",
+        "jp_raw": "(...第10巻？ この数字は覚えておこう。)",
+        "jp_clean": "(...第10巻？ この数字は覚えておこう。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(The bookcase is filled with novels.)",
+        "en_clean": "(The bookcase is filled with novels.)",
+        "jp_raw": "(本棚は小説本でいっぱいだ。)",
+        "jp_clean": "(本棚は小説本でいっぱいだ。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(\"Run, Child, Run!\", \"The Unrestrained\", \"The Cursing of Château Castle\" issues #6, #12 and #24...)",
+        "en_clean": "(\"Run, Child, Run!\", \"The Unrestrained\", \"The Cursing of Château Castle\" issues #6, #12 and #24...)",
+        "jp_raw": "(「走れ、子よ！」「妨げられぬ者」「キャッスル城の呪い」第6巻、第12巻、第24巻...)",
+        "jp_clean": "(「走れ、子よ！」「妨げられぬ者」「キャッスル城の呪い」第6巻、第12巻、第24巻...)",
+        "checked": true
+    },
+    {
+        "en_raw": "(...Issue #24? You should remember this number.)",
+        "en_clean": "(...Issue #24? You should remember this number.)",
+        "jp_raw": "(...第24巻？ この数字は覚えておこう。)",
+        "jp_clean": "(...第24巻？ この数字は覚えておこう。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(None of those catch your eye.)",
+        "en_clean": "(None of those catch your eye.)",
+        "jp_raw": "(特に目を引くものはない。)",
+        "jp_clean": "(特に目を引くものはない。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(A desk.)",
+        "en_clean": "(A desk.)",
+        "jp_raw": "(机がある。)",
+        "jp_clean": "(机がある。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(On it is an open issue of \"The Cursing of Château Castle\", issue #32.)",
+        "en_clean": "(On it is an open issue of \"The Cursing of Château Castle\", issue #32.)",
+        "jp_raw": "(「キャッスル城の呪い」第32巻が広げられている。)",
+        "jp_clean": "(「キャッスル城の呪い」第32巻が広げられている。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(...Issue #32? You should remember this number.)",
+        "en_clean": "(...Issue #32? You should remember this number.)",
+        "jp_raw": "(...第32巻？ この数字は覚えておこう。)",
+        "jp_clean": "(...第32巻？ この数字は覚えておこう。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(The bookcase is filled with various novels.)",
+        "en_clean": "(The bookcase is filled with various novels.)",
+        "jp_raw": "(本棚には様々な小説が並べられている。)",
+        "jp_clean": "(本棚には様々な小説が並べられている。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(\"How To Not Make A Fool Of Yourself: A Journey\", \"Tick\", \"Soul Emperor IV: The Soulempering\", and \"The Cursing of Château Castle\", issues #40 to #48.)",
+        "en_clean": "(\"How To Not Make A Fool Of Yourself: A Journey\", \"Tick\", \"Soul Emperor IV: The Soulempering\", and \"The Cursing of Château Castle\", issues #40 to #48.)",
+        "jp_raw": "(「恥はかきたくないからって旅に出た件」「カチカチ」「ソウルエンペラー IV：ソウルをエンペる」そして「キャッスル城の呪い」第#40～#48巻。)",
+        "jp_clean": "(「恥はかきたくないからって旅に出た件」「カチカチ」「ソウルエンペラー IV：ソウルをエンペる」そして「キャッスル城の呪い」第#40～#48巻。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(...Issue #48? You should remember this number.)",
+        "en_clean": "(...Issue #48? You should remember this number.)",
+        "jp_raw": "(...第48巻？ この数字は覚えておこう。)",
+        "jp_clean": "(...第48巻？ この数字は覚えておこう。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Some books on the House of Change.)",
+        "en_clean": "(Some books on the House of Change.)",
+        "jp_raw": "(ウツロイの館に関する本がいくつかある。)",
+        "jp_clean": "(ウツロイの館に関する本がいくつかある。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(...and an book from the series \"The Cursing of Château Castle\", issue #51.)",
+        "en_clean": "(...and an book from the series \"The Cursing of Château Castle\", issue #51.)",
+        "jp_raw": "(...それに「キャッスル城の呪い」シリーズの本も。第51巻だ。)",
+        "jp_clean": "(...それに「キャッスル城の呪い」シリーズの本も。第51巻だ。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(...Issue 51? You should remember this number.)",
+        "en_clean": "(...Issue 51? You should remember this number.)",
+        "jp_raw": "(...第51巻？ この数字は覚えておこう。)",
+        "jp_clean": "(...第51巻？ この数字は覚えておこう。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Horror books.)",
+        "en_clean": "(Horror books.)",
+        "jp_raw": "(ホラー小説だ。)",
+        "jp_clean": "(ホラー小説だ。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(There's \"The Cursing of Château Castle\" issue #68, \"Death Die Dice Maker\", \"One Hundred Ways to Die Horribly\", \"The Meat Slicing\"...)",
+        "en_clean": "(There's \"The Cursing of Château Castle\" issue #68, \"Death Die Dice Maker\", \"One Hundred Ways to Die Horribly\", \"The Meat Slicing\"...)",
+        "jp_raw": "(「キャッスル城の呪い」第68巻、「死のサイコロ職人」、「世にも恐ろしい死に方100選」「肉を切る」...)",
+        "jp_clean": "(「キャッスル城の呪い」第68巻、「死のサイコロ職人」、「世にも恐ろしい死に方100選」「肉を切る」...)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Ah. That last one's actually a cooking book.)",
+        "en_clean": "(Ah. That last one's actually a cooking book.)",
+        "jp_raw": "(いや、最後のは料理の本だ。)",
+        "jp_clean": "(いや、最後のは料理の本だ。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(...Issue #68? You should remember this number.)",
+        "en_clean": "(...Issue #68? You should remember this number.)",
+        "jp_raw": "(...第68巻？ この数字は覚えておこう。)",
+        "jp_clean": "(...第68巻？ この数字は覚えておこう。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(An open book, stained by clay and dirty hands.)",
+        "en_clean": "(An open book, stained by clay and dirty hands.)",
+        "jp_raw": "(本が開かれている。粘土と汚れた手形の染みがある。)",
+        "jp_clean": "(本が開かれている。粘土と汚れた手形の染みがある。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(It's an issue of \"The Cursing of Château Castle\", issue #87.)",
+        "en_clean": "(It's an issue of \"The Cursing of Château Castle\", issue #87.)",
+        "jp_raw": "(「キャッスル城の呪い」第87巻だ。)",
+        "jp_clean": "(「キャッスル城の呪い」第87巻だ。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(...Issue #87? You should remember this number.)",
+        "en_clean": "(...Issue #87? You should remember this number.)",
+        "jp_raw": "(...第87巻？ この数字は覚えておこう。)",
+        "jp_clean": "(...第87巻？ この数字は覚えておこう。)",
+        "checked": true
+    },
+    {
+        "en_raw": "Y'know... The end of the world is fine and all... But I only have one regret...",
+        "en_clean": "Y'know... The end of the world is fine and all... But I only have one regret...",
+        "jp_raw": "なんていうか... 世界が終わったって構わないんだが... 未練がひとつだけあって...",
+        "jp_clean": "なんていうか... 世界が終わったって構わないんだが... 未練がひとつだけあって...",
+        "checked": true
+    },
+    {
+        "en_raw": "I......",
+        "en_clean": "I......",
+        "jp_raw": "俺は...",
+        "jp_clean": "俺は...",
+        "checked": true
+    },
+    {//TODO double check formatting again
+        "en_raw": "<span class=\"big shake\">\n I WON'T BE ABLE TO KNOW WHAT HAPPENS\n <br/>\n TO LORD JOSÉPHANDRE IN THE FINAL ISSUE OF \"THE CURSING OF CHÂTEAU CASTLE\"!\n</span>",
+        "en_clean": "I WON'T BE ABLE TO KNOW WHAT HAPPENS TO LORD JOSÉPHANDRE IN THE FINAL ISSUE OF \"THE CURSING OF CHÂTEAU CASTLE\"!",
+        "jp_raw": "<span class=\"big shake\">\nけして知ることはできないんだ。\n <br/>\nジョゼファンドル卿と「キャッスル城の呪い」の結末をな！\n</span>",
+        "jp_clean": "けして知ることはできないんだ。ジョゼファンドル卿と「キャッスル城の呪い」の結末をな！",
+        "checked": false
+    },
+    {
+        "en_raw": "Did he manage to protect his castle to the very end?!? Did he finally find his friend Pierre-Jacques-Erneste, did he finally find more about himself?!?",
+        "en_clean": "Did he manage to protect his castle to the very end?!? Did he finally find his friend Pierre-Jacques-Erneste, did he finally find more about himself?!?",
+        "jp_raw": "卿は城を守ることができるのか！？ 友人のピエール=ジャック=エルネストを見つけだし、自分の出自を知ることができるのか！？",
+        "jp_clean": "卿は城を守ることができるのか！？ 友人のピエール=ジャック=エルネストを見つけだし、自分の出自を知ることができるのか！？",
+        "checked": true
+    },
+    {
+        "en_raw": "Oh... I'll never know...",
+        "en_clean": "Oh... I'll never know...",
+        "jp_raw": "ああ... 俺が知ることはないんだ...",
+        "jp_clean": "ああ... 俺が知ることはないんだ...",
+        "checked": true
+    },
+    { //TODO missing eng "\\m[choicespace](The last one you've seen is...)\\!\\" and "\\m[choicespace](最後に見た巻は...)\\!\\"
+        "en_raw": "",
+        "en_clean": "",
+        "jp_raw": "(最後に見た巻は...)",
+        "jp_clean": "(最後に見た巻は...)",
+        "checked": false
+    },
+    { //TODO missing eng "\"Is the final issue... Issue #\\v[62]?\""
+        "en_raw": "",
+        "en_clean": "",
+        "jp_raw": "\"最終巻って... 第\\v[62]巻？\"",
+        "jp_clean": "\"最終巻って... 第\\v[62]巻？\"",
+        "checked": false
+    },
+    {
+        "en_raw": "(The last one you've seen is...)",
+        "en_clean": "(The last one you've seen is...)",
+        "jp_raw": "(最後に見た巻は...)",
+        "jp_clean": "(最後に見た巻は...)",
+        "checked": true
+    },
+    {
+        "en_raw": "No... Of course not. Why would I be into a series with only three issues?!?",
+        "en_clean": "No... Of course not. Why would I be into a series with only three issues?!?",
+        "jp_raw": "いや... それは違う。3巻ぽっちのシリーズにこんなにハマるわけないだろ！？",
+        "jp_clean": "いや... それは違う。3巻ぽっちのシリーズにこんなにハマるわけないだろ！？",
+        "checked": true
+    },
+    {
+        "en_raw": "No... That's the issue where Pierre-Jacques-Erneste made his big appearance, though. What a great issue...",
+        "en_clean": "No... That's the issue where Pierre-Jacques-Erneste made his big appearance, though. What a great issue...",
+        "jp_raw": "いや... それは、ピエール=ジャック=エルネストが派手な初登場を決める巻だ。すばらしいストーリーだった...",
+        "jp_clean": "いや... それは、ピエール=ジャック=エルネストが派手な初登場を決める巻だ。すばらしいストーリーだった...",
+        "checked": true
+    },
+    {
+        "en_raw": "No... That's when Lord Joséphandre ate his whole weight in donuts, transporting him to another world as like, some kind of filler plot?",
+        "en_clean": "No... That's when Lord Joséphandre ate his whole weight in donuts, transporting him to another world as like, some kind of filler plot?",
+        "jp_raw": "いや... それは、ジョゼファンドル卿が体が埋もれるくらい大きなドーナツを食べて、異世界にワープする巻だ。引き延ばし回ってやつ？",
+        "jp_clean": "いや... それは、ジョゼファンドル卿が体が埋もれるくらい大きなドーナツを食べて、異世界にワープする巻だ。引き延ばし回ってやつ？",
+        "checked": true
+    },
+    {
+        "en_raw": "It wasn't very good.",
+        "en_clean": "It wasn't very good.",
+        "jp_raw": "あまりおもしろくなかったな。",
+        "jp_clean": "あまりおもしろくなかったな。",
+        "checked": true
+    },
+    {
+        "en_raw": "No... That's when Lady Irene-Janine-Karine finally joined the party, though! She's such a good character...",
+        "en_clean": "No... That's when Lady Irene-Janine-Karine finally joined the party, though! She's such a good character...",
+        "jp_raw": "いや... だがそれは、イレーヌ=ジャニーヌ=カリーヌ嬢がついに仲間になる巻だ！ すてきなキャラクターなんだ...",
+        "jp_clean": "いや... だがそれは、イレーヌ=ジャニーヌ=カリーヌ嬢がついに仲間になる巻だ！ すてきなキャラクターなんだ...",
+        "checked": true
+    },
+    {
+        "en_raw": "It wasn't very good.",
+        "en_clean": "It wasn't very good.",
+        "jp_raw": "あまりおもしろくなかったな。",
+        "jp_clean": "あまりおもしろくなかったな。",
+        "checked": true
+    },
+    {
+        "en_raw": "It sucks. No one likes it.",
+        "en_clean": "It sucks. No one likes it.",
+        "jp_raw": "つまらない巻だよ。好きなやつはいないだろう。",
+        "jp_clean": "つまらない巻だよ。好きなやつはいないだろう。",
+        "checked": true
+    },
+    {
+        "en_raw": "No... That's when Pierre-Jacques-Erneste betrayed the whole party!!! What a turn of events!!! Oh...",
+        "en_clean": "No... That's when Pierre-Jacques-Erneste betrayed the whole party!!! What a turn of events!!! Oh...",
+        "jp_raw": "いや... それは、ピエール=ジャック=エルネストが仲間を裏切る巻だ！！！ 物語は急展開だよ！！！ ああ...",
+        "jp_clean": "いや... それは、ピエール=ジャック=エルネストが仲間を裏切る巻だ！！！ 物語は急展開だよ！！！ ああ...",
+        "checked": true
+    },
+    {
+        "en_raw": "No... That's when Pierre-Jacques-Erneste, in an act of self-sacrifice, destroyed his castle to save Lord Josephandre!!! Oh...",
+        "en_clean": "No... That's when Pierre-Jacques-Erneste, in an act of self-sacrifice, destroyed his castle to save Lord Josephandre!!! Oh...",
+        "jp_raw": "いや... それは、ピエール=ジャック=エルネストが自らの城を犠牲にして破壊し、ジョゼファンドル卿を救う巻だ！！！ ああ...",
+        "jp_clean": "いや... それは、ピエール=ジャック=エルネストが自らの城を犠牲にして破壊し、ジョゼファンドル卿を救う巻だ！！！ ああ...",
+        "checked": true
+    },
+    {
+        "en_raw": "...  Is it?",
+        "en_clean": "...  Is it?",
+        "jp_raw": "...そうだったかな？",
+        "jp_clean": "...そうだったかな？",
+        "checked": true
+    },
+    {
+        "en_raw": "No, it's not. That was when Lord Joséphandre was about to reveal his true lineage.",
+        "en_clean": "No, it's not. That was when Lord Joséphandre was about to reveal his true lineage.",
+        "jp_raw": "いや、違う。それは、ジョゼファンドル卿の出自が明らかになる直前の巻だ。",
+        "jp_clean": "いや、違う。それは、ジョゼファンドル卿の出自が明らかになる直前の巻だ。",
+        "checked": true
+    },
+    {
+        "en_raw": "And see!!! This is what I want!!! I want the rest!!! What IS his true lineage!!! Oh...",
+        "en_clean": "And see!!! This is what I want!!! I want the rest!!! What IS his true lineage!!! Oh...",
+        "jp_raw": "その後なんだよ！！！ 俺が知りたいのは！！！ その後を知りたいんだ！！！ 卿はどの一族なんだよ！！！ ああ...",
+        "jp_clean": "その後なんだよ！！！ 俺が知りたいのは！！！ その後を知りたいんだ！！！ 卿はどの一族なんだよ！！！ ああ...",
+        "checked": true
+    },
+    {
+        "en_raw": "...That's...",
+        "en_clean": "...That's...",
+        "jp_raw": "...それは...",
+        "jp_clean": "...それは...",
+        "checked": true
+    },
+    {
+        "en_raw": "<span class=\"big shake\">\n THAT'S IT!!!!! THAT'S THE ONE!!!!!!!!!!\n</span>",
+        "en_clean": "THAT'S IT!!!!! THAT'S THE ONE!!!!!!!!!!",
+        "jp_raw": "<span class=\"big shake\">それだ！！！！！！ それが最終巻だ！！！！！！</span>",
+        "jp_clean": "それだ！！！！！！ それが最終巻だ！！！！！！",
+        "checked": true
+    },
+    {//TODO unsure which to choose
+        "en_raw": "(Oh!)",
+        "en_clean": "(Oh!)",
+        "jp_raw": [
+            "\\m[clear](おお！)",
+            "\\m[vs](ああ！)\\!\\",
+            "\\m[clear]\\m[wait](あっ！)",
+            "(へえ！)"
+        ],
+        "jp_clean": [
+            "(おお！)",
+            "(ああ！)",
+            "(あっ！)",
+            "(へえ！)"
+        ],
+        "checked": false
+    },
+    { 
+        "en_raw": "Oh, please tell me, what happens in this issue!!! Please, you have to tell me!!!!!!!!",
+        "en_clean": "Oh, please tell me, what happens in this issue!!! Please, you have to tell me!!!!!!!!",
+        "jp_raw": "教えてくれ、物語はどうなった！！！ お願いだ、俺に教えてくれ！！！",
+        "jp_clean": "教えてくれ、物語はどうなった！！！ お願いだ、俺に教えてくれ！！！",
+        "checked": true
+    },
+    { //TODO unsure which to choose
+        "en_raw": "(Oh.)",
+        "en_clean": "(Oh.)",
+        "jp_raw": [
+            "\\m[clear](へえ。)",
+            "\\m[wait](そうか。)",
+            "\\m[clear]\\m[wait]\\m[wait](ああ。)",
+            "(あ。)\\!\\m[wait]\\^"
+        ],
+        "jp_clean": [
+            "(へえ。)",
+            "(そうか。)",
+            "(ああ。)",
+            "(あ。)"
+        ],
+        "checked": false
+    },
+    {
+        "en_raw": "(You didn't read it.)",
+        "en_clean": "(You didn't read it.)",
+        "jp_raw": "(中は読んでいない。)",
+        "jp_clean": "(中は読んでいない。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You awkwardly smile.)",
+        "en_clean": "(You awkwardly smile.)",
+        "jp_raw": "(気まずいながらも笑顔を返す。)",
+        "jp_clean": "(気まずいながらも笑顔を返す。)",
+        "checked": true
+    },
+    {
+        "en_raw": ". . . . . .",
+        "en_clean": ". . . . . .",
+        "jp_raw": ". . . . . .",
+        "jp_clean": ". . . . . .",
+        "checked": true
+    },
+    {
+        "en_raw": "I will never forgive you for the emotional journey you've just given me.",
+        "en_clean": "I will never forgive you for the emotional journey you've just given me.",
+        "jp_raw": "許さないからな。俺の気分をこんなにもてあそびやがって。",
+        "jp_clean": "許さないからな。俺の気分をこんなにもてあそびやがって。",
+        "checked": true
+    },
+    {
+        "en_raw": "(That's fair.)",
+        "en_clean": "(That's fair.)",
+        "jp_raw": "(仕方ないな。)",
+        "jp_clean": "(仕方ないな。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Time to go back and read it...)",
+        "en_clean": "(Time to go back and read it...)",
+        "jp_raw": "(本のところに戻って、読んでこよう...)",
+        "jp_clean": "(本のところに戻って、読んでこよう...)",
+        "checked": true
+    },
+    {
+        "en_raw": "\"There's this book fan...\"",
+        "en_clean": "\"There's this book fan...\"",
+        "jp_raw": "\"本のファンがいて...\"",
+        "jp_clean": "\"本のファンがいて...\"",
+        "checked": true
+    },
+    {
+        "en_raw": "Yes, and you found the last issue of that book series they like!!!",
+        "en_clean": "Yes, and you found the last issue of that book series they like!!!",
+        "jp_raw": "そうそう、あの人が好きなシリーズの最新巻を見つけたんだね！！！",
+        "jp_clean": "そうそう、あの人が好きなシリーズの最新巻を見つけたんだね！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "Too bad you didn't actually open it when you found it. Better go back and actually read it...",
+        "en_clean": "Too bad you didn't actually open it when you found it. Better go back and actually read it...",
+        "jp_raw": "見つけた時に中を見なかったのは、残念だったね。戻って、ちゃんと読んできた方がいい...",
+        "jp_clean": "見つけた時に中を見なかったのは、残念だったね。戻って、ちゃんと読んできた方がいい...",
+        "checked": true
+    },
+    {
+        "en_raw": "And then go and tell that book fan what the last issue is about! He'll be overjoyed!",
+        "en_clean": "And then go and tell that book fan what the last issue is about! He'll be overjoyed!",
+        "jp_raw": "そうしたら、あの本好きに最新巻の内容を教えてあげるんだ！ すっごく喜ばれると思うよ！",
+        "jp_clean": "そうしたら、あの本好きに最新巻の内容を教えてあげるんだ！ すっごく喜ばれると思うよ！",
+        "checked": true
+    },
+    {
+        "en_raw": "(An open book, stained by clay and dirty hands.)",
+        "en_clean": "(An open book, stained by clay and dirty hands.)",
+        "jp_raw": "(本が開かれている。粘土と汚れた手形の染みがある。)",
+        "jp_clean": "(本が開かれている。粘土と汚れた手形の染みがある。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(It's an issue of \"The Cursing of Château Castle\", issue #87.)",
+        "en_clean": "(It's an issue of \"The Cursing of Château Castle\", issue #87.)",
+        "jp_raw": "(「キャッスル城の呪い」第87巻だ。)",
+        "jp_clean": "(「キャッスル城の呪い」第87巻だ。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(...Ah, #87.) \"That's the last issue.\"",
+        "en_clean": "(...Ah, #87.) \"That's the last issue.\"",
+        "jp_raw": "(...あれ、87巻だって？) \"最終巻だ。\"",
+        "jp_clean": "(...あれ、87巻だって？) \"最終巻だ。\"",
+        "checked": true
+    },
+    {
+        "en_raw": "What? No it's no--",
+        "en_clean": "What? No it's no--",
+        "jp_raw": "え？ ううん、そんなはず――",
+        "jp_clean": "え？ ううん、そんなはず――",
+        "checked": true
+    },
+    {
+        "en_raw": "OH, CRAB, IT IS!!!! OH!!!!!!!!!!",
+        "en_clean": "OH, CRAB, IT IS!!!! OH!!!!!!!!!!",
+        "jp_raw": "うそ、カニもどきっ、ホントだ！！！ ホントだよ！！！！！！",
+        "jp_clean": "うそ、カニもどきっ、ホントだ！！！ ホントだよ！！！！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "Oh! The last issue of the Something Something book series?",
+        "en_clean": "Oh! The last issue of the Something Something book series?",
+        "jp_raw": "へえ！ あの、ナントカのほにゃららシリーズの最終巻か？",
+        "jp_clean": "へえ！ あの、ナントカのほにゃららシリーズの最終巻か？",
+        "checked": true
+    },
+    {
+        "en_raw": "\"THE CURSING OF CHÂTEAU CASTLE\"!!!",
+        "en_clean": "\"THE CURSING OF CHÂTEAU CASTLE\"!!!",
+        "jp_raw": "「キャッスル城の呪い」！！！",
+        "jp_clean": "「キャッスル城の呪い」！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "Do we finally get to learn about Lord Joséphandre's true lineage? What about Pierre-Jacques-Erneste, will he survive?! And most importantly...",
+        "en_clean": "Do we finally get to learn about Lord Joséphandre's true lineage? What about Pierre-Jacques-Erneste, will he survive?! And most importantly...",
+        "jp_raw": "ついにジョゼファンドル卿の出自が明らかになるの？ ピエール=ジャック=エルネストは？ 生き延びられる！？ それに、一番知りたいのは...",
+        "jp_clean": "ついにジョゼファンドル卿の出自が明らかになるの？ ピエール=ジャック=エルネストは？ 生き延びられる！？ それに、一番知りたいのは...",
+        "checked": true
+    },
+    {
+        "en_raw": "DOES THE SIDE CHARACTER WHO APPEARED ONLY IN ISSUE #43 APPEAR AGAIN?!??!?!??!?",
+        "en_clean": "DOES THE SIDE CHARACTER WHO APPEARED ONLY IN ISSUE #43 APPEAR AGAIN?!??!?!??!?",
+        "jp_raw": "第43巻だけに登場したあの脇役は、もう一度出てくる？！？？！？！？？！？",
+        "jp_clean": "第43巻だけに登場したあの脇役は、もう一度出てくる？！？？！？！？？！？",
+        "checked": true
+    },
+    {
+        "en_raw": "High stakes, I see.",
+        "en_clean": "High stakes, I see.",
+        "jp_raw": "それはないだろう。",
+        "jp_clean": "それはないだろう。",
+        "checked": true
+    },
+    {
+        "en_raw": "I'll give you ten minutes to read it. See how generous I am?",
+        "en_clean": "I'll give you ten minutes to read it. See how generous I am?",
+        "jp_raw": "10分やる。読むといい。どうだ、寛大だろう？",
+        "jp_clean": "10分やる。読むといい。どうだ、寛大だろう？",
+        "checked": true
+    },
+    {
+        "en_raw": "SO GENEROUS, MADAME ODILE!!!!!!!!!!! I WILL FINISH IT IN THE ALLOTTED TIME!!!!!!!!!",
+        "en_clean": "SO GENEROUS, MADAME ODILE!!!!!!!!!!! I WILL FINISH IT IN THE ALLOTTED TIME!!!!!!!!!",
+        "jp_raw": "とっても寛大ね、マダム・オディール！！！！！！ 10分で読み終えてみせる！！！！！！",
+        "jp_clean": "とっても寛大ね、マダム・オディール！！！！！！ 10分で読み終えてみせる！！！！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "(You all patiently wait while Mirabelle reads, and makes high pitched sounds every once in a while...)",
+        "en_clean": "(You all patiently wait while Mirabelle reads, and makes high pitched sounds every once in a while...)",
+        "jp_raw": "(ミラベルが読む間、全員でじっと待った。時々、時計の音を真似しながら...)",
+        "jp_clean": "(ミラベルが読む間、全員でじっと待った。時々、時計の音を真似しながら...)",
+        "checked": true
+    },
+    {
+        "en_raw": ". . .",
+        "en_clean": ". . .",
+        "jp_raw": ". . .",
+        "jp_clean": ". . .",
+        "checked": true
+    },
+    {
+        "en_raw": "Wow.",
+        "en_clean": "Wow.",
+        "jp_raw": "うわあ。",
+        "jp_clean": "うわあ。",
+        "checked": true
+    },
+    {
+        "en_raw": "\"So?\"",
+        "en_clean": "\"So?\"",
+        "jp_raw": "\"どうだった？\"",
+        "jp_clean": "\"どうだった？\"",
+        "checked": true
+    },
+    {
+        "en_raw": "...  Lord Joséphandre...",
+        "en_clean": "...  Lord Joséphandre...",
+        "jp_raw": "...ジョゼファンドル卿は...",
+        "jp_clean": "...ジョゼファンドル卿は...",
+        "checked": true
+    },
+    {
+        "en_raw": "Isn't a Lord at all? His parents were normal everyday people?",
+        "en_clean": "Isn't a Lord at all? His parents were normal everyday people?",
+        "jp_raw": "「卿」ではない？ 両親は普通の庶民だったの？",
+        "jp_clean": "「卿」ではない？ 両親は普通の庶民だったの？",
+        "checked": true
+    },
+    {
+        "en_raw": "This whole time, he was... Just a guy?",
+        "en_clean": "This whole time, he was... Just a guy?",
+        "jp_raw": "はじめからずっと... 彼はただの人だった？",
+        "jp_clean": "はじめからずっと... 彼はただの人だった？",
+        "checked": true
+    },
+    {
+        "en_raw": "He wasn't chosen by fate, he didn't actually have a title, and he was... Just a guy?",
+        "en_clean": "He wasn't chosen by fate, he didn't actually have a title, and he was... Just a guy?",
+        "jp_raw": "運命に選ばれし者でもなければ、称号も持っていない。ただの... 一般人？",
+        "jp_clean": "運命に選ばれし者でもなければ、称号も持っていない。ただの... 一般人？",
+        "checked": true
+    },
+    {
+        "en_raw": "They kept talking about how magnificent and incredible his family was, and how he was chosen for a reason, and he was... Just a guy?",
+        "en_clean": "They kept talking about how magnificent and incredible his family was, and how he was chosen for a reason, and he was... Just a guy?",
+        "jp_raw": "一族のすばらしさや偉大さをずっと語っていたんだよ。然るべき理由があって選ばれた、って。なのに... 普通の人？",
+        "jp_clean": "一族のすばらしさや偉大さをずっと語っていたんだよ。然るべき理由があって選ばれた、って。なのに... 普通の人？",
+        "checked": true
+    },
+    {
+        "en_raw": "Didn't this guy like, save castles or whatever? So, like, he saved people also, I'm guessing?",
+        "en_clean": "Didn't this guy like, save castles or whatever? So, like, he saved people also, I'm guessing?",
+        "jp_raw": "卿は城かなんかを救ったんだろ？ つまり、人々を救ったってことじゃないのか？",
+        "jp_clean": "卿は城かなんかを救ったんだろ？ つまり、人々を救ったってことじゃないのか？",
+        "checked": true
+    },
+    {
+        "en_raw": "He was a hero to everyone he met! And yet he was... Just a guy?",
+        "en_clean": "He was a hero to everyone he met! And yet he was... Just a guy?",
+        "jp_raw": "彼は出会った人たちみんなの英雄なんだよ！ それなのに、ただの... 一般人？",
+        "jp_clean": "彼は出会った人たちみんなの英雄なんだよ！ それなのに、ただの... 一般人？",
+        "checked": true
+    },
+    {
+        "en_raw": "And he wasn't a chosen one or an important person or maybe a prince?",
+        "en_clean": "And he wasn't a chosen one or an important person or maybe a prince?",
+        "jp_raw": "選ばれし者でもなければ、重要人物でもなく、王子でもない？",
+        "jp_clean": "選ばれし者でもなければ、重要人物でもなく、王子でもない？",
+        "checked": true
+    },
+    {
+        "en_raw": "No??? He was just a guy?????????",
+        "en_clean": "No??? He was just a guy?????????",
+        "jp_raw": "違うみたい。ただの人なの？？？？",
+        "jp_clean": "違うみたい。ただの人なの？？？？",
+        "checked": true
+    },
+    {
+        "en_raw": "Is this a letdown for you or not? I can't tell.",
+        "en_clean": "Is this a letdown for you or not? I can't tell.",
+        "jp_raw": "その顔、がっかりしたのか？ どうなんだ？ 私には分からない。",
+        "jp_clean": "その顔、がっかりしたのか？ どうなんだ？ 私には分からない。",
+        "checked": true
+    },
+    {
+        "en_raw": "I don't know??? I think I just need time??? To process this???",
+        "en_clean": "I don't know??? I think I just need time??? To process this???",
+        "jp_raw": "自分でもよく分からない。ちょっと時間が必要かも。頭の中で処理しなきゃ。",
+        "jp_clean": "自分でもよく分からない。ちょっと時間が必要かも。頭の中で処理しなきゃ。",
+        "checked": true
+    },
+    {
+        "en_raw": "Well, you can process while we walk. Let's go, everyone.",
+        "en_clean": "Well, you can process while we walk. Let's go, everyone.",
+        "jp_raw": "では、歩いている間に処理してくれ。さあみんな、行こう。",
+        "jp_clean": "では、歩いている間に処理してくれ。さあみんな、行こう。",
+        "checked": true
+    },
+    {
+        "en_raw": "(...)",
+        "en_clean": "(...)",
+        "jp_raw": "(...)",
+        "jp_clean": "(...)",
+        "checked": true
+    },
+    {
+        "en_raw": "(So Lord Joséphandre was just a guy.)",
+        "en_clean": "(So Lord Joséphandre was just a guy.)",
+        "jp_raw": "(ジョゼファンドル卿はただの人だったんだ。)",
+        "jp_clean": "(ジョゼファンドル卿はただの人だったんだ。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You should let the castle-loving one in Dormont know...)",
+        "en_clean": "(You should let the castle-loving one in Dormont know...)",
+        "jp_raw": "(ドーモントの城好きさんに知らせないと...)",
+        "jp_clean": "(ドーモントの城好きさんに知らせないと...)",
+        "checked": true
+    },
+    {
+        "en_raw": "Y'know... The end of the world is fine and all... But I only have one regret...",
+        "en_clean": "Y'know... The end of the world is fine and all... But I only have one regret...",
+        "jp_raw": "なんていうか... 世界が終わったって構わないんだが... 未練がひとつだけあって...",
+        "jp_clean": "なんていうか... 世界が終わったって構わないんだが... 未練がひとつだけあって...",
+        "checked": true
+    },
+    {
+        "en_raw": "I......",
+        "en_clean": "I......",
+        "jp_raw": "俺は...",
+        "jp_clean": "俺は...",
+        "checked": true
+    },
+    {//TODO double check formatting again again
+        "en_raw": "<span class=\"big shake\">\n I WON'T BE ABLE TO KNOW WHAT HAPPENS\n <br/>\n TO LORD JOSÉPHANDRE IN THE FINAL ISSUE OF \"THE CURSING OF CHÂTEAU CASTLE\"!\n</span>",
+        "en_clean": "I WON'T BE ABLE TO KNOW WHAT HAPPENS TO LORD JOSÉPHANDRE IN THE FINAL ISSUE OF \"THE CURSING OF CHÂTEAU CASTLE\"!",
+        "jp_raw": "<span class=\"big shake\">\nけして知ることはできないんだ。\n <br/>\nジョゼファンドル卿と「キャッスル城の呪い」の結末をな！\n</span>",
+        "jp_clean": "けして知ることはできないんだ。ジョゼファンドル卿と「キャッスル城の呪い」の結末をな！",
+        "checked": false
+    },
+    {
+        "en_raw": "Did he manage to protect his castle to the very end?!? Did he finally find his friend Pierre-Jacques-Erneste, did he finally find more about himself?!?",
+        "en_clean": "Did he manage to protect his castle to the very end?!? Did he finally find his friend Pierre-Jacques-Erneste, did he finally find more about himself?!?",
+        "jp_raw": "卿は城を守ることができるのか！？ 友人のピエール=ジャック=エルネストを見つけだし、自分の出自を知ることができるのか！？",
+        "jp_clean": "卿は城を守ることができるのか！？ 友人のピエール=ジャック=エルネストを見つけだし、自分の出自を知ることができるのか！？",
+        "checked": true
+    },
+    {
+        "en_raw": "Oh... I'll never know...",
+        "en_clean": "Oh... I'll never know...",
+        "jp_raw": "ああ... 俺が知ることはないんだ...",
+        "jp_clean": "ああ... 俺が知ることはないんだ...",
+        "checked": true
+    },
+    { //TODO unsure what to do here
+        "en_raw": "",
+        "en_clean": "",
+        "jp_raw": null,
+        "jp_clean": null,
+        "checked": false
+    },
+    { //TODO unsure what to do here
+        "en_raw": "",
+        "en_clean": "",
+        "jp_raw": null,
+        "jp_clean": null,
+        "checked": false
+    },
+    {
+        "en_raw": "(The last one you've seen is...)",
+        "en_clean": "(The last one you've seen is...)",
+        "jp_raw": "(最後に見た巻は...)",
+        "jp_clean": "(最後に見た巻は...)",
+        "checked": true
+    },
+    {
+        "en_raw": ". . .",
+        "en_clean": ". . .",
+        "jp_raw": ". . .",
+        "jp_clean": ". . .",
+        "checked": true
+    },
+    {
+        "en_raw": "What? No, that's a lie. I think you're lying to me right now.",
+        "en_clean": "What? No, that's a lie. I think you're lying to me right now.",
+        "jp_raw": "なんだって？ そんな、うそだろ。あんた、うそを言ってるんだろう。",
+        "jp_clean": "なんだって？ そんな、うそだろ。あんた、うそを言ってるんだろう。",
+        "checked": true
+    },
+    {
+        "en_raw": "(You explain the contents of issue #87, as best you can...)",
+        "en_clean": "(You explain the contents of issue #87, as best you can...)",
+        "jp_raw": "(第87巻の内容を、できるだけ詳しく説明する...)",
+        "jp_clean": "(第87巻の内容を、できるだけ詳しく説明する...)",
+        "checked": true
+    },
+    {
+        "en_raw": ". . .",
+        "en_clean": ". . .",
+        "jp_raw": ". . .",
+        "jp_clean": ". . .",
+        "checked": true
+    },
+    {
+        "en_raw": "What? Lord Joséphandre is just a guy?",
+        "en_clean": "What? Lord Joséphandre is just a guy?",
+        "jp_raw": "なんだと？ ジョゼファンドル卿はただの一般人？",
+        "jp_clean": "なんだと？ ジョゼファンドル卿はただの一般人？",
+        "checked": true
+    },
+    { //TODO double check. I guessed based on speaker
+        "en_raw": "That's...",
+        "en_clean": "That's...",
+        "jp_raw": "そんなの...",
+        "jp_clean": "そんなの...",
+        "checked": false
+    },
+    {
+        "en_raw": "<span class=\"big shake\">\n THAT'S AN ENDING BETTER THAN MY WILDEST DREAMS!!!\n</span>",
+        "en_clean": "THAT'S AN ENDING BETTER THAN MY WILDEST DREAMS!!!",
+        "jp_raw": "<span class=\"big shake\">俺の妄想よりはるかに最高だ！！！</span>",
+        "jp_clean": "俺の妄想よりはるかに最高だ！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "He was just a guy...\n<span class=\"shake\">\n He was just a guy...!!!\n</span>",
+        "en_clean": "He was just a guy...He was just a guy...!!!",
+        "jp_raw": "ただの一般人...\n<span class=\"shake\">\n 卿はただの男だった...！！！\n</span>",
+        "jp_clean": "ただの一般人... 卿はただの男だった...！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "He saved so many people, made the world a better place, and everyone thought it was because of who he was, of his past, but...",
+        "en_clean": "He saved so many people, made the world a better place, and everyone thought it was because of who he was, of his past, but...",
+        "jp_raw": "彼はたくさんの人を救い、世界をよりよい場所にした。それを成し遂げたわけは彼の出自や過去にあると、みんな思っていたのに...",
+        "jp_clean": "彼はたくさんの人を救い、世界をよりよい場所にした。それを成し遂げたわけは彼の出自や過去にあると、みんな思っていたのに...",
+        "checked": true
+    },
+    {
+        "en_raw": "<span class=\"shake\">\n But he was just a guy...!!!\n</span>",
+        "en_clean": "But he was just a guy...!!!",
+        "jp_raw": "<span class=\"shake\">ジョゼファンドル卿はただの人...！！！</span>",
+        "jp_clean": "ジョゼファンドル卿はただの人...！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "(Uh oh, tears are coming out!!!)",
+        "en_clean": "(Uh oh, tears are coming out!!!)",
+        "jp_raw": "(わっ、この人泣いてる！！！)",
+        "jp_clean": "(わっ、この人泣いてる！！！)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Before you can try to figure out how to respond, they've already taken out a lovely handkerchief and blown their nose into it.)",
+        "en_clean": "(Before you can try to figure out how to respond, they've already taken out a lovely handkerchief and blown their nose into it.)",
+        "jp_raw": "(どう反応すべきか迷っているうちに、彼はきれいなハンカチを取り出して鼻をかんでいた。)",
+        "jp_clean": "(どう反応すべきか迷っているうちに、彼はきれいなハンカチを取り出して鼻をかんでいた。)",
+        "checked": true
+    },
+    {
+        "en_raw": "Thank you. I... I'm so glad I got to know this, before...",
+        "en_clean": "Thank you. I... I'm so glad I got to know this, before...",
+        "jp_raw": "ありがとう。俺は... うれしいよ。明日になる前に知ることができて...",
+        "jp_clean": "ありがとう。俺は... うれしいよ。明日になる前に知ることができて...",
+        "checked": true
+    },
+    {
+        "en_raw": "Here, take this.",
+        "en_clean": "Here, take this.",
+        "jp_raw": "ほら、これを受け取ってくれ。",
+        "jp_clean": "ほら、これを受け取ってくれ。",
+        "checked": true
+    },
+    {
+        "en_raw": "(You got the FIRST ISSUE!)",
+        "en_clean": "(You got the FIRST ISSUE!)",
+        "jp_raw": "(「第1巻」を手に入れた！)",
+        "jp_clean": "(「第1巻」を手に入れた！)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You put the First Issue in your pocket for Odile to equip later.)",
+        "en_clean": "(You put the First Issue in your pocket for Odile to equip later.)",
+        "jp_raw": "(ポケットに入れておこう。オディールが装備できる。)",
+        "jp_clean": "(ポケットに入れておこう。オディールが装備できる。)",
+        "checked": true
+    },
+    {
+        "en_raw": "Here, take thi--",
+        "en_clean": "Here, take thi--",
+        "jp_raw": "ほら、これを――",
+        "jp_clean": "ほら、これを――",
+        "checked": true
+    },
+    { //TODO double check. Guessed based on speaker
+        "en_raw": "...Huh?",
+        "en_clean": "...Huh?",
+        "jp_raw": "...あれ？",
+        "jp_clean": "...あれ？",
+        "checked": false
+    },
+    {
+        "en_raw": "Um, I wanted to give you something, but... I can't...",
+        "en_clean": "Um, I wanted to give you something, but... I can't...",
+        "jp_raw": "何かあげたかったのに... 何もない...",
+        "jp_clean": "何かあげたかったのに... 何もない...",
+        "checked": true
+    },
+    {
+        "en_raw": "Knowing the final issue's contents must've shocked me more than I thought.",
+        "en_clean": "Knowing the final issue's contents must've shocked me more than I thought.",
+        "jp_raw": "最終巻の内容が予想以上に衝撃だったんだろうな。",
+        "jp_clean": "最終巻の内容が予想以上に衝撃だったんだろうな。",
+        "checked": true
+    },
+    {
+        "en_raw": "Now... Can you please leave? I need to lay in bed and think about this ending.",
+        "en_clean": "Now... Can you please leave? I need to lay in bed and think about this ending.",
+        "jp_raw": "それじゃ... もう行ってくれるか？ 俺はベッドに入って、結末についてゆっくり考えをめぐらせたい。",
+        "jp_clean": "それじゃ... もう行ってくれるか？ 俺はベッドに入って、結末についてゆっくり考えをめぐらせたい。",
+        "checked": true
+    },
+    {
+        "en_raw": "\"There's this book fan...\"",
+        "en_clean": "\"There's this book fan...\"",
+        "jp_raw": "\"本のファンがいて...\"",
+        "jp_clean": "\"本のファンがいて...\"",
+        "checked": true
+    },
+    {
+        "en_raw": "...",
+        "en_clean": "...",
+        "jp_raw": "...",
+        "jp_clean": "...",
+        "checked": true
+    },
+    {
+        "en_raw": "So that's what the ending of that book series is about?",
+        "en_clean": "So that's what the ending of that book series is about?",
+        "jp_raw": "それじゃ、あのシリーズの結末はそういうことなの？",
+        "jp_clean": "それじゃ、あのシリーズの結末はそういうことなの？",
+        "checked": true
+    },
+    {
+        "en_raw": "Where the hero is from... What their history is... It doesn't matter?",
+        "en_clean": "Where the hero is from... What their history is... It doesn't matter?",
+        "jp_raw": "主人公の出自や... それまでの来歴は... 関係ないってこと？",
+        "jp_clean": "主人公の出自や... それまでの来歴は... 関係ないってこと？",
+        "checked": true
+    },
+    {
+        "en_raw": "What a stupid series.",
+        "en_clean": "What a stupid series.",
+        "jp_raw": "つまらないなあ。",
+        "jp_clean": "つまらないなあ。",
+        "checked": true
+    },
+    {
+        "en_raw": "Just go and let that book fan know if you haven't already.",
+        "en_clean": "Just go and let that book fan know if you haven't already.",
+        "jp_raw": "まだ行ってないなら、あの本好きのところへ行って、教えてあげなよ。",
+        "jp_clean": "まだ行ってないなら、あの本好きのところへ行って、教えてあげなよ。",
+        "checked": true
+    },
+    {
+        "en_raw": "(The bookcase is filled with books about culture.)",
+        "en_clean": "(The bookcase is filled with books about culture.)",
+        "jp_raw": "(本棚は文化に関する本でいっぱいだ。)",
+        "jp_clean": "(本棚は文化に関する本でいっぱいだ。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(\"Travelers Of The World\", \"The House: Monasteries Of The Change God\", \"Ka Buan Expressions\"... Oh?)",
+        "en_clean": "(\"Travelers Of The World\", \"The House: Monasteries Of The Change God\", \"Ka Buan Expressions\"... Oh?)",
+        "jp_raw": "(「世界の旅人たち」「ウツロイの館：ウツロイの神に仕える人々」「カ・ビューのことば」... あれ？)",
+        "jp_clean": "(「世界の旅人たち」「ウツロイの館：ウツロイの神に仕える人々」「カ・ビューのことば」... あれ？)",
+        "checked": true
+    },
+    {
+        "en_raw": "(There's an old book stuck between the shelf and the wall...)",
+        "en_clean": "(There's an old book stuck between the shelf and the wall...)",
+        "jp_raw": "(棚と壁の間に、古そうな本が挟まっている...)",
+        "jp_clean": "(棚と壁の間に、古そうな本が挟まっている...)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You take the book out again.)",
+        "en_clean": "(You take the book out again.)",
+        "jp_raw": "(もう一度、本を取り出した。)",
+        "jp_clean": "(もう一度、本を取り出した。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You can read its title, now...)",
+        "en_clean": "(You can read its title, now...)",
+        "jp_raw": "(今回はタイトルが読める...)",
+        "jp_clean": "(今回はタイトルが読める...)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Your heart is beating, badump, badump, badump.)",
+        "en_clean": "(Your heart is beating, badump, badump, badump.)",
+        "jp_raw": "(胸がドキドキする。ドキドキ、ドクドク、バクバク。)",
+        "jp_clean": "(胸がドキドキする。ドキドキ、ドクドク、バクバク。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(It's...)",
+        "en_clean": "(It's...)",
+        "jp_raw": "(これは...)",
+        "jp_clean": "(これは...)",
+        "checked": true
+    },
+    {
+        "en_raw": "(...A translated copy of \"The Cursing of Château Castle\", issue #2.)",
+        "en_clean": "(...A translated copy of \"The Cursing of Château Castle\", issue #2.)",
+        "jp_raw": "(「キャッスル城の呪い」第2巻の翻訳版だ。)",
+        "jp_clean": "(...「キャッスル城の呪い」第2巻の翻訳版だ。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You start laughing.)",
+        "en_clean": "(You start laughing.)",
+        "jp_raw": "(笑いがこみ上げる。)",
+        "jp_clean": "(笑いがこみ上げる。)",
+        "checked": true
+    },
+    {
+        "en_raw": "Oh, I hope Housemaiden Mirabelle is okay!!!",
+        "en_clean": "Oh, I hope Housemaiden Mirabelle is okay!!!",
+        "jp_raw": "ああ、ミラベル侍祭が無事だといいけど！！！",
+        "jp_clean": "ああ、ミラベル侍祭が無事だといいけど！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "Hah...\n<span class=\"shake\">\n Mirabelle.\n</span>",
+        "en_clean": "Hah...Mirabelle.",
+        "jp_raw": "ふう...\n<span class=\"shake\">\n ミラベル。\n</span>",
+        "jp_clean": "ふう... ミラベル。",
+        "checked": true
+    },
+    {
+        "en_raw": "Huh? Huh? What's that sigh for?",
+        "en_clean": "Huh? Huh? What's that sigh for?",
+        "jp_raw": "えっ？ ええっ？ そのため息は何よ？",
+        "jp_clean": "えっ？ ええっ？ そのため息は何よ？",
+        "checked": true
+    },
+    {
+        "en_raw": "DO YOU NOT LIKE MIRABELLE, YOU MONSTER?!?",
+        "en_clean": "DO YOU NOT LIKE MIRABELLE, YOU MONSTER?!?",
+        "jp_raw": "あんた、ミラベルが好きじゃないの？ このケダモノ！",
+        "jp_clean": "あんた、ミラベルが好きじゃないの？ このケダモノ！",
+        "checked": true
+    },
+    {
+        "en_raw": "She owns the 3rd issue of \"The Cursing of Château Castle\".",
+        "en_clean": "She owns the 3rd issue of \"The Cursing of Château Castle\".",
+        "jp_raw": "彼女は「キャッスル城の呪い」第3巻を持っているんだ。",
+        "jp_clean": "彼女は「キャッスル城の呪い」第3巻を持っているんだ。",
+        "checked": true
+    },
+    {
+        "en_raw": "Yes? And--",
+        "en_clean": "Yes? And--",
+        "jp_raw": "はあ？ それが――",
+        "jp_clean": "はあ？ それが――",
+        "checked": true
+    },
+    {
+        "en_raw": "First edition.",
+        "en_clean": "First edition.",
+        "jp_raw": "初版本だよ。",
+        "jp_clean": "初版本だよ。",
+        "checked": true
+    },
+    {
+        "en_raw": "What? The one that supposedly has a misprint that foreshadows something that happens in issue 63? Isn't there only ten of those in circulation in Vaugarde?!",
+        "en_clean": "What? The one that supposedly has a misprint that foreshadows something that happens in issue 63? Isn't there only ten of those in circulation in Vaugarde?!",
+        "jp_raw": "えっ？ 63巻で起こることを予見させるような誤植がある版のこと？ それって、ヴォーガルドでは10冊しか流通しなかったんじゃない！？",
+        "jp_clean": "えっ？ 63巻で起こることを予見させるような誤植がある版のこと？ それって、ヴォーガルドでは10冊しか流通しなかったんじゃない！？",
+        "checked": true
+    },
+    {
+        "en_raw": "...How did she--",
+        "en_clean": "...How did she--",
+        "jp_raw": "...どうして彼女が――",
+        "jp_clean": "...どうして彼女が――",
+        "checked": true
+    },
+    {
+        "en_raw": "She sent a letter to the publishing company that straddled the line between adorable and stern so well, the publishing company sent her a copy.",
+        "en_clean": "She sent a letter to the publishing company that straddled the line between adorable and stern so well, the publishing company sent her a copy.",
+        "jp_raw": "出版社に手紙を書いたって話さ。かわいらしさに厳しさも混ぜて、出版社から1冊送ってもらったそうだよ。",
+        "jp_clean": "出版社に手紙を書いたって話さ。かわいらしさに厳しさも混ぜて、出版社から1冊送ってもらったそうだよ。",
+        "checked": true
+    },
+    {
+        "en_raw": "Along with an autograph from the author.",
+        "en_clean": "Along with an autograph from the author.",
+        "jp_raw": "著者のサイン付きでね。",
+        "jp_clean": "著者のサイン付きでね。",
+        "checked": true
+    },
+    {
+        "en_raw": "...",
+        "en_clean": "...",
+        "jp_raw": "...",
+        "jp_clean": "...",
+        "checked": true
+    },
+    {
+        "en_raw": "Oh, Housemaiden Mirabelle... You're so cool...",
+        "en_clean": "Oh, Housemaiden Mirabelle... You're so cool...",
+        "jp_raw": "ああ、侍祭ミラベル... なんてカッコイイの...",
+        "jp_clean": "ああ、侍祭ミラベル... なんてカッコイイの...",
+        "checked": true
+    }
+]
