@@ -62,12 +62,12 @@
         "jp_clean": "(...)        \"何か手伝うことはない?\"",
         "checked": true
     },
-    { /*WRONG ENG*/
+    { // TYPO: should be "Help me...?"
         "en_raw": "Help me?",
         "en_clean": "Help me?",
         "jp_raw": "手伝う...?",
         "jp_clean": "手伝う...?",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "...But I don't want your help.",
@@ -146,12 +146,12 @@
         "jp_clean": "そーいうトコだよ！！！ だからオマエとは話したくないんだ！！！",
         "checked": true
     },
-    { /*WRONG ENG*/
+    { // TYPO: should be "Just go away!"
         "en_raw": "Just go away!!!",
         "en_clean": "Just go away!!!",
         "jp_raw": "あっちへ行け！",
         "jp_clean": "あっちへ行け！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(So mean...!)",
@@ -167,7 +167,7 @@
         "jp_clean": "(だけど、ボニーはまだ悲しそうだ。)",
         "checked": true
     },
-    { /*WRONG ENG*/
+    { // TYPO: should be "Okay, this is silly, but what if you COULD prove you do know their favorite food..."
         "en_raw": "(...  Okay, this is a silly idea, but what if you COULD prove you do know their favorite food...)",
         "en_clean": "(...  Okay, this is a silly idea, but what if you COULD prove you do know their favorite food...)",
         "jp_raw": "(...そうだ、ばかばかしいことだけど、ボニーの好きな食べ物を知ってると証明できたら、どうなるのかな...)",
@@ -209,12 +209,12 @@
         "jp_clean": "それか、総当たりを試してみてもいい。当たるまで繰り返すんだ。そういうことのためにこそ、時間のループを利用しないと。",
         "checked": true
     },
-    { /*WRONG ENG*/
+    { // TYPO: should have "Uh..." at the end
         "en_raw": "And for our third and final snack, we are proud to present...",
         "en_clean": "And for our third and final snack, we are proud to present...",
         "jp_raw": "それからね、みっつ目にして最後のおやつは、なんと... えっと...",
         "jp_clean": "それからね、みっつ目にして最後のおやつは、なんと... えっと...",
-        "checked": false
+        "checked": true
     },
     { 
         "en_raw": "Some, uh... O-gi-ni-ri.",
@@ -636,12 +636,12 @@
         "jp_clean": "(...)        \"何か手伝うことはない?\"",
         "checked": true
     },
-    { /*WRONG ENG*/
+    { // TYPO: should be "Help me...?"
         "en_raw": "Help me?",
         "en_clean": "Help me?",
         "jp_raw": "手伝う...?",
         "jp_clean": "手伝う...?",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "...But I don't want your help.",
@@ -664,33 +664,26 @@
         "jp_clean": "(...)        \"いらない？\"",
         "checked": true
     },
-    { /*SHOULD BE DELETED*/
+    { // TYPO: should be deleted
         "en_raw": "(...)",
         "en_clean": "(...)",
         "jp_raw": "(...)",
         "jp_clean": "(...)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "I don't! You're stupid and you don't know me, so I don't want you to help me!",
         "en_clean": "I don't! You're stupid and you don't know me, so I don't want you to help me!",
         "jp_raw": "いらない！ オマエはバカだし、オイラのことロクに知らないし、だから手伝ってほしくない！",
         "jp_clean": "いらない！ オマエはバカだし、オイラのことロクに知らないし、だから手伝ってほしくない！",
-        "checked": false
+        "checked": true
     },
-    { /*ENG MISSING, should be "I don't know you...?*/
+    { // NOTE/TODO: missing choice "I don't know you...?
         "en_raw": "",
         "en_clean": "",
         "jp_raw": "\"ボニーを知らない...？\"",
         "jp_clean": "\"ボニーを知らない...？\"",
-        "checked": false
-    },
-    { /*SHOULD BE DELETED*/
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": "",
-        "jp_clean": "",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "You really don't! Not even a little bit!",
@@ -706,25 +699,19 @@
         "jp_clean": "オイラの好きな食べ物3つさえ知らないじゃないか、バーカ！！",
         "checked": true
     },
-    { /*JAP COMPLETELY WRONG. I HAD "(なるほど...)<br>     \"和ってるよ\""*/
+    {
         "en_raw": "(Okay...)",
         "en_clean": "(Okay...)",
-        "jp_raw": [
-            "\\m[clear](了解...)",
-            "\\m[choicespace](はいはい...)\\!\\"
-        ],
-        "jp_clean": [
-            "(了解...)",
-            "(はいはい...)"
-        ],
-        "checked": false
+        "jp_raw": "(なるほど...)",
+        "jp_clean": "(なるほど...)",
+        "checked": true
     },
-    { /*SHOULD BE DELETED*/
+    { // TODO: missing choice: "和ってるよ。"
         "en_raw": "(...)",
         "en_clean": "(...)",
         "jp_raw": "(...)",
         "jp_clean": "(...)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "H-Huh...?",
@@ -733,12 +720,12 @@
         "jp_clean": "えっ...？",
         "checked": false
     },
-    {/*MANY CHOICER, "プランテンチップスだろ。" "オニギリだろ。" "お米だろ。"*/
+    {// TODO: choices "プランテンチップスだろ。" "オニギリだろ。" "お米だろ。"
         "en_raw": "(\"You love...\")",
         "en_clean": "(\"You love...\")",
         "jp_raw": "(ボニーが好きなのは...)",
         "jp_clean": "(ボニーが好きなのは...)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Y-yeah, that's true, but...",
@@ -747,12 +734,12 @@
         "jp_clean": "う、うん、当たってる",
         "checked": true
     },
-    {/*MANY CHOICER,　"マドレーヌでしょ。" "パイナップルでしょ。" "魚の頭でしょ。"*/
+    {// TODO: choices "マドレーヌでしょ。" "パイナップルでしょ。" "魚の頭でしょ。"
         "en_raw": "(\"And...\")",
         "en_clean": "(\"And...\")",
         "jp_raw": "(それから...)",
         "jp_clean": "(それから...)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": ". . .",
@@ -761,12 +748,12 @@
         "jp_clean": ". . .",
         "checked": true
     },
-    { /*"サモサだよね。" "パルミエだよね。" "ダトイモのフリットだよね。"*/
+    { // TODO: choices "サモサだよね。" "パルミエだよね。" "ダトイモのフリットだよね。"
         "en_raw": "(\"And the last one is...\")",
         "en_clean": "(\"And the last one is...\")",
         "jp_raw": "(最後の1つは...)",
         "jp_clean": "(最後の1つは...)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": ". . .",
@@ -780,21 +767,21 @@
         "en_clean": "But...  But which samosas?",
         "jp_raw": "だけど... 中身まで知ってる...？",
         "jp_clean": "だけど... 中身まで知ってる...？",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Yeah, I bet you don't even know that!!! Which samosas are my favorite, stupid!!!!",
         "en_clean": "Yeah, I bet you don't even know that!!! Which samosas are my favorite, stupid!!!!",
         "jp_raw": "いや、絶対に知らないね！！！\\!\\ どのサモサが好きかまでは知らないだろ、バーカ！！！",
         "jp_clean": "いや、絶対に知らないね！！！\\!\\ どのサモサが好きかまでは知らないだろ、バーカ！！！",
-        "checked": false
+        "checked": true
     },
-    { /*"...チーズとポテト入り？" "...チーズ入り、ポテトなし？" "...チーズなし、ポテト入り？" "...チーズとポテトなし？"*/
+    { // TODO: "...チーズとポテト入り？" "...チーズ入り、ポテトなし？" "...チーズなし、ポテト入り？" "...チーズとポテトなし？"
         "en_raw": "(\"Is it samosas...\")",
         "en_clean": "(\"Is it samosas...\")",
         "jp_raw": "(中身は...)",
         "jp_clean": "(中身は...)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Y-Yeah...  That's all my favorite foods...",
@@ -859,27 +846,7 @@
         "jp_clean": "今、時間があるなら。",
         "checked": true
     },
-    {/*DOUBLE CHOICER. "\"今なら行けるよ！\"" "\"じゃあもうちょっと後で...\""*/
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
-        "checked": false
-    },
-    { /*DELETE*/
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
-        "checked": false
-    },
-    {/*DELETE*/
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
-        "checked": false
-    },
+    // TODO: choices "\"今なら行けるよ！\"" "\"じゃあもうちょっと後で...\""
     {
         "en_raw": "Okay.",
         "en_clean": "Okay.",
@@ -1013,11 +980,11 @@
         "jp_clean": "何でもお願いを聞いてくれるって言ったよね？",
         "checked": true
     },
-    { /*Had to guess for Kanji as can't find line. Also eng doesn't include response*/
+    {
         "en_raw": "(Not EXACTLY what you said, but...)",
         "en_clean": "(Not EXACTLY what you said, but...)",
-        "jp_raw": "(顕密にはそこまで言ってないけれど...)<br>        \"うん、何だっていいよ。\"",
-        "jp_clean": "(顕密にはそこまで言ってないけれど...) \"うん、何だっていいよ。\"",
+        "jp_raw": "(厳密にはそこまで言ってないけれど...)",
+        "jp_clean": "(厳密にはそこまで言ってないけれど...)",
         "checked": true
     },
     { 
@@ -1026,11 +993,11 @@
         "jp_raw": "(...)",
         "jp_clean": "(...)",
         "checked": true
-    },
+    }, // TODO: choice \"うん、何だっていいよ。\"
     {
         "en_raw": "Okay, well...",
         "en_clean": "Okay, well...",
-        "jp_raw": "そっか。\\!じゃあ...",
+        "jp_raw": "そっか。じゃあ...",
         "jp_clean": "そっか。じゃあ...",
         "checked": true
     },
@@ -1090,7 +1057,7 @@
         "jp_clean": "だからそれを手伝ってくれよ！",
         "checked": true
     },
-    { /*MISSING "let's go!" and "行くぜぇ" from official site, though it's in the zone out part*/
+    { // TODO: missing bonnie "Let's go!!!" "行くぜぇ！"
         "en_raw": "(Bonnie ran away...)",
         "en_clean": "(Bonnie ran away...)",
         "jp_raw": "(ボニーが走って行ってしまった...)",
@@ -1251,14 +1218,15 @@
         "jp_clean": "(構わず攻撃する。)",
         "checked": true
     },
-    { /*in game this and the XP one are shown as the same dialogue box but with a line break*/
+    {
         "en_raw": "(You breathe in, and out.)",
         "en_clean": "(You breathe in, and out.)",
         "jp_raw": "(息を吸って、そして吐く。)",
         "jp_clean": "(息を吸って、そして吐く。)",
         "checked": true
     },
-    { /*couldn't figure out kanji, you'll have to find*/
+    { // TODO: it' s a Mystery where the translations for these are     SAve eme
+        // og english is database > terms > messages. no idea where translations are
         "en_raw": "(150 EXP recieved.)",
         "en_clean": "(150 EXP recieved.)",
         "jp_raw": "(150 EXP )",
@@ -1275,11 +1243,11 @@
     { /*eng doesn't have what is said. Also kanji is guessed*/
         "en_raw": "(You can't help but yell.)",
         "en_clean": "(You can't help but yell.)",
-        "jp_raw": "(思わず叫んでしまう。)<br>       \"ボニー、もっと慎重に！！！\"",
-        "jp_clean": "(思わず叫んでしまう。)<br>       \"ボニー、もっと慎重に！！！\"",
+        "jp_raw": "(思わず叫んでしまう。)",
+        "jp_clean": "(思わず叫んでしまう。)",
         "checked": false
-    },
-    { /*can't find line*/
+    }, // TODO: choice \"ボニー、もっと慎重に！！！\"
+    { // TODO: stopped checking here for now
         "en_raw": "(You don't have to remember to yell.)",
         "en_clean": "(You don't have to remember to yell.)",
         "jp_raw": null,
