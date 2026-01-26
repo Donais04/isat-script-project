@@ -65,15 +65,9 @@
     {
         "en_raw": "(You got two SALTY BROTHS!)",
         "en_clean": "(You got two SALTY BROTHS!)",
-        "jp_raw": [
-            "\\m[clear](「しょっぱスープ」を手に入れた！)",
-            "(「しょっぱスープ」を2つ手に入れた！)"
-        ],
-        "jp_clean": [
-            "(「しょっぱスープ」を手に入れた！)",
-            "(「しょっぱスープ」を2つ手に入れた！)"
-        ],
-        "checked": false
+        "jp_raw": "(「しょっぱスープ」を2つ手に入れた！)",
+        "jp_clean": "(「しょっぱスープ」を2つ手に入れた！)",
+        "checked": true
     },
     {
         "en_raw": "(You got three CRAFTED WATERS!)",

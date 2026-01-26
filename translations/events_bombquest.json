@@ -478,14 +478,8 @@
     {
         "en_raw": "<span class=\"shake\">\n What the--\n</span>",
         "en_clean": "What the--",
-        "jp_raw": [
-            "今度はなん――",
-            "<span class=\"shake\">\n何を――\n</span>"
-        ],
-        "jp_clean": [
-            "今度はなん――",
-            "何を――"
-        ],
+        "jp_raw": "<span class=\"shake\">\n何を――\n</span>",
+        "jp_clean": "何を――",
         "checked": true
     },
     {
