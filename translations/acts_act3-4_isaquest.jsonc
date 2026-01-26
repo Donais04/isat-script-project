@@ -711,22 +711,12 @@
         "jp_clean": "(よく見てるんだな、イザボーは！)",
         "checked": true
     },
-    { //TODO unsure which
+    { 
         "en_raw": "(You want to cry.)",
         "en_clean": "(You want to cry.)",
-        "jp_raw": [
-            "\\m[clear](泣きたい気分だ。)",
-            "(目頭が熱くなってきた。)",
-            "\\m[clear]\\(泣きたい気分だ。)",
-            "(泣きたい気分だ。)\\"
-        ],
-        "jp_clean": [
-            "(泣きたい気分だ。)",
-            "(目頭が熱くなってきた。)",
-            "(泣きたい気分だ。)",
-            "(泣きたい気分だ。)"
-        ],
-        "checked": false
+        "jp_raw": "(目頭が熱くなってきた。)",
+        "jp_clean": "(目頭が熱くなってきた。)",
+        "checked": true
     },
     {
         "en_raw": "(The stars won't listen.)",
@@ -1400,38 +1390,12 @@
         "jp_clean": "かしこマッチョか... なかなかトガッてるな？",
         "checked": false
     },
-    { //TODO unsure which
+    { 
         "en_raw": "Oh.",
         "en_clean": "Oh.",
-        "jp_raw": [
-            "\\m[vi]えっ。",
-            "\\m[vo]ああ。",
-            "\\m[vb]おう。",
-            "\\m[vm]えっ。",
-            "\\m[vinp]おお。",
-            "\\m[vlnp]あー。\\",
-            "\\m[vlnp]わあ。",
-            "\\m[vm]あっ。",
-            "\\m[vkid]\\n<\\v[46]>ふーん。",
-            "\\n<\\v[46]>\\m[vkid]へえ。",
-            "\\m[vonp]おや。",
-            "\\m[vl]へえ。"
-        ],
-        "jp_clean": [
-            "えっ。",
-            "ああ。",
-            "おう。",
-            "えっ。",
-            "おお。",
-            "あー。",
-            "わあ。",
-            "あっ。",
-            "ふーん。",
-            "へえ。",
-            "おや。",
-            "へえ。"
-        ],
-        "checked": false
+        "jp_raw": "おお。",
+        "jp_clean": "おお。",
+        "checked": true
     },
     {
         "en_raw": ". . .",
