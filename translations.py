@@ -89,7 +89,7 @@ def generate_filecontent(filelist: list[str] = None) -> dict[str, bs4.element.Re
             filecontent[file] = soup.select(".dialogue-line") # get all the dialogue lines in the file
     return filecontent
         
-def write_lines_json():
+def write_site_lines_json():
     filecontent = generate_filecontent()
     print('doing things')
     pages = {}
@@ -178,7 +178,7 @@ def clean_site_lines():
     with open("raw_site_lines.json", encoding="utf-8") as file:
         site_lines_file: dict = json.load(file)
         
-    newline_pattern = re.compile(r"(\n )?<br\/>(\n )?|\n ?")
+    newline_pattern = re.compile(r"(\n )?<br\/>(\n )?|\\n ?")
     tag_pattern = re.compile(r"<.+?>")
     missing_space_pattern = re.compile(r"(\?|(?<!\\)!)\w")
         
@@ -285,6 +285,10 @@ def format_line_associations(json_path: str | None = None):
                 write_json_to_file(path + "/" + file, file_lines)
                 bar()
     
-    
+
+generate_filelist()
+write_site_lines_json()
+clean_site_lines()
+clean_game_lines()
 generate_page_line_associations()
 format_line_associations()
