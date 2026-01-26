@@ -917,40 +917,40 @@
         "jp_clean": "...で、手伝ってくれるか？",
         "checked": true
     },
-    { //TODO I think website might be inaccurate? I could only choose \"Oh, I've heard the boulangerie has one of those!\" "\"ああ、パン屋にあるって聞いたよ！\"" here
+    { // TODO there should be conditionals mentioned here
         "en_raw": "\"Oh, I've heard the boulangerie has one of those!\"",
         "en_clean": "\"Oh, I've heard the boulangerie has one of those!\"",
         "jp_raw": "\"ああ、パン屋にあるって聞いたよ！\"",
         "jp_clean": "\"ああ、パン屋にあるって聞いたよ！\"",
-        "checked": false
+        "checked": true
     },
-    { //if I'm right, you should delete this
+    {
         "en_raw": "...Thank you, Siffrin.",
         "en_clean": "...Thank you, Siffrin.",
         "jp_raw": "...ありがとう、シフラン。",
         "jp_clean": "...ありがとう、シフラン。",
-        "checked": false
+        "checked": true
     },
-    { //and this
+    {
         "en_raw": "Ha. Okay.",
         "en_clean": "Ha. Okay.",
         "jp_raw": "ふむ。それでは...",
         "jp_clean": "ふむ。それでは...",
-        "checked": false
+        "checked": true
     },
-    { //and this
+    {
         "en_raw": "I was planning to look in Dormont's library, but I have to buy some supplies.",
         "en_clean": "I was planning to look in Dormont's library, but I have to buy some supplies.",
         "jp_raw": "ドーモントの図書館で探してみようと思っていたが、買い物もしなければならない。",
         "jp_clean": "ドーモントの図書館で探してみようと思っていたが、買い物もしなければならない。",
         "checked": false
     },
-    { //and this
+    {
         "en_raw": "And I want to look inside Dormont's House, but...  Who knows if we'll have time to search, so...",
         "en_clean": "And I want to look inside Dormont's House, but...  Who knows if we'll have time to search, so...",
-        "jp_raw": null,
-        "jp_clean": null,
-        "checked": false
+        "jp_raw": "それに、ドーモントの館でも探したいが... そんな時間が取れるかどうか分からないし...",
+        "jp_clean": "それに、ドーモントの館でも探したいが... そんな時間が取れるかどうか分からないし...",
+        "checked": true
     },
     {
         "en_raw": "Wh-what?",
@@ -1018,9 +1018,9 @@
     { //TODO missing double choicer. "\"I have time now!\"" "\"今なら行けるよ！\"" "\"Maybe in a second...\"" "\"じゃあもうちょっと後で...\""
         "en_raw": "...Thank you.",
         "en_clean": "...Thank you.",
-        "jp_raw": "...m[wait]ありがとう。",
+        "jp_raw": "...ありがとう。",
         "jp_clean": "...ありがとう。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Let's go, then.",
@@ -1121,17 +1121,10 @@
         "checked": true
     },
     { //TODO eng missing
-        "en_raw": "",
+        "en_raw": "", // \"Do you have it still?\"
         "en_clean": "",
         "jp_raw": "\"まだここにある？\"",
         "jp_clean": "\"まだここにある？\"",
-        "checked": false
-    },
-    { //whatever
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
         "checked": false
     },
     {
@@ -1503,14 +1496,7 @@
         "en_clean": "",
         "jp_raw": "\"その子たちと話せばよさそうだ。\"",
         "jp_clean": "\"その子たちと話せばよさそうだ。\"",
-        "checked": false
-    },
-    {
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": ". . .",
@@ -1589,19 +1575,19 @@
         "jp_clean": "シフラン、任せた。",
         "checked": true
     },
-    { //TODO eng missing response
+    { //TODO missing response \"どうして僕が？\"
         "en_raw": "(WHY YOU?!?)",
         "en_clean": "(WHY YOU?!?)",
-        "jp_raw": "(どうして僕！？)   \"どうして僕が？\"",
-        "jp_clean": "(どうして僕！？)     \"どうして僕が？\"",
-        "checked": false
+        "jp_raw": "(どうして僕！？)",
+        "jp_clean": "(どうして僕！？)",
+        "checked": true
     },
-    { //TODO idk, this line also has response \"どうして僕が？\". Do your thing, Gold, then tell me how to do it so you don't have to
+    { //TODO response \"どうして僕が？\"
         "en_raw": "(You sigh.)",
         "en_clean": "(You sigh.)",
         "jp_raw": "(僕はため息をつく。)",
         "jp_clean": "(僕はため息をつく。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "You're closer to being a kid than I am.",
@@ -1629,7 +1615,7 @@
         "en_clean": "(Okay...)",
         "jp_raw": "(はいはい...)",
         "jp_clean": "(はいはい...)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Are you saying we're\n<span class=\"shake\">\n THIEFES?\n</span>",
@@ -1713,7 +1699,7 @@
         "en_clean": "Ah...",
         "jp_raw": "あー...",
         "jp_clean": "あー...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Manon, I think he's asking about...",
@@ -1776,7 +1762,7 @@
         "en_clean": ". . .",
         "jp_raw": ". . .",
         "jp_clean": ". . .",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "TWO silver coins.",
@@ -2210,14 +2196,7 @@
         "en_clean": "",
         "jp_raw": "\"すてきな本を持ってるんだって？\"",
         "jp_clean": "\"すてきな本を持ってるんだって？\"",
-        "checked": false
-    },
-    {
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "A book...?",
@@ -2427,14 +2406,7 @@
         "en_clean": "",
         "jp_raw": "\"それはオディールの研究に関係してるの？\"",
         "jp_clean": "\"それはオディールの研究に関係してるの？\"",
-        "checked": false
-    },
-    {
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "...",
@@ -2455,7 +2427,7 @@
         "en_clean": "",
         "jp_raw": "\"...その本さ、オディールの研究に関係してるの？\"",
         "jp_clean": "\"...その本さ、オディールの研究に関係してるの？\"",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "",
@@ -2518,14 +2490,7 @@
         "en_clean": "",
         "jp_raw": "\"じゃあどうしてオディールは...\"",
         "jp_clean": "\"じゃあどうしてオディールは...\"",
-        "checked": false
-    },
-    {
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Why did I leave Ka Bue, travel for years, all to find myself in Vaugarde, if not for some intellectual pursuit?",
@@ -2709,19 +2674,19 @@
         "jp_clean": "それを取り戻すためには、行くしかない。",
         "checked": true
     },
-    {//TODO missing eng response
+    {//TODO response \"だから...\"
         "en_raw": "(...)",
         "en_clean": "(...)",
-        "jp_raw": "(...) \"だから...\"",
-        "jp_clean": "(...) \"だから...\"",
-        "checked": false
+        "jp_raw": "(...)",
+        "jp_clean": "(...)",
+        "checked": true
     },
     {
         "en_raw": "(...)",
         "en_clean": "(...)",
         "jp_raw": "(...)",
         "jp_clean": "(...)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Hm.",
@@ -3052,19 +3017,19 @@
         "jp_clean": "きみはどうなんだ、シフラン？ ヴォーガルドに来て自分自身への理解は深まったか？",
         "checked": true
     },
-    {//TODO missing eng response
+    {//TODO response \"どういう意味？\"
         "en_raw": "(Huh?)",
         "en_clean": "(Huh?)",
-        "jp_raw": "(は？)   \"どういう意味？\"",
-        "jp_clean": "(は？)   \"どういう意味？\"",
-        "checked": false
+        "jp_raw": "(は？)",
+        "jp_clean": "(は？)",
+        "checked": true
     },
     {
         "en_raw": "(...)",
         "en_clean": "(...)",
         "jp_raw": "(...)",
         "jp_clean": "(...)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Well, you didn't grow up in Vaugarde either, right? Do you have roots here? Or were you just passing through?",
@@ -3092,14 +3057,7 @@
         "en_clean": "",
         "jp_raw": "\"何も言ってないだろ。\"",
         "jp_clean": "\"何も言ってないだろ。\"",
-        "checked": false
-    },
-    {
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "You didn't need to. Your face said it all.",
@@ -3526,14 +3484,7 @@
         "en_clean": "",
         "jp_raw": "そうだね！",
         "jp_clean": "そうだね！",
-        "checked": false
-    },
-    {
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Heh.",
@@ -3556,19 +3507,19 @@
         "jp_clean": "不思議なものだな... 気分がずっと軽くなった。",
         "checked": true
     },
-    { //TODO eng response missing "\"Because you found a familytale?\""
+    { //TODO response "\"Because you found a familytale?\""
         "en_raw": "(Hm?)",
         "en_clean": "(Hm?)",
-        "jp_raw": "(ん？)  \"一族の物語を見つけたから？\"",
-        "jp_clean": "(ん？) \"一族の物語を見つけたから？\"",
-        "checked": false
+        "jp_raw": "(ん？)", // \"一族の物語を見つけたから？\"
+        "jp_clean": "(ん？)",
+        "checked": true
     },
     {
         "en_raw": "(...)",
         "en_clean": "(...)",
         "jp_raw": "(...)",
         "jp_clean": "(...)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "...Yeeeees, and also because we talked, Siffrin.",

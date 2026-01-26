@@ -1052,11 +1052,11 @@
         "jp_clean": "シフ... 関係あるのか？",
         "checked": false
     },
-    {//TODO eng missing response
+    {//TODO response \"ヴォーガルドの時間を止めたいのはなぜ？\"
         "en_raw": "(But they might!)",
         "en_clean": "(But they might!)",
-        "jp_raw": "(あるかもしれないじゃないか！) \"ヴォーガルドの時間を止めたいのはなぜ？\"",
-        "jp_clean": "(あるかもしれないじゃないか！) \"ヴォーガルドの時間を止めたいのはなぜ？\"",
+        "jp_raw": "(あるかもしれないじゃないか！)",
+        "jp_clean": "(あるかもしれないじゃないか！)",
         "checked": false
     },
     { //TODO eng missing response here too or however you do it
@@ -1095,7 +1095,7 @@
         "checked": true
     },
     { //TODO website + here eng wrong
-        "en_raw": "<span class=\"shake\">\n Oh, stars...... I thought my intentions were clear...\n</span>",
+        "en_raw": "<span class=\"shake\">\n Oh, stars...... I thought my intentions were clear...\n</span>", // But no one seems to understand......!
         "en_clean": "Oh, stars...... I thought my intentions were clear...",
         "jp_raw": "<span class=\"shake\">\n おお、星たちよ......<br>\n私の意図ははっきりさせたとばかり...<br>\nしかし、誰も理解していないようだ......\n</span>",
         "jp_clean": "おお、星たちよ......私の意図ははっきりさせたとばかり...しかし、誰も理解していないようだ......",
@@ -1157,19 +1157,19 @@
         "jp_clean": "おお、おおお......",
         "checked": true
     },
-    { //TODO this line and next were a single dialogue box in my game separated by a line break
+    {
         "en_raw": "<span class=\"shake\">\n Because...... Vaugarde......\n</span>",
         "en_clean": "Because...... Vaugarde......",
         "jp_raw": "<span class=\"shake\">\n それは...... ヴォーガルドが......\n</span>",
         "jp_clean": "それは...... ヴォーガルドが......",
-        "checked": false
+        "checked": true
     },
-    {
+    { // TODO make king's dialogue head invisible on site here
         "en_raw": "<span class=\"shake\">\n Is perfect.\n</span>",
         "en_clean": "Is perfect.",
         "jp_raw": "完璧だからだ。",
         "jp_clean": "完璧だからだ。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Perfect...?",
@@ -1409,7 +1409,7 @@
         "jp_clean": "(...それはなんだ？)",
         "checked": true
     },
-    { //TODO I got this dialogue on my first time, but website says it only plays on subsequent times. Double check that 
+    {
         "en_raw": "(Time Craft, you've heard this before...)",
         "en_clean": "(Time Craft, you've heard this before...)",
         "jp_raw": "(時間のクラフト。前に聞いたことがある...)",
@@ -1703,12 +1703,12 @@
         "jp_clean": "(...) \"そのクラフト学の本には、時間のクラフトについて書かれてる？\"",
         "checked": true
     },
-    {//TODO can't find
+    {
         "en_raw": "(You know this already.)",
         "en_clean": "(You know this already.)",
-        "jp_raw": null,
-        "jp_clean": null,
-        "checked": false
+        "jp_raw": "(もう分かっている。)",
+        "jp_clean": "(もう分かっている。)",
+        "checked": true
     },
     {
         "en_raw": "Time Craft? What for?",
@@ -2312,12 +2312,12 @@
         "jp_clean": "(...)",
         "checked": true
     },
-    { //TODO fix eng, should have ... before it
+    { //TODO/TYPO fix eng, should have ... before it
         "en_raw": "(Sometimes   you understand the King more than you'd like to.)",
         "en_clean": "(Sometimes   you understand the King more than you'd like to.)",
         "jp_raw": "(... 必要以上に王を理解してしまった。)",
         "jp_clean": "(... 必要以上に王を理解してしまった。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(You breathe out, trying to keep your anger close to your body.)",
@@ -2667,14 +2667,14 @@
         "en_clean": "(Huh?)",
         "jp_raw": "(えっ？) \"じゃあ、本当にヴォーガルド人じゃないってこと？\"",
         "jp_clean": "(えっ？) \"じゃあ、本当にヴォーガルド人じゃないってこと？\"",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(...)",
         "en_clean": "(...)",
         "jp_raw": "(...)",
         "jp_clean": "(...)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Oh, apparently not.",
@@ -2828,14 +2828,14 @@
         "en_clean": "(...)",
         "jp_raw": "(...)",
         "jp_clean": "(...)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(...)",
         "en_clean": "(...)",
         "jp_raw": "(...)",
         "jp_clean": "(...)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "That IS a very tall crown!",
@@ -2954,13 +2954,6 @@
         "en_clean": "",
         "jp_raw": "\"あれは、星の模様だ。\"",
         "jp_clean": "\"あれは、星の模様だ。\"",
-        "checked": false
-    },
-    {
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
         "checked": false
     },
     {
@@ -3474,25 +3467,19 @@
         "jp_clean": "フランを混乱させるな！ 忘れてることなんか、一つもないぞ！！！",
         "checked": true
     },
-    { //In my game this line was split in two at the br
+    { // TYPO why are these on the same line
         "en_raw": "(But you have, haven't you?)\n<br/>\n(You try not to think about it, but... But...)",
         "en_clean": "(But you have, haven't you?)(You try not to think about it, but... But...)",
         "jp_raw": "(忘れていることは、ある。そうだろ？) (考えないようにするけれど... けれど...)",
         "jp_clean": "(忘れていることは、ある。そうだろ？) (考えないようにするけれど... けれど...)",
         "checked": true
     },
-    { //TODO unsure which
+    {
         "en_raw": "(You know, you know, you know.)",
         "en_clean": "(You know, you know, you know.)",
-        "jp_raw": [
-            "\\m[clear](知ってる。\\!知ってるよ。)",
-            "\\m[clear](知ってる。<br>\r\n知ってるよ。<br>\r\n知ってるんだ。)"
-        ],
-        "jp_clean": [
-            "(知ってる。知ってるよ。)",
-            "(知ってる。知ってるよ。知ってるんだ。)"
-        ],
-        "checked": false
+        "jp_raw": "(知ってる。知ってるよ。知ってるんだ。)",
+        "jp_clean": "(知ってる。知ってるよ。知ってるんだ。)",
+        "checked": true
     },
     {
         "en_raw": "\"What have I forgotten?\"",
@@ -3707,16 +3694,16 @@
     { //TODO double choicer "\"No time!\"" "\"時間がない！\"" "\"...Sure.\"" "\"...いいよ。\""
         "en_raw": "(You probably should, right now.)",
         "en_clean": "(You probably should, right now.)",
-        "jp_raw": null,
-        "jp_clean": null,
-        "checked": false
+        "jp_raw": "(すぐにでも読んだほうがいい。)",
+        "jp_clean": "(すぐにでも読んだほうがいい。)",
+        "checked": true
     },
     {
         "en_raw": "(...)",
         "en_clean": "(...)",
         "jp_raw": "(...)",
         "jp_clean": "(...)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Aw, boo...",
@@ -3800,35 +3787,35 @@
         "en_clean": "\"Mom told me to clean my room today.\"",
         "jp_raw": "<i>「今日はママにへやをそうじしろって言われた」</i>",
         "jp_clean": "「今日はママにへやをそうじしろって言われた」",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "\"I HATE CLEANING MY ROOM!!! MY ROOM ISN'T EVEN DIRTY!! WHY DOESN'T SHE UNDERSTAND!!!!!!!\"",
         "en_clean": "\"I HATE CLEANING MY ROOM!!! MY ROOM ISN'T EVEN DIRTY!! WHY DOESN'T SHE UNDERSTAND!!!!!!!\"",
         "jp_raw": "<i>「おそうじなんて大キライ！！！ へやはきたなくない！ ママだってわかってるはずなのに！！！」</i>",
         "jp_clean": "「おそうじなんて大キライ！！！ へやはきたなくない！ ママだってわかってるはずなのに！！！」",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "\"Urgh. Also, Dad noticed no one can say the name of the island north of here anymore?\"",
         "en_clean": "\"Urgh. Also, Dad noticed no one can say the name of the island north of here anymore?\"",
         "jp_raw": "<i>「あーあ。 それから、パパが北にある島のなまえをだれも思い出せないとか言ってた」</i>",
         "jp_clean": "「あーあ。 それから、パパが北にある島のなまえをだれも思い出せないとか言ってた」",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "\"I tried to say it yesterday and I got like the WEIRDEST headache for HOURS.\"",
         "en_clean": "\"I tried to say it yesterday and I got like the WEIRDEST headache for HOURS.\"",
         "jp_raw": "<i>「わたしもきのう思い出そうとしたけど、そしたらなん時間もあたまがいたくなっちゃった」</i>",
         "jp_clean": "「わたしもきのう思い出そうとしたけど、そしたらなん時間もあたまがいたくなっちゃった」",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "\"Might trick my friends into saying it tomorrow.\"",
         "en_clean": "\"Might trick my friends into saying it tomorrow.\"",
         "jp_raw": "<i>「明日ともだちに言わせてみよう。ひっかかるかな？」</i>",
         "jp_clean": "「明日ともだちに言わせてみよう。ひっかかるかな？」",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(The rest is just doodles of a little girl laughing uproariously.)",
@@ -3837,12 +3824,12 @@
         "jp_clean": "(あとは小さな女の子が大爆笑している絵が描いてあるだけだ。)",
         "checked": true
     },
-    { //TODO idk wtf is going on with the eng, might wanna double check
+    { // NOTE sometimes we omit <br>s because we Don't Like Them and nothing else. they Annoy me. just, with how the site's formatted
         "en_raw": "Ah, the island north of Vaugarde...\n<!--<br> ingame-->\nI remember when it happened.",
         "en_clean": "Ah, the island north of Vaugarde... ingame-->I remember when it happened.",
         "jp_raw": "ああ、ヴォーガルドの北にある島か... あれが起きたときのことは覚えている。",
         "jp_clean": "ああ、ヴォーガルドの北にある島か... あれが起きたときのことは覚えている。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Well... \"Remember\" isn't the right word, is it?  We all just know something happened.",
@@ -4255,20 +4242,14 @@
         "en_clean": "(You know.)",
         "jp_raw": "(知ってるよ。)",
         "jp_clean": "(知ってるよ。)",
-        "checked": false
+        "checked": true
     },
-    { //TODO unsure which
+    {
         "en_raw": "(You know, you know, you know.)",
         "en_clean": "(You know, you know, you know.)",
-        "jp_raw": [
-            "\\m[clear](知ってる。\\!知ってるよ。)",
-            "\\m[clear](知ってる。<br>\r\n知ってるよ。<br>\r\n知ってるんだ。)"
-        ],
-        "jp_clean": [
-            "(知ってる。知ってるよ。)",
-            "(知ってる。知ってるよ。知ってるんだ。)"
-        ],
-        "checked": false
+        "jp_raw": "(知ってる。知ってるよ。知ってるんだ。)",
+        "jp_clean": "(知ってる。知ってるよ。知ってるんだ。)",
+        "checked": true
     },
     {
         "en_raw": "That's right! The Universe!",
@@ -4905,7 +4886,7 @@
         "en_clean": "\"Where are you from?\"",
         "jp_raw": "\"...どこの出身なの？\"",
         "jp_clean": "\"...どこの出身なの？\"",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(Will he say it if you ask?)",
@@ -5094,7 +5075,7 @@
         "en_clean": "(...No, no, no!!!)",
         "jp_raw": "<span class=\"shake\">(...ダメだ、ダメだ、ダメだ！！)</span>",
         "jp_clean": "(...ダメだ、ダメだ、ダメだ！！)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(You heard it, he said it, he tried to say it! Your country's name, your home, your--)",
@@ -5227,7 +5208,7 @@
         "en_clean": "(AH...!!!)",
         "jp_raw": "<span class=\"shake\">(ああ...！！！)</span>",
         "jp_clean": "(ああ...！！！)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "<span class=\"shake\">\n NO!!!!!!\n</span>",
@@ -5241,21 +5222,21 @@
         "en_clean": "(Your throat... Your head......!!!)",
         "jp_raw": "<span class=\"shake\">(喉が... 頭が......！！！)</span>",
         "jp_clean": "(喉が... 頭が......！！！)",
-        "checked": false
+        "checked": true
     },
     {//TODO eng missing shake here
         "en_raw": "(It hurts, it hurts...)",
         "en_clean": "(It hurts, it hurts...)",
         "jp_raw": "<span class=\"shake\">(痛い、痛い...)</span>",
         "jp_clean": "(痛い、痛い...)",
-        "checked": false
+        "checked": true
     },
     {//TODO eng missing shake here
         "en_raw": "(You spit blood, you hack up, you have to get it out--)",
         "en_clean": "(You spit blood, you hack up, you have to get it out--)",
         "jp_raw": "<span class=\"shake\">(血を吐き、もがいて、つかみ取るんだ――)</span>",
         "jp_clean": "(血を吐き、もがいて、つかみ取るんだ――)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "<span class=\"shake\">\n Bright one, I-- Almost heard it, I......!!!\n</span>",
@@ -5276,7 +5257,7 @@
         "en_clean": "(Your entire body hurts...!!!)",
         "jp_raw": "<span class=\"shake\">(体じゅうが痛い...！！！)</span>",
         "jp_clean": "(体じゅうが痛い...！！！)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(You can't hear it, you can't remember it, it's useless!!!)",
@@ -5733,12 +5714,12 @@
         "jp_clean": "(吸って。)",
         "checked": true
     },
-    { //TODO double check this one pls
+    {
         "en_raw": "(And out.)",
         "en_clean": "(And out.)",
         "jp_raw": "(吐く。)",
         "jp_clean": "(吐く。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(And in.)",
@@ -7490,19 +7471,19 @@
         "jp_clean": "ならば......",
         "checked": true
     },
-    { //TODO in my game this and the next line were conjoined
+    {
         "en_raw": "I just need to make sure that today......",
         "en_clean": "I just need to make sure that today......",
-        "jp_raw": "今日は確実に......<br>学んでもらおう。",
-        "jp_clean": "今日は確実に......学んでもらおう。",
-        "checked": false
+        "jp_raw": "今日は確実に......",
+        "jp_clean": "今日は確実に......",
+        "checked": true
     },
-    {
+    { // TODO make king's dialogue head invisible
         "en_raw": "You learn your lesson.",
         "en_clean": "You learn your lesson.",
-        "jp_raw": null,
-        "jp_clean": null,
-        "checked": false
+        "jp_raw": "学んでもらおう。",
+        "jp_clean": "学んでもらおう。",
+        "checked": true
     },
     {
         "en_raw": "<span class=\"shake\">\n Ah...!\n</span>",
@@ -8286,7 +8267,7 @@
         "en_clean": "I TOLD YOU SO!!!",
         "jp_raw": "<span class=\"shake\">言っただろ！！！</span>",
         "jp_clean": "言っただろ！！！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Teehee, what a stupid idea you had!!! Thinking the King could be turned good!!!",
