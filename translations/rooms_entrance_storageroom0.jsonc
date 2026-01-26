@@ -237,12 +237,12 @@
         "jp_clean": "あっ、これはクラフト水だね！",
         "checked": true
     },
-    { //TODO double check formatting
+    {
         "en_raw": "If someone gets\n<!--\\i[1] do we have this icon-->\nKnocked Out during battle...\n<br/>\nJust a drop of it is enough to wake them right up!",
         "en_clean": "If someone gets Knocked Out during battle...Just a drop of it is enough to wake them right up!",
         "jp_raw": "バトル中に誰かが\n<!--\\i[1] do we have this icon-->\nダウン したときは... これを1滴たらすだけで目が覚めるよ！",
         "jp_clean": "バトル中に誰かがダウン したときは... これを1滴たらすだけで目が覚めるよ！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Someone at school told me it was just coconut water!",
@@ -650,12 +650,12 @@
         "jp_clean": "(目をキラキラさせた人たちが手をつないでいる絵が描かれている。)",
         "checked": true
     },
-    { //TODO: double check this, guessed this based on speaker, not line location
+    {
         "en_raw": "Hehehe...",
         "en_clean": "Hehehe...",
         "jp_raw": "ふふふ...",
         "jp_clean": "ふふふ...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "I drew those a few years ago to get people to come to the House...\n<br/>\nIt's a little embarrassing now.",

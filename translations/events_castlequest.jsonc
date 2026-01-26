@@ -13,12 +13,12 @@
         "jp_clean": "俺は...",
         "checked": true
     },
-    { //TODO double check formatting
+    {
         "en_raw": "<span class=\"big shake\">\n I WON'T BE ABLE TO KNOW WHAT HAPPENS\n <br/>\n TO LORD JOSÉPHANDRE IN THE FINAL ISSUE OF \"THE CURSING OF CHÂTEAU CASTLE\"!\n</span>",
         "en_clean": "I WON'T BE ABLE TO KNOW WHAT HAPPENS TO LORD JOSÉPHANDRE IN THE FINAL ISSUE OF \"THE CURSING OF CHÂTEAU CASTLE\"!",
         "jp_raw": "<span class=\"big shake\">\nけして知ることはできないんだ。\n <br/>\nジョゼファンドル卿と「キャッスル城の呪い」の結末をな！\n</span>",
         "jp_clean": "けして知ることはできないんだ。ジョゼファンドル卿と「キャッスル城の呪い」の結末をな！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Did he manage to protect his castle to the very end?!? Did he finally find his friend Pierre-Jacques-Erneste, did he finally find more about himself?!?",
@@ -118,12 +118,12 @@
         "jp_clean": "ああ。この人。",
         "checked": true
     },
-    { //TODO double check. Guessed based on speaker
+    {
         "en_raw": "Oh?",
         "en_clean": "Oh?",
         "jp_raw": "ええっ？",
         "jp_clean": "ええっ？",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Oh???",
@@ -230,12 +230,12 @@
         "jp_clean": "私が持ってた貴重な「キャッスル城の呪い」を、彼に盗まれたかもしれないんだ。",
         "checked": true
     },
-    { //TODO double check. Guessed based on speaker
+    {
         "en_raw": "Oh no!",
         "en_clean": "Oh no!",
         "jp_raw": "そんな！",
         "jp_clean": "そんな！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "A thief!!!!!",
@@ -265,20 +265,12 @@
         "jp_clean": "盗っ人だ......",
         "checked": true
     },
-    { //TODO unsure which, I'm not looking at game this time
+    {
         "en_raw": "(Hm...)",
         "en_clean": "(Hm...)",
-        "jp_raw": [
-            "\\m[clear](ふむ...)",
-            "(ふむ...)",
-            "\\m[vs](そうだな...)\\!\\"
-        ],
-        "jp_clean": [
-            "(ふむ...)",
-            "(ふむ...)",
-            "(そうだな...)"
-        ],
-        "checked": false
+        "jp_raw": "(ふむ...)",
+        "jp_clean": "(ふむ...)",
+        "checked": true
     },
     {
         "en_raw": "(You look through his pockets.)",
@@ -560,12 +552,12 @@
         "jp_clean": "俺は...",
         "checked": true
     },
-    {//TODO double check formatting again
+    {
         "en_raw": "<span class=\"big shake\">\n I WON'T BE ABLE TO KNOW WHAT HAPPENS\n <br/>\n TO LORD JOSÉPHANDRE IN THE FINAL ISSUE OF \"THE CURSING OF CHÂTEAU CASTLE\"!\n</span>",
         "en_clean": "I WON'T BE ABLE TO KNOW WHAT HAPPENS TO LORD JOSÉPHANDRE IN THE FINAL ISSUE OF \"THE CURSING OF CHÂTEAU CASTLE\"!",
         "jp_raw": "<span class=\"big shake\">\nけして知ることはできないんだ。\n <br/>\nジョゼファンドル卿と「キャッスル城の呪い」の結末をな！\n</span>",
         "jp_clean": "けして知ることはできないんだ。ジョゼファンドル卿と「キャッスル城の呪い」の結末をな！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Did he manage to protect his castle to the very end?!? Did he finally find his friend Pierre-Jacques-Erneste, did he finally find more about himself?!?",
@@ -586,14 +578,14 @@
         "en_clean": "",
         "jp_raw": "(最後に見た巻は...)",
         "jp_clean": "(最後に見た巻は...)",
-        "checked": false
+        "checked": true
     },
     { //TODO missing eng "\"Is the final issue... Issue #\\v[62]?\""
         "en_raw": "",
         "en_clean": "",
         "jp_raw": "\"最終巻って... 第\\v[62]巻？\"",
         "jp_clean": "\"最終巻って... 第\\v[62]巻？\"",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(The last one you've seen is...)",
@@ -700,22 +692,12 @@
         "jp_clean": "それだ！！！！！！ それが最終巻だ！！！！！！",
         "checked": true
     },
-    {//TODO unsure which to choose
+    {
         "en_raw": "(Oh!)",
         "en_clean": "(Oh!)",
-        "jp_raw": [
-            "\\m[clear](おお！)",
-            "\\m[vs](ああ！)\\!\\",
-            "\\m[clear]\\m[wait](あっ！)",
-            "(へえ！)"
-        ],
-        "jp_clean": [
-            "(おお！)",
-            "(ああ！)",
-            "(あっ！)",
-            "(へえ！)"
-        ],
-        "checked": false
+        "jp_raw": "(おお！)",
+        "jp_clean": "(おお！)",
+        "checked": true
     },
     { 
         "en_raw": "Oh, please tell me, what happens in this issue!!! Please, you have to tell me!!!!!!!!",
@@ -724,22 +706,12 @@
         "jp_clean": "教えてくれ、物語はどうなった！！！ お願いだ、俺に教えてくれ！！！",
         "checked": true
     },
-    { //TODO unsure which to choose
+    {
         "en_raw": "(Oh.)",
         "en_clean": "(Oh.)",
-        "jp_raw": [
-            "\\m[clear](へえ。)",
-            "\\m[wait](そうか。)",
-            "\\m[clear]\\m[wait]\\m[wait](ああ。)",
-            "(あ。)\\!\\m[wait]\\^"
-        ],
-        "jp_clean": [
-            "(へえ。)",
-            "(そうか。)",
-            "(ああ。)",
-            "(あ。)"
-        ],
-        "checked": false
+        "jp_raw": "(へえ。)",
+        "jp_clean": "(へえ。)",
+        "checked": true
     },
     {
         "en_raw": "(You didn't read it.)",
@@ -1042,12 +1014,12 @@
         "jp_clean": "俺は...",
         "checked": true
     },
-    {//TODO double check formatting again again
+    {
         "en_raw": "<span class=\"big shake\">\n I WON'T BE ABLE TO KNOW WHAT HAPPENS\n <br/>\n TO LORD JOSÉPHANDRE IN THE FINAL ISSUE OF \"THE CURSING OF CHÂTEAU CASTLE\"!\n</span>",
         "en_clean": "I WON'T BE ABLE TO KNOW WHAT HAPPENS TO LORD JOSÉPHANDRE IN THE FINAL ISSUE OF \"THE CURSING OF CHÂTEAU CASTLE\"!",
         "jp_raw": "<span class=\"big shake\">\nけして知ることはできないんだ。\n <br/>\nジョゼファンドル卿と「キャッスル城の呪い」の結末をな！\n</span>",
         "jp_clean": "けして知ることはできないんだ。ジョゼファンドル卿と「キャッスル城の呪い」の結末をな！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Did he manage to protect his castle to the very end?!? Did he finally find his friend Pierre-Jacques-Erneste, did he finally find more about himself?!?",
@@ -1062,20 +1034,6 @@
         "jp_raw": "ああ... 俺が知ることはないんだ...",
         "jp_clean": "ああ... 俺が知ることはないんだ...",
         "checked": true
-    },
-    { //TODO unsure what to do here
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
-        "checked": false
-    },
-    { //TODO unsure what to do here
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
-        "checked": false
     },
     {
         "en_raw": "(The last one you've seen is...)",
@@ -1119,12 +1077,12 @@
         "jp_clean": "なんだと？ ジョゼファンドル卿はただの一般人？",
         "checked": true
     },
-    { //TODO double check. I guessed based on speaker
+    {
         "en_raw": "That's...",
         "en_clean": "That's...",
         "jp_raw": "そんなの...",
         "jp_clean": "そんなの...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "<span class=\"big shake\">\n THAT'S AN ENDING BETTER THAN MY WILDEST DREAMS!!!\n</span>",
@@ -1203,12 +1161,12 @@
         "jp_clean": "ほら、これを――",
         "checked": true
     },
-    { //TODO double check. Guessed based on speaker
+    {
         "en_raw": "...Huh?",
         "en_clean": "...Huh?",
         "jp_raw": "...あれ？",
         "jp_clean": "...あれ？",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Um, I wanted to give you something, but... I can't...",
