@@ -423,7 +423,7 @@
         "en_clean": "(You see a vision of the future...)",
         "jp_raw": "(未来が目に浮かぶ...)",
         "jp_clean": "(未来が目に浮かぶ...)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Ngh...!!!",
@@ -589,9 +589,9 @@
     {
         "en_raw": "(. . .)",
         "en_clean": "(. . .)",
-        "jp_raw": null,
-        "jp_clean": null,
-        "checked": false
+        "jp_raw": "(. . .)",
+        "jp_clean": "(. . .)",
+        "checked": true
     },
     {
         "en_raw": "(...Was it always this easy to fight the King?)",
@@ -946,21 +946,9 @@
     {
         "en_raw": "Heh.",
         "en_clean": "Heh.",
-        "jp_raw": [
-            "\\m[vo]ふん。",
-            "\\m[vonp]ほう。",
-            "\\m[vi]ヘッ。",
-            "\\m[vl]へえ。",
-            "へえ。"
-        ],
-        "jp_clean": [
-            "ふん。",
-            "ほう。",
-            "ヘッ。",
-            "へえ。",
-            "へえ。"
-        ],
-        "checked": false
+        "jp_raw": "ふん。",
+        "jp_clean": "ふん。",
+        "checked": true
     },
     {
         "en_raw": "\"Life will never get better than this, so you should give up now\"?",
@@ -1021,17 +1009,9 @@
     {
         "en_raw": "Hahaha!",
         "en_clean": "Hahaha!",
-        "jp_raw": [
-            "アハハハ！",
-            "\\m[vi]ハハッ！",
-            "\\m[vl]アハハ！"
-        ],
-        "jp_clean": [
-            "アハハハ！",
-            "ハハッ！",
-            "アハハ！"
-        ],
-        "checked": false
+        "jp_raw": "ハハッ！",
+        "jp_clean": "ハハッ！",
+        "checked": true
     },
     {
         "en_raw": "Yeah, what she said! Nice try, trying to manipulate us into being frozen!",
@@ -1246,15 +1226,9 @@
     {
         "en_raw": "So... So...",
         "en_clean": "So... So...",
-        "jp_raw": [
-            "\\m[vb]じゃあ... \\!\\ じゃあさ...",
-            "\\m[vi]じゃ...\\!\\ じゃあ..."
-        ],
-        "jp_clean": [
-            "じゃあ...  じゃあさ...",
-            "じゃ... じゃあ..."
-        ],
-        "checked": false
+        "jp_raw": "じゃ...じゃあ...",
+        "jp_clean": "じゃ... じゃあ...",
+        "checked": true
     },
     {
         "en_raw": "We won?",
@@ -1294,19 +1268,9 @@
     {
         "en_raw": "Haha...",
         "en_clean": "Haha...",
-        "jp_raw": [
-            "\\m[vo]ハハ...",
-            "\\m[vm]あは...",
-            "ハハ...",
-            "\\m[vlnp]ハハ..."
-        ],
-        "jp_clean": [
-            "ハハ...",
-            "あは...",
-            "ハハ...",
-            "ハハ..."
-        ],
-        "checked": false
+        "jp_raw": "ハハ...",
+        "jp_clean": "ハハ...",
+        "checked": true
     },
     {
         "en_raw": "Hahahahaha!!! Oh, it was close for a second there!",
@@ -1318,37 +1282,21 @@
     {
         "en_raw": "Oh...",
         "en_clean": "Oh...",
-        "jp_raw": [
-            "\\m[vb]あぁ...",
-            "\\m[vmnp]あ...",
-            "\\m[vm]あら...",
-            "ああ...",
-            "\\m[vm]えっと\\..\\..\\..",
-            "\\m[vo]ああ...",
-            "\\n<\\v[46]>\\m[vkid]わあ..."
-        ],
-        "jp_clean": [
-            "あぁ...",
-            "あ...",
-            "あら...",
-            "ああ...",
-            "えっと...",
-            "ああ...",
-            "わあ..."
-        ],
-        "checked": false
+        "jp_raw": "あら...",
+        "jp_clean": "あら...",
+        "checked": true
     },
-    {
+    { //WEBSITE MISSING PART OF LINE
         "en_raw": "Is it... Is it truly...",
         "en_clean": "Is it... Is it truly...",
-        "jp_raw": null,
-        "jp_clean": null,
-        "checked": false
+        "jp_raw": "これで... これで本当に... 終わり？",
+        "jp_clean": "これで... これで本当に... 終わり？",
+        "checked": true
     },
-    {
+    { //TODO can't find part of line
         "en_raw": "(You're smiling.)\n                        \"We did it, Mirabelle!\"",
         "en_clean": "(You're smiling.)                       \"We did it, Mirabelle!\"",
-        "jp_raw": null,
+        "jp_raw": "\"やったね、ミラベル\"",
         "jp_clean": null,
         "checked": false
     },
@@ -1411,9 +1359,9 @@
     {
         "en_raw": "What is it?",
         "en_clean": "What is it?",
-        "jp_raw": null,
-        "jp_clean": null,
-        "checked": false
+        "jp_raw": "どうした？！",
+        "jp_clean": "どうした？！",
+        "checked": true
     },
     {
         "en_raw": "The people around us, I can... I can feel them coming back to normal, all over Vaugarde!!!",
@@ -1579,9 +1527,9 @@
     {
         "en_raw": "One step at a time, m'dame!  Let's go!",
         "en_clean": "One step at a time, m'dame!  Let's go!",
-        "jp_raw": null,
-        "jp_clean": null,
-        "checked": false
+        "jp_raw": "一歩ずつでいいからな、マダム！ さあ行こう！",
+        "jp_clean": "一歩ずつでいいからな、マダム！ さあ行こう！",
+        "checked": true
     },
     {
         "en_raw": "Let's go!!!!!!",
@@ -1611,29 +1559,19 @@
         "jp_clean": "ミラベル...！",
         "checked": true
     },
-    {
+    { //TODO double check this one
         "en_raw": "(Oh!)",
         "en_clean": "(Oh!)",
-        "jp_raw": [
-            "\\m[clear](おお！)",
-            "\\m[vs](ああ！)\\!\\",
-            "\\m[clear]\\m[wait](あっ！)",
-            "(へえ！)"
-        ],
-        "jp_clean": [
-            "(おお！)",
-            "(ああ！)",
-            "(あっ！)",
-            "(へえ！)"
-        ],
+        "jp_raw": "(あっ！)",
+        "jp_clean": "(あっ！)",
         "checked": false
     },
     {
         "en_raw": "That's the Head Housemaiden???",
         "en_clean": "That's the Head Housemaiden???",
-        "jp_raw": null,
-        "jp_clean": null,
-        "checked": false
+        "jp_raw": "あれが侍祭長？？？",
+        "jp_clean": "あれが侍祭長？？？",
+        "checked": true
     },
     {
         "en_raw": "She's so tall... She might have three heads on you, Isabeau.",
@@ -1659,9 +1597,9 @@
     {
         "en_raw": "I-The house, and when- The King--",
         "en_clean": "I-The house, and when- The King--",
-        "jp_raw": null,
-        "jp_clean": null,
-        "checked": false
+        "jp_raw": "わたし、館が、あのとき王が――",
+        "jp_clean": "わたし、館が、あのとき王が――",
+        "checked": true
     },
     {
         "en_raw": "Mirabelle, oh, dear one...",
