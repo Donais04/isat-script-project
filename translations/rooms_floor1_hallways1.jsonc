@@ -44,7 +44,7 @@
     {
         "en_raw": "And the way you defeated the last few Sadnesses we've seen... That was... Impressive.",
         "en_clean": "And the way you defeated the last few Sadnesses we've seen... That was... Impressive.",
-        "jp_raw": "それに、さっき哀し身を倒したときの身のこなし... あれは\\..\\..\\..m[wait] 見事だった。",
+        "jp_raw": "それに、さっき哀し身を倒したときの身のこなし... あれは...見事だった。",
         "jp_clean": "それに、さっき哀し身を倒したときの身のこなし... あれは... 見事だった。",
         "checked": true
     },
@@ -622,7 +622,7 @@
     {
         "en_raw": "I am DEFINITELY not looking around me and I'm admiring the view instead so tell me if I'm about to run into something dangerouuuuuus!",
         "en_clean": "I am DEFINITELY not looking around me and I'm admiring the view instead so tell me if I'm about to run into something dangerouuuuuus!",
-        "jp_raw": "俺は景色を楽しむのに忙しくて周りを見てないから、俺に危険が迫ってたら、教えてくれよな！\\m[wait]\\|",
+        "jp_raw": "俺は景色を楽しむのに忙しくて周りを見てないから、俺に危険が迫ってたら、教えてくれよな！",
         "jp_clean": "俺は景色を楽しむのに忙しくて周りを見てないから、俺に危険が迫ってたら、教えてくれよな！",
         "checked": true
     },
