@@ -212,7 +212,7 @@
     {//TODO double check formatting
         "en_raw": "(\"\n<i>\n Because we\n</i>\n<span class=\"wave\">\n LOAF\n</span>\n<i>\n you almost as much as you\n</i>\n<span class=\"wave\">\n LOAF\n</span>\n<i>\n our bread!!!\n</i>\n\")\n<!-- italics aren't on wave text -->",
         "en_clean": "(\"Because we LOAF you almost as much as you LOAF our bread!!!\")",
-        "jp_raw": "(\"<i>なぜなら、<span class=\"wave\">パンパン</span>の愛でみなさまからの<span class=\"wave\">パンパン</span>の期待に応えたいから！！！</i>\")",,
+        "jp_raw": "(\"<i>なぜなら、<span class=\"wave\">パンパン</span>の愛でみなさまからの<span class=\"wave\">パンパン</span>の期待に応えたいから！！！</i>\")",
         "jp_clean": "(\"なぜなら、パンパンの愛でみなさまからのパンパンの期待に応えたいから！！！\")",
         "checked": false
     },
