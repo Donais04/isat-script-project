@@ -227,7 +227,7 @@
     {
         "en_raw": "So... Are we stuck?",
         "en_clean": "So... Are we stuck?",
-        "jp_raw": "じゃあ...m[wait] 詰んだってこと？",
+        "jp_raw": "じゃあ...詰んだってこと？",
         "jp_clean": "じゃあ... 詰んだってこと？",
         "checked": true
     },
@@ -865,7 +865,7 @@
     {
         "en_raw": "(To save Vaugarde.)",
         "en_clean": "(To save Vaugarde.)",
-        "jp_raw": "(ヴォーガルドが救われますように、と。)m[wait]\\^",
+        "jp_raw": "(ヴォーガルドが救われますように、と。)",
         "jp_clean": "(ヴォーガルドが救われますように、と。)",
         "checked": true
     },
@@ -1026,7 +1026,7 @@
     {
         "en_raw": "(You're getting closer.)",
         "en_clean": "(You're getting closer.)",
-        "jp_raw": "(いいところまで来ている。)m[wait]\\^",
+        "jp_raw": "(いいところまで来ている。)",
         "jp_clean": "(いいところまで来ている。)",
         "checked": true
     },
@@ -1428,7 +1428,7 @@
     {
         "en_raw": "<span class=\"shake big\">\n SMASH!!!!!\n</span>",
         "en_clean": "SMASH!!!!!",
-        "jp_raw": "<span class=\"shake\">\\{スマァーッシュ！</span>",
+        "jp_raw": "<span class=\"shake big\">スマァーッシュ！</span>",
         "jp_clean": "スマァーッシュ！",
         "checked": true
     },
