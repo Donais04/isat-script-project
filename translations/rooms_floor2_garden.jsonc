@@ -156,7 +156,7 @@
     {
         "en_raw": "(The bottom of the page says \"For more information on this topic, check out...\")",
         "en_clean": "(The bottom of the page says \"For more information on this topic, check out...\")",
-        "jp_raw": "(ページの一番下に「より詳しい情報は...」と書かれている。)m[wait]\\^",
+        "jp_raw": "(ページの一番下に「より詳しい情報は...」と書かれている。)",
         "jp_clean": "(ページの一番下に「より詳しい情報は...」と書かれている。)",
         "checked": true
     },
