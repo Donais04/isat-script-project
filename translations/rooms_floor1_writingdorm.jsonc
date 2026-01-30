@@ -90,24 +90,12 @@
         "jp_clean": "この記事には、王はおそらくヴォーガルドではない国の出身だろうと書かれてる...",
         "checked": true
     },
-    { //TODO unsure which
+    {
         "en_raw": "(Huh?)",
         "en_clean": "(Huh?)",
-        "jp_raw": [
-            "\\m[vs](ん？)\\!\\",
-            "\\m[clear](へっ？)",
-            "(あれ？)",
-            "\\m[rb]\\m[vs](えっ？)\\!\\",
-            "\\m[clear](えっ？)\\!\\m[wait]\\^"
-        ],
-        "jp_clean": [
-            "(ん？)",
-            "(へっ？)",
-            "(あれ？)",
-            "(えっ？)",
-            "(えっ？)"
-        ],
-        "checked": false
+        "jp_raw": "(えっ？)",
+        "jp_clean": "(えっ？)",
+        "checked": true
     },
     {
         "en_raw": "(...)",
@@ -394,7 +382,7 @@
         "en_clean": "",
         "jp_raw": "\"あれは、星の模様だ。\"",
         "jp_clean": "\"あれは、星の模様だ。\"",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Stars?",
@@ -1295,16 +1283,16 @@
     {
         "en_raw": "(Well.)",
         "en_clean": "(Well.)",
-        "jp_raw": "(それじゃ、改めて。)",
-        "jp_clean": "(それじゃ、改めて。)",
+        "jp_raw": "(ふむ。)",
+        "jp_clean": "(ふむ。)",
         "checked": true
     },
-    {//TODO can't find
+    {
         "en_raw": "(Hehehe...)",
         "en_clean": "(Hehehe...)",
-        "jp_raw": null,
-        "jp_clean": null,
-        "checked": false
+        "jp_raw": "(ふふっ...)",
+        "jp_clean": "(ふふっ...)",
+        "checked": true
     },
     {
         "en_raw": "(...)",
@@ -1313,12 +1301,12 @@
         "jp_clean": "(...)",
         "checked": true
     },
-    { //TODO double check
+    {
         "en_raw": "Oh...",
         "en_clean": "Oh...",
         "jp_raw": "あぁ...",
         "jp_clean": "あぁ...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Oh! So it's REALLY not allowed!",
@@ -1579,18 +1567,12 @@
         "jp_clean": "待って、それ、まくらじゃないよ！ 帽子だ！！！ オイラのと同じ！！！",
         "checked": true
     },
-    { //TODO unsure which
+    {
         "en_raw": "What.",
         "en_clean": "What.",
-        "jp_raw": [
-            "\\m[vo]なんだ。",
-            "\\m[vi]え？"
-        ],
-        "jp_clean": [
-            "なんだ。",
-            "え？"
-        ],
-        "checked": false
+        "jp_raw": "なんだ。",
+        "jp_clean": "なんだ。",
+        "checked": true
     },
     {
         "en_raw": "(You got the PILLOW HAT!)",
