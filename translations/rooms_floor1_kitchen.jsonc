@@ -1,0 +1,1829 @@
+[
+    {
+        "en_raw": "(Condiments and spices.)",
+        "en_clean": "(Condiments and spices.)",
+        "jp_raw": "(調味料とスパイスだ。)",
+        "jp_clean": "(調味料とスパイスだ。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Oh, and...)",
+        "en_clean": "(Oh, and...)",
+        "jp_raw": "(それに...)",
+        "jp_clean": "(それに...)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You locate the items.)",
+        "en_clean": "(You locate the items.)",
+        "jp_raw": "(アイテムを見つけた。)",
+        "jp_clean": "(アイテムを見つけた。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You got one PEPPER JUICE!)",
+        "en_clean": "(You got one PEPPER JUICE!)",
+        "jp_raw": "(「こしょうジュース」を手に入れた！)",
+        "jp_clean": "(「こしょうジュース」を手に入れた！)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You got one GINGER JUICE!)",
+        "en_clean": "(You got one GINGER JUICE!)",
+        "jp_raw": "(「しょうがジュース」を手に入れた！)",
+        "jp_clean": "(「しょうがジュース」を手に入れた！)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You got one THYME JUICE!)",
+        "en_clean": "(You got one THYME JUICE!)",
+        "jp_raw": "(「タイムジュース」を手に入れた！)",
+        "jp_clean": "(「タイムジュース」を手に入れた！)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You give them all to Bonnie for safekeeping.)",
+        "en_clean": "(You give them all to Bonnie for safekeeping.)",
+        "jp_raw": "(ボニーにすべて渡して保管しておいてもらおう。)",
+        "jp_clean": "(ボニーにすべて渡して保管しておいてもらおう。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Nothing else interesting.)",
+        "en_clean": "(Nothing else interesting.)",
+        "jp_raw": "(他に興味深いものは何もない。)",
+        "jp_clean": "(他に興味深いものは何もない。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(A stool.)",
+        "en_clean": "(A stool.)",
+        "jp_raw": "(スツールだ。)",
+        "jp_clean": "(スツールだ。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(But you're fine, so it'd be a waste of time to sit down.)",
+        "en_clean": "(But you're fine, so it'd be a waste of time to sit down.)",
+        "jp_raw": "(座る必要はない。時間を無駄にするだけだ。)",
+        "jp_clean": "(座る必要はない。時間を無駄にするだけだ。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(It's a pile of plates.)",
+        "en_clean": "(It's a pile of plates.)",
+        "jp_raw": "(皿の山がある。)",
+        "jp_clean": "(皿の山がある。)",
+        "checked": true
+    },
+    {
+        "en_raw": "SO TALL!!!",
+        "en_clean": "SO TALL!!!",
+        "jp_raw": "高いなあ！！！",
+        "jp_clean": "高いなあ！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "WHY IS IT SO TALL!!!",
+        "en_clean": "WHY IS IT SO TALL!!!",
+        "jp_raw": "どうしてこんなに積み上げてあるの！！！",
+        "jp_clean": "どうしてこんなに積み上げてあるの！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "Oh!",
+        "en_clean": "Oh!",
+        "jp_raw": "へえ！",
+        "jp_clean": "へえ！",
+        "checked": true
+    },
+    {
+        "en_raw": "I-it's just how the House's cook likes it!",
+        "en_clean": "I-it's just how the House's cook likes it!",
+        "jp_raw": "館のコックさんの好きなやり方なんだよ！",
+        "jp_clean": "館のコックさんの好きなやり方なんだよ！",
+        "checked": true
+    },
+    {
+        "en_raw": "He always used to say... \"If we stack plates super high, then the meals we put on it are sure to reach divine status!!!\"",
+        "en_clean": "He always used to say... \"If we stack plates super high, then the meals we put on it are sure to reach divine status!!!\"",
+        "jp_raw": "いつも言ってた...「皿をすごく高く積み上げれば、<br>その上にのせる料理は神にも届くレベルになる！！」ってね。",
+        "jp_clean": "いつも言ってた...「皿をすごく高く積み上げれば、その上にのせる料理は神にも届くレベルになる！！」ってね。",
+        "checked": true
+    },
+    {
+        "en_raw": "(You go \"ooooh\" along with Isabeau.)",
+        "en_clean": "(You go \"ooooh\" along with Isabeau.)",
+        "jp_raw": "(感嘆するイザボーに調子を合わせて、「おおー」と声を出した。)",
+        "jp_clean": "(感嘆するイザボーに調子を合わせて、「おおー」と声を出した。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You remember to go \"ooooh\" along with Isabeau.)",
+        "en_clean": "(You remember to go \"ooooh\" along with Isabeau.)",
+        "jp_raw": "(感嘆するイザボーに調子を合わせることを思い出し、「おおー」と声を出した。)",
+        "jp_clean": "(感嘆するイザボーに調子を合わせることを思い出し、「おおー」と声を出した。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You think about how hungry you are right now.)",
+        "en_clean": "(You think about how hungry you are right now.)",
+        "jp_raw": "(とてもおなかが空いていることを思い出す。)",
+        "jp_clean": "(とてもおなかが空いていることを思い出す。)",
+        "checked": true
+    },
+    {
+        "en_raw": "Urgh.",
+        "en_clean": "Urgh.",
+        "jp_raw": "やれやれ。",
+        "jp_clean": "やれやれ。",
+        "checked": true
+    },
+    {
+        "en_raw": "Why not, right! How was the food?",
+        "en_clean": "Why not, right! How was the food?",
+        "jp_raw": "いいじゃないか。料理の出来はどうだった？",
+        "jp_clean": "いいじゃないか。料理の出来はどうだった？",
+        "checked": true
+    },
+    {
+        "en_raw": "...",
+        "en_clean": "...",
+        "jp_raw": "...",
+        "jp_clean": "...",
+        "checked": true
+    },
+    {
+        "en_raw": "... Room for improvement...",
+        "en_clean": "... Room for improvement...",
+        "jp_raw": "...改善の余地ありだね...",
+        "jp_clean": "...改善の余地ありだね...",
+        "checked": true
+    },
+    {
+        "en_raw": "Heh. For our kind gentle Mirabelle to say this...",
+        "en_clean": "Heh. For our kind gentle Mirabelle to say this...",
+        "jp_raw": "へえ。優しいミラベルがそう言うということは...",
+        "jp_clean": "へえ。優しいミラベルがそう言うということは...",
+        "checked": true
+    },
+    {
+        "en_raw": "Ha, ha!!! Food tasted like crab!!!",
+        "en_clean": "Ha, ha!!! Food tasted like crab!!!",
+        "jp_raw": "ハハ！！！ カニったれな味だったんだ！！！",
+        "jp_clean": "ハハ！！！ カニったれな味だったんだ！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "(It's a pile of plates.)",
+        "en_clean": "(It's a pile of plates.)",
+        "jp_raw": "(皿の山がある。)",
+        "jp_clean": "(皿の山がある。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(It's a pile of plates.)",
+        "en_clean": "(It's a pile of plates.)",
+        "jp_raw": "(皿の山がある。)",
+        "jp_clean": "(皿の山がある。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(\"So tall\"...)",
+        "en_clean": "(\"So tall\"...)",
+        "jp_raw": "(「高いなあ」...)",
+        "jp_clean": "(「高いなあ」...)",
+        "checked": true
+    },
+    {
+        "en_raw": "(A flyer for the Dormont boulangerie.)",
+        "en_clean": "(A flyer for the Dormont boulangerie.)",
+        "jp_raw": "(ドーモントのパン屋のチラシだ。)",
+        "jp_clean": "(ドーモントのパン屋のチラシだ。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(\"\n<i>\n Dormont's Mignonne Boulangerie. Bread 20% off every Saturday!\n</i>\n\")",
+        "en_clean": "(\"Dormont's Mignonne Boulangerie. Bread 20% off every Saturday!\")",
+        "jp_raw": "(「ドーモントのパン屋\"ミニョン\" 毎週土曜日は20%オフ！」)",
+        "jp_clean": "(「ドーモントのパン屋\"ミニョン\" 毎週土曜日は20%オフ！」)",
+        "checked": true
+    },
+    {
+        "en_raw": "(\"\n<i>\n Because we\n</i>\n<span class=\"wave\">\n LOAF\n</span>\n<i>\n you almost as much as you\n</i>\n<span class=\"wave\">\n LOAF\n</span>\n<i>\n our bread!!!\n</i>\n\")\n<!-- italics aren't on wave text -->",
+        "en_clean": "(\"Because we LOAF you almost as much as you LOAF our bread!!!\")",
+        "jp_raw": "(\"<i>なぜなら、</i><span class=\"wave\">パンパン</span><i>の愛でみなさまからの</i><span class=\"wave\">パンパン</span><i>の期待に応えたいから！！！</i>\")",
+        "jp_clean": "(\"なぜなら、パンパンの愛でみなさまからのパンパンの期待に応えたいから！！！\")",
+        "checked": true
+    },
+    {
+        "en_raw": "Hmm...",
+        "en_clean": "Hmm...",
+        "jp_raw": "むむ...",
+        "jp_clean": "むむ...",
+        "checked": true
+    },
+    {
+        "en_raw": "Urgh.",
+        "en_clean": "Urgh.",
+        "jp_raw": "うわっ。",
+        "jp_clean": "うわっ。",
+        "checked": true
+    },
+    {
+        "en_raw": "Bad.",
+        "en_clean": "Bad.",
+        "jp_raw": "くだらん。",
+        "jp_clean": "くだらん。",
+        "checked": true
+    },
+    {
+        "en_raw": "Heh...",
+        "en_clean": "Heh...",
+        "jp_raw": "へえ...",
+        "jp_clean": "へえ...",
+        "checked": true
+    },
+    {
+        "en_raw": "Hey, Sif.",
+        "en_clean": "Hey, Sif.",
+        "jp_raw": "なあ、シフ。",
+        "jp_clean": "なあ、シフ。",
+        "checked": true
+    },
+    {
+        "en_raw": "(You look at Isabeau.)",
+        "en_clean": "(You look at Isabeau.)",
+        "jp_raw": "(イザボーを見る。)",
+        "jp_clean": "(イザボーを見る。)",
+        "checked": true
+    },
+    {
+        "en_raw": "... Considering how much bread we bought from them for dinner yesterday...",
+        "en_clean": "... Considering how much bread we bought from them for dinner yesterday...",
+        "jp_raw": "...昨日、あの店で夕食用のパンを大量に買ったから...",
+        "jp_clean": "...昨日、あの店で夕食用のパンを大量に買ったから...",
+        "checked": true
+    },
+    { //TODO eng dialogue missing "...loving us is the <span class=\"wave\">YEAST</span> they could do!!!",
+        "en_raw": "",
+        "en_clean": "",
+        "jp_raw": "...店は順風満<span class=\"wave\">パン</span>だろうな！！",
+        "jp_clean": "...店は順風満パンだろうな！！",
+        "checked": true
+    },
+    {
+        "en_raw": "",
+        "en_clean": "",
+        "jp_raw": null,
+        "jp_clean": null,
+        "checked": false
+    },
+    {
+        "en_raw": "",
+        "en_clean": "",
+        "jp_raw": null,
+        "jp_clean": null,
+        "checked": false
+    },
+    {
+        "en_raw": "No.",
+        "en_clean": "No.",
+        "jp_raw": "やめろ。",
+        "jp_clean": "やめろ。",
+        "checked": true
+    },
+    {
+        "en_raw": "NO!",
+        "en_clean": "NO!",
+        "jp_raw": "ダメ！",
+        "jp_clean": "ダメ！",
+        "checked": true
+    },
+    {
+        "en_raw": "NOT ALLOWED!!!!",
+        "en_clean": "NOT ALLOWED!!!!",
+        "jp_raw": "やめろってば！！！",
+        "jp_clean": "やめろってば！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "AHAHAHAHAHAHA!!!",
+        "en_clean": "AHAHAHAHAHAHA!!!",
+        "jp_raw": "アハハハ！！！",
+        "jp_clean": "アハハハ！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "Yes. Teamwork.",
+        "en_clean": "Yes. Teamwork.",
+        "jp_raw": "これぞ、チームワークだ。",
+        "jp_clean": "これぞ、チームワークだ。",
+        "checked": true
+    },
+    {
+        "en_raw": "(Yay!)",
+        "en_clean": "(Yay!)",
+        "jp_raw": "(やった！)",
+        "jp_clean": "(やった！)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You made this joke before, but making jokes with Isabeau makes you happy!)",
+        "en_clean": "(You made this joke before, but making jokes with Isabeau makes you happy!)",
+        "jp_raw": "(前にも言ったことのあるダジャレだけど、イザボーと一緒になってやると、楽しい！)",
+        "jp_clean": "(前にも言ったことのあるダジャレだけど、イザボーと一緒になってやると、楽しい！)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Teamwork.)",
+        "en_clean": "(Teamwork.)",
+        "jp_raw": "(チームワークね。)",
+        "jp_clean": "(チームワークね。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(...)",
+        "en_clean": "(...)",
+        "jp_raw": "(...)",
+        "jp_clean": "(...)",
+        "checked": true
+    },
+    {
+        "en_raw": "(What is he...)",
+        "en_clean": "(What is he...)",
+        "jp_raw": "(何を言っているんだ...)",
+        "jp_clean": "(何を言っているんだ...)",
+        "checked": true
+    },
+    {
+        "en_raw": "With how much bread... Bread, buddy.",
+        "en_clean": "With how much bread... Bread, buddy.",
+        "jp_raw": "大量にパンを買った... 買っただろ、シフ。",
+        "jp_clean": "大量にパンを買った... 買っただろ、シフ。",
+        "checked": true
+    },
+    {
+        "en_raw": "(...?) \"...?\"",
+        "en_clean": "(...?) \"...?\"",
+        "jp_raw": "(...?) \"...?\"",
+        "jp_clean": "(...?) \"...?\"",
+        "checked": true
+    },
+    {
+        "en_raw": "... Looks like I gotta do the job myself...",
+        "en_clean": "... Looks like I gotta do the job myself...",
+        "jp_raw": "...俺が自分で言わなきゃならないみたいだな...",
+        "jp_clean": "...俺が自分で言わなきゃならないみたいだな...",
+        "checked": true
+    },
+    {
+        "en_raw": "Considering how much bread we bought from them for dinner yesterday...",
+        "en_clean": "Considering how much bread we bought from them for dinner yesterday...",
+        "jp_raw": "昨日、あの店で夕食用のパンを大量に買ったから...",
+        "jp_clean": "昨日、あの店で夕食用のパンを大量に買ったから...",
+        "checked": true
+    },
+    {
+        "en_raw": "...loving us is the\n<span class=\"wave\">\n YEAST\n</span>\nthey could do!!!",
+        "en_clean": "...loving us is theYEASTthey could do!!!",
+        "jp_raw": "...店は順風満<span class=\"wave\">パン</span>だろうな！！",
+        "jp_clean": "...店は順風満パンだろうな！！",
+        "checked": true
+    },
+    {
+        "en_raw": "No.",
+        "en_clean": "No.",
+        "jp_raw": "やめろ。",
+        "jp_clean": "やめろ。",
+        "checked": true
+    },
+    {
+        "en_raw": "NO!",
+        "en_clean": "NO!",
+        "jp_raw": "ダメ！",
+        "jp_clean": "ダメ！",
+        "checked": true
+    },
+    {
+        "en_raw": "NOT ALLOWED!!!!",
+        "en_clean": "NOT ALLOWED!!!!",
+        "jp_raw": "やめろってば！！！",
+        "jp_clean": "やめろってば！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "AHAHAHAHAHAHA!!!",
+        "en_clean": "AHAHAHAHAHAHA!!!",
+        "jp_raw": "アハハハ！！！",
+        "jp_clean": "アハハハ！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "(Oh...)",
+        "en_clean": "(Oh...)",
+        "jp_raw": "(そうか...)",
+        "jp_clean": "(そうか...)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You forgot about the pun and let Isabeau down...)",
+        "en_clean": "(You forgot about the pun and let Isabeau down...)",
+        "jp_raw": "(ダジャレを忘れて、イザボーをがっかりさせてしまった...)",
+        "jp_clean": "(ダジャレを忘れて、イザボーをがっかりさせてしまった...)",
+        "checked": true
+    },
+    {
+        "en_raw": "(...)",
+        "en_clean": "(...)",
+        "jp_raw": "(...)",
+        "jp_clean": "(...)",
+        "checked": true
+    },
+    {
+        "en_raw": "(He knows you very well, doesn't he.)",
+        "en_clean": "(He knows you very well, doesn't he.)",
+        "jp_raw": "(イザボーは僕をよく分かっている。)",
+        "jp_clean": "(イザボーは僕をよく分かっている。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Why talk when everyone can talk for you?)",
+        "en_clean": "(Why talk when everyone can talk for you?)",
+        "jp_raw": "(他の人がしゃべってくれるのに、自分がしゃべる必要はないだろう？)",
+        "jp_clean": "(他の人がしゃべってくれるのに、自分がしゃべる必要はないだろう？)",
+        "checked": true
+    },
+    {
+        "en_raw": "(A flyer for the Dormont boulangerie.)",
+        "en_clean": "(A flyer for the Dormont boulangerie.)",
+        "jp_raw": "(ドーモントのパン屋のチラシだ。)",
+        "jp_clean": "(ドーモントのパン屋のチラシだ。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(A flyer for the Dormont boulangerie.)",
+        "en_clean": "(A flyer for the Dormont boulangerie.)",
+        "jp_raw": "(ドーモントのパン屋のチラシだ。)",
+        "jp_clean": "(ドーモントのパン屋のチラシだ。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(...)",
+        "en_clean": "(...)",
+        "jp_raw": "(...)",
+        "jp_clean": "(...)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Didn't a joke go with it...?)",
+        "en_clean": "(Didn't a joke go with it...?)",
+        "jp_raw": "(ジョークが載っていなかったっけ...？)",
+        "jp_clean": "(ジョークが載っていなかったっけ...？)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Some vials.)",
+        "en_clean": "(Some vials.)",
+        "jp_raw": "(瓶がいくつかある。)",
+        "jp_clean": "(瓶がいくつかある。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Let's see...)",
+        "en_clean": "(Let's see...)",
+        "jp_raw": "(どれどれ...)",
+        "jp_clean": "(どれどれ...)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You pick them up.)",
+        "en_clean": "(You pick them up.)",
+        "jp_raw": "(瓶を拾ってみよう。)",
+        "jp_clean": "(瓶を拾ってみよう。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You got one SUPER SOUR TONIC!)",
+        "en_clean": "(You got one SUPER SOUR TONIC!)",
+        "jp_raw": "(「めちゃ甘トニック」を手に入れた！)",
+        "jp_clean": "(「めちゃ甘トニック」を手に入れた！)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You give them to Bonnie for safekeeping.)\n<!-- sic -->",
+        "en_clean": "(You give them to Bonnie for safekeeping.)",
+        "jp_raw": "(ボニーに渡して保管しておいてもらおう。)",
+        "jp_clean": "(ボニーに渡して保管しておいてもらおう。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Nothing else here.)",
+        "en_clean": "(Nothing else here.)",
+        "jp_raw": "(他に目ぼしいものはない。)",
+        "jp_clean": "(他に目ぼしいものはない。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Ow!)",
+        "en_clean": "(Ow!)",
+        "jp_raw": "(うわ！)",
+        "jp_clean": "(うわ！)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You hit your hip into the counter and made an embarrassing sound.)",
+        "en_clean": "(You hit your hip into the counter and made an embarrassing sound.)",
+        "jp_raw": "(カウンターにおしりをぶつけて、変な声を上げてしまった。)",
+        "jp_clean": "(カウンターにおしりをぶつけて、変な声を上げてしまった。)",
+        "checked": true
+    },
+    {
+        "en_raw": "OH?",
+        "en_clean": "OH?",
+        "jp_raw": "うん？",
+        "jp_clean": "うん？",
+        "checked": true
+    },
+    {
+        "en_raw": "Siffrin. Did you really hit the counter and say \"nya\".",
+        "en_clean": "Siffrin. Did you really hit the counter and say \"nya\".",
+        "jp_raw": "シフラン。m[wait]今、カウンターにぶつかって、「にゃっ」<br>と言ったか？",
+        "jp_clean": "シフラン。今、カウンターにぶつかって、「にゃっ」と言ったか？",
+        "checked": true
+    },
+    {
+        "en_raw": "(You did.) \"No.\"",
+        "en_clean": "(You did.) \"No.\"",
+        "jp_raw": "(言った。) \"言ってないよ。\"",
+        "jp_clean": "(言った。) \"言ってないよ。\"",
+        "checked": true
+    },
+    {
+        "en_raw": "Okay, nya.",
+        "en_clean": "Okay, nya.",
+        "jp_raw": "了解にゃ。",
+        "jp_clean": "了解にゃ。",
+        "checked": true
+    },
+    {
+        "en_raw": "<span class=\"big\">\n MADAME?\n</span>",
+        "en_clean": "MADAME?",
+        "jp_raw": "<span class=\"big\">オディール？</span>",
+        "jp_clean": "オディール？",
+        "checked": true
+    },
+    {
+        "en_raw": "(Ow?!?)",
+        "en_clean": "(Ow?!?)",
+        "jp_raw": "(うわ？！？)",
+        "jp_clean": "(うわ？！？)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You hit your hip into the counter again.)",
+        "en_clean": "(You hit your hip into the counter again.)",
+        "jp_raw": "(またカウンターにおしりをぶつけてしまった。)",
+        "jp_clean": "(またカウンターにおしりをぶつけてしまった。)",
+        "checked": true
+    },
+    {
+        "en_raw": "OH?",
+        "en_clean": "OH?",
+        "jp_raw": "うん？",
+        "jp_clean": "うん？",
+        "checked": true
+    },
+    {
+        "en_raw": "(And--)",
+        "en_clean": "(And--)",
+        "jp_raw": "(この後は――)",
+        "jp_clean": "(この後は――)",
+        "checked": true
+    },
+    {
+        "en_raw": "Siffrin. Did you really hit the counter and say \"nya\".",
+        "en_clean": "Siffrin. Did you really hit the counter and say \"nya\".",
+        "jp_raw": "シフラン。m[wait]今、カウンターにぶつかって、「にゃっ」<br>と言ったか？",
+        "jp_clean": "シフラン。今、カウンターにぶつかって、「にゃっ」と言ったか？",
+        "checked": true
+    },
+    {
+        "en_raw": "(You did.) \"Yes.\"",
+        "en_clean": "(You did.) \"Yes.\"",
+        "jp_raw": "(言った。) \"言ったよ。\"",
+        "jp_clean": "(言った。) \"言ったよ。\"",
+        "checked": true
+    },
+    {
+        "en_raw": "Sif. Sif. Sif.",
+        "en_clean": "Sif. Sif. Sif.",
+        "jp_raw": "シフ。シフ。シフ。",
+        "jp_clean": "シフ。シフ。シフ。",
+        "checked": true
+    },
+    {
+        "en_raw": "Cat Sif.",
+        "en_clean": "Cat Sif.",
+        "jp_raw": "シフニャン。",
+        "jp_clean": "シフニャン。",
+        "checked": true
+    },
+    {
+        "en_raw": "Cat Sif.............................",
+        "en_clean": "Cat Sif.............................",
+        "jp_raw": "シフニャン........................",
+        "jp_clean": "シフニャン........................",
+        "checked": true
+    },
+    {
+        "en_raw": "(Ow!!!!)",
+        "en_clean": "(Ow!!!!)",
+        "jp_raw": "(うわ！！！)",
+        "jp_clean": "(うわ！！！)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You hit your hip into the blinding stupid ugly counter again!!!!)",
+        "en_clean": "(You hit your hip into the blinding stupid ugly counter again!!!!)",
+        "jp_raw": "(またまた、例のデカジャマカウンターにおしりをぶつけた！！！)",
+        "jp_clean": "(またまた、例のデカジャマカウンターにおしりをぶつけた！！！)",
+        "checked": true
+    },
+    {
+        "en_raw": "OH?",
+        "en_clean": "OH?",
+        "jp_raw": "うん？",
+        "jp_clean": "うん？",
+        "checked": true
+    },
+    {
+        "en_raw": "(And--)",
+        "en_clean": "(And--)",
+        "jp_raw": "(この後は――)",
+        "jp_clean": "(この後は――)",
+        "checked": true
+    },
+    {
+        "en_raw": "Siffrin. Did you really hit the counter and--",
+        "en_clean": "Siffrin. Did you really hit the counter and--",
+        "jp_raw": "シフラン。m[wait]今、カウンターにぶつかって――",
+        "jp_clean": "シフラン。今、カウンターにぶつかって――",
+        "checked": true
+    },
+    {
+        "en_raw": "\"YES I SAID NYA WHO CARES.\"",
+        "en_clean": "\"YES I SAID NYA WHO CARES.\"",
+        "jp_raw": "\"「にゃっ」って言ったよ。それがなにか？\"",
+        "jp_clean": "\"「にゃっ」って言ったよ。それがなにか？\"",
+        "checked": true
+    },
+    {
+        "en_raw": "Woah.",
+        "en_clean": "Woah.",
+        "jp_raw": "おっと。",
+        "jp_clean": "おっと。",
+        "checked": true
+    },
+    {
+        "en_raw": "Frin, are you...",
+        "en_clean": "Frin, are you...",
+        "jp_raw": "フラン、もしかして...",
+        "jp_clean": "フラン、もしかして...",
+        "checked": true
+    },
+    {
+        "en_raw": ". . . Nyan-gry?",
+        "en_clean": ". . . Nyan-gry?",
+        "jp_raw": "...にゃむい？",
+        "jp_clean": "...にゃむい？",
+        "checked": true
+    },
+    {
+        "en_raw": "<span class=\"big\">\n (AAAAAAAAAAAAAAAAAAAAAAAA)\n</span>",
+        "en_clean": "(AAAAAAAAAAAAAAAAAAAAAAAA)",
+        "jp_raw": "<span class=\"big\">(あああああああああああああ)</span>",
+        "jp_clean": "(あああああああああああああ)",
+        "checked": true
+    },
+    {
+        "en_raw": "<span class=\"big\">\n HA!!!!!!!!!!!!!!!!!!\n</span>",
+        "en_clean": "HA!!!!!!!!!!!!!!!!!!",
+        "jp_raw": "<span class=\"big\">ハハッ！！！！！！</span>",
+        "jp_clean": "ハハッ！！！！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "(Ow!!!!)",
+        "en_clean": "(Ow!!!!)",
+        "jp_raw": "(うわ！！！)",
+        "jp_clean": "(うわ！！！)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You hit your hip into the blinding stupid ugly counter again!!!!)",
+        "en_clean": "(You hit your hip into the blinding stupid ugly counter again!!!!)",
+        "jp_raw": "(またまた、例のデカジャマカウンターにおしりをぶつけた！！！)",
+        "jp_clean": "(またまた、例のデカジャマカウンターにおしりをぶつけた！！！)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You yell \"NYA!!!\" very loud a second time.)",
+        "en_clean": "(You yell \"NYA!!!\" very loud a second time.)",
+        "jp_raw": "(大きな声で「にゃっ！！！」と言ってしまった。2度目だ。)",
+        "jp_clean": "(大きな声で「にゃっ！！！」と言ってしまった。2度目だ。)",
+        "checked": true
+    },
+    {
+        "en_raw": "Nya!",
+        "en_clean": "Nya!",
+        "jp_raw": "にゃっ！",
+        "jp_clean": "にゃっ！",
+        "checked": true
+    },
+    {
+        "en_raw": "NYA!!!",
+        "en_clean": "NYA!!!",
+        "jp_raw": "にゃっ！！！",
+        "jp_clean": "にゃっ！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "<span class=\"wave big\">\n NYA!!!!!!!!!!!!!\n</span>",
+        "en_clean": "NYA!!!!!!!!!!!!!",
+        "jp_raw": "<span class=\"wave big\">にゃっ！！！！！！</span>",
+        "jp_clean": "にゃっ！！！！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "(Ow, STARS.)",
+        "en_clean": "(Ow, STARS.)",
+        "jp_raw": "(ああ、星たちよ。)",
+        "jp_clean": "(ああ、星たちよ。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You hit your hip into the counter and bite your lip really hard.)",
+        "en_clean": "(You hit your hip into the counter and bite your lip really hard.)",
+        "jp_raw": "(おしりをカウンターにぶつけてしまい、くちびるをかみしめる。)",
+        "jp_clean": "(おしりをカウンターにぶつけてしまい、くちびるをかみしめる。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Why do you never remember the stupid counter!!!)",
+        "en_clean": "(Why do you never remember the stupid counter!!!)",
+        "jp_raw": "(どうしておまえはデカジャマカウンターのことを忘れちゃうんだよ！！！)",
+        "jp_clean": "(どうしておまえはデカジャマカウンターのことを忘れちゃうんだよ！！！)",
+        "checked": true
+    },
+    {
+        "en_raw": "Oh no, Sif!",
+        "en_clean": "Oh no, Sif!",
+        "jp_raw": "大丈夫か、シフ！",
+        "jp_clean": "大丈夫か、シフ！",
+        "checked": true
+    },
+    {
+        "en_raw": "Do you still have trouble judging distance?",
+        "en_clean": "Do you still have trouble judging distance?",
+        "jp_raw": "まだ、距離をつかむのに苦労しているのか？",
+        "jp_clean": "まだ、距離をつかむのに苦労しているのか？",
+        "checked": true
+    },
+    {
+        "en_raw": "Let us know if you'd like anyone else to take the lead...",
+        "en_clean": "Let us know if you'd like anyone else to take the lead...",
+        "jp_raw": "先頭を歩くのを交代してほしいなら、言ってくれ...",
+        "jp_clean": "先頭を歩くのを交代してほしいなら、言ってくれ...",
+        "checked": true
+    },
+    {
+        "en_raw": "(Urgh.)",
+        "en_clean": "(Urgh.)",
+        "jp_raw": "(やれやれ。)",
+        "jp_clean": "(やれやれ。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You hit your hip into the counter and bite your lip really hard.)",
+        "en_clean": "(You hit your hip into the counter and bite your lip really hard.)",
+        "jp_raw": "(おしりをカウンターにぶつけてしまい、くちびるをかみしめる。)",
+        "jp_clean": "(おしりをカウンターにぶつけてしまい、くちびるをかみしめる。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You hit the counter back.)",
+        "en_clean": "(You hit the counter back.)",
+        "jp_raw": "(カウンターを殴り返す。)",
+        "jp_clean": "(カウンターを殴り返す。)",
+        "checked": true
+    },
+    {
+        "en_raw": "Oh!!!",
+        "en_clean": "Oh!!!",
+        "jp_raw": "わあ！！",
+        "jp_clean": "わあ！！",
+        "checked": true
+    },
+    {
+        "en_raw": "Bad counter!!!",
+        "en_clean": "Bad counter!!!",
+        "jp_raw": "悪いカウンターだ！！！",
+        "jp_clean": "悪いカウンターだ！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "Let's beat it up!!!",
+        "en_clean": "Let's beat it up!!!",
+        "jp_raw": "こらしめてやれ！！！",
+        "jp_clean": "こらしめてやれ！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "(Isabeau and Bonnie kick the counter too.)",
+        "en_clean": "(Isabeau and Bonnie kick the counter too.)",
+        "jp_raw": "(イザボーとボニーも、カウンターを蹴り始める。)",
+        "jp_clean": "(イザボーとボニーも、カウンターを蹴り始める。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You feel better.)",
+        "en_clean": "(You feel better.)",
+        "jp_raw": "(気分がよくなった。)",
+        "jp_clean": "(気分がよくなった。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(This is a good way to resolve this.)",
+        "en_clean": "(This is a good way to resolve this.)",
+        "jp_raw": "(こうするといいんだな。)",
+        "jp_clean": "(こうするといいんだな。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(...)",
+        "en_clean": "(...)",
+        "jp_raw": "(...)",
+        "jp_clean": "(...)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You hit your hip into the counter.)",
+        "en_clean": "(You hit your hip into the counter.)",
+        "jp_raw": "(カウンターにおしりをぶつけてしまう。)",
+        "jp_clean": "(カウンターにおしりをぶつけてしまう。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You need a break.)",
+        "en_clean": "(You need a break.)",
+        "jp_raw": "(休憩が必要だ。)",
+        "jp_clean": "(休憩が必要だ。)",
+        "checked": true
+    },
+    {
+        "en_raw": "Woah, Sif... You okay?",
+        "en_clean": "Woah, Sif... You okay?",
+        "jp_raw": "おい、シフ... 大丈夫か？",
+        "jp_clean": "おい、シフ... 大丈夫か？",
+        "checked": true
+    },
+    {
+        "en_raw": "(Isabeau joins you on the floor, sitting down next to you.)",
+        "en_clean": "(Isabeau joins you on the floor, sitting down next to you.)",
+        "jp_raw": "(イザボーが隣にきて、一緒に座り込む。)",
+        "jp_clean": "(イザボーが隣にきて、一緒に座り込む。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You don't say anything.)",
+        "en_clean": "(You don't say anything.)",
+        "jp_raw": "(僕は何も言わない。)",
+        "jp_clean": "(僕は何も言わない。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You stay here a minute.)",
+        "en_clean": "(You stay here a minute.)",
+        "jp_raw": "(しばらくそこで過ごす。)",
+        "jp_clean": "(しばらくそこで過ごす。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You stand up.)",
+        "en_clean": "(You stand up.)",
+        "jp_raw": "(そして立ち上がる。)",
+        "jp_clean": "(そして立ち上がる。)",
+        "checked": true
+    },
+    {
+        "en_raw": "Siffrin...?",
+        "en_clean": "Siffrin...?",
+        "jp_raw": "シフラン...？",
+        "jp_clean": "シフラン...？",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Let's go!\"",
+        "en_clean": "\"Let's go!\"",
+        "jp_raw": "\"行こう！\"",
+        "jp_clean": "\"行こう！\"",
+        "checked": true
+    },
+    {
+        "en_raw": "(You get going.)",
+        "en_clean": "(You get going.)",
+        "jp_raw": "(先へ進まないと。)",
+        "jp_clean": "(先へ進まないと。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You hit your hip into the counter and don't even flinch.)",
+        "en_clean": "(You hit your hip into the counter and don't even flinch.)",
+        "jp_raw": "(カウンターにおしりをぶつけてしまったが、僕は微動だにしない。)",
+        "jp_clean": "(カウンターにおしりをぶつけてしまったが、僕は微動だにしない。)",
+        "checked": true
+    },
+    {
+        "en_raw": "Woah, you okay?",
+        "en_clean": "Woah, you okay?",
+        "jp_raw": "うわ、大丈夫か？",
+        "jp_clean": "うわ、大丈夫か？",
+        "checked": true
+    },
+    {
+        "en_raw": "(You nod and keep going.)",
+        "en_clean": "(You nod and keep going.)",
+        "jp_raw": "(うなずき、先へ進む。)",
+        "jp_clean": "(うなずき、先へ進む。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(A kitchen closet.)",
+        "en_clean": "(A kitchen closet.)",
+        "jp_raw": "(キッチンの物置棚だ。)",
+        "jp_clean": "(キッチンの物置棚だ。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You open it...)",
+        "en_clean": "(You open it...)",
+        "jp_raw": "(開けてみよう...)",
+        "jp_clean": "(開けてみよう...)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You found the EGG KEY!)",
+        "en_clean": "(You found the EGG KEY!)",
+        "jp_raw": "(「タマゴの鍵」を見つけた！)",
+        "jp_clean": "(「タマゴの鍵」を見つけた！)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You put the Key in your Pocket.)",
+        "en_clean": "(You put the Key in your Pocket.)",
+        "jp_raw": "(鍵をポケットにしまう。)",
+        "jp_clean": "(鍵をポケットにしまう。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You now know where the Egg Key is located.)",
+        "en_clean": "(You now know where the Egg Key is located.)",
+        "jp_raw": "(タマゴの鍵のある場所が分かったぞ。)",
+        "jp_clean": "(タマゴの鍵のある場所が分かったぞ。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(The keychain dangling from it is shaped like an egg...)",
+        "en_clean": "(The keychain dangling from it is shaped like an egg...)",
+        "jp_raw": "(ぶら下がったキーチェーンは、タマゴの形をしている...)",
+        "jp_clean": "(ぶら下がったキーチェーンは、タマゴの形をしている...)",
+        "checked": true
+    },
+    { //TODO choicer that's an egg "\"タマゴだ。\"" no time "(時間がない。)"
+        "en_raw": "",
+        "en_clean": "",
+        "jp_raw": null,
+        "jp_clean": null,
+        "checked": false
+    },
+    {
+        "en_raw": "",
+        "en_clean": "",
+        "jp_raw": null,
+        "jp_clean": null,
+        "checked": false
+    },
+    {
+        "en_raw": "",
+        "en_clean": "",
+        "jp_raw": null,
+        "jp_clean": null,
+        "checked": false
+    },
+    {
+        "en_raw": "An egg?",
+        "en_clean": "An egg?",
+        "jp_raw": "タマゴ？",
+        "jp_clean": "タマゴ？",
+        "checked": true
+    },
+    {
+        "en_raw": "(Bonnie is making grabby hands.)",
+        "en_clean": "(Bonnie is making grabby hands.)",
+        "jp_raw": "(ボニーが目を輝かせている。)",
+        "jp_clean": "(ボニーが目を輝かせている。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You give Bonnie the key.)",
+        "en_clean": "(You give Bonnie the key.)",
+        "jp_raw": "(ボニーに鍵を渡した。)",
+        "jp_clean": "(ボニーに鍵を渡した。)",
+        "checked": true
+    },
+    {
+        "en_raw": "Ah, so the next key should be a broken egg, right?",
+        "en_clean": "Ah, so the next key should be a broken egg, right?",
+        "jp_raw": "あー、つまり次の鍵は割れたタマゴの鍵ってことか？",
+        "jp_clean": "あー、つまり次の鍵は割れたタマゴの鍵ってことか？",
+        "checked": true
+    },
+    {
+        "en_raw": "Are eggs important to the Change belief somehow?",
+        "en_clean": "Are eggs important to the Change belief somehow?",
+        "jp_raw": "タマゴというのは、ウツロイの信仰にとって重要なものなのか？",
+        "jp_clean": "タマゴというのは、ウツロイの信仰にとって重要なものなのか？",
+        "checked": true
+    },
+    {
+        "en_raw": "Yes! An intact egg, and a broken egg! We--",
+        "en_clean": "Yes! An intact egg, and a broken egg! We--",
+        "jp_raw": "そうだよ！ 完全なタマゴと、割れたタマゴの2つがね！ わたしたちは――",
+        "jp_clean": "そうだよ！ 完全なタマゴと、割れたタマゴの2つがね！ わたしたちは――",
+        "checked": true
+    },
+    {
+        "en_raw": "We're the egg, getting out of the egg, change also means destruction, blablabla.",
+        "en_clean": "We're the egg, getting out of the egg, change also means destruction, blablabla.",
+        "jp_raw": "俺たちはタマゴ、タマゴから出る、ウツロイとは破壊でもある、とかってやつだな。",
+        "jp_clean": "俺たちはタマゴ、タマゴから出る、ウツロイとは破壊でもある、とかってやつだな。",
+        "checked": true
+    },
+    {
+        "en_raw": "Well, um... Yes, pretty much.",
+        "en_clean": "Well, um... Yes, pretty much.",
+        "jp_raw": "えっと、まあ... だいたいそんなところ。",
+        "jp_clean": "えっと、まあ... だいたいそんなところ。",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Can't make pancakes without breaking a few eggs.\"",
+        "en_clean": "\"Can't make pancakes without breaking a few eggs.\"",
+        "jp_raw": "「卵を割らなければパンケーキは作れない」ってやつ。",
+        "jp_clean": "「卵を割らなければパンケーキは作れない」ってやつ。",
+        "checked": true
+    },
+    {
+        "en_raw": "It's \"omelettes\", Bonbon.",
+        "en_clean": "It's \"omelettes\", Bonbon.",
+        "jp_raw": "パンケーキじゃなくてオムレツだ、ボンボン。",
+        "jp_clean": "パンケーキじゃなくてオムレツだ、ボンボン。",
+        "checked": true
+    },
+    {
+        "en_raw": "YOU'RE an omelette, Za.",
+        "en_clean": "YOU'RE an omelette, Za.",
+        "jp_raw": "オムレツはオマエだろ、ザー！",
+        "jp_clean": "オムレツはオマエだろ、ザー！",
+        "checked": true
+    },
+    {
+        "en_raw": "A terrifying rebuttal from the preteen.",
+        "en_clean": "A terrifying rebuttal from the preteen.",
+        "jp_raw": "ひえっ、プリティーンの反論はおっかないぜ。",
+        "jp_clean": "ひえっ、プリティーンの反論はおっかないぜ。",
+        "checked": true
+    },
+    {
+        "en_raw": "And, and!!!",
+        "en_clean": "And, and!!!",
+        "jp_raw": "それに、それにね！！！",
+        "jp_clean": "それに、それにね！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "For every change, something needs to break. Maybe changing yourself will hurt someone.",
+        "en_clean": "For every change, something needs to break. Maybe changing yourself will hurt someone.",
+        "jp_raw": "あらゆる変化は、破壊を伴うものなんだよ。自分自身を変えることが、誰かを傷つけることもある。",
+        "jp_clean": "あらゆる変化は、破壊を伴うものなんだよ。自分自身を変えることが、誰かを傷つけることもある。",
+        "checked": true
+    },
+    {
+        "en_raw": "Maybe changing means leaving a part of yourself behind!",
+        "en_clean": "Maybe changing means leaving a part of yourself behind!",
+        "jp_raw": "変化ってのは、自分の一部を置き去りにして進むことなのかもしれないな！",
+        "jp_clean": "変化ってのは、自分の一部を置き去りにして進むことなのかもしれないな！",
+        "checked": true
+    },
+    {
+        "en_raw": "It's to remind us that before changing, we must stop and think about what will be irreparably destroyed.",
+        "en_clean": "It's to remind us that before changing, we must stop and think about what will be irreparably destroyed.",
+        "jp_raw": "変化の前には、壊れて取り返しがつかなくなるものについてじっくり考える必要があるってことを、思い出させてくれるの。",
+        "jp_clean": "変化の前には、壊れて取り返しがつかなくなるものについてじっくり考える必要があるってことを、思い出させてくれるの。",
+        "checked": true
+    },
+    {
+        "en_raw": "But destruction is just a part of change, and we must accept it...",
+        "en_clean": "But destruction is just a part of change, and we must accept it...",
+        "jp_raw": "だけど、破壊は変化の一部に過ぎない。だから、受け入れないと...",
+        "jp_clean": "だけど、破壊は変化の一部に過ぎない。だから、受け入れないと...",
+        "checked": true
+    },
+    {
+        "en_raw": "Yeah! It'd be awful to keep yourself from becoming a person you feel comfortable with just because it would upset someone else.",
+        "en_clean": "Yeah! It'd be awful to keep yourself from becoming a person you feel comfortable with just because it would upset someone else.",
+        "jp_raw": "そのとおりだ！ 誰かを怒らせるからって、自分自身がよいと思う人間になろうとするのを思いとどまるのはよくない。",
+        "jp_clean": "そのとおりだ！ 誰かを怒らせるからって、自分自身がよいと思う人間になろうとするのを思いとどまるのはよくない。",
+        "checked": true
+    },
+    {
+        "en_raw": "Huh... That's a harsher belief than I thought.",
+        "en_clean": "Huh... That's a harsher belief than I thought.",
+        "jp_raw": "へえ... 思っていたよりも、厳しい信仰なんだな。",
+        "jp_clean": "へえ... 思っていたよりも、厳しい信仰なんだな。",
+        "checked": true
+    },
+    {
+        "en_raw": "...",
+        "en_clean": "...",
+        "jp_raw": "...",
+        "jp_clean": "...",
+        "checked": true
+    },
+    {
+        "en_raw": "(Bonnie is still looking at the egg keychain.)",
+        "en_clean": "(Bonnie is still looking at the egg keychain.)",
+        "jp_raw": "(ボニーはまだタマゴの形のキーチェーンを見つめている。)",
+        "jp_clean": "(ボニーはまだタマゴの形のキーチェーンを見つめている。)",
+        "checked": true
+    },
+    {
+        "en_raw": "...",
+        "en_clean": "...",
+        "jp_raw": "...",
+        "jp_clean": "...",
+        "checked": true
+    },
+    {
+        "en_raw": "Chomp.",
+        "en_clean": "Chomp.",
+        "jp_raw": "パクッ。",
+        "jp_clean": "パクッ。",
+        "checked": true
+    },
+    {
+        "en_raw": "(Bonnie tried to take a bite of the keychain.)",
+        "en_clean": "(Bonnie tried to take a bite of the keychain.)",
+        "jp_raw": "(ボニーがキーチェーンにかじりついた。)",
+        "jp_clean": "(ボニーがキーチェーンにかじりついた。)",
+        "checked": true
+    },
+    {
+        "en_raw": "...",
+        "en_clean": "...",
+        "jp_raw": "...",
+        "jp_clean": "...",
+        "checked": true
+    },
+    {
+        "en_raw": "Chomp chomp.",
+        "en_clean": "Chomp chomp.",
+        "jp_raw": "はむはむっ。",
+        "jp_clean": "はむはむっ。",
+        "checked": true
+    },
+    {
+        "en_raw": "It's carved out of stone, Boniface.",
+        "en_clean": "It's carved out of stone, Boniface.",
+        "jp_raw": "ボニファス、それは石でできているぞ。",
+        "jp_clean": "ボニファス、それは石でできているぞ。",
+        "checked": true
+    },
+    {
+        "en_raw": "Maybe the keychain had a secret, madame!",
+        "en_clean": "Maybe the keychain had a secret, madame!",
+        "jp_raw": "キーチェーンに秘密があるかもしれないよ！",
+        "jp_clean": "キーチェーンに秘密があるかもしれないよ！",
+        "checked": true
+    },
+    {
+        "en_raw": "Uh huh.",
+        "en_clean": "Uh huh.",
+        "jp_raw": "なるほど。",
+        "jp_clean": "なるほど。",
+        "checked": true
+    },
+    {
+        "en_raw": "Stupid crabbing rock.",
+        "en_clean": "Stupid crabbing rock.",
+        "jp_raw": "バカ固い石だなっ。",
+        "jp_clean": "バカ固い石だなっ。",
+        "checked": true
+    },
+    {
+        "en_raw": "(Bonnie gives you back the key.)",
+        "en_clean": "(Bonnie gives you back the key.)",
+        "jp_raw": "(ボニーが鍵を返してくれた。)",
+        "jp_clean": "(ボニーが鍵を返してくれた。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(...It's sticky...)",
+        "en_clean": "(...It's sticky...)",
+        "jp_raw": "(...ぬるぬるしている...)",
+        "jp_clean": "(...ぬるぬるしている...)",
+        "checked": true
+    },
+    {
+        "en_raw": "(There's a House to explore.)",
+        "en_clean": "(There's a House to explore.)",
+        "jp_raw": "(館を探索しないと。)",
+        "jp_clean": "(館を探索しないと。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(There's nothing more to be found.)",
+        "en_clean": "(There's nothing more to be found.)",
+        "jp_raw": "(もう何もない。)",
+        "jp_clean": "(もう何もない。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(The kitchen closet.)",
+        "en_clean": "(The kitchen closet.)",
+        "jp_raw": "(キッチンの物置棚だ。)",
+        "jp_clean": "(キッチンの物置棚だ。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Got the EGG KEY.)",
+        "en_clean": "(Got the EGG KEY.)",
+        "jp_raw": "(「タマゴの鍵」を手に入れた。)",
+        "jp_clean": "(「タマゴの鍵」を手に入れた。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(A sink and some kitchen utensils.)",
+        "en_clean": "(A sink and some kitchen utensils.)",
+        "jp_raw": "(シンクとキッチン用品だ。)",
+        "jp_clean": "(シンクとキッチン用品だ。)",
+        "checked": true
+    },
+    {
+        "en_raw": "HERE!!!",
+        "en_clean": "HERE!!!",
+        "jp_raw": "ここ！！！",
+        "jp_clean": "ここ！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "Wh-what? What is it???",
+        "en_clean": "Wh-what? What is it???",
+        "jp_raw": "な、なに？ どうかしたの？？",
+        "jp_clean": "な、なに？ どうかしたの？？",
+        "checked": true
+    },
+    {
+        "en_raw": "WOK.",
+        "en_clean": "WOK.",
+        "jp_raw": "鉄なべだ。",
+        "jp_clean": "鉄なべだ。",
+        "checked": true
+    },
+    {
+        "en_raw": "(Bonnie points to a big, thin cooking pot.)",
+        "en_clean": "(Bonnie points to a big, thin cooking pot.)",
+        "jp_raw": "(ボニーが、大きくて薄いなべを指さす。)",
+        "jp_clean": "(ボニーが、大きくて薄いなべを指さす。)",
+        "checked": true
+    },
+    {
+        "en_raw": "Wok?",
+        "en_clean": "Wok?",
+        "jp_raw": "テツナベ？",
+        "jp_clean": "テツナベ？",
+        "checked": true
+    },
+    {
+        "en_raw": "Wok...",
+        "en_clean": "Wok...",
+        "jp_raw": "テツナベ...",
+        "jp_clean": "テツナベ...",
+        "checked": true
+    },
+    {
+        "en_raw": "Yes, that's... A wok.",
+        "en_clean": "Yes, that's... A wok.",
+        "jp_raw": "うん、あれは... 鉄なべだね。",
+        "jp_clean": "うん、あれは... 鉄なべだね。",
+        "checked": true
+    },
+    {
+        "en_raw": "<span class=\"big wave\">\n WOK!!!!!!!!!\n</span>",
+        "en_clean": "WOK!!!!!!!!!",
+        "jp_raw": "<span class=\"big wave\">鉄なべ！！！！</span>",
+        "jp_clean": "鉄なべ！！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "(You got the WOK!)",
+        "en_clean": "(You got the WOK!)",
+        "jp_raw": "(「鉄なべ」を手に入れた！)",
+        "jp_clean": "(「鉄なべ」を手に入れた！)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You give the Wok to Bonnie to equip later.)",
+        "en_clean": "(You give the Wok to Bonnie to equip later.)",
+        "jp_raw": "(後で装備できるよう、ボニーに鉄なべを渡した。)",
+        "jp_clean": "(後で装備できるよう、ボニーに鉄なべを渡した。)",
+        "checked": true
+    },
+    {
+        "en_raw": "[You found a Weapon!]",
+        "en_clean": "[You found a Weapon!]",
+        "jp_raw": "[武器を見つけたね！]",
+        "jp_clean": "[武器を見つけたね！]",
+        "checked": true
+    },
+    {
+        "en_raw": "[Weapons and Armors can be equipped by going through the menu, and then to \"Equip\".]",
+        "en_clean": "[Weapons and Armors can be equipped by going through the menu, and then to \"Equip\".]",
+        "jp_raw": "[武器やアーマーは、メニューの「装備」から装備できるよ。]",
+        "jp_clean": "[武器やアーマーは、メニューの「装備」から装備できるよ。]",
+        "checked": true
+    },
+    {
+        "en_raw": "[This specific Weapon is for that Kid of yours. Don't forget to equip it!]",
+        "en_clean": "[This specific Weapon is for that Kid of yours. Don't forget to equip it!]",
+        "jp_raw": "[今手に入れた武器は、あの子用だね。装備の設定を忘れないようにね！]",
+        "jp_clean": "[今手に入れた武器は、あの子用だね。装備の設定を忘れないようにね！]",
+        "checked": true
+    },
+    {
+        "en_raw": "(A sink and some kitchen utensils.)",
+        "en_clean": "(A sink and some kitchen utensils.)",
+        "jp_raw": "(シンクとキッチン用品だ。)",
+        "jp_clean": "(シンクとキッチン用品だ。)",
+        "checked": true
+    },
+    {
+        "en_raw": "HERE!!!",
+        "en_clean": "HERE!!!",
+        "jp_raw": "ここ！！！",
+        "jp_clean": "ここ！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "Wh-what? What is it???",
+        "en_clean": "Wh-what? What is it???",
+        "jp_raw": "な、なに？ どうかしたの？？",
+        "jp_clean": "な、なに？ どうかしたの？？",
+        "checked": true
+    },
+    {
+        "en_raw": "WO--",
+        "en_clean": "WO--",
+        "jp_raw": "うわ――",
+        "jp_clean": "うわ――",
+        "checked": true
+    },
+    {
+        "en_raw": "--t's that? Is that an entire potato in the sink?",
+        "en_clean": "--t's that? Is that an entire potato in the sink?",
+        "jp_raw": "――あれなに？ シンクにジャガイモが丸ごと1つ捨てられてる？",
+        "jp_clean": "――あれなに？ シンクにジャガイモが丸ごと1つ捨てられてる？",
+        "checked": true
+    },
+    {
+        "en_raw": "What a waste...",
+        "en_clean": "What a waste...",
+        "jp_raw": "なんてもったいない...",
+        "jp_clean": "なんてもったいない...",
+        "checked": true
+    },
+    {
+        "en_raw": "(The wall, wok-less.)",
+        "en_clean": "(The wall, wok-less.)",
+        "jp_raw": "(壁だ。鉄なべはもうない。)",
+        "jp_clean": "(壁だ。鉄なべはもうない。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You look at the Wok.)",
+        "en_clean": "(You look at the Wok.)",
+        "jp_raw": "(鉄なべを眺めた。)",
+        "jp_clean": "(鉄なべを眺めた。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(...)",
+        "en_clean": "(...)",
+        "jp_raw": "(...)",
+        "jp_clean": "(...)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Cookies.)",
+        "en_clean": "(Cookies.)",
+        "jp_raw": "(クッキーだ。)",
+        "jp_clean": "(クッキーだ。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(They're frozen in time.)",
+        "en_clean": "(They're frozen in time.)",
+        "jp_raw": "(時を止められている。)",
+        "jp_clean": "(時を止められている。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Cookies.)",
+        "en_clean": "(Cookies.)",
+        "jp_raw": "(クッキーだ。)",
+        "jp_clean": "(クッキーだ。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Your stomach grumbles.)",
+        "en_clean": "(Your stomach grumbles.)",
+        "jp_raw": "(お腹がグーグーと音を立てる。)",
+        "jp_clean": "(お腹がグーグーと音を立てる。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You try and eat one...)",
+        "en_clean": "(You try and eat one...)",
+        "jp_raw": "(口に入れて、食べようとする...)m[wait]\\^",
+        "jp_clean": "(口に入れて、食べようとする...)",
+        "checked": true
+    },
+    {
+        "en_raw": "(It's like biting a rock.)",
+        "en_clean": "(It's like biting a rock.)",
+        "jp_raw": "(岩をかじっているみたいだ。)",
+        "jp_clean": "(岩をかじっているみたいだ。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(A pot filled with bubbling food, frozen in time.)",
+        "en_clean": "(A pot filled with bubbling food, frozen in time.)",
+        "jp_raw": "(ブクブクとした食材が入ったなべが、そのまま時間を止められている。)",
+        "jp_clean": "(ブクブクとした食材が入ったなべが、そのまま時間を止められている。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(The steam is frozen in midair.)",
+        "en_clean": "(The steam is frozen in midair.)",
+        "jp_raw": "(蒸気さえもなべの上で凍り付いている。)",
+        "jp_clean": "(蒸気さえもなべの上で凍り付いている。)",
+        "checked": true
+    },
+    {
+        "en_raw": "So, what's inside?",
+        "en_clean": "So, what's inside?",
+        "jp_raw": "中身はなに？",
+        "jp_clean": "中身はなに？",
+        "checked": true
+    },
+    {
+        "en_raw": "Ah...",
+        "en_clean": "Ah...",
+        "jp_raw": "あー...",
+        "jp_clean": "あー...",
+        "checked": true
+    },
+    {
+        "en_raw": "Looks like they were cooking crab.",
+        "en_clean": "Looks like they were cooking crab.",
+        "jp_raw": "カニを料理していたみたいだな。",
+        "jp_clean": "カニを料理していたみたいだな。",
+        "checked": true
+    },
+    {
+        "en_raw": "<span class=\"big\">\n WHAT\n</span>",
+        "en_clean": "WHAT",
+        "jp_raw": "<span class=\"big\">なに</span>",
+        "jp_clean": "なに",
+        "checked": true
+    },
+    {
+        "en_raw": "<span class=\"big\">\n EEK!!!\n</span>",
+        "en_clean": "EEK!!!",
+        "jp_raw": "<span class=\"big\">やだぁ！！！</span>",
+        "jp_clean": "やだぁ！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "<span class=\"big\">\n CRAB?!??!!???!???!???!\n</span>",
+        "en_clean": "CRAB?!??!!???!???!???!",
+        "jp_raw": "<span class=\"big\">カニだって？！？？！！？！</span>",
+        "jp_clean": "カニだって？！？？！！？！",
+        "checked": true
+    },
+    {
+        "en_raw": "Wh-what's happening?",
+        "en_clean": "Wh-what's happening?",
+        "jp_raw": "な、なんだ。どうした？",
+        "jp_clean": "な、なんだ。どうした？",
+        "checked": true
+    },
+    {
+        "en_raw": "SOMEONE WAS COOKING CRAB???",
+        "en_clean": "SOMEONE WAS COOKING CRAB???",
+        "jp_raw": "カニを料理してたの？？",
+        "jp_clean": "カニを料理してたの？？",
+        "checked": true
+    },
+    {
+        "en_raw": "IN A HOUSE OF CHANGE OF ALL PLACES!!!!!!",
+        "en_clean": "IN A HOUSE OF CHANGE OF ALL PLACES!!!!!!",
+        "jp_raw": "よりによって、ウツロイの館の中で！！！！",
+        "jp_clean": "よりによって、ウツロイの館の中で！！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "FOOD TASTED LIKE CRAB!!! BUT LITERALLY!!!!!",
+        "en_clean": "FOOD TASTED LIKE CRAB!!! BUT LITERALLY!!!!!",
+        "jp_raw": "カニったれな料理なんて！！！ しかも本物のカニ！！！",
+        "jp_clean": "カニったれな料理なんて！！！ しかも本物のカニ！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "WHY WOULD SOMEONE DO THIS",
+        "en_clean": "WHY WOULD SOMEONE DO THIS",
+        "jp_raw": "どうしてそんなことするんだ！！！",
+        "jp_clean": "どうしてそんなことするんだ！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "I, um...",
+        "en_clean": "I, um...",
+        "jp_raw": "えっと...",
+        "jp_clean": "えっと...",
+        "checked": true
+    },
+    {
+        "en_raw": "(Odile looks at you with question marks in her eyes.)",
+        "en_clean": "(Odile looks at you with question marks in her eyes.)",
+        "jp_raw": "(オディールが、訳が分からないという顔でこちらを見た。)",
+        "jp_clean": "(オディールが、訳が分からないという顔でこちらを見た。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(What's wrong with crab? It's tasty, but they all seem very upset.)",
+        "en_clean": "(What's wrong with crab? It's tasty, but they all seem very upset.)",
+        "jp_raw": "(カニがどうしたっていうんだ？ おいしいのに。3人はかなり動揺している。)",
+        "jp_clean": "(カニがどうしたっていうんだ？ おいしいのに。3人はかなり動揺している。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You shrug at Odile.)",
+        "en_clean": "(You shrug at Odile.)",
+        "jp_raw": "(オディールに肩をすくめてみせた。)",
+        "jp_clean": "(オディールに肩をすくめてみせた。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(But crab is so tasty...)",
+        "en_clean": "(But crab is so tasty...)",
+        "jp_raw": "(カニはおいしいのに...)",
+        "jp_clean": "(カニはおいしいのに...)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You shrug.)",
+        "en_clean": "(You shrug.)",
+        "jp_raw": "(僕は肩をすくめた。)",
+        "jp_clean": "(僕は肩をすくめる。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You shrug.)",
+        "en_clean": "(You shrug.)",
+        "jp_raw": "(僕は肩をすくめた。)",
+        "jp_clean": "(僕は肩をすくめる。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You think. You're not looking her way.)",
+        "en_clean": "(You think. You're not looking her way.)",
+        "jp_raw": "(僕は考え込む。オディールの方は見ないで。)",
+        "jp_clean": "(僕は考え込む。オディールの方は見ないで。)",
+        "checked": true
+    },
+    {
+        "en_raw": "...I am very confused. Is this a Vaugardian thing?",
+        "en_clean": "...I am very confused. Is this a Vaugardian thing?",
+        "jp_raw": "...訳が分からない。ヴォーガルドの風習か？",
+        "jp_clean": "...訳が分からない。ヴォーガルドの風習か？",
+        "checked": true
+    },
+    {
+        "en_raw": "Please don't tell me you eat crabs in Ka Bue I don't think I could handle it...",
+        "en_clean": "Please don't tell me you eat crabs in Ka Bue I don't think I could handle it...",
+        "jp_raw": "頼むから、カ・ビューではカニを食べるなんて言うなよ。そんなこと、耐えられない...",
+        "jp_clean": "頼むから、カ・ビューではカニを食べるなんて言うなよ。そんなこと、耐えられない...",
+        "checked": true
+    },
+    {
+        "en_raw": "No, not really, but we don't... Have such an aversion to them...",
+        "en_clean": "No, not really, but we don't... Have such an aversion to them...",
+        "jp_raw": "いや、食べはしないが... カ・ビューではそこまで嫌われてはいないぞ...",
+        "jp_clean": "いや、食べはしないが... カ・ビューではそこまで嫌われてはいないぞ...",
+        "checked": true
+    },
+    {
+        "en_raw": "Hm. Okay. Wait. Is it. Is this like dolphins.",
+        "en_clean": "Hm. Okay. Wait. Is it. Is this like dolphins.",
+        "jp_raw": "ふむ。なるほど。待てよ。もしかして。イルカのようなものか？",
+        "jp_clean": "ふむ。なるほど。待てよ。もしかして。イルカのようなものか？",
+        "checked": true
+    },
+    {
+        "en_raw": "What about them?",
+        "en_clean": "What about them?",
+        "jp_raw": "イルカがどうした？",
+        "jp_clean": "イルカがどうした？",
+        "checked": true
+    },
+    {
+        "en_raw": "In Ka Bue, we don't like dolphins. Something about them being too smart.",
+        "en_clean": "In Ka Bue, we don't like dolphins. Something about them being too smart.",
+        "jp_raw": "カ・ビューでは、イルカが嫌われ者なんだ。利口すぎるところが嫌われている。",
+        "jp_clean": "カ・ビューでは、イルカが嫌われ者なんだ。利口すぎるところが嫌われている。",
+        "checked": true
+    },
+    {
+        "en_raw": "Are... crabs... smart?",
+        "en_clean": "Are... crabs... smart?",
+        "jp_raw": "カニも... 利口... なのか？",
+        "jp_clean": "カニも... 利口... なのか？",
+        "checked": true
+    },
+    {
+        "en_raw": "No, they're stupid and don't even walk right.",
+        "en_clean": "No, they're stupid and don't even walk right.",
+        "jp_raw": "ううん、あいつらバカだし、まっすぐ歩くこともできないんだ。",
+        "jp_clean": "ううん、あいつらバカだし、まっすぐ歩くこともできないんだ。",
+        "checked": true
+    },
+    {
+        "en_raw": "Crabs just look weird I think? I've never actually thought about it.",
+        "en_clean": "Crabs just look weird I think? I've never actually thought about it.",
+        "jp_raw": "カニは見た目がおかしいからじゃないか？ 考えたこともなかったぜ。",
+        "jp_clean": "カニは見た目がおかしいからじゃないか？ 考えたこともなかったぜ。",
+        "checked": true
+    },
+    {
+        "en_raw": "I thought it was like spiders!!! Every human thinks spiders look scary!!!",
+        "en_clean": "I thought it was like spiders!!! Every human thinks spiders look scary!!!",
+        "jp_raw": "クモみたいだからだと思う！！！ どんな人間も、クモは怖いと思うだろ！！！",
+        "jp_clean": "クモみたいだからだと思う！！！ どんな人間も、クモは怖いと思うだろ！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "Haha,\n<span class=\"wave\">\n Za's afraid of spiiideeeers!\n</span>",
+        "en_clean": "Haha,Za's afraid of spiiideeeers!",
+        "jp_raw": "アハハッ、<span class=\"wave\">ザーはクモが怖いんだーー！</span>",
+        "jp_clean": "アハハッ、ザーはクモが怖いんだーー！",
+        "checked": true
+    },
+    {
+        "en_raw": "N-no!!! I'm a big strong man!!!",
+        "en_clean": "N-no!!! I'm a big strong man!!!",
+        "jp_raw": "ち、ちげーよっ！！！ 俺はデカくて強い男だからな！！！",
+        "jp_clean": "ち、ちげーよっ！！！ 俺はデカくて強い男だからな！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "So, crabs are weird and don't walk right, okay.",
+        "en_clean": "So, crabs are weird and don't walk right, okay.",
+        "jp_raw": "じゃあ、カニは見た目が変で、まっすぐ歩かないから嫌われているんだな。",
+        "jp_clean": "じゃあ、カニは見た目が変で、まっすぐ歩かないから嫌われているんだな。",
+        "checked": true
+    },
+    {
+        "en_raw": "A-and... they're\n<span class=\"shake\">\n INEVITABLE.\n</span>",
+        "en_clean": "A-and... they're INEVITABLE.",
+        "jp_raw": "そ、それに... すべては <span class=\"shake\">カニになるから。</span>",
+        "jp_clean": "そ、それに... すべては カニになるから。",
+        "checked": true
+    },
+    {
+        "en_raw": "Uh huh . . .",
+        "en_clean": "Uh huh . . .",
+        "jp_raw": "なるほど...",
+        "jp_clean": "なるほど...",
+        "checked": true
+    },
+    {
+        "en_raw": "I still don't understand anything.",
+        "en_clean": "I still don't understand anything.",
+        "jp_raw": "やっぱり分からない。",
+        "jp_clean": "やっぱり分からない。",
+        "checked": true
+    },
+    {
+        "en_raw": "(You also still don't understand anything.)",
+        "en_clean": "(You also still don't understand anything.)",
+        "jp_raw": "(僕にもさっぱり分からない。)",
+        "jp_clean": "(僕にもさっぱり分からない。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Vaugarde is weird.)",
+        "en_clean": "(Vaugarde is weird.)",
+        "jp_raw": "(ヴォーガルドって変な国。)",
+        "jp_clean": "(ヴォーガルドって変な国。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Such weird superstitions.)",
+        "en_clean": "(Such weird superstitions.)",
+        "jp_raw": "(妙な迷信だ。)",
+        "jp_clean": "(妙な迷信だ。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You also have weird superstitions, so it's not like you can talk.)",
+        "en_clean": "(You also have weird superstitions, so it's not like you can talk.)",
+        "jp_raw": "(僕も変な迷信を持っているから、口に出しはしないけど。)",
+        "jp_clean": "(僕も変な迷信を持っているから、口に出しはしないけど。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You try to not think about how hungry you are.)",
+        "en_clean": "(You try to not think about how hungry you are.)",
+        "jp_raw": "(おなかが空いているのを考えないようにした。)",
+        "jp_clean": "(おなかが空いているのを考えないようにした。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Crabs are pretty tasty though...)",
+        "en_clean": "(Crabs are pretty tasty though...)",
+        "jp_raw": "(カニはおいしいのにな...)",
+        "jp_clean": "(カニはおいしいのにな...)",
+        "checked": true
+    },
+    {
+        "en_raw": "(But you don't think you should say this aloud.)",
+        "en_clean": "(But you don't think you should say this aloud.)",
+        "jp_raw": "(でも、口に出さない方がいいだろう。)",
+        "jp_clean": "(でも、口に出さない方がいいだろう。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You don't mind crab, either as an animal or a meal.)",
+        "en_clean": "(You don't mind crab, either as an animal or a meal.)",
+        "jp_raw": "(カニのことは特に気にならない。生物としても、食材としても。)",
+        "jp_clean": "(カニのことは特に気にならない。生物としても、食材としても。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You're getting tired of this, though.)",
+        "en_clean": "(You're getting tired of this, though.)",
+        "jp_raw": "(でも、このやり取りにはうんざりしてきた。)",
+        "jp_clean": "(でも、このやり取りにはうんざりしてきた。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Time may be frozen, but the smell still lingers.)",
+        "en_clean": "(Time may be frozen, but the smell still lingers.)",
+        "jp_raw": "(時間は止まっていても、香りはまだ残っている。)",
+        "jp_clean": "(時間は止まっていても、香りはまだ残っている。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(A pot filled with bubbling food, frozen in time.)",
+        "en_clean": "(A pot filled with bubbling food, frozen in time.)",
+        "jp_raw": "(ブクブクとした食材が入ったなべが、そのまま時間を止められている。)",
+        "jp_clean": "(ブクブクとした食材が入ったなべが、そのまま時間を止められている。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(The steam is frozen in midair.)",
+        "en_clean": "(The steam is frozen in midair.)",
+        "jp_raw": "(蒸気さえもなべの上で凍り付いている。)",
+        "jp_clean": "(蒸気さえもなべの上で凍り付いている。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(It smells like raw sugar.)",
+        "en_clean": "(It smells like raw sugar.)",
+        "jp_raw": "(砂糖のにおいがする。)",
+        "jp_clean": "(砂糖のにおいがする。)",
+        "checked": true
+    }
+]
