@@ -132,22 +132,12 @@
         "jp_clean": "(星を見るのに一番いい場所を探す頃合いかな...？)",
         "checked": true
     },
-    { //TODO please check which one for me, oh great one
+    {
         "en_raw": "(You nod.)",
         "en_clean": "(You nod.)",
-        "jp_raw": [
-            "\\m[clear](うなずいてみせる。)",
-            "(僕はうなずく。)",
-            "\\(僕はうなずいた。)",
-            "\\m[vs](僕はうなずいた。)\\"
-        ],
-        "jp_clean": [
-            "(うなずいてみせる。)",
-            "(僕はうなずく。)",
-            "(僕はうなずいた。)",
-            "(僕はうなずいた。)"
-        ],
-        "checked": false
+        "jp_raw": "(僕はうなずく。)",
+        "jp_clean": "(僕はうなずく。)",
+        "checked": true
     },
     {
         "en_raw": "(...)",
@@ -156,22 +146,12 @@
         "jp_clean": "(...)",
         "checked": true
     },
-    { //TODO do it for me
+    {
         "en_raw": "(You nod.)",
         "en_clean": "(You nod.)",
-        "jp_raw": [
-            "\\m[clear](うなずいてみせる。)",
-            "(僕はうなずく。)",
-            "\\(僕はうなずいた。)",
-            "\\m[vs](僕はうなずいた。)\\"
-        ],
-        "jp_clean": [
-            "(うなずいてみせる。)",
-            "(僕はうなずく。)",
-            "(僕はうなずいた。)",
-            "(僕はうなずいた。)"
-        ],
-        "checked": false
+        "jp_raw": "(僕はうなずく。)",
+        "jp_clean": "(僕はうなずく。)",
+        "checked": true
     },
     {
         "en_raw": "Heh, so serious!",
@@ -299,12 +279,12 @@
         "jp_clean": "(それじゃ、改めて。)",
         "checked": true
     },
-    {//TODO/TYPO line missing "\"So, do you need help with anything?\"" "\"じゃあ、何か手伝うことはある？\""
+    {//TODO line missing "\"So, do you need help with anything?\"" "\"じゃあ、何か手伝うことはある？\""
         "en_raw": "Help?",
         "en_clean": "Help?",
         "jp_raw": "手伝うこと？",
         "jp_clean": "手伝うこと？",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Oh! Oh, oh, oh! Yes, I do need help with something, now that I'm thinking about it!!!",
@@ -320,12 +300,12 @@
         "jp_clean": "今日は、それで走り回ってたのか？ みんなの用事を手伝って？ 知らなかったよ！",
         "checked": true
     },
-    {//TODO/TYPO line missing "\"I kept the best one for last.\"" "\"一番いいのは、最後にしたんだ。\""
+    {//TODO line missing "\"I kept the best one for last.\"" "\"一番いいのは、最後にしたんだ。\""
         "en_raw": "AW, SIF..........................",
         "en_clean": "AW, SIF..........................",
         "jp_raw": "わっ、シフ...........................",
         "jp_clean": "わっ、シフ...........................",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "I-I'm glad!!!",
@@ -397,12 +377,12 @@
         "jp_clean": "必要なことはもう済んでるか...？",
         "checked": true
     },
-    { //TODO/TYPO missing line choicer "(イザボーと一緒に過ごそうかな？)　\"準備はできてる！\" \"少し待ってて...\""
+    { //TODO missing line choicer "(イザボーと一緒に過ごそうかな？)　\"準備はできてる！\" \"少し待ってて...\""
         "en_raw": "Heh, okay! Well, um...",
         "en_clean": "Heh, okay! Well, um...",
         "jp_raw": "よしきた！ それじゃあ、ええと...",
         "jp_clean": "よしきた！ それじゃあ、ええと...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Follow me, Sif!!!",
@@ -458,7 +438,7 @@
         "en_clean": "(A field...?)",
         "jp_raw": "(原っぱ...？)",
         "jp_clean": "(原っぱ...？)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(There's nothing around...)",
@@ -488,25 +468,19 @@
         "jp_clean": "(きっと星を眺めるのにいい場所を探し回ったんだろうな...)",
         "checked": true
     },
-    { //TODO check for me
+    {
         "en_raw": "(Your throat tightens.)",
         "en_clean": "(Your throat tightens.)",
-        "jp_raw": [
-            "(喉が引きつる。)",
-            "\\(のどが締め付けられる。)"
-        ],
-        "jp_clean": [
-            "(喉が引きつる。)",
-            "(のどが締め付けられる。)"
-        ],
-        "checked": false
+        "jp_raw": "(のどが締め付けられる。)",
+        "jp_clean": "(のどが締め付けられる。)",
+        "checked": true
     },
-    {//TODO/TYPO missing line "\"で、僕に何をしてほしいの？\""
+    {//TODO missing line "\"で、僕に何をしてほしいの？\""
         "en_raw": "Huh? Oh, um...",
         "en_clean": "Huh? Oh, um...",
         "jp_raw": "えっ？ ああ、その...",
         "jp_clean": "えっ？ ああ、その...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "...Lay down with me?",
@@ -515,19 +489,19 @@
         "jp_clean": "...寝転がろう。",
         "checked": true
     },
-    {//TODO/TYPO missing line "(えっ？)"
+    {//TODO missing line "(えっ？)"
         "en_raw": "(You lay down.)",
         "en_clean": "(You lay down.)",
         "jp_raw": "(僕は寝転がる。)",
         "jp_clean": "(僕は寝転がる。)",
-        "checked": false
+        "checked": true
     },
-    {//TODO/TYPO missing line \"それから？\"
+    {//TODO missing line \"それから？\"
         "en_raw": "And then...",
         "en_clean": "And then...",
         "jp_raw": "お次は...",
         "jp_clean": "お次は...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Look up!",
@@ -555,7 +529,7 @@
         "en_clean": "Y'know, when you asked me if I needed help earlier, I wasn't sure what to say!",
         "jp_raw": "今日さ、手伝えることあるかって訊いてくれただろ？ そのときは何て言えばいいか分からなかったんだ。",
         "jp_clean": "今日さ、手伝えることあるかって訊いてくれただろ？ そのときは何て言えばいいか分からなかったんだ。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "I don't really need help with anything... And I did all I needed to prepare for tomorrow and stuff.",
@@ -571,14 +545,16 @@
         "jp_clean": "シフが今日みんなのために町中を走りまわってるのを見てさ、ちょっと楽しそうだなって思ったんだ！ それで俺は...",
         "checked": true
     },
-    {
+    { // TODO/TYPO en line missing end quote
         "en_raw": "\"Sif's making sure to help everyone today, but I just want to hang out with him!!!",
         "en_clean": "\"Sif's making sure to help everyone today, but I just want to hang out with him!!!",
         "jp_raw": "「シフは今日、みんなの力になろうと頑張ってるけど、俺はただ話ができればいいや！」って思ったんだ。",
         "jp_clean": "「シフは今日、みんなの力になろうと頑張ってるけど、俺はただ話ができればいいや！」って思ったんだ。",
         "checked": true
     },
-    {//TODO/TYPO missing line "だから、その、そういうこと！ 今日シフにしてほしいのは... ここでのんびりすることだ！"
+    {//TODO/TYPO missing line
+     // \m[vinp]And so, um, that's it!\!\ That's all I want you to do today!\!\ Let's just hang!!!
+     // "だから、その、そういうこと！ 今日シフにしてほしいのは... ここでのんびりすることだ！"
         "en_raw": "(Oh.)",
         "en_clean": "(Oh.)",
         "jp_raw": "(そうか。)",
@@ -1353,28 +1329,28 @@
         "en_clean": "More like a nock! Sounds better, doesn't it? Better mouth feel.",
         "jp_raw": "どちらかというとマッチョ勉だな！ そっちのほうがいい響きじゃない？ 語感がいい。",
         "jp_clean": "どちらかというとマッチョ勉だな！ そっちのほうがいい響きじゃない？ 語感がいい。",
-        "checked": false
+        "checked": true
     },
     { //TODO missing other line "\\m[vinp]どちらかというとマッチョ勉だな！\\!\\ そっちのほうがいい響きじゃない？\\!\\ 語感がいい。"
         "en_raw": "More like a jerd! Sounds better, doesn't it? Better mouth feel.",
         "en_clean": "More like a jerd! Sounds better, doesn't it? Better mouth feel.",
         "jp_raw": "どちらかというとガリッチョだな！ そっちのほうがいい響きじゃない？ 語感がいい。",
         "jp_clean": "どちらかというとガリッチョだな！ そっちのほうがいい響きじゃない？ 語感がいい。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "\"They both sound bad, Isa.\"",
         "en_clean": "\"They both sound bad, Isa.\"",
         "jp_raw": "\"どっちも響きはよくないよ、イザ。\"",
         "jp_clean": "\"どっちも響きはよくないよ、イザ。\"",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "<span class=\"wave\">\n Nooooo\n</span>\n, don't say that! Hahaha!!!",
         "en_clean": "Nooooo, don't say that! Hahaha!!!",
         "jp_raw": "<span class=\"wave\">え～～～っ</span>、そんなこと言うなよぉ！ ハハハ！！！",
         "jp_clean": "え～～～っ、そんなこと言うなよぉ！ ハハハ！！！",
-        "checked": false
+        "checked": true
     },
     {//TODO choicer "\"かしこマッチョになればいい。\"" "\"ムキガリ勉になればいい。\""
         "en_raw": "",
@@ -1388,7 +1364,7 @@
         "en_clean": "A smart jock... How avant-garde, right?",
         "jp_raw": "かしこマッチョか... なかなかトガッてるな？",
         "jp_clean": "かしこマッチョか... なかなかトガッてるな？",
-        "checked": false
+        "checked": true
     },
     { 
         "en_raw": "Oh.",
@@ -1997,7 +1973,7 @@
         "en_clean": "Yes, thank you, Siffrin. You've been a great help today.",
         "jp_raw": "そうだ。ありがとう、シフラン。今日はとても助かった。",
         "jp_clean": "そうだ。ありがとう、シフラン。今日はとても助かった。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Frin taught me how to fight!!! I'll be able to help you tomorrow!!!",
@@ -2697,7 +2673,7 @@
         "en_clean": "(You don't want to have to loop back to before you spent that time with them.)",
         "jp_raw": "(みんなと過ごした時間より前にループしたくない。)",
         "jp_clean": "(みんなと過ごした時間より前にループしたくない。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(What would happen, if... If you stayed with this version of them... Until the end?)",
