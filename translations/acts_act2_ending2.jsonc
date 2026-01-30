@@ -1286,19 +1286,19 @@
         "jp_clean": "あら...",
         "checked": true
     },
-    { //WEBSITE MISSING PART OF LINE
-        "en_raw": "Is it... Is it truly...",
+    { //TODO WEBSITE MISSING PART OF LINE
+        "en_raw": "Is it... Is it truly...", // over?
         "en_clean": "Is it... Is it truly...",
         "jp_raw": "これで... これで本当に... 終わり？",
         "jp_clean": "これで... これで本当に... 終わり？",
         "checked": true
     },
-    { //TODO can't find part of line
+    {
         "en_raw": "(You're smiling.)\n                        \"We did it, Mirabelle!\"",
         "en_clean": "(You're smiling.)                       \"We did it, Mirabelle!\"",
-        "jp_raw": "\"やったね、ミラベル\"",
-        "jp_clean": null,
-        "checked": false
+        "jp_raw": "(笑みがこぼれる。) \"やったね、ミラベル！\"",
+        "jp_clean": "(笑みがこぼれる。) \"やったね、ミラベル！\"",
+        "checked": true
     },
     {
         "en_raw": "We...",
@@ -2024,8 +2024,8 @@
     {
         "en_raw": "\"We really won, Mira!\"",
         "en_clean": "\"We really won, Mira!\"",
-        "jp_raw": "\"本当に勝ったんだよ、ミラ\"",
-        "jp_clean": "\"本当に勝ったんだよ、ミラ\"",
+        "jp_raw": "\"本当に勝ったんだよ、ミラ！\"",
+        "jp_clean": "\"本当に勝ったんだよ、ミラ！\"",
         "checked": true
     },
     {
@@ -2252,19 +2252,19 @@
         "jp_clean": "シフ！！！ やったな！！！",
         "checked": true
     },
-    { //TODO in game-lines.json this is two lines seperated
+    { //TODO remove part of site line here:  "We did it!"
         "en_raw": "We did it, Sif, we did it! We did it! We stopped the King! We can finally go back to our normal lives! Isn't it great???",
         "en_clean": "We did it, Sif, we did it! We did it! We stopped the King! We can finally go back to our normal lives! Isn't it great???",
-        "jp_raw": "シフ！！！ やったな！！！", //"...やったな！ 王を食い止めた！ これでやっと普通の生活に戻れる！ 最高だよな？？？"
-        "jp_clean": "シフ！！！ やったな！！！", //"...やったな！ 王を食い止めた！ これでやっと普通の生活に戻れる！ 最高だよな？？？"
-        "checked": false
+        "jp_raw": "やったな、シフ、やったぞ！ 王を食い止めた！ これでやっと普通の生活に戻れる！ 最高だよな？？？",
+        "jp_clean": "やったな、シフ、やったぞ！ 王を食い止めた！ これでやっと普通の生活に戻れる！ 最高だよな？？？",
+        "checked": true
     },
-    { //TODO can't find
+    {
         "en_raw": "\"It is!!!\"",
         "en_clean": "\"It is!!!\"",
-        "jp_raw": null,
-        "jp_clean": null,
-        "checked": false
+        "jp_raw": "最高だよ！！！",
+        "jp_clean": "最高だよ！！！",
+        "checked": true
     },
     {
         "en_raw": "Yeah!!!",
@@ -2413,22 +2413,12 @@
         "jp_clean": "早く前の職場に復帰したくてウズウズしてるんだ。ジュヴァンテの近くにきたら顔を出してくれよ。いいな？",
         "checked": true
     },
-    { //TODO unsure which
+    { //TODO
         "en_raw": "(You nod.)",
         "en_clean": "(You nod.)",
-        "jp_raw": [
-            "\\m[clear](うなずいてみせる。)",
-            "(僕はうなずく。)",
-            "\\m[wait](僕はうなずいた。)",
-            "\\m[vs](僕はうなずいた。)\\!\\"
-        ],
-        "jp_clean": [
-            "(うなずいてみせる。)",
-            "(僕はうなずく。)",
-            "(僕はうなずいた。)",
-            "(僕はうなずいた。)"
-        ],
-        "checked": false
+        "jp_raw": "(うなずいてみせる。)",
+        "jp_clean": "(うなずいてみせる。)",
+        "checked": true
     },
     {
         "en_raw": "...",
@@ -2514,12 +2504,12 @@
         "jp_clean": "あるいは... カ・ビューに里帰りするという手もある。ふむ...",
         "checked": true
     },
-    { //TODO can't find
+    {
         "en_raw": "(Maybe she'd tell you now...)\n                        \"To do your research?\"",
         "en_clean": "(Maybe she'd tell you now...)                       \"To do your research?\"",
-        "jp_raw": null,
-        "jp_clean": null,
-        "checked": false
+        "jp_raw": "(いまなら教えてくれるかも...) \"研究を続けるの？\"",
+        "jp_clean": "(いまなら教えてくれるかも...) \"研究を続けるの？\"",
+        "checked": true
     },
     {
         "en_raw": "Are you hoping I'll tell you now that our journey is over?",
@@ -2570,35 +2560,19 @@
         "jp_clean": "それから、いつでもカ・ビューを訪ねてくれ。あるいは旅の途中でバッタリ再会することもあるかもしれない。",
         "checked": true
     },
-    { //TODO unsure which
+    {
         "en_raw": "(Oh!)",
         "en_clean": "(Oh!)",
-        "jp_raw": [
-            "\\m[clear](おお！)",
-            "\\m[vs](ああ！)\\!\\",
-            "\\m[clear]\\m[wait](あっ！)",
-            "(へえ！)"
-        ],
-        "jp_clean": [
-            "(おお！)",
-            "(ああ！)",
-            "(あっ！)",
-            "(へえ！)"
-        ],
-        "checked": false
+        "jp_raw": "(おお！)",
+        "jp_clean": "(おお！)",
+        "checked": true
     },
-    { //TODO unsure which
+    {
         "en_raw": "(She's smiling at you gently.)",
         "en_clean": "(She's smiling at you gently.)",
-        "jp_raw": [
-            "(オディールがやさしく微笑んでる。)",
-            "\\m[clear](オディールがやさしく微笑んでいる。)"
-        ],
-        "jp_clean": [
-            "(オディールがやさしく微笑んでる。)",
-            "(オディールがやさしく微笑んでいる。)"
-        ],
-        "checked": false
+        "jp_raw": "(オディールがやさしく微笑んでる。)",
+        "jp_clean": "(オディールがやさしく微笑んでる。)",
+        "checked": true
     },
     {
         "en_raw": "(You smile back.)",
@@ -2680,8 +2654,8 @@
     {
         "en_raw": "\"For real for real, Bon!\"",
         "en_clean": "\"For real for real, Bon!\"",
-        "jp_raw": "\"ほんとにほんとだよ、ボン\"",
-        "jp_clean": "\"ほんとにほんとだよ、ボン\"",
+        "jp_raw": "\"ほんとにほんとだよ、ボン！\"",
+        "jp_clean": "\"ほんとにほんとだよ、ボン！\"",
         "checked": true
     },
     {
@@ -2708,8 +2682,8 @@
     {
         "en_raw": "\"I'm sure of it!\"",
         "en_clean": "\"I'm sure of it!\"",
-        "jp_raw": "\"間違いないって\"",
-        "jp_clean": "\"間違いないって\"",
+        "jp_raw": "\"間違いないって！\"",
+        "jp_clean": "\"間違いないって！\"",
         "checked": true
     },
     {
@@ -2768,12 +2742,12 @@
         "jp_clean": "\"勝ったのにお姉さんが動かないままだって思うのもバカバカしいぞ！\"",
         "checked": true
     },
-    { //TODO double check
+    {
         "en_raw": "Oh...",
         "en_clean": "Oh...",
         "jp_raw": "あぁ...",
         "jp_clean": "あぁ...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "OH!!! YOU'RE RIGHT!!!",
@@ -2845,40 +2819,40 @@
         "jp_clean": "旅のお方！",
         "checked": true
     },
-    { //TODO double check eng formatting for... all this???
+    {
         "en_raw": "Are you done talking with your companions? Yes, wonderful,\n                        wonderful!",
         "en_clean": "Are you done talking with your companions? Yes, wonderful,                       wonderful!",
         "jp_raw": "お仲間とのお話しは終わったのですか？ そう、それはよかった！",
         "jp_clean": "お仲間とのお話しは終わったのですか？ そう、それはよかった！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "I'd like to thank you for accompanying young Mirabelle this far. I'm\n                        very grateful.",
         "en_clean": "I'd like to thank you for accompanying young Mirabelle this far. I'm                       very grateful.",
         "jp_raw": "ここまでミラベルと一緒にいてくださったことにお礼を言わせてください。とても感謝していますわ。",
         "jp_clean": "ここまでミラベルと一緒にいてくださったことにお礼を言わせてください。とても感謝していますわ。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Siffrin, yes? If there's anything I can do to thank you, please\n                        don't hesitate to let me know!",
         "en_clean": "Siffrin, yes? If there's anything I can do to thank you, please                       don't hesitate to let me know!",
         "jp_raw": "シフラン、でしたわね？ お礼として私にできることがあったら、遠慮なく言ってくださいね！",
         "jp_clean": "シフラン、でしたわね？ お礼として私にできることがあったら、遠慮なく言ってくださいね！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "I know you will go back on your travels soon, but I do hope you'll\n                        keep in touch, if only for young Mirabelle...",
         "en_clean": "I know you will go back on your travels soon, but I do hope you'll                       keep in touch, if only for young Mirabelle...",
         "jp_raw": "もうすぐまた旅に出るのでしたわね？ でもこの先も交流を保てると嬉しいですわ。ミラベルのためにも...",
         "jp_clean": "もうすぐまた旅に出るのでしたわね？ でもこの先も交流を保てると嬉しいですわ。ミラベルのためにも...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "But no matter what, know that Dormont will always be open to you!\n                        Please come back... any... time...",
         "en_clean": "But no matter what, know that Dormont will always be open to you!                       Please come back... any... time...",
         "jp_raw": "いずれにしても、ドーモントはいつでもあなたを歓迎しますわ！ どうぞいつでも... お戻りに... なって...",
         "jp_clean": "いずれにしても、ドーモントはいつでもあなたを歓迎しますわ！ どうぞいつでも... お戻りに... なって...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "<span class=\"shake\">\n ...!!!!!\n</span>",
@@ -3002,7 +2976,7 @@
     {
         "en_raw": "You might learn to for",
         "en_clean": "You might learn to for",
-        "jp_raw": "私を許し\\^",
+        "jp_raw": "私を許し",
         "jp_clean": "私を許し",
         "checked": true
     }
