@@ -62,12 +62,12 @@
         "jp_clean": "なぜだ。",
         "checked": true
     },
-    { //TODO check this, japanese has shake big but eng doesnt?
+    { //TODO en needs big
         "en_raw": "<span class=\"shake\">\n BECAUSE IT'S SNACKS TIME, BABYYYYYYYYYYYYYYY!!!!!!!!\n</span>",
         "en_clean": "BECAUSE IT'S SNACKS TIME, BABYYYYYYYYYYYYYYY!!!!!!!!",
         "jp_raw": "<span class=\"shake big\">だって、おやつの時間だからねっ、ベイビー！！！</span>",
         "jp_clean": "だって、おやつの時間だからねっ、ベイビー！！！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Snacks are important to keep hunger away and keep morale up! I learned that because I'm a growing kid!",
@@ -335,12 +335,12 @@
         "jp_clean": "信じられないが、もうただの知り合いになった。",
         "checked": true
     },
-    {//TODO double check
+    {
         "en_raw": "NO!!!",
         "en_clean": "NO!!!",
         "jp_raw": "そんな！！！",
         "jp_clean": "そんな！！！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Friends, huh...",
@@ -363,12 +363,12 @@
         "jp_clean": "もう、友達じゃない！！！",
         "checked": true
     },
-    {//TODO double check
+    {
         "en_raw": "Uh huh.",
         "en_clean": "Uh huh.",
         "jp_raw": "なるほど。",
         "jp_clean": "なるほど。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(. . .  Huh?)",
@@ -412,7 +412,7 @@
         "jp_clean": "願いの木に、次にするコイントスで勝たせてくれと頼んだんだ。",
         "checked": true
     },
-    { //TODO double check
+    {
         "en_raw": "Huh?",
         "en_clean": "Huh?",
         "jp_raw": "へ？",
@@ -795,7 +795,7 @@
         "en_clean": "(You'd like...)",
         "jp_raw": "(僕は...)",
         "jp_clean": "(僕は...)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "There!!! You!!! GO!!!!!!!!",
@@ -1175,7 +1175,7 @@
         "jp_clean": ". . .",
         "checked": true
     },
-    { //TODO double check
+    {
         "en_raw": "Ah.",
         "en_clean": "Ah.",
         "jp_raw": "あー。",
@@ -1490,40 +1490,12 @@
         "jp_clean": "友達になんかなれない！ そんなの、誰かのお母さんとかお姉さんと友達になるようなもんだ。",
         "checked": true
     },
-    {//TODO unsure which also choicer "\"オディールはお母さん？ お姉さん？\"" "\"ミラはお母さん？ お姉さん？\"" "\"イザはお母さん？ お姉さん？\"" "\"僕はどう？\""
+    {//TODO choicer "\"オディールはお母さん？ お姉さん？\"" "\"ミラはお母さん？ お姉さん？\"" "\"イザはお母さん？ お姉さん？\"" "\"僕はどう？\""
         "en_raw": "Hm...",
         "en_clean": "Hm...",
-        "jp_raw": [
-            "\\m[vo]ふむ...",
-            "\\m[vi]うーん...",
-            "\\m[vb]ふーん...",
-            "\\m[vi]うーん...\\!\\m[wait]\\^",
-            "\\m[vm]うーん...",
-            "\\m[vh]なるほど...\\!\\m[wait]\\^",
-            "\\m[vwoman]\\n<\\v[46]>うーん...\\!\\m[wait]\\^",
-            "\\n<\\v[46]>ふうん...",
-            "\\m[vh]なるほど...\\m[wait]",
-            "\\m[vl]ふうん...",
-            "\\m[vinp]そうか...",
-            "へえ...",
-            "\\m[vonp]ふむ..."
-        ],
-        "jp_clean": [
-            "ふむ...",
-            "うーん...",
-            "ふーん...",
-            "うーん...",
-            "うーん...",
-            "なるほど...",
-            "うーん...",
-            "ふうん...",
-            "なるほど...",
-            "ふうん...",
-            "そうか...",
-            "へえ...",
-            "ふむ..."
-        ],
-        "checked": false
+        "jp_raw": "ふーん...",
+        "jp_clean": "ふーん...",
+        "checked": true
     },
     {
         "en_raw": "Actually, Dile's more like a grandma, isn't she?",
@@ -1574,19 +1546,19 @@
         "jp_clean": "(そういうものなのか？)",
         "checked": true
     },
-    { //TODO formating defffffffff messed up. Also double check
+    { //TODO formating defffffffff messed up
         "en_raw": "<b>\n Bonnie (sulk5):\n</b>\nHm...",
         "en_clean": "Bonnie (sulk5):Hm...",
         "jp_raw": "ふーん...",
         "jp_clean": "ふーん...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "<b>\n Bonnie (mock1):\n</b>\nZa's like a little brother.",
         "en_clean": "Bonnie (mock1):Za's like a little brother.",
         "jp_raw": "ザーは弟って感じ。",
         "jp_clean": "ザーは弟って感じ。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(Is that how it works?)",
@@ -1819,7 +1791,7 @@
         "jp_clean": "ジョークを取り戻したね！ エヘヘ...",
         "checked": true
     },
-    { //TODO O_O
+    {
         "en_raw": "(You finished the joke quickly to make sure she wouldn't\n\t\t\t\t\t\t\t\t\t\tfinish it herself.)",
         "en_clean": "(You finished the joke quickly to make sure she wouldn't\t\t\t\t\t\t\t\t\t\tfinish it herself.)",
         "jp_raw": "(早口でジョークを言い終えて、ミラベルに言葉を継がれないようにした。)",
@@ -1994,12 +1966,12 @@
         "jp_clean": "え...",
         "checked": true
     },
-    { //TODO double check eng, jap has shake big
+    { //TODO en needs big
         "en_raw": "<span class=\"shake\">\n HUWAH?!??!\n</span>",
         "en_clean": "HUWAH?!??!",
         "jp_raw": "<span class=\"shake big\">ええええ？！？？！</span>",
         "jp_clean": "ええええ？！？？！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(Isabeau was so surprised by what you said he destroyed the cookie he was holding into a thousand crumbs!!!)",
@@ -2085,68 +2057,68 @@
         "jp_clean": "(僕の力だ、と思ったのも束の間、気分が悪くなった。)",
         "checked": true
     },
-    { //TODO jap has shake big not eng
+    { //TODO en needs big
         "en_raw": "<span class=\"shake\">\n SIF!!! Y-you can't just say that!!!\n</span>",
         "en_clean": "SIF!!! Y-you can't just say that!!!",
         "jp_raw": "<span class=\"shake big\">シフ！！！ い、いきなり言うなよ！！！</span>",
         "jp_clean": "シフ！！！ い、いきなり言うなよ！！！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "I-I really have the heart of a delicate maiden, you know. You have to be careful with me.",
         "en_clean": "I-I really have the heart of a delicate maiden, you know. You have to be careful with me.",
         "jp_raw": "お、俺のハートは繊細な乙女なんだ。知ってるだろ。言葉には気を付けてくれ。",
         "jp_clean": "お、俺のハートは繊細な乙女なんだ。知ってるだろ。言葉には気を付けてくれ。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Hey!",
         "en_clean": "Hey!",
         "jp_raw": "やあ！",
         "jp_clean": "やあ！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(Isabeau smiles at you.)",
         "en_clean": "(Isabeau smiles at you.)",
         "jp_raw": "(イザボーが笑いかけている。)",
         "jp_clean": "(イザボーが笑いかけている。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "H-Hey...",
         "en_clean": "H-Hey...",
         "jp_raw": "や、やあ...",
         "jp_clean": "や、やあ...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(Isabeau seems to have trouble looking you in the eye.)",
         "en_clean": "(Isabeau seems to have trouble looking you in the eye.)",
         "jp_raw": "(イザボーは僕の目をまっすぐ見ることができないようだ。)",
         "jp_clean": "(イザボーは僕の目をまっすぐ見ることができないようだ。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Hm... I hope I didn't make Bonnie upset earlier.",
         "en_clean": "Hm... I hope I didn't make Bonnie upset earlier.",
         "jp_raw": "うーん... さっきのことで、ボニーを動揺させていないといいが。",
         "jp_clean": "うーん... さっきのことで、ボニーを動揺させていないといいが。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(You both look Bonnie's way...)",
         "en_clean": "(You both look Bonnie's way...)",
         "jp_raw": "(2人でボニーの方を見た...)",
         "jp_clean": "(2人でボニーの方を見た...)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(Bonnie is stuffing their cheeks happily.)",
         "en_clean": "(Bonnie is stuffing their cheeks happily.)",
         "jp_raw": "(ボニーは頬を膨らませて、幸せそうな顔だ。)",
         "jp_clean": "(ボニーは頬を膨らませて、幸せそうな顔だ。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "...Nevermind.",
@@ -2218,18 +2190,18 @@
         "jp_clean": "私のことは放っておいてくれ。一人で考えたい。",
         "checked": true
     },
-    { //TODO all three are correct here??? You do it, Gold.
+    { //TODO edge case detected!!! these are different in jp but not en
         "en_raw": "(You leave Odile be.)",
         "en_clean": "(You leave Odile be.)",
         "jp_raw": [
-            "\\m[clear](オディールを放っておくことにした。)",
-            "\\m[wait](オディールは放っておこう。)",
-            "(オディールを放っておくことにした。)"
+            "\\m[clear](オディールを放っておくことにした。)", // act 2
+            "\\m[wait](オディールは放っておこう。)", // act 3
+            "(オディールを放っておくことにした。)" // act 4
         ],
         "jp_clean": [
-            "(オディールを放っておくことにした。)",
-            "(オディールは放っておこう。)",
-            "(オディールを放っておくことにした。)"
+            "(オディールを放っておくことにした。)", // act 2
+            "(オディールは放っておこう。)", // act 3
+            "(オディールを放っておくことにした。)" // act 4
         ],
         "checked": false
     },
