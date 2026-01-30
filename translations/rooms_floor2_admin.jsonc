@@ -97,12 +97,12 @@
         "jp_clean": "うん。",
         "checked": true
     },
-    { //TODO can't find
+    {
         "en_raw": "Sucks.",
         "en_clean": "Sucks.",
-        "jp_raw": null,
-        "jp_clean": null,
-        "checked": false
+        "jp_raw": "\"サイアクだ。\"",
+        "jp_clean": "\"サイアクだ。\"",
+        "checked": true
     },
     {
         "en_raw": "Mirabelle, any idea where the key for this would be?",
@@ -188,20 +188,12 @@
         "jp_clean": "そうだ。きみの責任ではない。この手の探し物は、強いて言えばシフランの役目だ...",
         "checked": true
     },
-    { //TODO unsure which, but prob なんだよぉ
+    {
         "en_raw": "(Hey...)",
         "en_clean": "(Hey...)",
-        "jp_raw": [
-            "\\m[clear](ちょっと...)",
-            "\\m[clear]\\m[rb](なんだよぉ...)",
-            "\\m[rb]\\m[vs](なんだよ...)\\!\\"
-        ],
-        "jp_clean": [
-            "(ちょっと...)",
-            "(なんだよぉ...)",
-            "(なんだよ...)"
-        ],
-        "checked": false
+        "jp_raw": "(ちょっと...)",
+        "jp_clean": "(ちょっと...)",
+        "checked": true
     },
     {
         "en_raw": "Can we break it down?",
@@ -336,20 +328,12 @@
         "jp_clean": "(扉にはしっかりと鍵がかかっている。)",
         "checked": true
     },
-    {//TODO unsure which
+    {
         "en_raw": "(Hm...)",
         "en_clean": "(Hm...)",
-        "jp_raw": [
-            "\\m[clear](ふむ...)",
-            "(ふむ...)",
-            "\\m[vs](そうだな...)\\!\\"
-        ],
-        "jp_clean": [
-            "(ふむ...)",
-            "(ふむ...)",
-            "(そうだな...)"
-        ],
-        "checked": false
+        "jp_raw": "(ふむ...)",
+        "jp_clean": "(ふむ...)",
+        "checked": true
     },
     {
         "en_raw": "(The key for it was in the Head Housemaiden's office, but it's inaccessible now...)",
@@ -1058,22 +1042,12 @@
         "jp_clean": "そ、そうなんだ！ じゃあそろそろ行こうか？",
         "checked": true
     },
-    { //TODO unsure which
+    {
         "en_raw": "(You nod.)",
         "en_clean": "(You nod.)",
-        "jp_raw": [
-            "\\m[clear](うなずいてみせる。)",
-            "(僕はうなずく。)",
-            "\\m[wait](僕はうなずいた。)",
-            "\\m[vs](僕はうなずいた。)\\!\\"
-        ],
-        "jp_clean": [
-            "(うなずいてみせる。)",
-            "(僕はうなずく。)",
-            "(僕はうなずいた。)",
-            "(僕はうなずいた。)"
-        ],
-        "checked": false
+        "jp_raw": "(うなずいてみせる。)",
+        "jp_clean": "(うなずいてみせる。)",
+        "checked": true
     },
     {
         "en_raw": "(...The Head Housemaiden...)",
