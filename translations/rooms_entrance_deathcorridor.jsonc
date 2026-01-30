@@ -527,8 +527,8 @@
     {
         "en_raw": "(You feel   a tug   on  your  stomach)",
         "en_clean": "(You feel   a tug   on  your  stomach)",
-        "jp_raw": "(胃が ひっくり 返り そうに なる)",
-        "jp_clean": "(胃が ひっくり 返り そうに なる)",
+        "jp_raw": "(胃が ひっくり　返り　そうに なる)",
+        "jp_clean": "(胃が ひっくり　返り　そうに なる)",
         "checked": true
     },
     {
@@ -576,7 +576,7 @@
     {
         "en_raw": "(This is a normal pillar, but...)",
         "en_clean": "(This is a normal pillar, but...)",
-        "jp_raw": "(普通の柱だ。でも\\..\\..\\..)",
+        "jp_raw": "(普通の柱だ。でも...)",
         "jp_clean": "(普通の柱だ。でも...)",
         "checked": true
     },
@@ -601,18 +601,12 @@
         "jp_clean": "(...)",
         "checked": true
     },
-    { //TODO unsure which
+    {                      
         "en_raw": "(Oh stars.)",
         "en_clean": "(Oh stars.)",
-        "jp_raw": [
-            "(おお、星たちよ。)",
-            "\\m[clear](ああ、星たちよ。)"
-        ],
-        "jp_clean": [
-            "(おお、星たちよ。)",
-            "(ああ、星たちよ。)"
-        ],
-        "checked": false
+        "jp_raw": "(おお、星たちよ。)",
+        "jp_clean": "(おお、星たちよ。)",
+        "checked": true
     },
     {
         "en_raw": "(Hidden unless you're looking at the right angle, you can see a switch hidden between the rocks.)",
@@ -642,19 +636,19 @@
         "jp_clean": "(スイッチを押す。)",
         "checked": true
     },
-    { //TODO eng doesn't have shake, maybe wrong?
+    { //TODO en missing shake
         "en_raw": "<span class=\"big\">\n WAH!!!\n</span>",
         "en_clean": "WAH!!!",
         "jp_raw": "<span class=\"shake big\">わあっ！</span>",
         "jp_clean": "わあっ！",
-        "checked": false
+        "checked": true
     },
-    { //TODO same as above
+    { //TODO en missing shake
         "en_raw": "<span class=\"big\">\n WOAH!!!!\n</span>",
         "en_clean": "WOAH!!!!",
         "jp_raw": "<span class=\"shake big\">うおっ！</span>",
         "jp_clean": "うおっ！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(Okay, the rock fell!!! And not on your head!!! Woohoo!!!)",
@@ -775,12 +769,12 @@
         "jp_clean": "(...そしてスイッチを押す。)",
         "checked": true
     },
-    { //TODO she shake my big till I span
+    { //TODO en missing shake
         "en_raw": "<span class=\"big\">\n WAH!!!\n</span>",
         "en_clean": "WAH!!!",
         "jp_raw": "<span class=\"shake big\">わあっ！</span>",
         "jp_clean": "わあっ！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(Yeah, yeah...) \"Let's go, everyone.\"",
