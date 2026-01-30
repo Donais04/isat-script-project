@@ -265,18 +265,12 @@
         "jp_clean": "(顔がこわばるのが自分でも分かる。)",
         "checked": true
     },
-    { //TODO unsure which
+    {
         "en_raw": "(You frown.)",
         "en_clean": "(You frown.)",
-        "jp_raw": [
-            "\\m[clear](僕は顔をしかめる。)",
-            "(顔をしかめる。)"
-        ],
-        "jp_clean": [
-            "(僕は顔をしかめる。)",
-            "(顔をしかめる。)"
-        ],
-        "checked": false
+        "jp_raw": "(僕は顔をしかめる。)",
+        "jp_clean": "(僕は顔をしかめる。)",
+        "checked": true
     },
     {
         "en_raw": "(You want to throw up just looking at them, but you force yourself to make a funny disgusted face.)",
@@ -411,22 +405,12 @@
         "jp_clean": "そ... それだけで永久にクロワッサン断ちを？",
         "checked": true
     },
-    { //TODO unsure which
+    {
         "en_raw": "(You nod.)",
         "en_clean": "(You nod.)",
-        "jp_raw": [
-            "\\m[clear](うなずいてみせる。)",
-            "(僕はうなずく。)",
-            "\\m[wait](僕はうなずいた。)",
-            "\\m[vs](僕はうなずいた。)\\!\\"
-        ],
-        "jp_clean": [
-            "(うなずいてみせる。)",
-            "(僕はうなずく。)",
-            "(僕はうなずいた。)",
-            "(僕はうなずいた。)"
-        ],
-        "checked": false
+        "jp_raw": "(うなずいてみせる。)",
+        "jp_clean": "(うなずいてみせる。)",
+        "checked": true
     },
     {
         "en_raw": "...",
@@ -596,12 +580,12 @@
         "jp_clean": "(オディールがアイテムをボニーに預ける。)",
         "checked": true
     },
-    { //TODO double check
+    {
         "en_raw": "(Nothing there.)",
         "en_clean": "(Nothing there.)",
         "jp_raw": "(何もない。)",
         "jp_clean": "(何もない。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(But none of them are here!)",

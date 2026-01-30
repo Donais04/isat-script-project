@@ -111,12 +111,12 @@
         "jp_clean": "(「しょっぱスープ」を手に入れた！)",
         "checked": true
     },
-    {//TODO unsure formatting
+    {
         "en_raw": "(You give them\n<!--sic-->\nto Bonnie for safekeeping.)",
         "en_clean": "(You give themto Bonnie for safekeeping.)",
         "jp_raw": "(ボニーに渡して保管しておいてもらおう。)",
         "jp_clean": "(ボニーに渡して保管しておいてもらおう。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(You take the item.)",
@@ -132,12 +132,12 @@
         "jp_clean": "(「しょっぱスープ」を手に入れた！)",
         "checked": true
     },
-    {//TODO check formating
+    {
         "en_raw": "(You give them\n<!--sic-->\nto Bonnie for safekeeping.)",
         "en_clean": "(You give themto Bonnie for safekeeping.)",
         "jp_raw": "(ボニーに渡して保管しておいてもらおう。)",
         "jp_clean": "(ボニーに渡して保管しておいてもらおう。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(There's nothing else in there.)",
@@ -331,8 +331,8 @@
     {
         "en_raw": "(You know this already.)",
         "en_clean": "(You know this already.)",
-        "jp_raw": null,
-        "jp_clean": null,
+        "jp_raw": "(もう分かっている。)",
+        "jp_clean": "(もう分かっている。)",
         "checked": true
     },
     {

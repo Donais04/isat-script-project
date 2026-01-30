@@ -209,12 +209,12 @@
         "jp_clean": "(「ドーモントのパン屋\"ミニョン\" 毎週土曜日は20%オフ！」)",
         "checked": true
     },
-    {//TODO double check formatting
+    {
         "en_raw": "(\"\n<i>\n Because we\n</i>\n<span class=\"wave\">\n LOAF\n</span>\n<i>\n you almost as much as you\n</i>\n<span class=\"wave\">\n LOAF\n</span>\n<i>\n our bread!!!\n</i>\n\")\n<!-- italics aren't on wave text -->",
         "en_clean": "(\"Because we LOAF you almost as much as you LOAF our bread!!!\")",
-        "jp_raw": "(\"<i>なぜなら、<span class=\"wave\">パンパン</span>の愛でみなさまからの<span class=\"wave\">パンパン</span>の期待に応えたいから！！！</i>\")",
+        "jp_raw": "(\"<i>なぜなら、</i><span class=\"wave\">パンパン</span><i>の愛でみなさまからの</i><span class=\"wave\">パンパン</span><i>の期待に応えたいから！！！</i>\")",
         "jp_clean": "(\"なぜなら、パンパンの愛でみなさまからのパンパンの期待に応えたいから！！！\")",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Hmm...",
@@ -270,7 +270,7 @@
         "en_clean": "",
         "jp_raw": "...店は順風満<span class=\"wave\">パン</span>だろうな！！",
         "jp_clean": "...店は順風満パンだろうな！！",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "",
@@ -419,20 +419,12 @@
         "jp_clean": "アハハハ！！！",
         "checked": true
     },
-    { //TODO unsure which
+    {
         "en_raw": "(Oh...)",
         "en_clean": "(Oh...)",
-        "jp_raw": [
-            "\\m[vs](あれ...)\\!\\",
-            "\\m[clear](そうか...)",
-            "\\m[wait](ああ...)"
-        ],
-        "jp_clean": [
-            "(あれ...)",
-            "(そうか...)",
-            "(ああ...)"
-        ],
-        "checked": false
+        "jp_raw": "(そうか...)",
+        "jp_clean": "(そうか...)",
+        "checked": true
     },
     {
         "en_raw": "(You forgot about the pun and let Isabeau down...)",
@@ -826,20 +818,12 @@
         "jp_clean": "(カウンターを殴り返す。)",
         "checked": true
     },
-    {//TODO unsure which
+    {
         "en_raw": "Oh!!!",
         "en_clean": "Oh!!!",
-        "jp_raw": [
-            "\\m[vm]わあ！！",
-            "\\m[vb]ああ！！！",
-            "\\m[vbnp]わあ！！！"
-        ],
-        "jp_clean": [
-            "わあ！！",
-            "ああ！！！",
-            "わあ！！！"
-        ],
-        "checked": false
+        "jp_raw": "わあ！！",
+        "jp_clean": "わあ！！",
+        "checked": true
     },
     {
         "en_raw": "Bad counter!!!",
@@ -1233,12 +1217,12 @@
         "jp_clean": "キーチェーンに秘密があるかもしれないよ！",
         "checked": true
     },
-    { //TODO double check choice
+    {
         "en_raw": "Uh huh.",
         "en_clean": "Uh huh.",
-        "jp_raw": "はいはい。",
-        "jp_clean": "はいはい。",
-        "checked": false
+        "jp_raw": "なるほど。",
+        "jp_clean": "なるほど。",
+        "checked": true
     },
     {
         "en_raw": "Stupid crabbing rock.",
@@ -1513,12 +1497,12 @@
         "jp_clean": "中身はなに？",
         "checked": true
     },
-    { //TODO double check
+    {
         "en_raw": "Ah...",
         "en_clean": "Ah...",
         "jp_raw": "あー...",
         "jp_clean": "あー...",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Looks like they were cooking crab.",
