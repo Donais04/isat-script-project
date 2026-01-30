@@ -342,22 +342,12 @@
         "jp_clean": "あー。",
         "checked": true
     },
-    { //TODO unsure which
+    {
         "en_raw": "(Oh.)",
         "en_clean": "(Oh.)",
-        "jp_raw": [
-            "\\m[clear](へえ。)",
-            "\\m[wait](そうか。)",
-            "\\m[clear]\\m[wait]\\m[wait](ああ。)",
-            "(あ。)\\!\\m[wait]\\^"
-        ],
-        "jp_clean": [
-            "(へえ。)",
-            "(そうか。)",
-            "(ああ。)",
-            "(あ。)"
-        ],
-        "checked": false
+        "jp_raw": "(へえ。)",
+        "jp_clean": "(へえ。)",
+        "checked": true
     },
     {
         "en_raw": "<span class=\"big\">\n SIF!!!\n</span>",
@@ -478,20 +468,12 @@
         "jp_clean": "でも、今はもう遅すぎるだろ？",
         "checked": true
     },
-    {//TODO unsure which
+    {
         "en_raw": "(Hm...)",
         "en_clean": "(Hm...)",
-        "jp_raw": [
-            "\\m[clear](ふむ...)",
-            "(ふむ...)",
-            "\\m[vs](そうだな...)\\!\\"
-        ],
-        "jp_clean": [
-            "(ふむ...)",
-            "(ふむ...)",
-            "(そうだな...)"
-        ],
-        "checked": false
+        "jp_raw": "(ふむ...)",
+        "jp_clean": "(ふむ...)",
+        "checked": true
     },
     {
         "en_raw": "(...)",
