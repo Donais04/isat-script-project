@@ -1167,7 +1167,7 @@
     {
         "en_raw": "(You grip your coin you grip your coin you grip your",
         "en_clean": "(You grip your coin you grip your coin you grip your",
-        "jp_raw": "(銀貨を握りしめる銀貨を握りしめる銀貨を\\|\\^",
+        "jp_raw": "(銀貨を握りしめる銀貨を握りしめる銀貨を",
         "jp_clean": "(銀貨を握りしめる銀貨を握りしめる銀貨を",
         "checked": true
     },
