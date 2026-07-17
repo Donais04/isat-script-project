@@ -1,6 +1,6 @@
 import pyjson5, re
 
-file = "acts_act2_ending2"
+file = "acts_act2_intro2"
 with open("translations/"+file+".jsonc", 'r', encoding='utf-8') as f:
   data = pyjson5.decode(f.read())
 with open("public/"+"/".join(file.split("_"))+".html", 'r', encoding='utf-8') as f:
