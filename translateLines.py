@@ -1,8 +1,11 @@
 import pyjson5, re
 
-file = "acts_act2_intro2"
+file = "events_bondingearrings"
 with open("translations/"+file+".jsonc", 'r', encoding='utf-8') as f:
-  data = pyjson5.decode(f.read())
+  text = f.read()
+  text = text.replace("\\n ", "")
+  text = text.replace("\\n", "")
+  data = pyjson5.decode(text)
 with open("public/"+"/".join(file.split("_"))+".html", 'r', encoding='utf-8') as f:
   site = f.read()
 
@@ -11,6 +14,7 @@ for i in data:
   if not(i['checked']):
     if (input("unchcked line "+i['en_raw']+", abort this?")[0].lower() == 'y'):
       exit(0)
+for i in data:
   #try:
   #print(i)
   linesEN=[x for x in re.split('(?:<br/?>)|((?<=\))\s(?="))', i['en_raw']) if x is not None] 
