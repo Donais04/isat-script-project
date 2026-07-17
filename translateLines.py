@@ -1,6 +1,6 @@
 import pyjson5, re
 
-file = "events_castlequest"
+file = "events_mirafan"
 with open("translations/"+file+".jsonc", 'r', encoding='utf-8') as f:
   text = f.read()
   text = text.replace("\\n ", "")
@@ -8,6 +8,8 @@ with open("translations/"+file+".jsonc", 'r', encoding='utf-8') as f:
   data = pyjson5.decode(text)
 with open("public/"+"/".join(file.split("_"))+".html", 'r', encoding='utf-8') as f:
   site = f.read()
+  site = site.replace(" </span>","</span>")
+  site = site.replace("> ",">")
 
 #replace lines
 for i in data:
