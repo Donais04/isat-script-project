@@ -1,6 +1,6 @@
 import pyjson5, re
 
-file = "events_bondingearrings"
+file = "events_castlequest"
 with open("translations/"+file+".jsonc", 'r', encoding='utf-8') as f:
   text = f.read()
   text = text.replace("\\n ", "")
