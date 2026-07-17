@@ -44,7 +44,7 @@
     {
         "en_raw": "<span class=\"shake\">Oh...... Young ones......<br/>Are you...... here to kill me......?</span>",
         "en_clean": "Oh...... Young ones...... Are you...... here to kill me......?",
-        "jp_raw": "<span class=\"shake\">おお...... 若き者たちよ...... 私を...... 殺しに来たのか......?</span>",
+        "jp_raw": "<span class=\"shake\">おお...... 若き者たちよ...... <br/>私を...... 殺しに来たのか......?</span>",
         "jp_clean": "おお...... 若き者たちよ...... 私を...... 殺しに来たのか......?",
         "checked": true
     },
@@ -821,29 +821,29 @@
     {
         "en_raw": "...",
         "en_clean": "...",
-        "jp_raw": "(...)",
-        "jp_clean": "(...)",
+        "jp_raw": "...",
+        "jp_clean": "...",
         "checked": true
     },
     {
         "en_raw": "...",
         "en_clean": "...",
-        "jp_raw": "(...)",
-        "jp_clean": "(...)",
+        "jp_raw": "...",
+        "jp_clean": "...",
         "checked": true
     },
     {
         "en_raw": "...",
         "en_clean": "...",
-        "jp_raw": "(...)",
-        "jp_clean": "(...)",
+        "jp_raw": "...",
+        "jp_clean": "...",
         "checked": true
     },
     {
         "en_raw": "...",
         "en_clean": "...",
-        "jp_raw": "(...)",
-        "jp_clean": "(...)",
+        "jp_raw": "...",
+        "jp_clean": "...",
         "checked": true
     },
     {
@@ -1064,8 +1064,8 @@
         "checked": true
     },
     {
-        "en_raw": "(Heh...)                       \"Sounds like there's nothing else for me to add, huh?\"",
-        "en_clean": "(Heh...)                       \"Sounds like there's nothing else for me to add, huh?\"",
+        "en_raw": "(Heh...) \"Sounds like there's nothing else for me to add, huh?\"",
+        "en_clean": "(Heh...) \"Sounds like there's nothing else for me to add, huh?\"",
         "jp_raw": "(へえ。) \"僕が付け加えられそうなことは、もうないよ。\"",
         "jp_clean": "(へえ。) \"僕が付け加えられそうなことは、もうないよ。\"",
         "checked": true
@@ -1288,8 +1288,8 @@
         "checked": true
     },
     {
-        "en_raw": "(You're smiling.)                       \"We did it, Mirabelle!\"",
-        "en_clean": "(You're smiling.)                       \"We did it, Mirabelle!\"",
+        "en_raw": "(You're smiling.) \"We did it, Mirabelle!\"",
+        "en_clean": "(You're smiling.) \"We did it, Mirabelle!\"",
         "jp_raw": "(笑みがこぼれる。) \"やったね、ミラベル！\"",
         "jp_clean": "(笑みがこぼれる。) \"やったね、ミラベル！\"",
         "checked": true
@@ -2289,8 +2289,8 @@
         "checked": true
     },
     {
-        "en_raw": "(...)                       \"You wanted to tell me something?\"",
-        "en_clean": "(...)                       \"You wanted to tell me something?\"",
+        "en_raw": "(...) \"You wanted to tell me something?\"",
+        "en_clean": "(...) \"You wanted to tell me something?\"",
         "jp_raw": "(...)        \"何か伝えたいことがあるんでしょ？\"",
         "jp_clean": "(...)        \"何か伝えたいことがあるんでしょ？\"",
         "checked": true
@@ -2499,8 +2499,8 @@
         "checked": true
     },
     {
-        "en_raw": "(Maybe she'd tell you now...)                       \"To do your research?\"",
-        "en_clean": "(Maybe she'd tell you now...)                       \"To do your research?\"",
+        "en_raw": "(Maybe she'd tell you now...) \"To do your research?\"",
+        "en_clean": "(Maybe she'd tell you now...) \"To do your research?\"",
         "jp_raw": "(いまなら教えてくれるかも...) \"研究を続けるの？\"",
         "jp_clean": "(いまなら教えてくれるかも...) \"研究を続けるの？\"",
         "checked": true
@@ -2655,8 +2655,8 @@
     {
         "en_raw": ". . .",
         "en_clean": ". . .",
-        "jp_raw": null,
-        "jp_clean": null,
+        "jp_raw": ". . .",
+        "jp_clean": ". . .",
         "checked": true
     },
     {
@@ -2814,36 +2814,36 @@
         "checked": true
     },
     {
-        "en_raw": "Are you done talking with your companions? Yes, wonderful,                       wonderful!",
-        "en_clean": "Are you done talking with your companions? Yes, wonderful,                       wonderful!",
+        "en_raw": "Are you done talking with your companions? Yes, wonderful, wonderful!",
+        "en_clean": "Are you done talking with your companions? Yes, wonderful, wonderful!",
         "jp_raw": "お仲間とのお話しは終わったのですか？ そう、それはよかった！",
         "jp_clean": "お仲間とのお話しは終わったのですか？ そう、それはよかった！",
         "checked": true
     },
     {
-        "en_raw": "I'd like to thank you for accompanying young Mirabelle this far. I'm                       very grateful.",
-        "en_clean": "I'd like to thank you for accompanying young Mirabelle this far. I'm                       very grateful.",
+        "en_raw": "I'd like to thank you for accompanying young Mirabelle this far. I'm very grateful.",
+        "en_clean": "I'd like to thank you for accompanying young Mirabelle this far. I'm very grateful.",
         "jp_raw": "ここまでミラベルと一緒にいてくださったことにお礼を言わせてください。とても感謝していますわ。",
         "jp_clean": "ここまでミラベルと一緒にいてくださったことにお礼を言わせてください。とても感謝していますわ。",
         "checked": true
     },
     {
-        "en_raw": "Siffrin, yes? If there's anything I can do to thank you, please                       don't hesitate to let me know!",
-        "en_clean": "Siffrin, yes? If there's anything I can do to thank you, please                       don't hesitate to let me know!",
+        "en_raw": "Siffrin, yes? If there's anything I can do to thank you, please don't hesitate to let me know!",
+        "en_clean": "Siffrin, yes? If there's anything I can do to thank you, please don't hesitate to let me know!",
         "jp_raw": "シフラン、でしたわね？ お礼として私にできることがあったら、遠慮なく言ってくださいね！",
         "jp_clean": "シフラン、でしたわね？ お礼として私にできることがあったら、遠慮なく言ってくださいね！",
         "checked": true
     },
     {
-        "en_raw": "I know you will go back on your travels soon, but I do hope you'll                       keep in touch, if only for young Mirabelle...",
-        "en_clean": "I know you will go back on your travels soon, but I do hope you'll                       keep in touch, if only for young Mirabelle...",
+        "en_raw": "I know you will go back on your travels soon, but I do hope you'll keep in touch, if only for young Mirabelle...",
+        "en_clean": "I know you will go back on your travels soon, but I do hope you'll keep in touch, if only for young Mirabelle...",
         "jp_raw": "もうすぐまた旅に出るのでしたわね？ でもこの先も交流を保てると嬉しいですわ。ミラベルのためにも...",
         "jp_clean": "もうすぐまた旅に出るのでしたわね？ でもこの先も交流を保てると嬉しいですわ。ミラベルのためにも...",
         "checked": true
     },
     {
-        "en_raw": "But no matter what, know that Dormont will always be open to you!                       Please come back... any... time...",
-        "en_clean": "But no matter what, know that Dormont will always be open to you!                       Please come back... any... time...",
+        "en_raw": "But no matter what, know that Dormont will always be open to you! Please come back... any... time...",
+        "en_clean": "But no matter what, know that Dormont will always be open to you! Please come back... any... time...",
         "jp_raw": "いずれにしても、ドーモントはいつでもあなたを歓迎しますわ！ どうぞいつでも... お戻りに... なって...",
         "jp_clean": "いずれにしても、ドーモントはいつでもあなたを歓迎しますわ！ どうぞいつでも... お戻りに... なって...",
         "checked": true
@@ -2933,8 +2933,8 @@
         "checked": true
     },
     {
-        "en_raw": "I can't fix it on my own, not before it all ends... If only I had                       noticed sooner!!!",
-        "en_clean": "I can't fix it on my own, not before it all ends... If only I had                       noticed sooner!!!",
+        "en_raw": "I can't fix it on my own, not before it all ends... If only I had noticed sooner!!!",
+        "en_clean": "I can't fix it on my own, not before it all ends... If only I had noticed sooner!!!",
         "jp_raw": "私だけの力では直せません。その前に終わってしまう... もっと早く気づいていれば！",
         "jp_clean": "私だけの力では直せません。その前に終わってしまう... もっと早く気づいていれば！",
         "checked": true

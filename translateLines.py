@@ -1,4 +1,4 @@
-import pyjson5
+import pyjson5, re
 
 file = "acts_act2_ending2"
 with open("translations/"+file+".jsonc", 'r', encoding='utf-8') as f:
@@ -11,25 +11,43 @@ for i in data:
   if not(i['checked']):
     if (input("unchcked line "+i['en_raw']+", abort this?")[0].lower() == 'y'):
       exit(0)
-  count = site.count(i['en_raw'])
-  if not(i['jp_raw'] == None):    
-    if count == 0:
-      input("\nwarning, no line detected for " + i['en_raw'] + " press enter to continue")
-    if count == 1:
-      #print("heya")
-      site = site.replace(i['en_raw'], i['jp_raw'])
-    if count > 1:
-      print("multiple detected of "+i['en_raw']+", replacing first only")
-      site = site.replace(i['en_raw'], i['jp_raw'], 1)
+  #try:
+  #print(i)
+  linesEN=[x for x in re.split('(?:<br/?>)|((?<=\))\s(?="))', i['en_raw']) if x is not None] 
+  linesJP=[x for x in re.split('(?:<br/?>)|((?<=\))\s(?="))', i['jp_raw']) if x is not None] 
+  while (len(linesEN) != len(linesJP)):
+    print("mismatch error in",linesEN, linesJP)
+    if len(linesEN)+len(linesJP)<4:
+      a="0 1"
+    else:
+      a = input("Which two would you like to merge?")
+    a=a.split(" ")
+    if len(linesJP) < len(linesEN):
+      linesEN[int(a[0])] = linesEN[int(a[0])] + linesEN.pop(int(a[1]))
+    else:
+      linesJP[int(a[0])] = linesJP[int(a[0])] + linesJP.pop(int(a[1]))
+  for j in range(len(linesEN)):
+    count = site.count(linesEN[j])
+    if not(linesJP[j] == None):    
+      if count == 0:
+        print("warning, no line detected for " + linesEN[j])
+      if count == 1:
+        site = site.replace(linesEN[j], linesJP[j])
+      if count > 1:
+        #print("multiple detected of "+linesEN[j]+", replacing first only")
+        site = site.replace(linesEN[j], linesJP[j][:1]+"FLAG_REMOVE_LATER"+linesJP[j][1:], 1)
+  #except:
+  #  print("Something's wrong with", i)
 
+site = site.replace("FLAG_REMOVE_LATER","")
 
 #replace headers
 rebuilder = []
 for i in site.split("\n"):
   if "<span class=\"dialogue-name\">" in i:
     i = i.replace("Siffrin", "シフラン")
-    i = i.replace("Isabeau", "ミラベル")
-    i = i.replace("Mirabelle", "イザボー")
+    i = i.replace("Isabeau", "イザボー")
+    i = i.replace("Mirabelle", "ミラベル")
     i = i.replace("Odile", "オディール")
     i = i.replace("Bonnie", "ボニー")
     i = i.replace("Loop", "ルプ")
@@ -90,7 +108,7 @@ site = "\n".join(rebuilder)
 
 #write
 try:
-  f = open("japanese_site/"+"/".join(file.split("_"))+".html", 'w', encoding='utf-8')
+  f = open("public/japanese_site/"+"/".join(file.split("_"))+".html", 'w', encoding='utf-8')
 except:
-  f = open("japanese_site/"+"/".join(file.split("_"))+".html", 'x', encoding='utf-8')
+  f = open("public/japanese_site/"+"/".join(file.split("_"))+".html", 'x', encoding='utf-8')
 f.write(site)

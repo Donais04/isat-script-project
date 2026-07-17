@@ -118,22 +118,12 @@
         "jp_clean": "(またここか！)",
         "checked": true
     },
-    {//TODO unsure
+    {
         "en_raw": "(Here again.)",
         "en_clean": "(Here again.)",
-        "jp_raw": [
-            "\\m[clear](またここだ。)",
-            "(またここだ。)",
-            "(今回もか。)\\!\\m[wait]\\^",
-            "(まただ。)\\!\\m[wait]"
-        ],
-        "jp_clean": [
-            "(またここだ。)",
-            "(またここだ。)",
-            "(今回もか。)",
-            "(まただ。)"
-        ],
-        "checked": false
+        "jp_raw": "(またここだ。)",
+        "jp_clean": "(またここだ。)",
+        "checked": true
     },
     {
         "en_raw": "(Something like...)",

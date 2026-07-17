@@ -326,14 +326,14 @@
         "en_clean": "(Quick, say something...)",
         "jp_raw": "(早く何か言わなきゃ...) \"しばらくの間はにおいが残ってるんじゃないか？\"",
         "jp_clean": "(早く何か言わなきゃ...) \"しばらくの間はにおいが残ってるんじゃないか？\"",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(...)",
         "en_clean": "(...)",
         "jp_raw": "(...) \"しばらくの間はにおいが残ってるんじゃないか？\"",
         "jp_clean": "(...) \"しばらくの間はにおいが残ってるんじゃないか？\"",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Linger?",
@@ -347,7 +347,7 @@
         "en_clean": "(Well...)",
         "jp_raw": "(そうだな...) \"おならをすると、しばらくの間はくさいだろ？\"",
         "jp_clean": "(そうだな...) \"おならをすると、しばらくの間はくさいだろ？\"",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(...)",
@@ -508,14 +508,14 @@
         "en_clean": "(?)",
         "jp_raw": "(？)",
         "jp_clean": "(？)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(Stars...)",
         "en_clean": "(Stars...)",
         "jp_raw": "(星たちよ...)",
         "jp_clean": "(星たちよ...)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "...",
