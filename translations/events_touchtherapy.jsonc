@@ -126,8 +126,8 @@
         "checked": true
     },
     {
-        "en_raw": "(You flinch.)\n\t\t\t\t\t\t\"I'm just too precious to touch!\"",
-        "en_clean": "(You flinch.)\t\t\t\t\t\t\"I'm just too precious to touch!\"",
+        "en_raw": "(You flinch.)\n\t\t\t\t\t\t \"I'm just too precious to touch!\"",
+        "en_clean": "(You flinch.)\t\t\t\t\t\t \"I'm just too precious to touch!\"",
         "jp_raw": "(思わずたじろぐ。) \"僕の大切な体に、簡単に触れさせるわけには！\"",
         "jp_clean": "(思わずたじろぐ。) \"僕の大切な体に、簡単に触れさせるわけには！\"",
         "checked": true
@@ -385,8 +385,8 @@
         "checked": true
     },
     {
-        "en_raw": "(How does Loop know about this...)\n\t\t\t\t\t\t\"It's going well.\"",
-        "en_clean": "(How does Loop know about this...)\t\t\t\t\t\t\"It's going well.\"",
+        "en_raw": "(How does Loop know about this...)\n\t\t\t\t\t\t \"It's going well.\"",
+        "en_clean": "(How does Loop know about this...)\t\t\t\t\t\t \"It's going well.\"",
         "jp_raw": "(どうして知ってるんだ...) \"うまくいってるよ。\"",
         "jp_clean": "(どうして知ってるんだ...) \"うまくいってるよ。\"",
         "checked": true 
@@ -574,8 +574,8 @@
         "checked": true
     },
     {
-        "en_raw": "(...)\n\t\t\t\t\t\t\"Does it matter?\"",
-        "en_clean": "(...)\t\t\t\t\t\t\"Does it matter?\"",
+        "en_raw": "(...)\n\t\t\t\t\t\t \"Does it matter?\"",
+        "en_clean": "(...)\t\t\t\t\t\t \"Does it matter?\"",
         "jp_raw": "(...) \"それ、重要？\"",
         "jp_clean": "(...) \"それ、重要？\"",
         "checked": true
@@ -651,7 +651,7 @@
         "checked": true
     },
     {
-        "en_raw": "(Someone, anyone...\n<span class=\"shake\">\n Please. . .)\n</span>",
+        "en_raw": "(Someone, anyone... &ensp;<span class=\"shake\">Please. . .)</span>",
         "en_clean": "(Someone, anyone...Please. . .)",
         "jp_raw": "(誰か、誰でもいいから... 頼む...)",
         "jp_clean": "(誰か、誰でもいいから... 頼む...)",

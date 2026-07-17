@@ -1,10 +1,11 @@
 import pyjson5, re
 
-file = "events_mirafan"
+file = "events_touchtherapy"
 with open("translations/"+file+".jsonc", 'r', encoding='utf-8') as f:
   text = f.read()
   text = text.replace("\\n ", "")
   text = text.replace("\\n", "")
+  text = text.replace("\\t", "")
   data = pyjson5.decode(text)
 with open("public/"+"/".join(file.split("_"))+".html", 'r', encoding='utf-8') as f:
   site = f.read()
