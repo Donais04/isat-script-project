@@ -224,7 +224,7 @@
         "checked": true
     },
     {
-        "en_raw": "<span class=\"big\">\n YEAAAAAAAAAAAAAAAAAAAH!!!!!!!\n</span>",
+        "en_raw": "<span class=\"big\"> YEAAAAAAAAAAAAAAAAAAAH!!!!!!!\n</span>",
         "en_clean": "YEAAAAAAAAAAAAAAAAAAAH!!!!!!!",
         "jp_raw": "<span class=\"big\">やああああああぁぁぁっっっ！！！！！！</span>",
         "jp_clean": "やああああああぁぁぁっっっ！！！！！！",
@@ -357,7 +357,7 @@
         "checked": true
     },
     {
-        "en_raw": "<span class=\"shake\">\n (Enough!!!)\n</span>",
+        "en_raw": "<span class=\"shake\"> (Enough!!!)\n</span>",
         "en_clean": "(Enough!!!)",
         "jp_raw": "<span class=\"shake\">(もう十分だ！！！)</span>",
         "jp_clean": "(もう十分だ！！！)",
@@ -406,7 +406,7 @@
         "checked": true
     },
     {
-        "en_raw": "Deals\n<img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i117.svg\"/>\nSCISSORS damage to one enemy.\n<br/>\nMight lower enemy's\n<img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i51.svg\"/>\nDEFENSE. 1 turn\n<img alt=\"cooldown\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i6.svg\"/>\n.",
+        "en_raw": "Deals <img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i117.svg\"/>SCISSORS damage to one enemy.\n<br/>Might lower enemy's\n<img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i51.svg\"/>DEFENSE. 1 turn\n<img alt=\"cooldown\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i6.svg\"/>.",
         "en_clean": "Deals SCISSORS damage to one enemy. Might lower enemy's DEFENSE. 1 turn.",
         "jp_raw": "敵1体に<img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i117.svg\"/>チョキ属性ダメージを与える。敵の<img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i51.svg\"/>\nDEFENSE. 1 turn\n<img alt=\"cooldown\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i51.svg\"/>防御力を下げることがある。<img alt=\"cooldown\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i6.svg\"/>1ターン。",
         "jp_clean": "敵1体にチョキ属性ダメージを与える。敵の防御力を下げることがある。1ターン。",
@@ -420,7 +420,7 @@
         "checked": true
     },
     {
-        "en_raw": "Deals\n<img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i117.svg\"/>\nSCISSORS damage to all enemies.\n<br/>\nMight lower enemies'\n<img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i50.svg\"/>\nATTACK. 3 turn\n<img alt=\"cooldown\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i6.svg\"/>\n.",
+        "en_raw": "Deals <img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i117.svg\"/>\nSCISSORS damage to all enemies.\n<br/>\nMight lower enemies'\n<img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i50.svg\"/>\nATTACK. 3 turn\n<img alt=\"cooldown\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i6.svg\"/>\n.",
         "en_clean": "Deals SCISSORS damage to all enemies. Might lower enemies'ATTACK. 3 turn.",
         "jp_raw": "すべての敵に<img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i117.svg\"/>チョキ属性ダメージを与える。<br>敵の<img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i50.svg\"/>攻撃力を下げることがある。<img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i6.svg\"/>3ターン。",
         "jp_clean": "すべての敵にチョキ属性ダメージを与える。敵の3ターン。",
@@ -658,7 +658,7 @@
         "checked": true
     },
     {
-        "en_raw": "Deals\n<img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i117.svg\"/>\nSCISSORS damage to one enemy. 2 turn\n<img alt=\"cooldown\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i6.svg\"/>\n.",
+        "en_raw": "Deals <img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i117.svg\"/>\nSCISSORS damage to one enemy. 2 turn\n<img alt=\"cooldown\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i6.svg\"/>\n.",
         "en_clean": "Deals SCISSORS damage to one enemy. 2 turn.",
         "jp_raw": "敵1体に<img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i117.svg\"/>チョキ属性ダメージを与える。<img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i6.svg\"/>2ターン。",
         "jp_clean": "敵1体にチョキ属性ダメージを与える。2ターン。",
@@ -672,7 +672,7 @@
         "checked": true
     },
     {
-        "en_raw": "Deals\n<img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i116.svg\"/>\nPAPER damage to all enemies. 3 turn\n<img alt=\"cooldown\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i6.svg\"/>\n.",
+        "en_raw": "Deals <img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i116.svg\"/>\nPAPER damage to all enemies. 3 turn\n<img alt=\"cooldown\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i6.svg\"/>\n.",
         "en_clean": "Deals PAPER damage to all enemies. 3 turn.",
         "jp_raw": "すべての敵に<img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i116.svg\"/>パー属性ダメージを与える。<img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i6.svg\"/>3ターン。",
         "jp_clean": "すべての敵にパー属性ダメージを与える。3ターン。",
@@ -784,7 +784,7 @@
         "checked": true
     },
     {
-        "en_raw": "Deals\n<img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i115.svg\"/>\nROCK damage to one enemy. 1 turn\n<img alt=\"cooldown\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i6.svg\"/>\n.",
+        "en_raw": "Deals <img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i115.svg\"/>\nROCK damage to one enemy. 1 turn\n<img alt=\"cooldown\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i6.svg\"/>\n.",
         "en_clean": "DealsROCK damage to one enemy. 1 turn.",
         "jp_raw": "敵1体に<img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i115.svg\"/>グー属性ダメージを与える。1ターン<img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i6.svg\"/>。",
         "jp_clean": "敵1体にグー属性ダメージを与える。1ターン。",
@@ -798,7 +798,7 @@
         "checked": true
     },
     {
-        "en_raw": "Deals\n<img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i115.svg\"/>\nROCK damage to all enemies. 2 turn\n<img alt=\"cooldown\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i6.svg\"/>\n.",
+        "en_raw": "Deals <img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i115.svg\"/>\nROCK damage to all enemies. 2 turn\n<img alt=\"cooldown\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i6.svg\"/>\n.",
         "en_clean": "DealsROCK damage to all enemies. 2 turn.",
         "jp_raw": "すべての敵に<img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i115.svg\"/>グー属性ダメージを与える。<img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i6.svg\"/>2ターン。",
         "jp_clean": "すべての敵にグー属性ダメージを与える。2ターン。",
@@ -917,7 +917,7 @@
         "checked": true
     },
     {
-        "en_raw": "Deals\n<img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i117.svg\"/>\nSCISSORS damage to one enemy. 2 turn\n<img alt=\"cooldown\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i6.svg\"/>\n.",
+        "en_raw": "Deals <img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i117.svg\"/>\nSCISSORS damage to one enemy. 2 turn\n<img alt=\"cooldown\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i6.svg\"/>\n.",
         "en_clean": "Deals SCISSORS damage to one enemy. 2 turn.",
         "jp_raw": "敵1体に<img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i117.svg\"/>チョキ属性ダメージを与える。<img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i6.svg\"/>2ターン。",
         "jp_clean": "敵1体にチョキ属性ダメージを与える。2ターン。",
@@ -931,7 +931,7 @@
         "checked": true
     },
     {
-        "en_raw": "Deals\n<img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i115.svg\"/>\nROCK damage to one enemy. 2 turn\n<img alt=\"cooldown\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i6.svg\"/>\n.",
+        "en_raw": "Deals <img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i115.svg\"/>\nROCK damage to one enemy. 2 turn\n<img alt=\"cooldown\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i6.svg\"/>\n.",
         "en_clean": "DealsROCK damage to one enemy. 2 turn.",
         "jp_raw": "敵1体に<img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i115.svg\"/>グー属性ダメージを与える。<img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i6.svg\"/>2ターン。",
         "jp_clean": "敵1体に<img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i115.svg\"/>グー属性ダメージを与える。<img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i6.svg\"/>2ターン。",
@@ -945,7 +945,7 @@
         "checked": true
     },
     {
-        "en_raw": "Deals\n<img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i116.svg\"/>\nPAPER damage to one enemy. 2 turn\n<img alt=\"cooldown\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i6.svg\"/>\n.",
+        "en_raw": "Deals <img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i116.svg\"/>\nPAPER damage to one enemy. 2 turn\n<img alt=\"cooldown\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i6.svg\"/>\n.",
         "en_clean": "Deals PAPER damage to one enemy. 2 turn.",
         "jp_raw": "敵1体に<img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i116.svg\"/>パー属性ダメージを与える。<img alt=\"\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i6.svg\"/>2ターン。",
         "jp_clean": "敵1体にパー属性ダメージを与える。2ターン。",

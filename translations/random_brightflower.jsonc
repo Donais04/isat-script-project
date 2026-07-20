@@ -406,6 +406,20 @@
         "checked": true
     },
     {
+        "en_raw": "\"Yes.\"",
+        "en_clean": "\"Yes.\"",
+        "jp_raw":"\"ああ。\"",
+        "jp_clean": "\"ああ。\"",
+        "checked": true
+    },
+    { 
+        "en_raw": "\"No.\"",
+        "en_clean": "\"No.\"",
+        "jp_raw": "\"いいや。\"",
+        "jp_clean": "\"いいや。\"",
+        "checked": true
+    },
+    {
         "en_raw": "<span class=\"shake\">\n ......\n</span>",
         "en_clean": "......",
         "jp_raw": "<span class=\"shake\">\n ......\n</span>",

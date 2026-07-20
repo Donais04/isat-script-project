@@ -636,25 +636,32 @@
         "jp_clean": "シフはどうだ？ きみの1票で決まるぞ？",
         "checked": true
     },
-    {//TODO this and next 3 choicer "\"かわいいかも？\"" "\"キモいかも？\"" "\"キモかわいいかも？\"" "\"かわキモいかも？\""
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
+    {   
+        "en_raw": "\"Cute?\"",
+        "en_clean": "\"Cute?\"",
+        "jp_raw": "\"かわいいかも？\"",
+        "jp_clean": "\"かわいいかも？\"",
         "checked": true
     },
     {
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
+        "en_raw": "\"Creepy?\"",
+        "en_clean": "\"Creepy?\"",
+        "jp_raw": "\"キモいかも？\"",
+        "jp_clean": "\"キモいかも？\"",
         "checked": true
     },
     {
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
+        "en_raw": "\"Creepy-Cute?\"",
+        "en_clean": "\"Creepy-Cute?\"",
+        "jp_raw": "\"キモかわいいかも？\"",
+        "jp_clean": "\"キモかわいいかも？\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Cute-Creepy?\"",
+        "en_clean": "\"Cute-Creepy?\"",
+        "jp_raw": "\"かわキモいかも？\"",
+        "jp_clean": "\"かわキモいかも？\"",
         "checked": true
     },
     {
@@ -1033,6 +1040,20 @@
         "en_clean": "We should be careful about where we use this one...",
         "jp_raw": "どこで使うかは慎重に考えるべきだ...",
         "jp_clean": "どこで使うかは慎重に考えるべきだ...",
+        "checked": true
+    },
+    {
+        "en_raw": "(There's a note on the wall.)",
+        "en_clean": "(There's a note on the wall.)",
+        "jp_raw": "(壁にメモが貼られている。)",
+        "jp_clean": "(壁にメモが貼られている。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(It says: \"STOP EATING NUTS DIRECTLY FROM THE BARRELS\")",
+        "en_clean": "(It says: \"STOP EATING NUTS DIRECTLY FROM THE BARRELS\")",
+        "jp_raw": "(メモには「タルから直接ナッツを食べないこと！」と書かれている。)",
+        "jp_clean": "(メモには「タルから直接ナッツを食べないこと！」と書かれている。)",
         "checked": true
     },
     {//アケブルモン/アバテモン
