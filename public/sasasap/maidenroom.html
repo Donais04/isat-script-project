@@ -81,6 +81,9 @@
 
                 </div>
 
+                <hr>
+                <br>
+
                 <h1 id="mbed">Housemaiden's bed</h1>
 
                 <div class="dialogue">
@@ -279,7 +282,7 @@
                             (A conversation is about to start.)
                         </p>
 
-                        <p class="dialogue-line indented">
+                        <p class="dialogue-line">
                             (Listen?)
                         </p>
 
@@ -287,26 +290,40 @@
                             <li>
                                 <details>
                                     <summary>Yes</summary>
-                                    <p class="dialogue-note">Proceed as normal.</p>
+                                    <div class="dialogue">
+                                        <p class="dialogue-note">Proceed as normal.</p>
+                                    </div>
                                 </details>
                             </li>
                             <li>
                                 <details>
                                     <summary>No</summary>
-                                    <p>(You smile and think about annoyances.)</p>
+                                    <div class="dialogue">
+                                        <p class="dialogue-line">
+                                            (You smile and think about annoyances.)
+                                        </p>
 
-                                    <br>
+                                        <br>
 
-                                    <p class="dialogue-line">
-                                        <span class="dialogue-head">
-                                            <span class="dialogue-name">Housemaiden</span>
-                                            <span class="dialogue-expression">(smile1)</span>
-                                        </span>
-                                        --she'll probably appear to annoy me all over again!!! So let's go!
-                                    </p>
+                                        <p class="dialogue-line">
+                                            <span class="dialogue-head">
+                                                <span class="dialogue-name">Housemaiden</span>
+                                                <span class="dialogue-expression">(smile1)</span>
+                                            </span>
+                                            --she'll probably appear to annoy me all over again!!! So let's go!
+                                        </p>
+
+                                        <br>
+
+                                        <p class="dialogue-note">
+                                            The dialogue ends.
+                                        </p>
+
+                                    </div>
                                 </details>
                             </li>
-                        </ul>  
+                        </ul>
+
                     </div>
 
                     <hr>
@@ -369,10 +386,8 @@
 
                     <p class="dialogue-line">
                         <span class="dialogue-head">
-                            <span class="dialogue-head">
-                                <span class="dialogue-name">Housemaiden</span>
-                                <span class="dialogue-expression">(angry2)</span>
-                            </span>
+                            <span class="dialogue-name">Housemaiden</span>
+                            <span class="dialogue-expression">(angry2)</span>
                         </span>
                         And when I ask her to maybe change songs and sing something I might like, she always tells me "No can do, princess"!!!
                     </p>
