@@ -571,7 +571,7 @@
         "en_clean": "(Oh, oops.)",
         "jp_raw": "(うわ、しまった。)",
         "jp_clean": "(うわ、しまった。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(Oh, oops.)",
@@ -4848,7 +4848,7 @@
         "en_clean": "(You've been spotted...!)",
         "jp_raw": "(目を付けられた...！)",
         "jp_clean": "(目を付けられた...！)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "Heh. Good.",

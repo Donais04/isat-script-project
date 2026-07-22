@@ -1852,7 +1852,7 @@
         "en_clean": "(Nothing happens.)",
         "jp_raw": "(何も起きない。)",
         "jp_clean": "(何も起きない。)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(...)",
