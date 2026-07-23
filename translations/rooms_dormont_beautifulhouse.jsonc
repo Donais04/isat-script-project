@@ -48,18 +48,46 @@
         "jp_clean": "(それでも、おかしなアイデアだとは思うけど。)",
         "checked": true
     },
-    {//TODO can't find
-        "en_raw": "(A party...)",
-        "en_clean": "(A party...)",
-        "jp_raw": null,
-        "jp_clean": null,
+    {
+        "en_raw": "\"Good for you???\"",
+        "en_clean": "\"Good for you???\"",
+        "jp_raw": "\"いいんじゃない？\"",
+        "jp_clean": "\"いいんじゃない？\"",
         "checked": true
     },
-    {//TODO can't find
+    {
+        "en_raw": "\"Good for you.\"",
+        "en_clean": "\"Good for you.\"",
+        "jp_raw": "\"いいんじゃないかな。\"",
+        "jp_clean": "\"いいんじゃないかな。\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"That's weird.\"",
+        "en_clean": "\"That's weird.\"",
+        "jp_raw": "\"おかしいよ。\"",
+        "jp_clean": "\"おかしいよ。\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"You're all cowards.\"",
+        "en_clean": "\"You're all cowards.\"",
+        "jp_raw": "\"みんな臆病なんだね。\"",
+        "jp_clean": "\"みんな臆病なんだね。\"",
+        "checked": true
+    },
+    {
+        "en_raw": "(A party...)",
+        "en_clean": "(A party...)",
+        "jp_raw": "(パーティーか...)",
+        "jp_clean": "(パーティーか...)",
+        "checked": true
+    },
+    {
         "en_raw": "(A party.)",
         "en_clean": "(A party.)",
-        "jp_raw": null,
-        "jp_clean": null,
+        "jp_raw": "(パーティーか。)",
+        "jp_clean": "(パーティーか。)",
         "checked": true
     },
     {
@@ -454,9 +482,9 @@
         "jp_clean": "(ということは...)",
         "checked": true
     },
-    {//TODO eng missing "\"Sounds like we should talk to those kids.\""
-        "en_raw": "",
-        "en_clean": "",
+    {
+        "en_raw": "\"Sounds like we should talk to those kids.\"",
+        "en_clean": "\"Sounds like we should talk to those kids.\"",
         "jp_raw": "\"その子たちと話せばよさそうだ。\"",
         "jp_clean": "\"その子たちと話せばよさそうだ。\"",
         "checked": true

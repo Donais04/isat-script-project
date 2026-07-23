@@ -6,25 +6,32 @@
         "jp_clean": "(ボニーだ。不機嫌そうな顔で畑をにらみつけている。)",
         "checked": true
     },
-    {//TODO choicer "\"ボニー。\"" "(何も言わない。)"
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
+    {
+        "en_raw": "\"Bonnie!\"",
+        "en_clean": "\"Bonnie!\"",
+        "jp_raw": "\"ボニー！\"",
+        "jp_clean": "\"ボニー！\"",
         "checked": true
     },
     {
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
+        "en_raw": "\"Bonnie...?\"",
+        "en_clean": "\"Bonnie...?\"",
+        "jp_raw": "\"ボニー...？\"",
+        "jp_clean": "\"ボニー...？\"",
         "checked": true
     },
     {
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
+        "en_raw": "\"Bonnie.\"",
+        "en_clean": "\"Bonnie.\"",
+        "jp_raw": "\"ボニー。\"",
+        "jp_clean": "\"ボニー。\"",
+        "checked": true
+    },
+    {
+        "en_raw": "(Stay silent.)",
+        "en_clean": "(Stay silent.)",
+        "jp_raw": "(何も言わない。)",
+        "jp_clean": "(何も言わない。)",
         "checked": true
     },
     {
@@ -104,9 +111,9 @@
         "jp_clean": "...",
         "checked": true
     },
-    {//TODO eng wrong, should be ..?
-        "en_raw": "...!?",
-        "en_clean": "...!?",
+    {
+        "en_raw": "...?",
+        "en_clean": "...?",
         "jp_raw": "...？",
         "jp_clean": "...？",
         "checked": true
@@ -125,17 +132,11 @@
         "jp_clean": "...何か用か？",
         "checked": true
     },
-    {//TODO unsure
+    {
         "en_raw": "[You don't need to talk to your allies about things you've already talked about, but the option is still here just in case you need a refresher!]",
         "en_clean": "[You don't need to talk to your allies about things you've already talked about, but the option is still here just in case you need a refresher!]",
-        "jp_raw": [
-            "\\m[clear]\\m[vtuto][仲間とすでに話したことについて、もう一度話す必要はないけど、選択肢は残っているよ。話の内容を忘れたときは選んでね！]\\m[rb]",
-            "\\m[clear]\\m[vtuto][仲間とすでに話したことについて、もう一度話す必要はないけれど、選択肢は残っているぞ。\\!話の内容を忘れたときに使おう！]\\m[rb]"
-        ],
-        "jp_clean": [
-            "[仲間とすでに話したことについて、もう一度話す必要はないけど、選択肢は残っているよ。話の内容を忘れたときは選んでね！]",
-            "[仲間とすでに話したことについて、もう一度話す必要はないけれど、選択肢は残っているぞ。話の内容を忘れたときに使おう！]"
-        ],
+        "jp_raw": "[仲間とすでに話したことについて、もう一度話す必要はないけれど、選択肢は残っているぞ。話の内容を忘れたときに使おう！]",
+        "jp_clean": "[仲間とすでに話したことについて、もう一度話す必要はないけれど、選択肢は残っているぞ。話の内容を忘れたときに使おう！]",
         "checked": true
     },
     {
@@ -278,13 +279,6 @@
         "jp_clean": "...？",
         "checked": true
     },
-    { //TODO wifi is down, unsure what here
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
-        "checked": true
-    },
     {
         "en_raw": "...heyfrin.",
         "en_clean": "...heyfrin.",
@@ -327,20 +321,74 @@
         "jp_clean": "何か用？",
         "checked": true
     },
-    {/*TODO this and next line responses
-    "\"Clocktower, sleepover!!!\"" "\"時計台で、お泊り会！\""
-    "\"What will you do after?\"" "\"終わったら何をしたい？\"" 
-    "\"Worrying about tomorrow?\"" "\"明日のことが心配？\""
-    "\"Anything weird happen lately?\"" "\"最近ヘンなこととかあった？\""
-    "\"Do you need help with anything?\"" "\"何か手伝うことはない？\""
-    "\"Flower for you.\"" "\"お花をどうぞ。\" "
-    "(Stay silent.)" "(何も言わない。)"
-    "\"Nope!\"　"\"なんでもない！\""
-    */
+    {
         "en_raw": "(Questions...)",
         "en_clean": "(Questions...)",
         "jp_raw": "(聞きたいことは...)",
         "jp_clean": "(聞きたいことは...)",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Clocktower, sleepover!!!\"",
+        "en_clean": "\"Clocktower, sleepover!!!\"",
+        "jp_raw": "\"時計台で、お泊り会！\"",
+        "jp_clean": "\"時計台で、お泊り会！\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"What will you do after?\"",
+        "en_clean": "\"What will you do after?\"",
+        "jp_raw": "\"終わったら何をしたい？\"",
+        "jp_clean": "\"終わったら何をしたい？\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Worrying about tomorrow?\"",
+        "en_clean": "\"Worrying about tomorrow?\"",
+        "jp_raw": "\"明日のことが心配？\"",
+        "jp_clean": "\"明日のことが心配？\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Anything weird happen lately?\"",
+        "en_clean": "\"Anything weird happen lately?\"",
+        "jp_raw": "\"最近ヘンなこととかあった？\"",
+        "jp_clean": "\"最近ヘンなこととかあった？\"",
+        "checked": true
+    },
+    {//TODO This is wrong. I don't care.
+        "en_raw": "\"Can I help you with anything?\"",
+        "en_clean": "\"Can I help you with anything?\"",
+        "jp_raw": "\"何か手伝うことはない？\"",
+        "jp_clean": "\"何か手伝うことはない？\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Those kids like frogs!\"",
+        "en_clean": "\"Those kids like frogs!\"",
+        "jp_raw": "\"あの子たち、カエルが好きなんだって！\"",
+        "jp_clean": "\"あの子たち、カエルが好きなんだって！\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Flower for you.\"",
+        "en_clean": "\"Flower for you.\"",
+        "jp_raw": "\"お花をどうぞ。\"",
+        "jp_clean": "\"お花をどうぞ。\"",
+        "checked": true
+    },
+    {
+        "en_raw": "(Stay silent.)",
+        "en_clean": "(Stay silent.)",
+        "jp_raw": "(何も言わない。)",
+        "jp_clean": "(何も言わない。)",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Nothing!\"",
+        "en_clean": "\"Nothing!\"",
+        "jp_raw": "\"なんでもない！\"",
+        "jp_clean": "\"なんでもない！\"",
         "checked": true
     },
     {
@@ -364,19 +412,11 @@
         "jp_clean": "シフランの思いつき？",
         "checked": true
     },
-    {//TODO unsure, this line and next "\"ミラのアイデアだよ。\""
+    {
         "en_raw": "(Hey...)",
         "en_clean": "(Hey...)",
-        "jp_raw": [
-            "\\m[clear](ちょっと...)",
-            "\\m[clear]\\m[rb](なんだよぉ...)",
-            "\\m[rb]\\m[vs](なんだよ...)\\!\\"
-        ],
-        "jp_clean": [
-            "(ちょっと...)",
-            "(なんだよぉ...)",
-            "(なんだよ...)"
-        ],
+        "jp_raw": "(なんだよぉ...)",
+        "jp_clean": "(なんだよぉ...)",
         "checked": true
     },
     {
@@ -384,6 +424,13 @@
         "en_clean": "(...)",
         "jp_raw": "(...)",
         "jp_clean": "(...)",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Mira's, actually.\"",
+        "en_clean": "\"Mira's, actually.\"",
+        "jp_raw": "\"ミラのアイデアだよ。\"",
+        "jp_clean": "\"ミラのアイデアだよ。\"",
         "checked": true
     },
     {
@@ -407,18 +454,18 @@
         "jp_clean": "ううん。",
         "checked": true
     },
-    {//TODO this and next line response "\"...\""
+    {
         "en_raw": "",
         "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
+        "jp_raw": "",
+        "jp_clean": "",
         "checked": true
     },
     {
         "en_raw": "",
         "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
+        "jp_raw": "",
+        "jp_clean": "",
         "checked": true
     },
     {
@@ -435,18 +482,25 @@
         "jp_clean": "ちっとも心配してない。",
         "checked": true
     },
-    {//TODO can't find, also this line and next response "\"お姉さんはきっと大丈夫だよ。\""
+    {
         "en_raw": "(That's a lie.)",
         "en_clean": "(That's a lie.)",
-        "jp_raw": null,
-        "jp_clean": null,
+        "jp_raw": "(うそだな。)",
+        "jp_clean": "(うそだな。)",
         "checked": true
     },
-    {//TODO can't find
+    {
         "en_raw": "(Yeah, keep stepping right in it...)",
         "en_clean": "(Yeah, keep stepping right in it...)",
-        "jp_raw": null,
-        "jp_clean": null,
+        "jp_raw": "(そうだ、毎度同じだ...)",
+        "jp_clean": "(そうだ、毎度同じだ...)",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Your sister will be okay, you know.\"",
+        "en_clean": "\"Your sister will be okay, you know.\"",
+        "jp_raw": "\"お姉さんはきっと大丈夫だよ。\"",
+        "jp_clean": "\"お姉さんはきっと大丈夫だよ。\"",
         "checked": true
     },
     {
@@ -631,19 +685,11 @@
         "jp_clean": "...そういうとこがヤなんだよ、シフラン。",
         "checked": true
     },
-    {//TODO unsure
+    {
         "en_raw": "(Aw.)",
         "en_clean": "(Aw.)",
-        "jp_raw": [
-            "\\m[clear](あちゃー。)",
-            "(えぇ。)",
-            "\\m[vs](ううっ。)\\!\\"
-        ],
-        "jp_clean": [
-            "(あちゃー。)",
-            "(えぇ。)",
-            "(ううっ。)"
-        ],
+        "jp_raw": "(あちゃー。)",
+        "jp_clean": "(あちゃー。)",
         "checked": true
     },
     {
@@ -660,11 +706,11 @@
         "jp_clean": "ついさっきだけど、超おっきいハチを見た。",
         "checked": true
     },
-    {//TODO can't find, this line and next choicer "\"分かったよ。ありがとう。\"" "\"どのくらい大きかった？\""
+    {
         "en_raw": "(...Okay.)",
         "en_clean": "(...Okay.)",
-        "jp_raw": null,
-        "jp_clean": null,
+        "jp_raw": "(...ふむ。)",
+        "jp_clean": "(...ふむ。)",
         "checked": true
     },
     {
@@ -672,6 +718,20 @@
         "en_clean": "(...)",
         "jp_raw": "(...)",
         "jp_clean": "(...)",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Okay. Thank you.\"",
+        "en_clean": "\"Okay. Thank you.\"",
+        "jp_raw": "\"分かったよ。ありがとう。\"",
+        "jp_clean": "\"分かったよ。ありがとう。\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"How big though?\"",
+        "en_clean": "\"How big though?\"",
+        "jp_raw": "\"どのくらい大きかった？\"",
+        "jp_clean": "\"どのくらい大きかった？\"",
         "checked": true
     },
     {
@@ -695,11 +755,11 @@
         "jp_clean": "(ボニーはこぶしを握り、それを指してハチの大きさを示した。)",
         "checked": true
     },
-    {//TODO can't find, this line and next choicer "\"はちゃめちゃに大きいね。\"" "\"ハチゃめちゃに大きいね。\""
+    {
         "en_raw": "(Wow.)",
         "en_clean": "(Wow.)",
-        "jp_raw": null,
-        "jp_clean": null,
+        "jp_raw": "(驚いた。)",
+        "jp_clean": "(驚いた。)",
         "checked": true
     },
     {
@@ -707,6 +767,20 @@
         "en_clean": "(...)",
         "jp_raw": "(...)",
         "jp_clean": "(...)",
+        "checked": true
+    },
+    {
+        "en_raw": "\"That's very big.\"",
+        "en_clean": "\"That's very big.\"",
+        "jp_raw": "\"はちゃめちゃに大きいね。\"",
+        "jp_clean": "\"はちゃめちゃに大きいね。\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"That's very bee-ig.\"",
+        "en_clean": "\"That's very bee-ig.\"",
+        "jp_raw": "\"ハチゃめちゃに大きいね。\"",
+        "jp_clean": "\"ハチゃめちゃに大きいね。\"",
         "checked": true
     },
     {
@@ -779,7 +853,7 @@
         "jp_clean": "シフランには何も手伝ってほしくない！！！",
         "checked": true
     },
-    {//TODO this line and next two response "\"いらない？\""
+    {
         "en_raw": "(Ah, you're still hated, huh...)",
         "en_clean": "(Ah, you're still hated, huh...)",
         "jp_raw": "(ああ、嫌われてるんだ...)",
@@ -791,6 +865,13 @@
         "en_clean": "(...)",
         "jp_raw": "(...)",
         "jp_clean": "(...)",
+        "checked": true
+    },
+    {
+        "en_raw": "\"You don't?\"",
+        "en_clean": "\"You don't?\"",
+        "jp_raw": "\"いらない？\"",
+        "jp_clean": "\"いらない？\"",
         "checked": true
     },
     {
@@ -807,25 +888,11 @@
         "jp_clean": "いらない！ オマエはバカだし、オイラのことロクに知らないし、だから手伝ってほしくない！",
         "checked": true
     },
-    {//TODO eng missing
-        "en_raw": "",
-        "en_clean": "",
+    {
+        "en_raw": "\"I don't know you...?\"",
+        "en_clean": "\"I don't know you...?\"",
         "jp_raw": "\"ボニーを知らない...？\"",
         "jp_clean": "\"ボニーを知らない...？\"",
-        "checked": true
-    },
-    {
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
-        "checked": true
-    },
-    {
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
         "checked": true
     },
     {
@@ -842,24 +909,18 @@
         "jp_clean": "オイラの好きな食べ物3つさえ知らないじゃないか、バーカ！！",
         "checked": true
     },
-    {//TODO this and next line response "\"そのとおりだ。犯罪的だな。\""
+    {
         "en_raw": "(Ah.)",
         "en_clean": "(Ah.)",
         "jp_raw": "(ああ。)",
         "jp_clean": "(ああ。)",
         "checked": true
     },
-    {//TODO unsure
+    {
         "en_raw": "(Okay...)",
         "en_clean": "(Okay...)",
-        "jp_raw": [
-            "\\m[clear](了解...)",
-            "\\m[choicespace](はいはい...)\\!\\"
-        ],
-        "jp_clean": [
-            "(了解...)",
-            "(はいはい...)"
-        ],
+        "jp_raw": "(なるほど...)",
+        "jp_clean": "(なるほど...)",
         "checked": true
     },
     {
@@ -867,6 +928,20 @@
         "en_clean": "(...)",
         "jp_raw": "(...)",
         "jp_clean": "(...)",
+        "checked": true
+    },
+    {
+        "en_raw": "\"You're right, that's a crime.\"",
+        "en_clean":"\"You're right, that's a crime.\"",
+        "jp_raw": "\"そのとおりだ。犯罪的だな。\"",
+        "jp_clean": "\"そのとおりだ。犯罪的だな。\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"I do.\"",
+        "en_clean": "\"I do.\"",
+        "jp_raw": "\"知ってるよ。\"",
+        "jp_clean": "\"知ってるよ。\"",
         "checked": true
     },
     {
@@ -890,9 +965,9 @@
         "jp_clean": "そーいうトコだよ！！！ だからオマエとは話したくないんだ！！！",
         "checked": true
     },
-    { // TYPO: should be "Just go away!"
-        "en_raw": "Just go away!!!",
-        "en_clean": "Just go away!!!",
+    {
+        "en_raw": "Just go away!",
+        "en_clean": "Just go away!",
         "jp_raw": "あっちへ行け！",
         "jp_clean": "あっちへ行け！",
         "checked": true
@@ -911,7 +986,7 @@
         "jp_clean": "(だけど、ボニーはまだ悲しそうだ。)",
         "checked": true
     },
-    {// TYPO: should be "Okay, this is silly, but what if you COULD prove you do know their favorite food..."
+    {
         "en_raw": "(...  Okay, this is a silly idea, but what if you COULD prove you do know their favorite food...)",
         "en_clean": "(...  Okay, this is a silly idea, but what if you COULD prove you do know their favorite food...)",
         "jp_raw": "(...そうだ、ばかばかしいことだけど、ボニーの好きな食べ物を知ってると証明できたら、どうなるのかな...)",
@@ -925,7 +1000,7 @@
         "jp_clean": "えっ...？",
         "checked": true
     },
-    {// TODO: choices "プランテンチップスだろ。" "オニギリだろ。" "お米だろ。"
+    {
         "en_raw": "(\"You love...\")",
         "en_clean": "(\"You love...\")",
         "jp_raw": "(ボニーが好きなのは...)",
@@ -933,17 +1008,59 @@
         "checked": true
     },
     {
+        "en_raw": "\"Plantain chips.\"",
+        "en_clean": "\"Plantain chips.\"",
+        "jp_raw": "\"プランテンチップスだろ。\"",
+        "jp_clean": "\"プランテンチップスだろ。\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Onigiris.\"",
+        "en_clean": "\"Onigiris.\"",
+        "jp_raw": "\"オニギリだろ。\"",
+        "jp_clean": "\"オニギリだろ。\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Rice.\"",
+        "en_clean": "\"Rice.\"",
+        "jp_raw": "\"お米だろ。\"",
+        "jp_clean": "\"お米だろ。\"",
+        "checked": true
+    },
+    {
         "en_raw": "Y-yeah, that's true, but...",
         "en_clean": "Y-yeah, that's true, but...",
         "jp_raw": "う、うん、当たってる。でも...",
-        "jp_clean": "う、うん、当たってる",
+        "jp_clean": "う、うん、当たってる。でも...",
         "checked": true
     },
-    {// TODO: choices "マドレーヌでしょ。" "パイナップルでしょ。" "魚の頭でしょ。"
+    {
         "en_raw": "(\"And...\")",
         "en_clean": "(\"And...\")",
         "jp_raw": "(それから...)",
         "jp_clean": "(それから...)",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Madeleines.\"",
+        "en_clean": "\"Madeleines.\"",
+        "jp_raw": "\"マドレーヌでしょ。\"",
+        "jp_clean": "\"マドレーヌでしょ。\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Pineapples.\"",
+        "en_clean": "\"Pineapples.\"",
+        "jp_raw": "\"パイナップルでしょ。\"",
+        "jp_clean": "\"パイナップルでしょ。\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Fish heads.\"",
+        "en_clean": "\"Fish heads.\"",
+        "jp_raw": "\"魚の頭でしょ。\"",
+        "jp_clean": "\"魚の頭でしょ。\"",
         "checked": true
     },
     {
@@ -953,11 +1070,32 @@
         "jp_clean": ". . .",
         "checked": true
     },
-    { // TODO: choices "サモサだよね。" "パルミエだよね。" "ダトイモのフリットだよね。"
+    {
         "en_raw": "(\"And the last one is...\")",
         "en_clean": "(\"And the last one is...\")",
         "jp_raw": "(最後の1つは...)",
         "jp_clean": "(最後の1つは...)",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Samosas.\"",
+        "en_clean": "\"Samosas.\"",
+        "jp_raw": "\"サモサだよね。\"",
+        "jp_clean": "\"サモサだよね。\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Palmiers.\"",
+        "en_clean": "\"Palmiers.\"",
+        "jp_raw": "\"パルミエだよね。\"",
+        "jp_clean": "\"パルミエだよね。\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Malanga fritters.\"",
+        "en_clean": "\"Malanga fritters.\"",
+        "jp_raw": "\"サトイモのフリットだよね。\"",
+        "jp_clean": "\"サトイモのフリットだよね。\"",
         "checked": true
     },
     {
@@ -981,11 +1119,39 @@
         "jp_clean": "いや、絶対に知らないね！！！\\!\\ どのサモサが好きかまでは知らないだろ、バーカ！！！",
         "checked": true
     },
-    { // TODO: "...チーズとポテト入り？" "...チーズ入り、ポテトなし？" "...チーズなし、ポテト入り？" "...チーズとポテトなし？"
+    {
         "en_raw": "(\"Is it samosas...\")",
         "en_clean": "(\"Is it samosas...\")",
         "jp_raw": "(中身は...)",
         "jp_clean": "(中身は...)",
+        "checked": true
+    },
+    {
+        "en_raw": "\"...with cheese, with potatoes?\"",
+        "en_clean": "\"...with cheese, with potatoes?\"",
+        "jp_raw": "\"...チーズとポテト入り？\"",
+        "jp_clean": "\"...チーズとポテト入り？\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"...with cheese, without potatoes?\"",
+        "en_clean": "\"...with cheese, without potatoes?\"",
+        "jp_raw": "\"...チーズ入り、ポテトなし？\"",
+        "jp_clean": "\"...チーズ入り、ポテトなし？\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"...without cheese, with potatoes?\"",
+        "en_clean": "\"...without cheese, with potatoes?\"",
+        "jp_raw": "\"...チーズなし、ポテト入り？\"",
+        "jp_clean": "\"...チーズなし、ポテト入り？\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"...without cheese, without potatoes?\"",
+        "en_clean": "\"...without cheese, without potatoes?\"",
+        "jp_raw": "\"...チーズもポテトもなし？\"",
+        "jp_clean": "\"...チーズもポテトもなし？\"",
         "checked": true
     },
     {
@@ -1051,25 +1217,18 @@
         "jp_clean": "今、時間があるなら。",
         "checked": true
     },
-    { // TODO: choices "\"今なら行けるよ！\"" "\"じゃあもうちょっと後で...\""
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
+    {
+        "en_raw": "\"I have time now!\"",
+        "en_clean": "\"I have time now!\"",
+        "jp_raw": "\"今なら行けるよ！\"",
+        "jp_clean": "\"今なら行けるよ！\"",
         "checked": true
     },
     {
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
-        "checked": true
-    },
-    {
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
+        "en_raw": "\"Maybe in a second...\"",
+        "en_clean": "\"Maybe in a second...\"",
+        "jp_raw": "\"じゃあもうちょっと後で...\"",
+        "jp_clean": "\"じゃあもうちょっと後で...\"",
         "checked": true
     },
     {
@@ -1112,6 +1271,20 @@
         "en_clean": "(Zone out?)",
         "jp_raw": "(ぼんやりする？)",
         "jp_clean": "(ぼんやりする？)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Yes.)",
+        "en_clean": "(Yes.)",
+        "jp_raw": "(そうする。)",
+        "jp_clean": "(そうする。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(No.)",
+        "en_clean": "(No.)",
+        "jp_raw": "(やめておく。)",
+        "jp_clean": "(やめておく。)",
         "checked": true
     },
     {
@@ -1220,6 +1393,20 @@
         "checked": true
     },
     {
+        "en_raw": "\"I have bad news.\"",
+        "en_clean": "\"I have bad news.\"",
+        "jp_raw": "\"残念なお知らせだ。\"",
+        "jp_clean": "\"残念なお知らせだ。\"",
+        "checked": true
+    },
+    {
+        "en_raw": "(Don't mention it.)",
+        "en_clean": "(Don't mention it.)",
+        "jp_raw": "(何も言わない。)",
+        "jp_clean": "(何も言わない。)",
+        "checked": true
+    },
+    {
         "en_raw": "What?",
         "en_clean": "What?",
         "jp_raw": "なに？",
@@ -1233,21 +1420,11 @@
         "jp_clean": "\"きみもあかちゃんだよ。\"",
         "checked": true
     },
-    {//TODO unsure
+    {
         "en_raw": "NO!!!",
         "en_clean": "NO!!!",
-        "jp_raw": [
-            "\\m[vbnp]\\>ああっ！\\<\\^",
-            "\\m[vmnp]やだぁっ！！！",
-            "\\m[vi]そんな！！！",
-            "\\m[vb]違う！"
-        ],
-        "jp_clean": [
-            "ああっ！",
-            "やだぁっ！！！",
-            "そんな！！！",
-            "違う！"
-        ],
+        "jp_raw": "違う！",
+        "jp_clean": "違う！",
         "checked": true
     },
     {
@@ -1446,11 +1623,18 @@
         "jp_clean": "悪い夢は、見たか見なかったかのどっちかだろ。",
         "checked": true
     },
-    {//TODO choicer  "\"じゃあ、見たと思う！\"" "\"じゃあ、見なかったと思う！\""
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
+    { 
+        "en_raw": "\"Then I guess I did!\"",
+        "en_clean": "\"Then I guess I did!\"",
+        "jp_raw": "\"じゃあ、見たと思う！\"",
+        "jp_clean": "\"じゃあ、見たと思う！\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Then I guess I didn't!\"",
+        "en_clean": "\"Then I guess I didn't!\"",
+        "jp_raw": "\"じゃあ、見なかったと思う！\"",
+        "jp_clean": "\"じゃあ、見なかったと思う！\"",
         "checked": true
     },
     {
@@ -1474,24 +1658,25 @@
         "jp_clean": "ベルが言ってたぞ。悪い夢を見たら、誰かに話せば頭から出ていくよ、って。",
         "checked": true
     },
-    {//TODO eng missing response
+    {
         "en_raw": "(Make something up.)",
         "en_clean": "(Make something up.)",
-        "jp_raw": "(でたらめを言おう。)", //"\"...同じ場所を長い時間、走り続ける夢を見たんだ。\""
+        "jp_raw": "(でたらめを言おう。)", 
         "jp_clean": "(でたらめを言おう。)",
         "checked": true
     },
-    {//TODO unsure
+    {
         "en_raw": "(Follow the script.)",
         "en_clean": "(Follow the script.)",
-        "jp_raw": [
-            "(台本通りにやればいい。)",
-            "\\m[clear](台本通りにやれ。)"
-        ],
-        "jp_clean": [
-            "(台本通りにやればいい。)",
-            "(台本通りにやれ。)"
-        ],
+        "jp_raw": "(台本通りにやればいい。)",
+        "jp_clean": "(台本通りにやればいい。)",
+        "checked": true
+    },
+    {
+        "en_raw": "\"...I dreamt I was running in place for a very long time.\"",
+        "en_clean": "\"...I dreamt I was running in place for a very long time.\"",
+        "jp_raw": "\"...同じ場所を長い時間、走り続ける夢を見たんだ。\"",
+        "jp_clean": "\"...同じ場所を長い時間、走り続ける夢を見たんだ。\"",
         "checked": true
     },
     {
@@ -1613,21 +1798,11 @@
         "jp_clean": "(今回は、うそじゃない。)",
         "checked": true
     },
-    {//TODO unsure
+    {
         "en_raw": "Oh?",
         "en_clean": "Oh?",
-        "jp_raw": [
-            "\\m[vb]ええっ？",
-            "\\m[vo]そうなのか？",
-            "\\m[vi]へえ？",
-            "\\m[vm]へえ？"
-        ],
-        "jp_clean": [
-            "ええっ？",
-            "そうなのか？",
-            "へえ？",
-            "へえ？"
-        ],
+        "jp_raw": "ええっ？",
+        "jp_clean": "ええっ？",
         "checked": true
     },
     {

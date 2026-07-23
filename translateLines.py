@@ -1,6 +1,6 @@
 import pyjson5, re
 
-file = "random_silvercoin"
+file = "rooms_dormont_bonnietalk"
 with open("translations/"+file+".jsonc", 'r', encoding='utf-8') as f:
   text = f.read()
   text = text.replace("\\n ", "")
@@ -10,8 +10,10 @@ with open("translations/"+file+".jsonc", 'r', encoding='utf-8') as f:
 with open("public/"+"/".join(file.split("_"))+".html", 'r', encoding='utf-8') as f:
   site = f.read()
   site = site.replace(" </span>","</span>")
-  site = site.replace("> ",">")
+  #site = site.replace("> ",">")
 
+untouched = site[:site.index("<div class=\"dialogue\">")]
+site = site[site.index("<div class=\"dialogue\">"):]
 #replace lines
 for i in data:
   if not(i['checked']):
@@ -20,6 +22,8 @@ for i in data:
 for i in data:
   #try:
   #print(i)
+  if (i['jp_raw'] == None):
+    continue
   linesEN=[x for x in re.split('(?:<br/?>)|((?<=\))\s(?="))', i['en_raw']) if x is not None] 
   linesJP=[x for x in re.split('(?:<br/?>)|((?<=\))\s(?="))', i['jp_raw']) if x is not None] 
   while (len(linesEN) != len(linesJP)):
@@ -37,11 +41,11 @@ for i in data:
     count = site.count(linesEN[j])
     if not(linesJP[j] == None):    
       if count == 0:
-        print("warning, no line detected for " + linesEN[j])
+        print("!!!!warning, no line detected for " + linesEN[j])
       if count == 1:
         site = site.replace(linesEN[j], linesJP[j])
       if count > 1:
-        #print("multiple detected of "+linesEN[j]+", replacing first only")
+        print("multiple detected of "+linesEN[j]+", replacing first only")
         site = site.replace(linesEN[j], linesJP[j][:1]+"FLAG_REMOVE_LATER"+linesJP[j][1:], 1)
   #except:
   #  print("Something's wrong with", i)
@@ -112,7 +116,7 @@ for i in site.split("\n"):
     
   rebuilder.append(i)
 site = "\n".join(rebuilder)
-
+site = untouched + site
 #write
 try:
   f = open("public/japanese_site/"+"/".join(file.split("_"))+".html", 'w', encoding='utf-8')
