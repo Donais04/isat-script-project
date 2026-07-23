@@ -51,6 +51,7 @@ for i in data:
   #  print("Something's wrong with", i)
 
 site = site.replace("FLAG_REMOVE_LATER","")
+site = site.replace('href="/style.css"', 'href="/stylejp.css"') # hi it's gold i'm invading your code. i think this should work
 
 #replace headers
 rebuilder = []

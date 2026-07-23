@@ -1014,12 +1014,12 @@
         "jp_clean": "丸められた痕跡がある手描きのカード。下のほうに",
         "checked": true
     },
-    {//TODO check formatting
+    {
         "en_raw": "The bottom says \"[card]\"",
         "en_clean": "The bottom says \"[card]\"",
         "jp_raw": "\"[カード]\"と書いてある。",
         "jp_clean": "\"[カード]\"と書いてある。",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(A closet haphazardly filled with art notebooks and art supplies.)",

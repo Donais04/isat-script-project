@@ -293,12 +293,12 @@
         "jp_clean": "(扉には鍵がかかっている。)",
         "checked": true
     },
-    {//TODO format
+    {
         "en_raw": "(The symbol over the keyhole is shaped like a [key]...)",
         "en_clean": "(The symbol over the keyhole is shaped like a [key]...)",
-        "jp_raw": "(鍵穴は[key]顔の形だ...)",
-        "jp_clean": "(鍵穴は[key]顔の形だ...)",
-        "checked": false
+        "jp_raw": "(鍵穴は[鍵]顔の形だ...)",
+        "jp_clean": "(鍵穴は[鍵]顔の形だ...)",
+        "checked": true
     },
     {
         "en_raw": "(Hm...)",
@@ -321,12 +321,12 @@
         "jp_clean": "(ふむ...)",
         "checked": true
     },
-    {//TODO double check
+    {
         "en_raw": "(The key for it was on the [left/right] side, in the [room], wasn't it?)",
         "en_clean": "(The key for it was on the [left/right] side, in the [room], wasn't it?)",
         "jp_raw": "(この形の鍵は、たしか館の[左/右]側... 侍祭寮の真ん[部屋]になかったっけ？)",
         "jp_clean": "(この形の鍵は、たしか館の[左/右]側... 侍祭寮の真ん[部屋]になかったっけ？)",
-        "checked": false
+        "checked": true
     },
     {
         "en_raw": "(You reach towards the light...)",

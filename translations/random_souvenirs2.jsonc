@@ -629,12 +629,12 @@
         "jp_clean": "(今は大丈夫じゃなくても、すぐにそうなるんだ！！！)",
         "checked": true
     },
-    {//TODO check formatting
+    {
         "en_raw": "A note Mirabelle wrote for you and your sieve-like brain. Press [button] to interact!",
         "en_clean": "A note Mirabelle wrote for you and your sieve-like brain. Press [button] to interact!",
-        "jp_raw": "物覚えの悪い僕のためにミラベルが書いてくれたメモ。[ボタンで確認！]",
-        "jp_clean": "物覚えの悪い僕のためにミラベルが書いてくれたメモ。[ボタンで確認！]",
-        "checked": false
+        "jp_raw": "物覚えの悪い僕のためにミラベルが書いてくれたメモ。[ボタン]で確認！",
+        "jp_clean": "物覚えの悪い僕のためにミラベルが書いてくれたメモ。[ボタン]で確認！",
+        "checked": true
     },
     {
         "en_raw": "A note Mirabelle wrote for you. But you know what to do.",
