@@ -434,10 +434,10 @@
         "checked": true
     },
     {
-        "en_raw": "...  Hey everyone, hey, hey",
-        "en_clean": "...  Hey everyone, hey, hey",
-        "jp_raw": "...なあみんな、ちょとちょと",
-        "jp_clean": "...なあみんな、ちょとちょと",
+        "en_raw": "... &ensp;Hey everyone, hey, hey",
+        "en_clean": "... &ensp;Hey everyone, hey, hey",
+        "jp_raw": "... &ensp;なあみんな、ちょとちょと",
+        "jp_clean": "... &ensp;なあみんな、ちょとちょと",
         "checked": true
     },
     {
@@ -475,7 +475,42 @@
         "jp_clean": "ああ... あいつに聞こえないって確信があるならいいんだけど...",
         "checked": true
     },
-    { //TODO missing choicer "\"ボニーの顔はカニフェイス！\"" "\"ボニーは最高にかわいいよね！\"" "\"ボニーのやつ、靴ひもを結び忘れてるな！\""
+    {
+        "en_raw": "(Say at normal volume:)",
+        "en_clean": "(Say at normal volume:)",
+        "jp_raw": "(普通のトーンで言ってみる：)",
+        "jp_clean": "(普通のトーンで言ってみる：)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Say at normal volume:)",
+        "en_clean": "(Say at normal volume:)",
+        "jp_raw": "(普通のトーンで言ってみる：)",
+        "jp_clean": "(普通のトーンで言ってみる：)",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Bonnie has a crab face!\"",
+        "en_clean": "\"Bonnie has a crab face!\"",
+        "jp_raw": "\"ボニーの顔はカニフェイス！\"",
+        "jp_clean": "\"ボニーの顔はカニフェイス！\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Bonnie is the cutest!\"",
+        "en_clean": "\"Bonnie is the cutest!\"",
+        "jp_raw": "\"ボニーは最高にかわいいよね！\"",
+        "jp_clean": "\"ボニーは最高にかわいいよね！\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Bonnie forgot to tie their shoe!\"",
+        "en_clean": "\"Bonnie forgot to tie their shoe!\"",
+        "jp_raw": "\"ボニーのやつ、靴ひもを結び忘れてるな！\"",
+        "jp_clean": "\"ボニーのやつ、靴ひもを結び忘れてるな！\"",
+        "checked": true
+    },
+    {
         "en_raw": "...",
         "en_clean": "...",
         "jp_raw": "...",
@@ -608,7 +643,14 @@
         "jp_clean": "ハハ... はあっ？",
         "checked": true
     },
-    {//TODO missing choicer "\"えーっ？\"" "\"...\""
+    {
+        "en_raw": "\"Yikes?\"",
+        "en_clean": "\"Yikes?\"",
+        "jp_raw": "\"えーっ？\"",
+        "jp_clean": "\"えーっ？\"",
+        "checked": true
+    },
+    {
         "en_raw": "I'm sorry! I'm sorry to ask!!! I know it's not the best moment!!!",
         "en_clean": "I'm sorry! I'm sorry to ask!!! I know it's not the best moment!!!",
         "jp_raw": "ごめんな！ 変なこと訊いて！ 今すべき話じゃないのは分かってる！",
@@ -840,10 +882,10 @@
         "checked": true
     },
     {
-        "en_raw": "...  I don't wanna talk about it...",
-        "en_clean": "...  I don't wanna talk about it...",
-        "jp_raw": "...その話はしたくない...",
-        "jp_clean": "...その話はしたくない...",
+        "en_raw": "... &ensp;I don't wanna talk about it...",
+        "en_clean": "... &ensp;I don't wanna talk about it...",
+        "jp_raw": "...&ensp;その話はしたくない...",
+        "jp_clean": "...&ensp;その話はしたくない...",
         "checked": true
     },
     {
@@ -959,8 +1001,8 @@
         "checked": true
     },
     {
-        "en_raw": "I don't want you to touch me, I don't want you to talk to me, I don't want you to even\n<span class=\"shake\">\n LOOK AT ME!!!\n</span>",
-        "en_clean": "I don't want you to touch me, I don't want you to talk to me, I don't want you to evenLOOK AT ME!!!",
+        "en_raw": "I don't want you to touch me, I don't want you to talk to me, I don't want you to even <span class=\"shake\">LOOK AT ME!!!</span>",
+        "en_clean": "I don't want you to touch me, I don't want you to talk to me, I don't want you to even LOOK AT ME!!!",
         "jp_raw": "オマエはオイラにさわるな、オマエはオイラに話しかけるな、オマエは...<span class=\"shake\">こっちを見るな！！！</span>",
         "jp_clean": "オマエはオイラにさわるな、オマエはオイラに話しかけるな、オマエは...こっちを見るな！！！",
         "checked": true
@@ -1281,10 +1323,10 @@
         "checked": true
     },
     {
-        "en_raw": "...  But...  But what if everyone...",
-        "en_clean": "...  But...  But what if everyone...",
-        "jp_raw": "...でも... でも、もしみんなが...",
-        "jp_clean": "...でも... でも、もしみんなが...",
+        "en_raw": "... &ensp;But... &ensp;But what if everyone...",
+        "en_clean": "... &ensp;But... &ensp;But what if everyone...",
+        "jp_raw": "... &ensp;でも... &ensp;でも、もしみんなが...",
+        "jp_clean": "... &ensp;でも... &ensp;でも、もしみんなが...",
         "checked": true
     },
     {
@@ -1344,10 +1386,10 @@
         "checked": true
     },
     {
-        "en_raw": ". . .  Okay.",
-        "en_clean": ". . .  Okay.",
-        "jp_raw": "...分かった。",
-        "jp_clean": "...分かった。",
+        "en_raw": ". . . &ensp;Okay.",
+        "en_clean": ". . . &ensp;Okay.",
+        "jp_raw": "...&ensp;分かった。",
+        "jp_clean": "...&ensp;分かった。",
         "checked": true
     },
     {

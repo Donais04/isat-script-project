@@ -1,6 +1,6 @@
 import pyjson5, re
 
-file = "rooms_dormont_bonnietalk"
+file = "events_odilesus"
 with open("translations/"+file+".jsonc", 'r', encoding='utf-8') as f:
   text = f.read()
   text = text.replace("\\n ", "")
@@ -38,15 +38,24 @@ for i in data:
     else:
       linesJP[int(a[0])] = linesJP[int(a[0])] + linesJP.pop(int(a[1]))
   for j in range(len(linesEN)):
-    count = site.count(linesEN[j])
+    #this is to stop !'s in expressions getting mixed up
+    count = 0
+    firstIndex = 99999
+    siteLines = site.split("\n")
+    for k in range(len(siteLines)):
+      if linesEN[j] in siteLines[k] and not("dialogue-expression" in siteLines[k]):
+        count += 1
+        firstIndex = min([firstIndex, k])
+    
+    
     if not(linesJP[j] == None):    
       if count == 0:
         print("!!!!warning, no line detected for " + linesEN[j])
-      if count == 1:
-        site = site.replace(linesEN[j], linesJP[j])
+        continue
       if count > 1:
         print("multiple detected of "+linesEN[j]+", replacing first only")
-        site = site.replace(linesEN[j], linesJP[j][:1]+"FLAG_REMOVE_LATER"+linesJP[j][1:], 1)
+      siteLines[firstIndex] = siteLines[firstIndex].replace(linesEN[j], linesJP[j][:1]+"FLAG_REMOVE_LATER"+linesJP[j][1:], 1)
+      site = "\n".join(siteLines)
   #except:
   #  print("Something's wrong with", i)
 

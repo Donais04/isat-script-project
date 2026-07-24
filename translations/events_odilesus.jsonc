@@ -245,10 +245,10 @@
         "checked": true
     },
     {
-        "en_raw": "... Alright...",
-        "en_clean": "... Alright...",
-        "jp_raw": "...分かった...",
-        "jp_clean": "...分かった...",
+        "en_raw": "...&nbsp;Alright...",
+        "en_clean": "...&nbsp;Alright...",
+        "jp_raw": "...&nbsp;分かった...",
+        "jp_clean": "...&nbsp;分かった...",
         "checked": true
     },
     {
@@ -571,6 +571,20 @@
         "en_clean": "(Heh.)",
         "jp_raw": "(へえ。)",
         "jp_clean": "(へえ。)",
+        "checked": true
+    },
+    {
+        "en_raw": "\"To do your research?\"",
+        "en_clean": "\"To do your research?\"",
+        "jp_raw": "\"研究を続けるの？\"",
+        "jp_clean": "\"研究を続けるの？\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"To do your fake research?\"",
+        "en_clean": "\"To do your fake research?\"",
+        "jp_raw": "\"研究のフリを続けるの？\"",
+        "jp_clean": "\"研究のフリを続けるの？\"",
         "checked": true
     },
     {
@@ -987,10 +1001,10 @@
         "checked": true
     },
     {
-        "en_raw": "And you   are acting strange.",
-        "en_clean": "And you   are acting strange.",
-        "jp_raw": "そして、きみは様子がおかしい。",
-        "jp_clean": "そして、きみは様子がおかしい。",
+        "en_raw": "And you&nbsp;&nbsp; are acting strange.",
+        "en_clean": "And you&nbsp;&nbsp; are acting strange.",
+        "jp_raw": "そして、&nbsp;&nbsp;きみは様子がおかしい。",
+        "jp_clean": "そして、&nbsp;&nbsp;きみは様子がおかしい。",
         "checked": true
     },
     {
@@ -1064,10 +1078,10 @@
         "checked": true
     },
     {
-        "en_raw": ". . .  Like you had found them before, maybe?",
-        "en_clean": ". . .  Like you had found them before, maybe?",
-        "jp_raw": "...前にも見つけたことがあるような感じじゃなかなったか？",
-        "jp_clean": "...前にも見つけたことがあるような感じじゃなかなったか？",
+        "en_raw": ".&nbsp;.&nbsp;.&nbsp;&nbsp;Like you had found them before, maybe?",
+        "en_clean": ".&nbsp;.&nbsp;.&nbsp;&nbsp;Like you had found them before, maybe?",
+        "jp_raw": ".&nbsp;.&nbsp;.&nbsp;&nbsp;前にも見つけたことがあるような感じじゃなかなったか？",
+        "jp_clean": ".&nbsp;.&nbsp;.&nbsp;&nbsp;前にも見つけたことがあるような感じじゃなかなったか？",
         "checked": true
     },
     {
@@ -1113,8 +1127,8 @@
         "checked": true
     },
     {
-        "en_raw": "Don't think I believed that whole\n<span class=\"wave\">\n \"I wished croissants would disappear~\"\n</span>\nthing, too.",
-        "en_clean": "Don't think I believed that whole\"I wished croissants would disappear~\"thing, too.",
+        "en_raw": "Don't think I believed that whole <span class=\"wave\">\"I wished croissants would disappear~\"</span> thing, too.",
+        "en_clean": "Don't think I believed that whole \"I wished croissants would disappear~\"thing, too.",
         "jp_raw": "きみの願い事を信じたわけじゃないからな。<span class=\"wave\">「クロワッサンが消えてなくなるように！」</span>ってやつを。",
         "jp_clean": "きみの願い事を信じたわけじゃないからな。「クロワッサンが消えてなくなるように！」ってやつを。",
         "checked": true
@@ -1148,10 +1162,10 @@
         "checked": true
     },
     {
-        "en_raw": "Is that why  you're repeating the same events, Siffrin?",
-        "en_clean": "Is that why  you're repeating the same events, Siffrin?",
-        "jp_raw": "だから、同じ出来事を繰り返しているんじゃないのか、シフラン？",
-        "jp_clean": "だから、同じ出来事を繰り返しているんじゃないのか、シフラン？",
+        "en_raw": "Is that why&nbsp; you're repeating the same events, Siffrin?",
+        "en_clean": "Is that why&nbsp; you're repeating the same events, Siffrin?",
+        "jp_raw": "だから、&nbsp;同じ出来事を繰り返しているんじゃないのか、シフラン？",
+        "jp_clean": "だから、&nbsp;同じ出来事を繰り返しているんじゃないのか、シフラン？",
         "checked": true
     },
     {
