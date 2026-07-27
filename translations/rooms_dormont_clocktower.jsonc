@@ -112,7 +112,7 @@
         "checked": true
     },
     {
-        "en_raw": "That was\n<span class=\"wave\">\n DE-LI-CIOUS!\n</span>",
+        "en_raw": "That was <span class=\"wave\">DE-LI-CIOUS!</span>",
         "en_clean": "That was DE-LI-CIOUS!",
         "jp_raw": "めちゃくちゃ<span class=\"wave\">ウマカッタ～！</span>",
         "jp_clean": "めちゃくちゃウマカッタ～！",
@@ -573,14 +573,42 @@
         "jp_clean": "ついていくぜ、ベル！ みんなで力を合わせる！ 心配すんなって！",
         "checked": true
     },
-    {//TODO eng should have \"\"
-        "en_raw": "We'll stay with you, Mira.",
-        "en_clean": "We'll stay with you, Mira.",
+    {
+        "en_raw": "\"We'll stay with you, Mira.\"",
+        "en_clean": "\"We'll stay with you, Mira.\"",
         "jp_raw": "\"きみと一緒に行くよ、ミラ。\"",
         "jp_clean": "\"きみと一緒に行くよ、ミラ。\"",
         "checked": true
     },
-    {//TODO missing lines "(何があろうと、彼女ひとりで行かせたりしない。)" "(行けるところまで。)" "(どうせ他に選択肢はないんだし。)" "(最後まで。)"
+    {
+        "en_raw": "(You'd never let her go alone, after all.)",
+        "en_clean": "(You'd never let her go alone, after all.)",
+        "jp_raw": "(何があろうと、彼女ひとりで行かせたりしない。)",
+        "jp_clean": "(何があろうと、彼女ひとりで行かせたりしない。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(For as long as you can.)",
+        "en_clean": "(For as long as you can.)",
+        "jp_raw": "(行けるところまで。)",
+        "jp_clean": "(行けるところまで。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You have no other choice, after all.)",
+        "en_clean": "(You have no other choice, after all.)",
+        "jp_raw": "(どうせ他に選択肢はないんだし。)",
+        "jp_clean": "(どうせ他に選択肢はないんだし。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Until the end.)",
+        "en_clean": "(Until the end.)",
+        "jp_raw": "(最後まで。)",
+        "jp_clean": "(最後まで。)",
+        "checked": true
+    },
+    {  
         "en_raw": "Oh...",
         "en_clean": "Oh...",
         "jp_raw": "あ...",
@@ -685,11 +713,25 @@
         "jp_clean": "おい... なあ、シフ。シフラン。シファルーニ。",
         "checked": true
     },
-    {//TODO choicer "(寝返りを打って話を聞く。)" "(寝返りを打たずに寝たふりをする。)"
+    {
         "en_raw": "(Isabeau is whispering your name...)",
         "en_clean": "(Isabeau is whispering your name...)",
         "jp_raw": "(イザボーが僕の名前を囁いている...)",
         "jp_clean": "(イザボーが僕の名前を囁いている...)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Turn around and listen.)",
+        "en_clean": "(Turn around and listen.)",
+        "jp_raw": "(寝返りを打って話を聞く。)",
+        "jp_clean": "(寝返りを打って話を聞く。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Don't turn around and keep sleeping.)",
+        "en_clean": "(Don't turn around and keep sleeping.)",
+        "jp_raw": "(寝返りを打たずに寝たふりをする。)",
+        "jp_clean": "(寝返りを打たずに寝たふりをする。)",
         "checked": true
     },
     {
@@ -735,9 +777,9 @@
         "checked": true
     },
     {
-        "en_raw": "<span class=\"small\">\n ...  Goodnight, Sif...\n</span>",
+        "en_raw": "<span class=\"small\">...&ensp;&ensp;Goodnight, Sif...</span>",
         "en_clean": "...  Goodnight, Sif...",
-        "jp_raw": "<span class=\"small\">...おやすみ、シフ...</span>",
+        "jp_raw": "<span class=\"small\">...&ensp;&ensp;おやすみ、シフ...</span>",
         "jp_clean": "...おやすみ、シフ...",
         "checked": true
     },
@@ -889,24 +931,45 @@
         "checked": true
     },
     {
-        "en_raw": "<span class=\"small\">\n I  don't have anything to tell you right now.\n</span>",
+        "en_raw": "(Against your will, you hold your breath.)",
+        "en_clean": "(Against your will, you hold your breath.)",
+        "jp_raw": "(思わず呼吸を止めてしまう。)",
+        "jp_clean": "(思わず呼吸を止めてしまう。)",
+        "checked": true
+    },
+    {
+        "en_raw": "<span class=\"small\">I&ensp;&ensp;don't have anything to tell you right now.</span>",
         "en_clean": "I  don't have anything to tell you right now.",
-        "jp_raw": "俺... には今、特に言うことがないってことだ。",
+        "jp_raw": "<span class=\"small\">俺...&ensp;&ensp;には今、特に言うことがないってことだ。</span>",
         "jp_clean": "俺... には今、特に言うことがないってことだ。",
         "checked": true
     },
-    {//TODO missing line (Chicken.) "(ビビりめ。)"
-        "en_raw": "<span class=\"small\">\n But I will, when, uh, when we beat the King tomorrow.  Okay?\n</span>",
+    {
+        "en_raw": "(Chicken.)",
+        "en_clean": "(Chicken.)",
+        "jp_raw": "(ビビりめ。)",
+        "jp_clean": "(ビビりめ。)",
+        "checked": true
+    },
+    {
+        "en_raw": "<span class=\"small\">But I will, when, uh, when we beat the King tomorrow.&ensp;&ensp;Okay?</span>",
         "en_clean": "But I will, when, uh, when we beat the King tomorrow.  Okay?",
-        "jp_raw": "<span class=\"small\">でも言うよ。明日、えっと、王を倒したときに。オーケー？</span>",
+        "jp_raw": "<span class=\"small\">でも言うよ。明日、えっと、王を倒したときに。&ensp;&ensp;オーケー？</span>",
         "jp_clean": "でも言うよ。明日、えっと、王を倒したときに。オーケー？",
         "checked": true
     },
-    {//TODO choicer "\"イザ、むしろ不吉に聞こえるんだけど。\"" "\"イザ、それはやっぱり不吉だ。\"" "\"...\""
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
+    {
+        "en_raw": "\"That's so ominous, Isa.\"",
+        "en_clean": "\"That's so ominous, Isa.\"",
+        "jp_raw": "\"イザ、むしろ不吉に聞こえるんだけど。\"",
+        "jp_clean": "\"イザ、むしろ不吉に聞こえるんだけど。\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"That's still SO ominous, Isa.\"",
+        "en_clean": "\"That's still SO ominous, Isa.\"",
+        "jp_raw": "\"イザ、それはやっぱり不吉だ。\"",
+        "jp_clean": "\"イザ、それはやっぱり不吉だ。\"",
         "checked": true
     },
     {
@@ -931,9 +994,9 @@
         "checked": true
     },
     {
-        "en_raw": "<span class=\"small\">\n So, um, I'll tell you when we beat the King.  Okay?\n</span>",
+        "en_raw": "<span class=\"small\">So, um, I'll tell you when we beat the King.&ensp;&ensp;Okay?</span>",
         "en_clean": "So, um, I'll tell you when we beat the King.  Okay?",
-        "jp_raw": "<span class=\"small\">だから、えっと、王を倒した後に言おうかなって。それでいい？</span>",
+        "jp_raw": "<span class=\"small\">だから、えっと、王を倒した後に言おうかなって。&ensp;&ensp;それでいい？</span>",
         "jp_clean": "だから、えっと、王を倒した後に言おうかなって。それでいい？",
         "checked": true
     },
@@ -959,7 +1022,7 @@
         "checked": true
     },
     {
-        "en_raw": "...  Okay!",
+        "en_raw": "...&ensp;&ensp;Okay!",
         "en_clean": "...  Okay!",
         "jp_raw": "...よし！",
         "jp_clean": "...よし！",
@@ -987,7 +1050,7 @@
         "checked": true
     },
     {
-         "en_raw": "...  Okay!",
+         "en_raw": "...&ensp;&ensp;Okay!",
         "en_clean": "...  Okay!",
         "jp_raw": "...よし！",
         "jp_clean": "...よし！",
@@ -1035,7 +1098,7 @@
         "jp_clean": "(あのときに戻れば... 王を倒した後の、あのときに... そしてもう一度、誰にも邪魔されないようにしてから訊ねれば、ちゃんと聞けるかもしれない。)",
         "checked": true
     },
-    {//TODO this and next line combined in my game
+    {
         "en_raw": "(...)",
         "en_clean": "(...)",
         "jp_raw": "(...)",
@@ -1050,7 +1113,7 @@
         "checked": true
     },
     {
-        "en_raw": "...  Okay!",
+        "en_raw": "...&ensp;&ensp;Okay!",
         "en_clean": "...  Okay!",
         "jp_raw": "...よし！",
         "jp_clean": "...よし！",
@@ -1245,7 +1308,28 @@
         "jp_clean": "(館の門だ...)",
         "checked": true
     },
-    {//TODO missing lines "(門を見上げる。)" "(オーブをいじりまわす。)" "(両手でしっかりとオーブを挟む。)"
+    {
+        "en_raw": "(You look up at it.)",
+        "en_clean": "(You look up at it.)",
+        "jp_raw": "(門を見上げる。)",
+        "jp_clean": "(門を見上げる。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You play with the Orb.)",
+        "en_clean": "(You play with the Orb.)",
+        "jp_raw": "(オーブをいじりまわす。)",
+        "jp_clean": "(オーブをいじりまわす。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You clench the Orb tightly between your hands.)",
+        "en_clean": "(You clench the Orb tightly between your hands.)",
+        "jp_raw": "(両手でしっかりとオーブを挟む。)",
+        "jp_clean": "(両手でしっかりとオーブを挟む。)",
+        "checked": true
+    },
+    { 
         "en_raw": "The House's Gate, huh?",
         "en_clean": "The House's Gate, huh?",
         "jp_raw": "これが館の門なのか？",

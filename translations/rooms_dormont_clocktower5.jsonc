@@ -189,9 +189,9 @@
         "checked": true
     },
     {
-        "en_raw": "Siffrin might come back any second now...  So we need to decide what to do.",
+        "en_raw": "Siffrin might come back any second now...&ensp;&ensp;So we need to decide what to do.",
         "en_clean": "Siffrin might come back any second now...  So we need to decide what to do.",
-        "jp_raw": "シフランがいつ戻ってきてもおかしくない... だからどうするか決めておこう。",
+        "jp_raw": "シフランがいつ戻ってきてもおかしくない...&ensp;&ensp;だからどうするか決めておこう。",
         "jp_clean": "シフランがいつ戻ってきてもおかしくない... だからどうするか決めておこう。",
         "checked": true
     },
@@ -266,9 +266,9 @@
         "checked": true
     },
     {
-        "en_raw": "I agree, but...  B-But would he even agree to come with us, still?",
+        "en_raw": "I agree, but...&ensp;&ensp;B-But would he even agree to come with us, still?",
         "en_clean": "I agree, but...  B-But would he even agree to come with us, still?",
-        "jp_raw": "わたしも同感だよ。だけど... だけど、そもそもシフランは一緒に来てくれるのかな？",
+        "jp_raw": "わたしも同感だよ。だけど...&ensp;&ensp;だけど、そもそもシフランは一緒に来てくれるのかな？",
         "jp_clean": "わたしも同感だよ。だけど... だけど、そもそもシフランは一緒に来てくれるのかな？",
         "checked": true
     },
@@ -357,9 +357,9 @@
         "checked": true
     },
     {
-        "en_raw": "...  After what just happened to all of us today...",
+        "en_raw": "...&ensp;&ensp;After what just happened to all of us today...",
         "en_clean": "...  After what just happened to all of us today...",
-        "jp_raw": "...しかし今日、皆に起きたことを考えると...",
+        "jp_raw": "...&ensp;&ensp;しかし今日、皆に起きたことを考えると...",
         "jp_clean": "...しかし今日、皆に起きたことを考えると...",
         "checked": true
     },

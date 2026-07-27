@@ -1,6 +1,6 @@
 import pyjson5, re
 
-file = "events_odilesus"
+file = "rooms_dormont_isatalk"
 with open("translations/"+file+".jsonc", 'r', encoding='utf-8') as f:
   text = f.read()
   text = text.replace("\\n ", "")
@@ -28,15 +28,10 @@ for i in data:
   linesJP=[x for x in re.split('(?:<br/?>)|((?<=\))\s(?="))', i['jp_raw']) if x is not None] 
   while (len(linesEN) != len(linesJP)):
     print("mismatch error in",linesEN, linesJP)
-    if len(linesEN)+len(linesJP)<4:
-      a="0 1"
-    else:
-      a = input("Which two would you like to merge?")
-    a=a.split(" ")
     if len(linesJP) < len(linesEN):
-      linesEN[int(a[0])] = linesEN[int(a[0])] + linesEN.pop(int(a[1]))
+      linesEN[0] = linesEN[0] + linesEN.pop(1)
     else:
-      linesJP[int(a[0])] = linesJP[int(a[0])] + linesJP.pop(int(a[1]))
+      linesJP[0] = linesJP[0] + linesJP.pop(1)
   for j in range(len(linesEN)):
     #this is to stop !'s in expressions getting mixed up
     count = 0
@@ -87,7 +82,7 @@ for i in site.split("\n"):
     i = i.replace("Cool Jeweler", "クールな宝石職人")
     i = i.replace("Cool Wife", "クールな妻")
     i = i.replace("Daydreaming One", "空想さん")
-    i = i.replace("Diary", "TODO")
+    i = i.replace("Diary", "日記")
     i = i.replace("Drawing Kid", "絵を描く子ども")
     i = i.replace("Drawing kid", "絵を描く子ども")
     i = i.replace("Fishing One", "釣り人さん")
@@ -107,7 +102,7 @@ for i in site.split("\n"):
     i = i.replace("Running One", "爆走さん")
     i = i.replace("SOMETHING", "得体の知れないもの")
     i = i.replace("Sad Diary", "悲しい日記")
-    i = i.replace("Sheep", "TODO")
+    i = i.replace("Sheep", "羊") #Doesn't actually have a title in game.
     i = i.replace("Short-Haired Housemaiden", "ショートカットの侍祭")
     i = i.replace("Shy Stranger", "恥ずかしがり屋さん")
     i = i.replace("Sky-Loving Kid", "空好きの子ども")

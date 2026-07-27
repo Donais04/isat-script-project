@@ -84,6 +84,20 @@
         "checked": true
     },
     {
+        "en_raw": "(You try not to make a face, and fail.)",
+        "en_clean": "(You try not to make a face, and fail.)",
+        "jp_raw": "(表情に出ないようにしたかったけれど、無理だった。)",
+        "jp_clean": "(表情に出ないようにしたかったけれど、無理だった。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You don't react.)",
+        "en_clean": "(You don't react.)",
+        "jp_raw": "(反応するのはやめた。)",
+        "jp_clean": "(反応するのはやめた。)",
+        "checked": true
+    },
+    {
         "en_raw": "Can noses look like that?",
         "en_clean": "Can noses look like that?",
         "jp_raw": "あんな形の鼻なんかある？",
@@ -102,6 +116,20 @@
         "en_clean": "I can't tell if they're supposed to be smiling or frowning...",
         "jp_raw": "笑った顔なのか、しかめっ面なのか、分からないな。",
         "jp_clean": "笑った顔なのか、しかめっ面なのか、分からないな。",
+        "checked": true
+    },
+    {
+        "en_raw": "Mira, Mira, help us roast this statue's terribly made face.",
+        "en_clean": "Mira, Mira, help us roast this statue's terribly made face.",
+        "jp_raw": "ミラ、ミラ、きみもこのひどい顔の作りについて、何か言ってやれよ。",
+        "jp_clean": "ミラ、ミラ、きみもこのひどい顔の作りについて、何か言ってやれよ。",
+        "checked": true
+    },
+    {
+        "en_raw": "Sif, Mira, help us roast this statue's terribly made face.",
+        "en_clean": "Sif, Mira, help us roast this statue's terribly made face.",
+        "jp_raw": "シフ、ミラ、きみもこのひどい顔の作りについて、何か言ってやれよ。",
+        "jp_clean": "シフ、ミラ、きみもこのひどい顔の作りについて、何か言ってやれよ。",
         "checked": true
     },
     {
@@ -179,6 +207,20 @@
         "en_clean": "...I'll get my revenge against you all someday.",
         "jp_raw": "...いつかみんなに仕返ししてやるから。",
         "jp_clean": "...いつかみんなに仕返ししてやるから。",
+        "checked": true
+    },
+    {
+        "en_raw": "(You all shudder.)",
+        "en_clean": "(You all shudder.)",
+        "jp_raw": "(みんなで恐怖に震える。)",
+        "jp_clean": "(みんなで恐怖に震える。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Everyone shudders.)",
+        "en_clean": "(Everyone shudders.)",
+        "jp_raw": "(全員が恐怖に震える。)",
+        "jp_clean": "(全員が恐怖に震える。)",
         "checked": true
     },
     {
@@ -312,6 +354,27 @@
         "en_clean": "Siffrin? Are you curious about the Change God's statues, perhaps...?",
         "jp_raw": "シフラン？ ウツロイ様の像に興味があるの...？",
         "jp_clean": "シフラン？ ウツロイ様の像に興味があるの...？",
+        "checked": true
+    },
+    {
+        "en_raw": "(Oh, um...)",
+        "en_clean": "(Oh, um...)",
+        "jp_raw": "(ええと...)",
+        "jp_clean": "(ええと...)",
+        "checked": true
+    },
+    {
+        "en_raw": "\"I'm just wondering why they're broken.\"",
+        "en_clean": "\"I'm just wondering why they're broken.\"",
+        "jp_raw": "\"どうして壊れているのかと思って。\"",
+        "jp_clean": "\"どうして壊れているのかと思って。\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"No, not really.\"",
+        "en_clean": "\"No, not really.\"",
+        "jp_raw": "\"興味はないよ。\"",
+        "jp_clean": "\"興味はないよ。\"",
         "checked": true
     },
     {
@@ -560,6 +623,27 @@
         "checked": true
     },
     {
+        "en_raw": "Ah... Okay...",
+        "en_clean": "Ah... Okay...",
+        "jp_raw": "あ... そっか...",
+        "jp_clean": "あ... そっか...",
+        "checked": true
+    },
+    {
+        "en_raw": "(Was it because you looked at the statues too often...?)",
+        "en_clean": "(Was it because you looked at the statues too often...?)",
+        "jp_raw": "(像を何度も見たから...？)",
+        "jp_clean": "(像を何度も見たから...？)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You looked at the statues too often again.)",
+        "en_clean": "(You looked at the statues too often again.)",
+        "jp_raw": "(また像を何度も見ている。)",
+        "jp_clean": "(また像を何度も見ている。)",
+        "checked": true
+    },
+    {
         "en_raw": "\"Mirabelle's statue...\"",
         "en_clean": "\"Mirabelle's statue...\"",
         "jp_raw": "\"ミラベルの像って...\"",
@@ -616,6 +700,20 @@
         "checked": true
     },
     {
+        "en_raw": "(You try not to make a face, and fail.)",
+        "en_clean": "(You try not to make a face, and fail.)",
+        "jp_raw": "(表情に出ないようにしたかったけれど、無理だった。)",
+        "jp_clean": "(表情に出ないようにしたかったけれど、無理だった。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(You don't react.)",
+        "en_clean": "(You don't react.)",
+        "jp_raw": "(反応するのはやめた。)",
+        "jp_clean": "(反応するのはやめた。)",
+        "checked": true
+    },
+    {
         "en_raw": "Can noses look like that?",
         "en_clean": "Can noses look like that?",
         "jp_raw": "あんな形の鼻なんかある？",
@@ -634,6 +732,20 @@
         "en_clean": "I can't tell if they're supposed to be smiling or frowning...",
         "jp_raw": "笑った顔なのか、しかめっ面なのか、分からないな。",
         "jp_clean": "笑った顔なのか、しかめっ面なのか、分からないな。",
+        "checked": true
+    },
+    {
+        "en_raw": "Mira, Mira, help us roast this statue's terribly made face.",
+        "en_clean": "Mira, Mira, help us roast this statue's terribly made face.",
+        "jp_raw": "ミラ、ミラ、きみもこのひどい顔の作りについて、何か言ってやれよ。",
+        "jp_clean": "ミラ、ミラ、きみもこのひどい顔の作りについて、何か言ってやれよ。",
+        "checked": true
+    },
+    {
+        "en_raw": "Sif, Mira, help us roast this statue's terribly made face.",
+        "en_clean": "Sif, Mira, help us roast this statue's terribly made face.",
+        "jp_raw": "シフ、ミラ、きみもこのひどい顔の作りについて、何か言ってやれよ。",
+        "jp_clean": "シフ、ミラ、きみもこのひどい顔の作りについて、何か言ってやれよ。",
         "checked": true
     },
     {
@@ -704,6 +816,20 @@
         "en_clean": "...I'll get my revenge against you all someday.",
         "jp_raw": "...いつかみんなに仕返ししてやるから。",
         "jp_clean": "...いつかみんなに仕返ししてやるから。",
+        "checked": true
+    },
+    {
+        "en_raw": "(You all shudder.)",
+        "en_clean": "(You all shudder.)",
+        "jp_raw": "(みんなで恐怖に震える。)",
+        "jp_clean": "(みんなで恐怖に震える。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Everyone shudders.)",
+        "en_clean": "(Everyone shudders.)",
+        "jp_raw": "(全員が恐怖に震える。)",
+        "jp_clean": "(全員が恐怖に震える。)",
         "checked": true
     },
     {
@@ -868,7 +994,7 @@
         "checked": true
     },
     {
-        "en_raw": "<span class=\"shake\">\n THE CHANGE GOD.\n</span>\n＠＾▽＾＠",
+        "en_raw": "<span class=\"shake\">THE CHANGE GOD.</span> ＠＾▽＾＠",
         "en_clean": "THE CHANGE GOD.＠＾▽＾＠",
         "jp_raw": "<span class=\"shake\">ウツロイの神なり。 </span>＠＾▽＾＠",
         "jp_clean": "ウツロイの神なり。 ＠＾▽＾＠",
@@ -1001,8 +1127,8 @@
         "checked": true
     },
     {
-        "en_raw": "but yes that was me ヽ(&gt;∀&lt;)ノ",
-        "en_clean": "but yes that was me ヽ(&gt;∀&lt;)ノ",
+        "en_raw": "but yes that was me ヽ(>∀&lt;)ノ",
+        "en_clean": "but yes that was me ヽ(>∀&lt;)ノ",
         "jp_raw": "でも、そのとおり。あれはわたしだ ヽ(>∀<)ノ",
         "jp_clean": "でも、そのとおり。あれはわたしだ ヽ(>∀<)ノ",
         "checked": true
@@ -1134,8 +1260,8 @@
         "checked": true
     },
     {
-        "en_raw": "and even if you were, that would be fine, because life is about changes  but it's also about staying right where you are, sometimes.",
-        "en_clean": "and even if you were, that would be fine, because life is about changes  but it's also about staying right where you are, sometimes.",
+        "en_raw": "and even if you were, that would be fine, because life is about changes&emsp; but it's also about staying right where you are, sometimes.",
+        "en_clean": "and even if you were, that would be fine, because life is about changes&emsp; but it's also about staying right where you are, sometimes.",
         "jp_raw": "それに、あゆみをとめたって いいんだ。じんせいは へんかするものであり、ときに うごかないものだから。",
         "jp_clean": "それに、あゆみをとめたって いいんだ。じんせいは へんかするものであり、ときに うごかないものだから。",
         "checked": true
@@ -1197,8 +1323,8 @@
         "checked": true
     },
     {
-        "en_raw": "hihihihihihi aw (⁄ ⁄&gt;⁄ ▽ ⁄&lt;⁄ ⁄)",
-        "en_clean": "hihihihihihi aw (⁄ ⁄&gt;⁄ ▽ ⁄&lt;⁄ ⁄)",
+        "en_raw": "hihihihihihi aw (⁄ ⁄>⁄ ▽ ⁄&lt;⁄ ⁄)",
+        "en_clean": "hihihihihihi aw (⁄ ⁄>⁄ ▽ ⁄&lt;⁄ ⁄)",
         "jp_raw": "へへへへへっ (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)",
         "jp_clean": "へへへへへっ (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)",
         "checked": true
@@ -1358,7 +1484,7 @@
         "checked": true
     },
     {
-        "en_raw": "this was all for mirabelle's sake, you understand. her\n<span class=\"wave\">\n sidequest~\n</span>\n.",
+        "en_raw": "this was all for mirabelle's sake, you understand. her <span class=\"wave\">sidequest~</span>.",
         "en_clean": "this was all for mirabelle's sake, you understand. her sidequest~.",
         "jp_raw": "ミラベルのために このばをもうけたんだ、わかるよね。ミラベルの<span class=\"wave\">～サイドクエスト～</span>のため。",
         "jp_clean": "ミラベルのために このばをもうけたんだ、わかるよね。ミラベルの～サイドクエスト～のため。",
@@ -1407,7 +1533,7 @@
         "checked": true
     },
     {
-        "en_raw": "ill say them thru the face of your little sponsor buddy too, for the\n<span class=\"wave\">\n effect\n</span>\nhihihihi",
+        "en_raw": "ill say them thru the face of your little sponsor buddy too, for the <span class=\"wave\">effect</span> hihihihi",
         "en_clean": "ill say them thru the face of your little sponsor buddy too, for the effect hihihihi",
         "jp_raw": "きみのスポンサーくんをとおして いわせてもらうよ。そのほうが<span class=\"wave\">こうかてき</span>だからね。ふふふ",
         "jp_clean": "きみのスポンサーくんをとおして いわせてもらうよ。そのほうがこうかてきだからね。ふふふ",
@@ -1568,8 +1694,8 @@
         "checked": true
     },
     {
-        "en_raw": "HOW WILL\n<span class=\"shake\">\n YOU\n</span>\nCHANGE?",
-        "en_clean": "HOW WILLYOUCHANGE?",
+        "en_raw": "HOW WILL <span class=\"shake\">YOU</span> CHANGE?",
+        "en_clean": "HOW WILL YOU CHANGE?",
         "jp_raw": "<span class=\"shake\">汝は</span>どのように変化する？",
         "jp_clean": "汝はどのように変化する？",
         "checked": true

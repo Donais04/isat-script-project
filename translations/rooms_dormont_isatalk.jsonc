@@ -6,25 +6,39 @@
         "jp_clean": "(イザボーだ。願いの木に頼むことをじっくり考えているんだろう。)",
         "checked": true
     },
-    {//TODO choicer "\"イザ！\"" "\"やあ、イザ...\" " "\"イザ。\" " "(何も言わない。)" "\"やあ、イザ。願いの木に頼みたいことがあってね！\""
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
+    { 
+        "en_raw": "\"Isa!\"",
+        "en_clean": "\"Isa!\"",
+        "jp_raw": "\"イザ！\"",
+        "jp_clean": "\"イザ！\"",
         "checked": true
     },
     {
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
+        "en_raw": "\"Hey, uh, Isa...\"",
+        "en_clean": "\"Hey, uh, Isa...\"",
+        "jp_raw": "\"やあ、イザ...\"",
+        "jp_clean": "\"やあ、イザ...\"",
         "checked": true
     },
     {
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
+        "en_raw": "\"Isa.\"",
+        "en_clean": "\"Isa.\"",
+        "jp_raw": "\"イザ。\"",
+        "jp_clean": "\"イザ。\"",
+        "checked": true
+    },
+    {
+        "en_raw": "(Stay silent.)",
+        "en_clean": "(Stay silent.)",
+        "jp_raw": "(何も言わない。)",
+        "jp_clean": "(何も言わない。)",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Hi Isa, I need to do the Favor Tree thing!\"",
+        "en_clean": "\"Hi Isa, I need to do the Favor Tree thing!\"",
+        "jp_raw": "\"やあ、イザ。願いの木に頼みたいことがあってね！\"",
+        "jp_clean": "\"やあ、イザ。願いの木に頼みたいことがあってね！\"",
         "checked": true
     },
     {
@@ -34,18 +48,11 @@
         "jp_clean":  "シフ！",
         "checked": true
     },
-    {//TODO eng mis
-        "en_raw": "",
-        "en_clean": "",
+    {
+        "en_raw": "\"Isa!!!\"",
+        "en_clean": "\"Isa!!!\"",
         "jp_raw": "\"イザ！！！\"",
         "jp_clean": "\"イザ！！！\"",
-        "checked": true
-    },
-    {
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
         "checked": true
     },
     {
@@ -55,18 +62,18 @@
         "jp_clean": "シフ！！！",
         "checked": true
     },
-    {//TODO choicer "\"イザァァァァァ！！！！！！\"" "\"いや、もう十分だ。\""
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
+    {
+        "en_raw": "\"Isaaaaaaa!!!!!!!\"",
+        "en_clean": "\"Isaaaaaaa!!!!!!!\"",
+        "jp_raw": "\"イザァァァァァ！！！！！！\"",
+        "jp_clean": "\"イザァァァァァ！！！！！！\"",
         "checked": true
     },
     {
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
+        "en_raw": "\"Okay that's enough.\"",
+        "en_clean": "\"Okay that's enough.\"",
+        "jp_raw": "\"いや、もう十分だ。\"",
+        "jp_clean": "\"いや、もう十分だ。\"",
         "checked": true
     },
     {
@@ -175,24 +182,31 @@
         "checked": true
     },
     {
+        "en_raw": "\"Yeah it is...\"",
+        "en_clean": "\"Yeah it is...\"",
+        "jp_raw": "\"ああ、そうだね...\"",
+        "jp_clean": "\"ああ、そうだね...\"",
+        "checked": true
+    },
+    {
         "en_raw": "Glad you agree!",
         "en_clean": "Glad you agree!",
         "jp_raw": "同じ気持ちでうれしいぜ！",
         "jp_clean": "同じ気持ちでうれしいぜ！",
         "checked": true
     },
-    {//TODO choicer この本はかなり... (ここでやめておこう。)
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
+    {
+        "en_raw": "\"One could say it's a pretty...\"",
+        "en_clean": "\"One could say it's a pretty...\"",
+        "jp_raw": "\"この本はかなり...\"",
+        "jp_clean": "\"この本はかなり...\"",
         "checked": true
     },
     {
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
+        "en_raw": "(Stop here.)",
+        "en_clean": "(Stop here.)",
+        "jp_raw": "(ここでやめておこう。)",
+        "jp_clean": "(ここでやめておこう。)",
         "checked": true
     },
     {
@@ -216,18 +230,11 @@
         "jp_clean": "(ルーティンを守れば、正気を保てる。ジョークを言うなら、毎回そうしないと。)",
         "checked": true
     },
-    {//TODO eng missing response
-        "en_raw": "",
-        "en_clean": "",
+    {
+        "en_raw": "\"...TREE-mendous tree.\"",
+        "en_clean": "\"...TREE-mendous tree.\"",
         "jp_raw": "\"...キになるね\"",
         "jp_clean": "\"...キになるね\"",
-        "checked": true
-    },
-    {
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
         "checked": true
     },
     {
@@ -308,9 +315,9 @@
         "checked": true
     },
     {
-        "en_raw": "(This is him   trying to touch you.)",
+        "en_raw": "(This is him&nbsp;&nbsp; trying to touch you.)",
         "en_clean": "(This is him   trying to touch you.)",
-        "jp_raw": "(イザボーは僕に触れようとしていたんだ。)",
+        "jp_raw": "(イザボーは&nbsp;&nbsp;僕に触れようとしていたんだ。)",
         "jp_clean": "(イザボーは僕に触れようとしていたんだ。)",
         "checked": true
     },
@@ -336,9 +343,9 @@
         "checked": true
     },
     {
-        "en_raw": "(His hand   abruptly stops above your shoulder, and goes back to his side.)",
+        "en_raw": "(His hand&nbsp;&nbsp; abruptly stops above your shoulder, and goes back to his side.)",
         "en_clean": "(His hand   abruptly stops above your shoulder, and goes back to his side.)",
-        "jp_raw": "(その手は僕の肩の真上で突然止まった。腕が引っ込められ、手が離れていく。)",
+        "jp_raw": "(その手は&nbsp;&nbsp;僕の肩の真上で突然止まった。腕が引っ込められ、手が離れていく。)",
         "jp_clean": "(その手は僕の肩の真上で突然止まった。腕が引っ込められ、手が離れていく。)",
         "checked": true
     },
@@ -378,9 +385,9 @@
         "checked": true
     },
     {
-        "en_raw": "(His hand   abruptly stops above your shoulder, and goes back to his side.)",
+        "en_raw": "(His hand&nbsp;&nbsp; abruptly stops above your shoulder, and goes back to his side.)",
         "en_clean": "(His hand   abruptly stops above your shoulder, and goes back to his side.)",
-        "jp_raw": "(その手は僕の肩の真上で突然止まった。腕が引っ込められ、手が離れていく。)",
+        "jp_raw": "(その手は&nbsp;&nbsp;僕の肩の真上で突然止まった。腕が引っ込められ、手が離れていく。)",
         "jp_clean": "(その手は僕の肩の真上で突然止まった。腕が引っ込められ、手が離れていく。)",
         "checked": true
     },
@@ -434,9 +441,9 @@
         "checked": true
     },
     {
-        "en_raw": "(He has to do it.   You will never do it yourself.)",
+        "en_raw": "(He has to do it.&nbsp;&nbsp; You will never do it yourself.)",
         "en_clean": "(He has to do it.   You will never do it yourself.)",
-        "jp_raw": "(イザボーがしてくれなきゃ。僕から触れることは、絶対にないから。)",
+        "jp_raw": "(イザボーがしてくれなきゃ。&nbsp;&nbsp;僕から触れることは、絶対にないから。)",
         "jp_clean": "(イザボーがしてくれなきゃ。僕から触れることは、絶対にないから。)",
         "checked": true
     },
@@ -455,9 +462,9 @@
         "checked": true
     },
     {
-        "en_raw": "(That's life-ending, even.   Asking for someone's touch.)",
+        "en_raw": "(That's life-ending, even.&nbsp;&nbsp; Asking for someone's touch.)",
         "en_clean": "(That's life-ending, even.   Asking for someone's touch.)",
-        "jp_raw": "(僕の人生の終わりに等しい。触れてほしいと願うなんて。)",
+        "jp_raw": "(僕の人生の終わりに等しい。&nbsp;&nbsp;触れてほしいと願うなんて。)",
         "jp_clean": "(僕の人生の終わりに等しい。触れてほしいと願うなんて。)",
         "checked": true
     },
@@ -476,16 +483,16 @@
         "checked": true
     },
     {
-        "en_raw": "(He looks   stricken. Sad.)",
+        "en_raw": "(He looks&nbsp;&nbsp; stricken. Sad.)",
         "en_clean": "(He looks   stricken. Sad.)",
-        "jp_raw": "(イザボーは打ちひしがれた顔をしている。悲しそうだ。)",
+        "jp_raw": "(イザボーは&nbsp;&nbsp;打ちひしがれた顔をしている。悲しそうだ。)",
         "jp_clean": "(イザボーは打ちひしがれた顔をしている。悲しそうだ。)",
         "checked": true
     },
     {
-        "en_raw": "(Seeing you look at him, he laughs   and brings his hand down.)",
+        "en_raw": "(Seeing you look at him, he laughs&nbsp;&nbsp; and brings his hand down.)",
         "en_clean": "(Seeing you look at him, he laughs   and brings his hand down.)",
-        "jp_raw": "(僕が見ているのに気づいて、イザボーは笑い、手を下ろした。)",
+        "jp_raw": "(僕が見ているのに気づいて、イザボーは笑い、&nbsp;&nbsp;手を下ろした。)",
         "jp_clean": "(僕が見ているのに気づいて、イザボーは笑い、手を下ろした。)",
         "checked": true
     },
@@ -553,6 +560,13 @@
         "checked": true
     },
     {
+        "en_raw": "(Keep waiting.)",
+        "en_clean": "(Keep waiting.)",
+        "jp_raw": "(待ち続けている。)",
+        "jp_clean": "(待ち続けている。)",
+        "checked": true
+    },
+    {
         "en_raw": "(His hand stops above your shoulder.)",
         "en_clean": "(His hand stops above your shoulder.)",
         "jp_raw": "(イザボーの手が肩の真上で止まる。)",
@@ -574,16 +588,16 @@
         "checked": true
     },
     {
-        "en_raw": "(Suddenly  you realize a very basic thing.)",
+        "en_raw": "(Suddenly&nbsp; you realize a very basic thing.)",
         "en_clean": "(Suddenly  you realize a very basic thing.)",
-        "jp_raw": "(突然、当たり前のことに気づいた。)",
+        "jp_raw": "(突然、&nbsp;当たり前のことに気づいた。)",
         "jp_clean": "(突然、当たり前のことに気づいた。)",
         "checked": true
     },
     {
-        "en_raw": "(He will never touch you.   He will never say it to you.   You will be stuck here forever.)",
+        "en_raw": "(He will never touch you.&nbsp;&nbsp; He will never say it to you.&nbsp;&nbsp; You will be stuck here forever.)",
         "en_clean": "(He will never touch you.   He will never say it to you.   You will be stuck here forever.)",
-        "jp_raw": "(イザボーが僕に触れることはない。僕に言うこともない。ずっとこのままなんだ。)",
+        "jp_raw": "(イザボーが僕に触れることはない。&nbsp;&nbsp;僕に言うこともない。&nbsp;&nbsp;ずっとこのままなんだ。)",
         "jp_clean": "(イザボーが僕に触れることはない。僕に言うこともない。ずっとこのままなんだ。)",
         "checked": true
     },
@@ -595,9 +609,9 @@
         "checked": true
     },
     {
-        "en_raw": "(Unless   you're the one who breaks the cycle.)",
+        "en_raw": "(Unless&nbsp;&nbsp; you're the one who breaks the cycle.)",
         "en_clean": "(Unless   you're the one who breaks the cycle.)",
-        "jp_raw": "(ただし、僕がサイクルを壊せば、話は変わる。)",
+        "jp_raw": "(ただし、&nbsp;&nbsp;僕がサイクルを壊せば、話は変わる。)",
         "jp_clean": "(ただし、僕がサイクルを壊せば、話は変わる。)",
         "checked": true
     },
@@ -630,9 +644,9 @@
         "checked": true
     },
     {
-        "en_raw": "(He  pushed you away.)",
+        "en_raw": "(He&nbsp; pushed you away.)",
         "en_clean": "(He  pushed you away.)",
-        "jp_raw": "(イザボーは僕を突き放した。)",
+        "jp_raw": "(イザボー&nbsp;は僕を突き放した。)",
         "jp_clean": "(イザボーは僕を突き放した。)",
         "checked": true
     },
@@ -711,6 +725,20 @@
         "en_clean": "(...What.)",
         "jp_raw": "(...なんだって。)",
         "jp_clean": "(...なんだって。)",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Sure.\"",
+        "en_clean": "\"Sure.\"",
+        "jp_raw": "\"了解。\"",
+        "jp_clean": "\"了解。\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Did you say that last time...?\"",
+        "en_clean": "\"Did you say that last time...?\"",
+        "jp_raw": "\"前回もそう言った...？\"",
+        "jp_clean": "\"前回もそう言った...？\"",
         "checked": true
     },
     {
@@ -860,21 +888,11 @@
         "jp_clean": "どうした？",
         "checked": true
     },
-    {/*TODO can't find, this and next line responses
-    "\"Clocktower, sleepover!!!\"" "\"時計台で、お泊り会！\""
-    "\"What's up with the big tree?\"" "\"あの木はなんなんだ？\""
-    "\"What will you do after?\"" "\"終わったら何をしたい？\"" 
-    "\"Anything weird happen lately?\"" "\"最近ヘンなこととかあった？\""
-    "\"Do you need help with anything?\"" "\"何か手伝うことはない？\""
-    "\"What's up with the hand thing?\" " "\"あの手はなんだったんだ？\""
-    "\"Flower for you.\"" "\"お花をどうぞ。\" "
-    "(Stay silent.)" "(何も言わない。)"
-    "\"Nope!\"　"\"なんでもない！\""
-    */
+    {
         "en_raw": "(Questions for Isa...)",
         "en_clean": "(Questions for Isa...)",
-        "jp_raw": null,
-        "jp_clean": null,
+        "jp_raw": "(イザに聞きたいこと...)",
+        "jp_clean": "(イザに聞きたいこと...)",
         "checked": true
     },
     {
@@ -882,6 +900,69 @@
         "en_clean": "(...)",
         "jp_raw": "(...)",
         "jp_clean": "(...)",
+        "checked": true
+    },
+    {
+        "en_raw": "Clocktower, sleepover?",
+        "en_clean": "Clocktower, sleepover?",
+        "jp_raw": "時計台で、お泊り会。",
+        "jp_clean": "時計台で、お泊り会。",
+        "checked": true
+    },
+    {
+        "en_raw": "What's up with the big tree?",
+        "en_clean": "What's up with the big tree?",
+        "jp_raw": "あの木はなんなんだ？",
+        "jp_clean": "あの木はなんなんだ？",
+        "checked": true
+    },
+    {
+        "en_raw": "What will you do after?",
+        "en_clean": "What will you do after?",
+        "jp_raw": "終わったら何をしたい？" ,
+        "jp_clean": "終わったら何をしたい？" ,
+        "checked": true
+    },
+    {
+        "en_raw": "Anything weird happen lately?",
+        "en_clean": "Anything weird happen lately?",
+        "jp_raw": "最近ヘンなこととかあった？",
+        "jp_clean": "最近ヘンなこととかあった？",
+        "checked": true
+    },
+    {
+        "en_raw": "Can I help you with anything?",
+        "en_clean": "Can I help you with anything?",
+        "jp_raw": "何か手伝うことはない？",
+        "jp_clean": "何か手伝うことはない？",
+        "checked": true
+    },
+    {
+        "en_raw": "What's up with the hand thing?",
+        "en_clean": "What's up with the hand thing?",
+        "jp_raw": "あの手はなんだったんだ？",
+        "jp_clean": "あの手はなんだったんだ？",
+        "checked": true
+    },
+    {
+        "en_raw": "Flower for you.",
+        "en_clean": "Flower for you.",
+        "jp_raw": "お花をどうぞ。",
+        "jp_clean": "お花をどうぞ。",
+        "checked": true
+    },
+    {
+        "en_raw": "(Stay silent.)",
+        "en_clean": "(Stay silent.)",
+        "jp_raw": "(何も言わない。)",
+        "jp_clean": "(何も言わない。)",
+        "checked": true
+    },
+    {
+        "en_raw": "Nope.",
+        "en_clean": "Nope.",
+        "jp_raw": "違うよ。",
+        "jp_clean": "違うよ。",
         "checked": true
     },
     {
@@ -905,25 +986,18 @@
         "jp_clean": "また俺たち2人で一緒に寝るんだな、シフ！ 俺は左側を使うぜ！",
         "checked": true
     },
-    {//TODO choicer this and next two \"いいよ！\" "\"僕はミラと寝るつもりだ。\""
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
+    {
+        "en_raw": "\"Sure!\"",
+        "en_clean": "\"Sure!\"",
+        "jp_raw": "\"いいよ！\"",
+        "jp_clean": "\"いいよ！\"",
         "checked": true
     },
     {
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
-        "checked": true
-    },
-    {
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
+        "en_raw": "\"I'm actually sharing with Mira.\"",
+        "en_clean": "\"I'm actually sharing with Mira.\"",
+        "jp_raw": "\"僕はミラと寝るつもりだ。\"",
+        "jp_clean": "\"僕はミラと寝るつもりだ。\"",
         "checked": true
     },
     {
@@ -1031,9 +1105,9 @@
         "jp_clean": "あれは、よくある大きな木だ。でも、ウツロイの館を信仰する者にとっては、特定の場所にある大きな木は、願いの木なんだ！",
         "checked": true
     },
-    {//TODO remove quotation mark in eng
-        "en_raw": "\"It's like, it’s the tree with the most power, so you can ask it things? As a favor?",
-        "en_clean": "\"It's like, it’s the tree with the most power, so you can ask it things? As a favor?",
+    {
+        "en_raw": "It's like, it’s the tree with the most power, so you can ask it things? As a favor?",
+        "en_clean": "It's like, it’s the tree with the most power, so you can ask it things? As a favor?",
         "jp_raw": "力の宿った木で、願いごとをすることができる。頼みごとの方が近いかな？",
         "jp_clean": "力の宿った木で、願いごとをすることができる。頼みごとの方が近いかな？",
         "checked": true
@@ -1071,6 +1145,13 @@
         "en_clean": "(You know your lines.)",
         "jp_raw": "(セリフは分かってるだろ。)",
         "jp_clean": "(セリフは分かってるだろ。)",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Did you ask a mythical tree to help you pass your exams?\"",
+        "en_clean": "\"Did you ask a mythical tree to help you pass your exams?\"",
+        "jp_raw": "\"伝説の木に、試験に合格できるよう頼んだの？\"",
+        "jp_clean": "\"伝説の木に、試験に合格できるよう頼んだの？\"",
         "checked": true
     },
     {
@@ -1263,10 +1344,17 @@
         "checked": true
     },
     {
-        "en_raw": "(What will you do...?)\n                        \"Start a comedy club.\"",
-        "en_clean": "(What will you do...?)                       \"Start a comedy club.\"",
-        "jp_raw": "(僕は何をする...？) \"コメディバーを始めるよ。\"",
-        "jp_clean": "(僕は何をする...？) \"コメディバーを始めるよ。\"",
+        "en_raw": "(What will you do...?)",
+        "en_clean": "(What will you do...?)",
+        "jp_raw": "(僕は何をする...？)",
+        "jp_clean": "(僕は何をする...？)",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Start a comedy club.\"",
+        "en_clean": "\"Start a comedy club.\"",
+        "jp_raw": "\"コメディバーを始めるよ。\"",
+        "jp_clean": "\"コメディバーを始めるよ。\"",
         "checked": true
     },
     {
@@ -1276,11 +1364,18 @@
         "jp_clean": "おい、ホントか？ マジで言ってる？",
         "checked": true
     },
-    {//TODO choicer  "\"本気だよ。\"" "\"いいや。\""
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
+    {  
+        "en_raw": "\"Yes absolutely.\"",
+        "en_clean": "\"Yes absolutely.\"",
+        "jp_raw": "\"本気だよ。\"",
+        "jp_clean": "\"本気だよ。\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Nah.\"",
+        "en_clean": "\"Nah.\"",
+        "jp_raw": "\"いいや。\"",
+        "jp_clean": "\"いいや。\"",
         "checked": true
     },
     {
@@ -1333,10 +1428,17 @@
         "checked": true
     },
     {
-        "en_raw": "(Oh!)\n                                \"I know what's wrong with it.\"",
-        "en_clean": "(Oh!)                               \"I know what's wrong with it.\"",
-        "jp_raw": "(ああ！) \"原因は分かってる。\"",
-        "jp_clean": "(ああ！) \"原因は分かってる。\"",
+        "en_raw": "(Oh!)",
+        "en_clean": "(Oh!)",
+        "jp_raw": "(ああ！)",
+        "jp_clean": "(ああ！)",
+        "checked": true
+    },
+    {
+        "en_raw": "\"I know what's wrong with it.\"",
+        "en_clean": "\"I know what's wrong with it.\"",
+        "jp_raw": "\"原因は分かってる。\"",
+        "jp_clean": "\"原因は分かってる。\"",
         "checked": true
     },
     {
@@ -1591,18 +1693,11 @@
         "jp_clean": "(それじゃ、改めて。)",
         "checked": true
     },
-    {//TODO eng missing
-        "en_raw": "",
-        "en_clean": "",
+    {
+        "en_raw": "\"So, do you need help with anything?\"",
+        "en_clean": "\"So, do you need help with anything?\"",
         "jp_raw": "\"じゃあ、何か手伝うことはある？\"",
         "jp_clean": "\"じゃあ、何か手伝うことはある？\"",
-        "checked": true
-    },
-    {
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
         "checked": true
     },
     {
@@ -1626,18 +1721,11 @@
         "jp_clean": "今日は、それで走り回ってたのか？ みんなの用事を手伝って？ 知らなかったよ！",
         "checked": true
     },
-    {//TODO eng missing
-        "en_raw": "",
-        "en_clean": "",
+    {
+        "en_raw": "\"I kept the best one for last.\"",
+        "en_clean": "\"I kept the best one for last.\"",
         "jp_raw": "\"一番いいのは、最後にしたんだ。\"",
         "jp_clean": "\"一番いいのは、最後にしたんだ。\"",
-        "checked": true
-    },
-    {
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
         "checked": true
     },
     {
@@ -1717,18 +1805,18 @@
         "jp_clean": "必要なことはもう済んでるか...？",
         "checked": true
     },
-    {//TODO choicer "\"I have time now!\"" "\"今なら行けるよ！\"" "\"Maybe in a second...\"" "\"じゃあもうちょっと後で...\""
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
+    { 
+        "en_raw": "\"I'm ready now!\"",
+        "en_clean": "\"I'm ready now!\"",
+        "jp_raw": "\"準備はできてる！\"",
+        "jp_clean": "\"準備はできてる！\"",
         "checked": true
     },
     {
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
+        "en_raw": "<summary>\"Give me a second...\"",
+        "en_clean": "\"Give me a second...\"",
+        "jp_raw": "<summary>\"少し待ってて...\"",
+        "jp_clean": "\"少し待ってて...\"",
         "checked": true
     },
     {
@@ -1778,6 +1866,20 @@
         "en_clean": "(Zone out?)",
         "jp_raw": "(ぼんやりする？)",
         "jp_clean": "(ぼんやりする？)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Yes.)",
+        "en_clean": "(Yes.)",
+        "jp_raw": "(そうする。)",
+        "jp_clean": "(そうする。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(No.)",
+        "en_clean": "(No.)",
+        "jp_raw": "(やめておく。)",
+        "jp_clean": "(やめておく。)",
         "checked": true
     },
     {
@@ -1893,24 +1995,17 @@
         "checked": true
     },
     {
-        "en_raw": "(You  don't want to think about this anymore.)",
+        "en_raw": "(You&emsp; don't want to think about this anymore.)",
         "en_clean": "(You  don't want to think about this anymore.)",
-        "jp_raw": "(僕は、このことについてはもう何も考えたくない。)",
+        "jp_raw": "(僕は、&emsp;このことについてはもう何も考えたくない。)",
         "jp_clean": "(僕は、このことについてはもう何も考えたくない。)",
         "checked": true
     },
-    {//TODO eng missing
-        "en_raw": "",
-        "en_clean": "",
+    {
+        "en_raw": "\"Anyway...\"",
+        "en_clean": "\"Anyway...\"",
         "jp_raw": "\"とにかく...\"",
         "jp_clean": "\"とにかく...\"",
-        "checked": true
-    },
-    {
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
         "checked": true
     },
     {
@@ -1990,18 +2085,11 @@
         "jp_clean": "うーん... ウケるジョークは...",
         "checked": true
     },
-    {//TODO eng missing 
-        "en_raw": "",
-        "en_clean": "",
+    {
+        "en_raw": "\"What for?\"",
+        "en_clean": "\"What for?\"",
         "jp_raw": "\"ジョークが必要？\"",
         "jp_clean": "\"ジョークが必要？\"",
-        "checked": true
-    },
-    {
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
         "checked": true
     },
     {
@@ -2018,18 +2106,11 @@
         "jp_clean": "いつも、ダジャレで俺を笑わせてくれるだろ。だから、今回は俺の番だ！",
         "checked": true
     },
-    {//TODO eng missing
-        "en_raw": "",
-        "en_clean": "",
+    {
+        "en_raw": "\"But why?\"",
+        "en_clean": "\"But why?\"",
         "jp_raw": "\"でも、どうして？\"",
         "jp_clean": "\"でも、どうして？\"",
-        "checked": true
-    },
-    {
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
         "checked": true
     },
     {
@@ -2088,18 +2169,11 @@
         "jp_clean": "1日の中で、一番いい時間っていつだと思う？",
         "checked": true
     },
-    {//TODO eng missing
-        "en_raw": "",
-        "en_clean": "",
+    {
+        "en_raw": "\"...The time?\"",
+        "en_clean": "\"...The time?\"",
         "jp_raw": "\"...一番いい時間？\"",
         "jp_clean": "\"...一番いい時間？\"",
-        "checked": true
-    },
-    {
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
         "checked": true
     },
     {
@@ -2109,18 +2183,11 @@
         "jp_clean": "そうだ。",
         "checked": true
     },
-    {//TODO eng missing
-        "en_raw": "",
-        "en_clean": "",
+    {
+        "en_raw": "\"I dunno, what?\"",
+        "en_clean": "\"I dunno, what?\"",
         "jp_raw": "\"わかんない。いつなの？\"",
         "jp_clean": "\"わかんない。いつなの？\"",
-        "checked": true
-    },
-    {
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
         "checked": true
     },
     {
@@ -2131,9 +2198,9 @@
         "checked": true
     },
     {
-        "en_raw": "I think 6:30  is HANDS DOWN the best time of the day!!!",
+        "en_raw": "I think 6:30&emsp; is HANDS DOWN the best time of the day!!!",
         "en_clean": "I think 6:30  is HANDS DOWN the best time of the day!!!",
-        "jp_raw": "1日の中で一番いい時間、それは...1時11分だぜ！",
+        "jp_raw": "1日の中で一番いい時間、それは...&emsp;1時11分だぜ！",
         "jp_clean": "1日の中で一番いい時間、それは...1時11分だぜ！",
         "checked": true
     },
@@ -2214,18 +2281,11 @@
         "jp_clean": "昨日さ、時計を10個も買っちゃったんだ。どうしてだと思う？",
         "checked": true
     },
-    { //TODO eng missing
-        "en_raw": "",
-        "en_clean": "",
+    {
+        "en_raw": "\"I don't know, Isa.\"",
+        "en_clean": "\"I don't know, Isa.\"",
         "jp_raw": "\"分からないよ、イザ。\"",
         "jp_clean": "\"分からないよ、イザ。\"",
-        "checked": true
-    },
-    {
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
         "checked": true
     },
     {
@@ -2298,18 +2358,11 @@
         "jp_clean": "いくぞ、いいか。過去へのタイムトラベルに手を付けてはいけないのはどうして？",
         "checked": true
     },
-    {//TODO eng missing both
-        "en_raw": "",
-        "en_clean": "",
+    {
+        "en_raw": "(Ha.) \"Why, Isa?\"",
+        "en_clean": "(Ha.) \"Why, Isa?\"",
         "jp_raw": "(ふむ。) \"どうしてなの、イザ？\"",
         "jp_clean": "(ふむ。) \"どうしてなの、イザ？\"",
-        "checked": true
-    },
-    {
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
         "checked": true
     },
     {
@@ -2488,7 +2541,7 @@
         "checked": true
     },
     {
-        "en_raw": "Yeah, looks like you\n<span class=\"wave\">\n reaaaaally\n</span>\ndid.",
+        "en_raw": "Yeah, looks like you <span class=\"wave\">reaaaaally</span> did.",
         "en_clean": "Yeah, looks like you reaaaaally did.",
         "jp_raw": "ああ、まったく<span class=\"wave\">そのとーーーーり</span>だ。",
         "jp_clean": "ああ、まったくそのとーーーーりだ。",

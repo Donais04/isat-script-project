@@ -63,9 +63,9 @@
         "checked": true
     },
     {
-        "en_raw": "(... Maybe you're not putting enough into it.)",
+        "en_raw": "(...&nbsp;Maybe you're not putting enough into it.)",
         "en_clean": "(... Maybe you're not putting enough into it.)",
-        "jp_raw": "(...念じ方が足りないのかもしれない。)",
+        "jp_raw": "(...&nbsp;念じ方が足りないのかもしれない。)",
         "jp_clean": "(...念じ方が足りないのかもしれない。)",
         "checked": true
     },
@@ -105,9 +105,9 @@
         "checked": true
     },
     {
-        "en_raw": "(You breathe in...  And out...)",
+        "en_raw": "(You breathe in...&nbsp; And out...)",
         "en_clean": "(You breathe in...  And out...)",
-        "jp_raw": "(息を吸って... 吐いて...)",
+        "jp_raw": "(息を吸って...&nbsp; 吐いて...)",
         "jp_clean": "(息を吸って... 吐いて...)",
         "checked": true
     },
@@ -137,6 +137,27 @@
         "en_clean": "(You... \"believe strongly\", or whatever...)",
         "jp_raw": "(ここで...「強く念じる」んだよな...)",
         "jp_clean": "(ここで...「強く念じる」んだよな...)",
+        "checked": true
+    },
+    {
+        "en_raw": "(...that your hits will super hurt.)",
+        "en_clean": "(...that your hits will super hurt.)",
+        "jp_raw": "(...自分の攻撃がめちゃ効きますように。)",
+        "jp_clean": "(...自分の攻撃がめちゃ効きますように。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(...that attacks against you will be super weak.)",
+        "en_clean": "(...that attacks against you will be super weak.)",
+        "jp_raw": "(...自分への攻撃がめちゃ軽くなりますように。)",
+        "jp_clean": "(...自分への攻撃がめちゃ軽くなりますように。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(...that you'll be super fast.)",
+        "en_clean": "(...that you'll be super fast.)",
+        "jp_raw": "(...めちゃ素早く動けますように。)",
+        "jp_clean": "(...めちゃ素早く動けますように。)",
         "checked": true
     },
     {
@@ -322,6 +343,27 @@
         "checked": true
     },
     {
+        "en_raw": "(...for strength.)",
+        "en_clean": "(...for strength.)",
+        "jp_raw": "(...強さが欲しい。)",
+        "jp_clean": "(...強さが欲しい。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(...for protection.)",
+        "en_clean": "(...for protection.)",
+        "jp_raw": "(...頑丈さが欲しい。)",
+        "jp_clean": "(...頑丈さが欲しい。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(...for speed.)",
+        "en_clean": "(...for speed.)",
+        "jp_raw": "(...速さが欲しい。)",
+        "jp_clean": "(...速さが欲しい。)",
+        "checked": true
+    },
+    {
         "en_raw": "(Your hand still on the statue, you whisper \"strength, strength, strength\".)",
         "en_clean": "(Your hand still on the statue, you whisper \"strength, strength, strength\".)",
         "jp_raw": "(手を像に置いたまま「強さ、強さ、強さ」とささやく。)",
@@ -336,9 +378,9 @@
         "checked": true
     },
     {
-        "en_raw": "(It's  what  you  want.)",
+        "en_raw": "(It's&nbsp; what&nbsp; you&nbsp; want.)",
         "en_clean": "(It's  what  you  want.)",
-        "jp_raw": "(僕が求めているのはそれだ。)",
+        "jp_raw": "(僕が&nbsp;求めて&nbsp;いるのは&nbsp;それだ。)",
         "jp_clean": "(僕が求めているのはそれだ。)",
         "checked": true
     },
@@ -385,9 +427,9 @@
         "checked": true
     },
     {
-        "en_raw": "(It's  what  you  want.)",
+        "en_raw": "(It's&nbsp; what&nbsp; you&nbsp; want.)",
         "en_clean": "(It's  what  you  want.)",
-        "jp_raw": "(僕が求めているのはそれだ。)",
+        "jp_raw": "(僕が&nbsp;求めて&nbsp;いるのは&nbsp;それだ。)",
         "jp_clean": "(僕が求めているのはそれだ。)",
         "checked": true
     },
@@ -434,16 +476,16 @@
         "checked": true
     },
     {
-        "en_raw": "(It's  what  you  want.)",
+        "en_raw": "(It's&nbsp; what&nbsp; you&nbsp; want.)",
         "en_clean": "(It's  what  you  want.)",
-        "jp_raw": "(僕が求めているのはそれだ。)",
+        "jp_raw": "(僕が&nbsp;求めて&nbsp;いるのは&nbsp;それだ。)",
         "jp_clean": "(僕が求めているのはそれだ。)",
         "checked": true
     },
     {
-        "en_raw": "(It's  what  you  want.)",
+        "en_raw": "(It's&nbsp; what&nbsp; you&nbsp; want.)",
         "en_clean": "(It's  what  you  want.)",
-        "jp_raw": "(僕が求めているのはそれだ。)",
+        "jp_raw": "(僕が&nbsp;求めて&nbsp;いるのは&nbsp;それだ。)",
         "jp_clean": "(僕が求めているのはそれだ。)",
         "checked": true
     },
@@ -802,6 +844,27 @@
         "en_clean": "(You... \"believe strongly\", or whatever...)",
         "jp_raw": "(ここで...「強く念じる」んだよな...)",
         "jp_clean": "(ここで...「強く念じる」んだよな...)",
+        "checked": true
+    },
+    {
+        "en_raw": "(...that your hits will super hurt.)",
+        "en_clean": "(...that your hits will super hurt.)",
+        "jp_raw": "(...自分の攻撃がめちゃ効きますように。)",
+        "jp_clean": "(...自分の攻撃がめちゃ効きますように。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(...that attacks against you will be super weak.)",
+        "en_clean": "(...that attacks against you will be super weak.)",
+        "jp_raw": "(...自分への攻撃がめちゃ軽くなりますように。)",
+        "jp_clean": "(...自分への攻撃がめちゃ軽くなりますように。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(...that you'll be super fast.)",
+        "en_clean": "(...that you'll be super fast.)",
+        "jp_raw": "(...めちゃ素早く動けますように。)",
+        "jp_clean": "(...めちゃ素早く動けますように。)",
         "checked": true
     },
     {

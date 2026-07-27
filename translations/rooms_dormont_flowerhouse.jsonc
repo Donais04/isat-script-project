@@ -84,6 +84,20 @@
         "checked": true
     },
     {
+        "en_raw": "\"Why are you giving flowers away?\"",
+        "en_clean": "\"Why are you giving flowers away?\"",
+        "jp_raw": "\"どうして花をくれるの？\"",
+        "jp_clean": "\"どうして花をくれるの？\"",
+        "checked": true
+    },
+    {
+        "en_raw": "(It's fine.)",
+        "en_clean": "(It's fine.)",
+        "jp_raw": "(別にいいじゃないか。)",
+        "jp_clean": "(別にいいじゃないか。)",
+        "checked": true
+    },
+    {
         "en_raw": "Heh, have you looked around my house? I cannot get rid of those fast enough!",
         "en_clean": "Heh, have you looked around my house? I cannot get rid of those fast enough!",
         "jp_raw": "はは、私の家の周りを見たかい？ 取っても取っても追いつかないほどあるんだ！",

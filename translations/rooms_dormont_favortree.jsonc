@@ -174,11 +174,39 @@
         "jp_clean": "(よし、いくつか候補があるぞ... でも、1つだけに絞らないと。)",
         "checked": true
     },
-    {//TODO choicer "(...ミラベルと一緒に、もっと多くの場所を訪れること。)" "(...イザボーが作った服を着ること。)" "(...オディールについて行って、彼女の国を見ること。)" "(...ボニーがお姉さんと再会するとき、そばにいること。)"
+    {
         "en_raw": "(You wish...)",
         "en_clean": "(You wish...)",
         "jp_raw": "(願うのは...)",
         "jp_clean": "(願うのは...)",
+        "checked": true
+    },
+    {
+        "en_raw": "(...to visit more places with Mirabelle.)",
+        "en_clean": "(...to visit more places with Mirabelle.)",
+        "jp_raw": "(...ミラベルと一緒に、もっと多くの場所を訪れること。)",
+        "jp_clean": "(...ミラベルと一緒に、もっと多くの場所を訪れること。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(...to wear clothes Isabeau has made.)",
+        "en_clean": "(...to wear clothes Isabeau has made.)",
+        "jp_raw": "(...イザボーが作った服を着ること。)",
+        "jp_clean": "(...イザボーが作った服を着ること。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(...to go with Odile to see her country.)",
+        "en_clean": "(...to go with Odile to see her country.)",
+        "jp_raw": "(...オディールについて行って、彼女の国を見ること。)",
+        "jp_clean": "(...オディールについて行って、彼女の国を見ること。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(...to be here when Bonnie reunites with their sister.)",
+        "en_clean": "(...to be here when Bonnie reunites with their sister.)",
+        "jp_raw": "(...ボニーがお姉さんと再会するとき、そばにいること。)",
+        "jp_clean": "(...ボニーがお姉さんと再会するとき、そばにいること。)",
         "checked": true
     },
     {
@@ -196,7 +224,7 @@
         "checked": true
     },
     {
-        "en_raw": "(You'd\n<span class=\"wish\">\n like to continue traveling with her and see her get even more comfortable expressing herself.)\n</span>",
+        "en_raw": "(You'd <span class=\"wish\">like to continue traveling with her and see her get even more comfortable expressing herself.)</span>",
         "en_clean": "(You'dlike to continue traveling with her and see her get even more comfortable expressing herself.)",
         "jp_raw": "(ミラベルと<span class=\"wish\">これからも旅をして、彼女がもっと自分を表現できるようになるのを見ていたい。)</span>",
         "jp_clean": "(ミラベルとこれからも旅をして、彼女がもっと自分を表現できるようになるのを見ていたい。)",
@@ -217,7 +245,7 @@
         "checked": true
     },
     {
-        "en_raw": "(To\n<span class=\"wish\">\n talk to him, and watch him as he crafts clothes for you to wear... Seeing his smile as you wear something he created himself... It would make you happy.)\n</span>",
+        "en_raw": "(To <span class=\"wish\">talk to him, and watch him as he crafts clothes for you to wear... Seeing his smile as you wear something he created himself... It would make you happy.)</span>",
         "en_clean": "(Totalk to him, and watch him as he crafts clothes for you to wear... Seeing his smile as you wear something he created himself... It would make you happy.)",
         "jp_raw": "(イザボーと<span class=\"wish\">話していたいし、僕が着る服を作るのを見ていたい... 彼が作ったものを着る僕を見て笑顔になるイザボーを見ていれば... 僕も幸せな気分になれるだろう。)</span>",
         "jp_clean": "(イザボーと話していたいし、僕が着る服を作るのを見ていたい... 彼が作ったものを着る僕を見て笑顔になるイザボーを見ていれば... 僕も幸せな気分になれるだろう。)",
@@ -245,7 +273,7 @@
         "checked": true
     },
     {
-        "en_raw": "(You'd\n<span class=\"wish\">\n like to talk with her more so you can understand her, too.)\n</span>",
+        "en_raw": "(You'd <span class=\"wish\">like to talk with her more so you can understand her, too.)</span>",
         "en_clean": "(You'dlike to talk with her more so you can understand her, too.)",
         "jp_raw": "(オディールと<span class=\"wish\">もっと話したい。そうすれば、僕も彼女を理解できる。)</span>",
         "jp_clean": "(オディールともっと話したい。そうすれば、僕も彼女を理解できる。)",
@@ -280,7 +308,7 @@
         "checked": true
     },
     {
-        "en_raw": "(If you\n<span class=\"wish\">\n could help them save her, help them get back to their sister and see her safe and alive... You'd like to do that. You want them to be happy.)\n</span>",
+        "en_raw": "(If you <span class=\"wish\">could help them save her, help them get back to their sister and see her safe and alive... You'd like to do that. You want them to be happy.)</span>",
         "en_clean": "(If youcould help them save her, help them get back to their sister and see her safe and alive... You'd like to do that. You want them to be happy.)",
         "jp_raw": "(ボニーが<span class=\"wish\">お姉さんを救うのを手伝って、お姉さんと無事に再会できるよう、力を貸せるなら... そうしたいな。ボニーに幸せになってほしい。)</span>",
         "jp_clean": "(ボニーがお姉さんを救うのを手伝って、お姉さんと無事に再会できるよう、力を貸せるなら... そうしたいな。ボニーに幸せになってほしい。)",
@@ -539,9 +567,9 @@
         "checked": true
     },
     {
-        "en_raw": "<span class=\"big\">\n (HUH!??!)\n</span>\n\"HOW DO YOU--\"",
+        "en_raw": "<span class=\"big\">(HUH!??!)</span> \"HOW DO YOU--\"",
         "en_clean": "(HUH!??!)\"HOW DO YOU--\"",
-        "jp_raw": "(えっ！？？！) \"どうしてそれを――\"",
+        "jp_raw": "<span class=\"big\">(えっ！？？！)</span> \"どうしてそれを――\"",
         "jp_clean": "(えっ！？？！) \"どうしてそれを――\"",
         "checked": true
     },
@@ -938,7 +966,7 @@
         "checked": true
     },
     {
-        "en_raw": "Have you tried\n<span class=\"wave\">\n Not Dying???\n</span>",
+        "en_raw": "Have you tried <span class=\"wave\">Not Dying???</span>",
         "en_clean": "Have you tried Not Dying???",
         "jp_raw": "<span class=\"wave\">死なないように</span>はしてみた？？",
         "jp_clean": "死なないようにはしてみた？？",
@@ -1000,11 +1028,18 @@
         "jp_clean": "パイナップルは食べちゃダメ！ きみ、アレルギーだから。",
         "checked": true
     },
-    {//TODO choicer "\".........\"" "\"そうなの？\""
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
+    {
+        "en_raw": "\".........\"",
+        "en_clean": "\".........\"",
+        "jp_raw": "\".........\"",
+        "jp_clean": "\".........\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Am I?\"",
+        "en_clean": "\"Am I?\"",
+        "jp_raw": "\"そうなの？\"",
+        "jp_clean": "\"そうなの？\"",
         "checked": true
     },
     {
@@ -1070,18 +1105,67 @@
         "jp_clean": "さあ、話し始めるよ。いつでもいいから、[ボタン]を押してね！ 違うよ、そのボタンじゃないって、星くず君。それも違う。[ボタン]だよ！ ほら、やってみて。手が焼けるなあ。",
         "checked": true
     },
-    {//TODO remove
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
+    {
+        "en_raw": "YEAH!!!!",
+        "en_clean": "YEAH!!!!",
+        "jp_raw": "そうそう！！！",
+        "jp_clean": "そうそう！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "You're doing it!!!",
+        "en_clean": "You're doing it!!!",
+        "jp_raw": "できたねぇ！！！",
+        "jp_clean": "できたねぇ！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "So proud of you!!!",
+        "en_clean": "So proud of you!!!",
+        "jp_raw": "きみが誇らしいよ！",
+        "jp_clean": "きみが誇らしいよ！",
+        "checked": true
+    },
+    {
+        "en_raw": "YEAH!!!!",
+        "en_clean": "YEAH!!!!",
+        "jp_raw": "そうそう！！！",
+        "jp_clean": "そうそう！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "You're doing it!!!",
+        "en_clean": "You're doing it!!!",
+        "jp_raw": "できたねぇ！！！",
+        "jp_clean": "できたねぇ！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "Don't make the same mistakes I did, okay?",
+        "en_clean": "Don't make the same mistakes I did, okay?",
+        "jp_raw": "僕と同じ間違いをしないでね？",
+        "jp_clean": "僕と同じ間違いをしないでね？",
+        "checked": true
+    },
+    {
+        "en_raw": "You're doing it!",
+        "en_clean": "You're doing it!",
+        "jp_raw": "できたねぇ！",
+        "jp_clean": "できたねぇ！",
+        "checked": true
+    },
+    {
+        "en_raw": "So proud of you!!!",
+        "en_clean": "So proud of you!!!",
+        "jp_raw": "きみが誇らしいよ！",
+        "jp_clean": "きみが誇らしいよ！",
         "checked": true
     },
     {
         "en_raw": "No, don't press that, silly, press [button]! Let's try again.",
         "en_clean": "No, don't press that, silly, press [button]! Let's try again.",
-        "jp_raw": "それじゃないってば。[button]を押すんだ！ もう一度やってみよう。",
-        "jp_clean": "それじゃないってば。[button]を押すんだ！ もう一度やってみよう。",
+        "jp_raw": "それじゃないってば。[ブトン]を押すんだ！ もう一度やってみよう。",
+        "jp_clean": "それじゃないってば。[ブトン]を押すんだ！ もう一度やってみよう。",
         "checked": true
     },
     {
@@ -1113,9 +1197,9 @@
         "checked": true
     },
     {
-        "en_raw": "[If you see the\n<img alt=\"zone out\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i10.svg\"/>\nicon during a conversation, press [button] to fast-forward through it!]",
+        "en_raw": "[If you see the <img alt=\"zone out\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i10.svg\"> icon during a conversation, press [button] to fast-forward through it!]",
         "en_clean": "[If you see the icon during a conversation, press [button] to fast-forward through it!]",
-        "jp_raw": "[会話の途中で<img alt=\"zone out\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i10.svg\"/>アイコンが表示されたら、[button]を押すと会話を早送りできるぞ！]",
+        "jp_raw": "[会話の途中で<img alt=\"zone out\" class=\"inline-img\" src=\"https://isatinformation.neocities.org/assets/gui/icons/i10.svg\"/>アイコンが表示されたら、[ブトン]を押すと会話を早送りできるぞ！]",
         "jp_clean": "[会話の途中でアイコンが表示されたら、を押すと会話を早送りできるぞ！]",
         "checked": true
     },
@@ -1302,14 +1386,14 @@
         "checked": true
     },
     {
-        "en_raw": "(...)\n                        \"...I beat the King.\"",
+        "en_raw": "(...) \"...I beat the King.\"",
         "en_clean": "(...)                       \"...I beat the King.\"",
-        "jp_raw": "(...)\n                        \"...王を倒した。\"",
+        "jp_raw": "(...) \"...王を倒した。\"",
         "jp_clean": "(...)                        \"...王を倒した。\"",
         "checked": true
     },
     {
-        "en_raw": "You did?!? Oh, stars above, I'm so\n<span class=\"wave\">\n proud of you!!!\n</span>\nYou did it!!! You succeeded!!! You--",
+        "en_raw": "You did?!? Oh, stars above, I'm so <span class=\"wave\">proud of you!!!</span> You did it!!! You succeeded!!! You--",
         "en_clean": "You did?!? Oh, stars above, I'm soproud of you!!ou did it!!! You succeeded!!! You--",
         "jp_raw": "倒したの？！？ ああ、星たちよっ。僕、とっても\n<span class=\"wave\">\nきみが誇らしいよ！！！\n</span>\n 倒したんだ！！！ ついにやったんだね！！！ きみは――",
         "jp_clean": "倒したの？！？ ああ、星たちよっ。僕、とってもきみが誇らしいよ！！！ 倒したんだ！！！ ついにやったんだね！！！ きみは――",
@@ -1435,9 +1519,9 @@
         "checked": true
     },
     {
-        "en_raw": "(...)\n                        \"I...\"",
+        "en_raw": "(...) \"I...\"",
         "en_clean": "(...)                       \"I...\"",
-        "jp_raw": "(...)\n                        \"俺は...\"",
+        "jp_raw": "(...)                        \"俺は...\"",
         "jp_clean": "(...)                        \"俺は...\"",
         "checked": true
     },
@@ -1924,12 +2008,18 @@
         "jp_clean": "なあに？",
         "checked": true
     },
-    { // wtf double choicer here no idea "\"きみがいるのは、本当に僕を助けるため？\"" "\"なんでもない。\""
-        // TODO/NOTE: choices here aren't marked as dialogue-lines, need to do them manually
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
+    {
+        "en_raw": "\"...Nothing.\"",
+        "en_clean": "\"...Nothing.\"",
+        "jp_raw": "\"...なんでもない。\"",
+        "jp_clean": "\"...なんでもない。\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Are you really here to help me?\"",
+        "en_clean": "\"Are you really here to help me?\"",
+        "jp_raw": "\"きみがいるのは、本当に僕を助けるため？\"",
+        "jp_clean": "\"きみがいるのは、本当に僕を助けるため？\"",
         "checked": true
     },
     {
@@ -2128,14 +2218,28 @@
         "jp_clean": "(ほほ笑んでみせる。)",
         "checked": true
     },
-    { // TODO/NOTE: Another double choicer "\"...ありがとう、ループ。\""  "(言うわけないだろ。)"
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
+    {
+        "en_raw": "\"...Thank you, Loop.\"",
+        "en_clean": "\"...Thank you, Loop.\"",
+        "jp_raw": "\"...ありがとう、ループ。\"",
+        "jp_clean": "\"...ありがとう、ループ。\"",
         "checked": true
     },
-    { // TYPO: Missing "oh my, genuine thanks!" "うわあ、心からの感謝だね！！！"
+    { 
+        "en_raw": "(Ew, no.)",
+        "en_clean": "(Ew, no.)",
+        "jp_raw": "(言うわけないだろ。)",
+        "jp_clean": "(言うわけないだろ。)",
+        "checked": true
+    },
+    { 
+        "en_raw": "Oh my, genuine thanks!!!",
+        "en_clean": "Oh my, genuine thanks!!!",
+        "jp_raw": "うわあ、心からの感謝だね！！！",
+        "jp_clean": "うわあ、心からの感謝だね！！！",
+        "checked": true
+    },
+    {
         "en_raw": "GROSS!!!!!",
         "en_clean": "GROSS!!!!!",
         "jp_raw": "<span class=\"wave\">キモッ！！！！！！</span>",
@@ -2182,6 +2286,34 @@
         "en_clean": "(...)",
         "jp_raw": "(...)",
         "jp_clean": "(...)",
+        "checked": true
+    },
+    {
+        "en_raw": "\"What should I do next?\"",
+        "en_clean": "\"What should I do next?\"",
+        "jp_raw": "\"次はどうすればいい？\"",
+        "jp_clean": "\"次はどうすればいい？\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Let's talk about something.\"",
+        "en_clean": "\"Let's talk about something.\"",
+        "jp_raw": "\"何か話そう。\"",
+        "jp_clean": "\"何か話そう。\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"I had a question about...\"",
+        "en_clean": "\"I had a question about...\"",
+        "jp_raw": "\"聞きたいことがあって...\"",
+        "jp_clean": "\"聞きたいことがあって...\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Nah, nothing.\"",
+        "en_clean": "\"Nah, nothing.\"",
+        "jp_raw": "\"いや、なんでもない。\"",
+        "jp_clean": "\"いや、なんでもない。\"",
         "checked": true
     },
     {
@@ -2376,16 +2508,8 @@
     {
         "en_raw": "...And?",
         "en_clean": "...And?",
-        "jp_raw": [
-            "\\m[vo]...それから？",
-            "\\m[vo]...\\!それで？",
-            "\\m[vl]\\..\\..\\..\\!それで？\\m[rb]"
-        ],
-        "jp_clean": [
-            "...それから？",
-            "...それで？",
-            "...それで？"
-        ],
+        "jp_raw": "...それで？",
+        "jp_clean": "...それで？",
         "checked": true
     },
     {
@@ -2683,8 +2807,8 @@
         "checked": true
     },
     {
-        "en_raw": "<span class=\"shake\">\n (No.)\n</span>\n\"You think I'm stuck here forever.\"",
-        "en_clean": "(No.)\"You think I'm stuck here forever.\"",
+        "en_raw": "<span class=\"shake\">(No.)</span> \"You think I'm stuck here forever.\"",
+        "en_clean": "(No.) \"You think I'm stuck here forever.\"",
         "jp_raw": "<span class=\"shake\">(違う。)</span> \"きみが、僕は抜け出せないと思ってるんだ。\"",
         "jp_clean": "(違う。) \"きみが、僕は抜け出せないと思ってるんだ。\"",
         "checked": true
@@ -2739,7 +2863,7 @@
         "checked": true
     },
     {
-        "en_raw": "<span class=\"shake\">\n (Stars.)\n</span>\n\"No, no, no, no, no, no...\"",
+        "en_raw": "<span class=\"shake\">(Stars.)</span> \"No, no, no, no, no, no...\"",
         "en_clean": "(Stars.)\"No, no, no, no, no, no...\"",
         "jp_raw": "<span class=\"shake\">(星たちよ。)</span> \"違う、違う違う、ちがうちがうちがう...\"",
         "jp_clean": "(星たちよ。) \"違う、違う違う、ちがうちがうちがう...\"",

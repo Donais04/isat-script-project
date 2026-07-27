@@ -49,6 +49,20 @@
         "checked": true
     },
     {
+        "en_raw": "\"Hey Mira.\"",
+        "en_clean": "\"Hey Mira.\"",
+        "jp_raw": "\"やあ、ミラ。\"",
+        "jp_clean": "\"やあ、ミラ。\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Hey Mira, have you thought about doing a sleepover tonight?\"",
+        "en_clean": "\"Hey Mira, have you thought about doing a sleepover tonight?\"",
+        "jp_raw": "\"やあ、ミラ。今夜はお泊り会をするってのはどう？\"",
+        "jp_clean": "\"やあ、ミラ。今夜はお泊り会をするってのはどう？\"",
+        "checked": true
+    },
+    {
         "en_raw": "Hey, Siffrin! Hehehe!",
         "en_clean": "Hey, Siffrin! Hehehe!",
         "jp_raw": "あら、シフラン！ エヘヘ！",
@@ -62,7 +76,7 @@
         "jp_clean": "お昼寝はどうだった？ 10点満点だと何点ぐらい？",
         "checked": true
     },
-    {//TODO choicer "\"1点。誰かさんに起こされたからね...\"" "\"5点。いたって普通だった。\"" "\"バッチリ9点。\""
+    {
         "en_raw": "(Hm...)",
         "en_clean": "(Hm...)",
         "jp_raw": "(ふむ...)",
@@ -74,6 +88,20 @@
         "en_clean": "(...)",
         "jp_raw": "(...)",
         "jp_clean": "(...)",
+        "checked": true
+    },
+    {
+        "en_raw": "\"It was alright.\"",
+        "en_clean": "\"It was alright.\"",
+        "jp_raw": "\"悪くなかった。\"",
+        "jp_clean": "\"悪くなかった。\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Oh, you know.\"",
+        "en_clean": "\"Oh, you know.\"",
+        "jp_raw": "\"分かるだろ。\"",
+        "jp_clean": "\"分かるだろ。\"",
         "checked": true
     },
     {
@@ -230,18 +258,11 @@
         "jp_clean": "じゃあ、シフランからみんなに知らせてもらえる？ そうしてもらえるとすごく助かるわ！",
         "checked": true
     },
-    {//TODO choicer "\"僕の記憶は完璧だ。\"" "\"...覚えてないかも？\" " "\"オディールは店で、ボニーは...\" "
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
-        "checked": true
-    },
     {
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
+        "en_raw": "\"Sure!\"",
+        "en_clean": "\"Sure!\"",
+        "jp_raw": "\"もちろん！\"",
+        "jp_clean": "\"もちろん！\"",
         "checked": true
     },
     {
@@ -284,6 +305,27 @@
         "en_clean": "(You really, really will.)",
         "jp_raw": "(忘れようがないよ。)",
         "jp_clean": "(忘れようがないよ。)",
+        "checked": true
+    },
+    {  
+        "en_raw": "\"I always remember things.\"",
+        "en_clean": "\"I always remember things.\"",
+        "jp_raw": "\"僕の記憶は完璧だ。\"",
+        "jp_clean": "\"僕の記憶は完璧だ。\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"...Probably not?\"",
+        "en_clean": "\"...Probably not?\"",
+        "jp_raw": "\"...覚えてないかも？\"",
+        "jp_clean": "\"...覚えてないかも？\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Odile is at the shop, Bonnie is...\"",
+        "en_clean": "\"Odile is at the shop, Bonnie is...\"",
+        "jp_raw": "\"オディールは店で、ボニーは...\"",
+        "jp_clean": "\"オディールは店で、ボニーは...\"",
         "checked": true
     },
     {
@@ -567,6 +609,27 @@
         "checked": true
     },
     {
+        "en_raw": "\"1. A certain someone woke me up...\"",
+        "en_clean": "\"1. A certain someone woke me up...\"",
+        "jp_raw": "\"1点。誰かさんに起こされたからね...\"",
+        "jp_clean": "\"1点。誰かさんに起こされたからね...\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"5. Completely average.\"",
+        "en_clean": "\"5. Completely average.\"",
+        "jp_raw": "\"5点。いたって普通だった。\"",
+        "jp_clean": "\"5点。いたって普通だった。\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"A solid 9.\"",
+        "en_clean": "\"A solid 9.\"",
+        "jp_raw": "\"バッチリ9点。\"",
+        "jp_clean": "\"バッチリ9点。\"",
+        "checked": true
+    },
+    {
         "en_raw": "I-I'm sorry! I-it's just, that there's a lot to do, and--",
         "en_clean": "I-I'm sorry! I-it's just, that there's a lot to do, and--",
         "jp_raw": "ごごご、ごめんね！ い、いろいろと用事があって、だから――",
@@ -608,11 +671,25 @@
         "jp_clean": "それっていいこと？ 悪いこと？",
         "checked": true
     },
-    {//TODO choicer "\"1点。誰かさんに起こされたからね...\"" "\"5点。いたって普通だった。\"" "\"バッチリ9点。\""
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
+    {
+        "en_raw": "\"Average is good!\"",
+        "en_clean": "\"Average is good!\"",
+        "jp_raw": "\"普通ってのはいいことだよ！!\"",
+        "jp_clean": "\"普通ってのはいいことだよ！!\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Average is bad!\"",
+        "en_clean": "\"Average is bad!\"",
+        "jp_raw": "\"普通ってのはよくないね。\"",
+        "jp_clean": "\"普通ってのはよくないね。\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Average is average?\"",
+        "en_clean": "\"Average is average?\"",
+        "jp_raw": "\"普通は普通じゃない？\"",
+        "jp_clean": "\"普通は普通じゃない？\"",
         "checked": true
     },
     {
@@ -811,7 +888,7 @@
         "jp_clean": "...いっぺんにいろんなことを言っちゃったけど... 誰がどこにいるか覚えた？",
         "checked": true
     },
-    {//TODO unsure first 
+    {
         "en_raw": "(Um...) \"I always remember things.\"",
         "en_clean": "(Um...) \"I always remember things.\"",
         "jp_raw": "(うーん...) \"僕の記憶は完璧だ。\"",
@@ -944,7 +1021,7 @@
         "jp_clean": "(よし、テイク2だ。 何か言わないと。当たり障りのないコメントを...)",
         "checked": true
     },
-    {//TODO can't find first
+    {
         "en_raw": "(Smart and normal words, GO!) \"Yes. Correct. I was taking nap time.\"",
         "en_clean": "(Smart and normal words, GO!) \"Yes. Correct. I was taking nap time.\"",
         "jp_raw": "(当たり障りなく、気の利いたセリフだ。ほら言え！) \"そう、その通り。昼寝をしてたんだ。\"",
@@ -1339,18 +1416,8 @@
     {
         "en_raw": "(Oh.)",
         "en_clean": "(Oh.)",
-        "jp_raw": [
-            "\\m[clear](へえ。)",
-            "\\m[wait](そうか。)",
-            "\\m[clear]\\m[wait]\\m[wait](ああ。)",
-            "(あ。)\\!\\m[wait]\\^"
-        ],
-        "jp_clean": [
-            "(へえ。)",
-            "(そうか。)",
-            "(ああ。)",
-            "(あ。)"
-        ],
+        "jp_raw": "(へえ。)",
+        "jp_clean": "(へえ。)",
         "checked": true
     },
     {

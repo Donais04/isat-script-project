@@ -1,4 +1,3 @@
-#y'all don't have to accept this, it's just something for myself
 import os, json
 from operator import itemgetter
 from jsmin import jsmin
@@ -40,9 +39,14 @@ for i in liAss:
       percent = float(num)/float(fullCount)
   except Exception as e:
     print("failed", file, e)
-  fiList.append({"name":i,"count":fullCount,"percent":percent,"fileMade":c})
+  try:
+    open("public\\japanese_site\\" + i.replace("_","\\") + ".html", encoding="utf-8")
+    p = True
+  except:
+    p = False
+  fiList.append({"name":i,"count":fullCount,"percent":percent,"fileMade":c,"pageMade":p})
 
-sortedDataStr = str(float(tFCount1)/float(tFCount2)) + "\n" + json.dumps(sorted(fiList, key=itemgetter('percent'),reverse=True))
+sortedDataStr = str(float(tFCount1)/float(tFCount2)) + "\n" + json.dumps(sorted(fiList, key=itemgetter('percent','pageMade'),reverse=True))
 print(float(tFCount1)/float(tFCount2))
 with open("results.txt", "w") as f:
   f.write(sortedDataStr.replace("}, {","}\n{"))
