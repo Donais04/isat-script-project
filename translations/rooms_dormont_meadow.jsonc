@@ -140,31 +140,31 @@
         "checked": true
     },
     {
-        "en_raw": "[PLEASE ENJOY THIS TALE ONCE MORE.\n<br/>\nI know I will! o(*°▽°*)o.]",
-        "en_clean": "[PLEASE ENJOY THIS TALE ONCE MORE.I know I will! o(*°▽°*)o.]",
-        "jp_raw": "[今ひとたびこの奇譚を楽しむがよい。がんばってねっ！ o(*°▽°*)o ]",
+        "en_raw": "[PLEASE ENJOY THIS TALE ONCE MORE.\n<br/> \nI know I will! o(*°▽°*)o.]",
+        "en_clean": "[PLEASE ENJOY THIS TALE ONCE MORE. I know I will! o(*°▽°*)o.]",
+        "jp_raw": "[今ひとたびこの奇譚を楽しむがよい。<br>がんばってねっ！ o(*°▽°*)o ]",
         "jp_clean": "[今ひとたびこの奇譚を楽しむがよい。がんばってねっ！ o(*°▽°*)o ]",
         "checked": true
     },
-    {//TODO bad dialogue head
-        "en_raw": "<span class=\"dialogue-name\">\n Mirabelle\n</span>\n:\n                        \"--frin!\"",
-        "en_clean": "Mirabelle:                       \"--frin!\"",
-        "jp_raw": "<span class=\"wave\">\"...フラン！\"</span>",
-        "jp_clean": "\"...フラン！\"",
+    {
+        "en_raw": "--frin!",
+        "en_clean": "--frin!",
+        "jp_raw": "<span class=\"wave\">...フラン！</span>",
+        "jp_clean": "...フラン！",
         "checked": true
     },
-    {//TODO bad dialogue head
-        "en_raw": "<span class=\"dialogue-name\">\n Mirabelle\n</span>\n:\n<span class=\"wave\">\n \"Siffrin!\"\n</span>",
-        "en_clean": "Mirabelle:\"Siffrin!\"",
-        "jp_raw": "<span class=\"wave\">\"シフラン！\"</span>",
-        "jp_clean": "\"シフラン！\"",
+    {
+        "en_raw": "<span class=\"wave\">Siffrin!</span>",
+        "en_clean": "Siffrin!",
+        "jp_raw": "<span class=\"wave\">シフラン！</span>",
+        "jp_clean": "シフラン！",
         "checked": true
     },
-    {//TODO bad dialogue head
-        "en_raw": "<span class=\"dialogue-name\">\n Mirabelle\n</span>\n:\n                        \"...Siffrin?\"",
-        "en_clean": "Mirabelle:                       \"...Siffrin?\"",
-        "jp_raw": "\"...シフラン？\"",
-        "jp_clean": "\"...シフラン？\"",
+    {
+        "en_raw": "...Siffrin?",
+        "en_clean": "...Siffrin?",
+        "jp_raw": "...シフラン？",
+        "jp_clean": "...シフラン？",
         "checked": true
     },
     {
@@ -301,6 +301,34 @@
         "checked": true
     },
     {
+        "en_raw": "[You can use the arrow keys to move around.]",
+        "en_clean": "[You can use the arrow keys to move around.]",
+        "jp_raw": "[方向キーで移動できるよ。]",
+        "jp_clean": "[方向キーで移動できるよ。]",
+        "checked": true
+    },
+    {
+        "en_raw": "[You can use the Joystick to move around.]",
+        "en_clean": "[You can use the Joystick to move around.]",
+        "jp_raw": "[スティックを動かすと移動できるよ。]",
+        "jp_clean": "[スティックを動かすと移動できるよ。]",
+        "checked": true
+    },
+    {
+        "en_raw": "[You can use the left stick to move around.]",
+        "en_clean": "[You can use the left stick to move around.]",
+        "jp_raw": "[左スティックを動かすと移動できるよ。]",
+        "jp_clean": "[左スティックを動かすと移動できるよ。]",
+        "checked": true
+    },
+    {
+        "en_raw": "[You can use the Left Stick to move around.]",
+        "en_clean": "[You can use the Left Stick to move around.]",
+        "jp_raw": "[Lスティックを動かすと移動できるよ。]",
+        "jp_clean": "[Lスティックを動かすと移動できるよ。]",
+        "checked": true
+    },
+    {
         "en_raw": "(Huh?)",
         "en_clean": "(Huh?)",
         "jp_raw": "(へっ？)",
@@ -315,7 +343,7 @@
         "checked": true
     },
     {
-        "en_raw": "<span class=\"wave\">\n Siffrin!\n</span>",
+        "en_raw": "<span class=\"wave\">\"Siffrin!\"</span>",
         "en_clean": "Siffrin!",
         "jp_raw":  "<span class=\"wave\">シフラン！</span>",
         "jp_clean":  "シフラン！",
@@ -455,8 +483,8 @@
         "checked": true
     },
     {
-        "en_raw": "(And you DIED!!! YOU DIED!!!! You felt your body being crushed and now you're laying on the grass, alive, and your skin itches and your stomach hurts and you\n<span class=\"shake\">\n DIED!!!!)\n</span>",
-        "en_clean": "(And you DIED!!! YOU DIED!!!! You felt your body being crushed and now you're laying on the grass, alive, and your skin itches and your stomach hurts and youDIED!!!!)",
+        "en_raw": "(And you DIED!!! YOU DIED!!!! You felt your body being crushed and now you're laying on the grass, alive, and your skin itches and your stomach hurts and you <span class=\"shake\">DIED!!!!)</span>",
+        "en_clean": "(And you DIED!!! YOU DIED!!!! You felt your body being crushed and now you're laying on the grass, alive, and your skin itches and your stomach hurts and you DIED!!!!)",
         "jp_raw": "(死んだんだぞ！ デッドだ、デッド！ 体がぐしゃっと潰れるのを感じた。なのに草地で寝ている。生きている。肌がかゆくて胃が痛い。<span class=\"shake\">死んだのに！！！)</span>",
         "jp_clean": "(死んだんだぞ！ デッドだ、デッド！ 体がぐしゃっと潰れるのを感じた。なのに草地で寝ている。生きている。肌がかゆくて胃が痛い。死んだのに！！！)",
         "checked": true
@@ -525,9 +553,9 @@
         "checked": true
     },
     {
-        "en_raw": "(You went   back in time?)",
+        "en_raw": "(You went&nbsp;&nbsp; back in time?)",
         "en_clean": "(You went   back in time?)",
-        "jp_raw": "(つまり戻ったってこと？)",
+        "jp_raw": "(つまり&nbsp;&nbsp;戻ったってこと？)",
         "jp_clean": "(つまり戻ったってこと？)",
         "checked": true
     },
@@ -574,9 +602,9 @@
         "checked": true
     },
     {
-        "en_raw": "(But...   You're back. Back to the day before you went to the House.)",
+        "en_raw": "(But...&nbsp;&nbsp;You're back. Back to the day before you went to the House.)",
         "en_clean": "(But...   You're back. Back to the day before you went to the House.)",
-        "jp_raw": "(それにしても... またここだ。館に行く前の日に戻っている。)",
+        "jp_raw": "(それにしても...&nbsp;&nbsp; またここだ。館に行く前の日に戻っている。)",
         "jp_clean": "(それにしても... またここだ。館に行く前の日に戻っている。)",
         "checked": true
     },
@@ -595,9 +623,9 @@
         "checked": true
     },
     {
-        "en_raw": "(And...   Can you make sure to not die this time?)",
+        "en_raw": "(And...&nbsp;&nbsp; Can you make sure to not die this time?)",
         "en_clean": "(And...   Can you make sure to not die this time?)",
-        "jp_raw": "(それにそれに... 次は死なないようにできるだろうか？)",
+        "jp_raw": "(それにそれに...&nbsp;&nbsp; 次は死なないようにできるだろうか？)",
         "jp_clean": "(それにそれに... 次は死なないようにできるだろうか？)",
         "checked": true
     },
@@ -721,7 +749,7 @@
         "checked": true
     },
     {
-        "en_raw": "(You won, didn't you? Why are you back?\n<span class=\"shake\">\n WHY ARE YOU BACK?!)\n</span>",
+        "en_raw": "(You won, didn't you? Why are you back? <span class=\"shake\">WHY ARE YOU BACK?!)</span>",
         "en_clean": "(You won, didn't you? Why are you backHY ARE YOU BACK?!)",
         "jp_raw": "(勝ったんだろ？ なのになんで戻った？\n<span class=\"shake\">\n なんで戻ったんだ？！)\n</span>",
         "jp_clean": "(勝ったんだろ？ なのになんで戻った？ なんで戻ったんだ？！)",
@@ -770,9 +798,9 @@
         "checked": true
     },
     {
-        "en_raw": "(You're back here you're back here you're back here you're back here you're back here you're back here you're back here you're back here you're back here your journey was over a\n<span class=\"shake\">\n nd you're  back  here)\n</span>",
+        "en_raw": "(You're back here you're back here you're back here you're back here you're back here you're back here you're back here you're back here you're back here your journey was over a\n<span class=\"shake\">\n nd you're&nbsp; back&nbsp; here)\n</span>",
         "en_clean": "(You're back here you're back here you're back here you're back here you're back here you're back here you're back here you're back here you're back here your journey was over and you're  back  here)",
-        "jp_raw": "(元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、旅が終わったのに、\n<span class=\"shake\">\nま　元　戻った！)\n</span>",
+        "jp_raw": "(元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、旅が終わったのに、\n<span class=\"shake\">\nま&nbsp;元&nbsp;戻った！)\n</span>",
         "jp_clean": "(元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、元に戻った、旅が終わったのに、ま　元　戻った！)",
         "checked": true
     },
@@ -833,9 +861,9 @@
         "checked": true
     },
     {
-        "en_raw": "(Slowly,  gently,  she touches your cheek.)",
+        "en_raw": "(Slowly,&nbsp; gently,&nbsp; she touches your cheek.)",
         "en_clean": "(Slowly,  gently,  she touches your cheek.)",
-        "jp_raw": "(恐る恐る、　優しく、　ミラベルが頬に触れる。)",
+        "jp_raw": "(恐る恐る、&nbsp;　優しく、&nbsp;　ミラベルが頬に触れる。)",
         "jp_clean": "(恐る恐る、　優しく、　ミラベルが頬に触れる。)",
         "checked": true
     },
@@ -860,10 +888,10 @@
         "jp_clean": "ごめんね......",
         "checked": true
     },
-    { // TYPO
-        "en_raw": "Did you...  have a nightmare?", // in-game: ...\!Did you...\!\m[wait] have a nightmare?
-        "en_clean": "Did you...  have a nightmare?",
-        "jp_raw": "...もしかして... 悪い夢でも見たの？",
+    {
+        "en_raw": "... Did you...&nbsp; have a nightmare?",
+        "en_clean": "... Did you...  have a nightmare?",
+        "jp_raw": "...もしかして...&nbsp; 悪い夢でも見たの？",
         "jp_clean": "...もしかして... 悪い夢でも見たの？",
         "checked": true
     },
@@ -1029,9 +1057,9 @@
         "checked": true
     },
     {
-        "en_raw": "(You're  back.)",
+        "en_raw": "(You're&nbsp; back.)",
         "en_clean": "(You're  back.)",
-        "jp_raw": "(やっぱり　戻ったんだ。)",
+        "jp_raw": "(やっぱり&nbsp;　戻ったんだ。)",
         "jp_clean": "(やっぱり　戻ったんだ。)",
         "checked": true
     },
@@ -1113,9 +1141,9 @@
         "checked": true
     },
     {
-        "en_raw": "(You   couldn't say it.)",
+        "en_raw": "(You&nbsp;&nbsp; couldn't say it.)",
         "en_clean": "(You   couldn't say it.)",
-        "jp_raw": "(口に　出せなかった。)",
+        "jp_raw": "(口に&nbsp;&nbsp;　出せなかった。)",
         "jp_clean": "(口に　出せなかった。)",
         "checked": true
     },
@@ -1239,8 +1267,8 @@
         "checked": true
     },
     {
-        "en_raw": "(See, if you say it now, it might work! You might be able to say it! Just say it! Just say it!!!\n<span class=\"shake\">\n JUST SAY IT!!!!!!\n</span>\n)",
-        "en_clean": "(See, if you say it now, it might work! You might be able to say it! Just say it! Just say it!!UST SAY IT!!!!!!)",
+        "en_raw": "(See, if you say it now, it might work! You might be able to say it! Just say it! Just say it!!! <span class=\"shake\">JUST SAY IT!!!!!!</span>)",
+        "en_clean": "(See, if you say it now, it might work! You might be able to say it! Just say it! Just say it!! JUST SAY IT!!!!!!)",
         "jp_raw": "(今言ってもうまくいくかもしれない。だったら言っちゃえばいいんだ！ 言っちゃえ！ 言っちゃえよ！<span class=\"shake\"> 言っちゃえったら！！！</span>)",
         "jp_clean": "(今言ってもうまくいくかもしれない。だったら言っちゃえばいいんだ！ 言っちゃえ！ 言っちゃえよ！ 言っちゃえったら！！！)",
         "checked": true
@@ -1316,16 +1344,16 @@
         "checked": true
     },
     {
-        "en_raw": "(One  last  time.)",
+        "en_raw": "(One&nbsp;&nbsp;last&nbsp;&nbsp;time.)",
         "en_clean": "(One  last  time.)",
-        "jp_raw": "(そして  ケリを  つける。)",
+        "jp_raw": "(そして&nbsp;&nbsp;ケリを&nbsp;&nbsp;つける。)",
         "jp_clean": "(そして  ケリを  つける。)",
         "checked": true
     },
-    {//TODO double check formatting
+    {
         "en_raw": "<span class=\"shake\">\n (AH--!!!)\n</span>",
         "en_clean": "(AH--!!!)",
-        "jp_raw": "<span class=\"shake big\">(あああ！)</span>",
+        "jp_raw": "<span class=\"shake\">(あああ！)</span>",
         "jp_clean": "(あああ！)",
         "checked": true
     },
@@ -1358,7 +1386,7 @@
         "checked": true
     },
     {
-        "en_raw": "<span class=\"shake\">\n (Looping resets everything!!! Everything that just happened has been erased!!!  Everything is back to normal!!! Bonnie is back to normal!!!)\n</span>",
+        "en_raw": "<span class=\"shake\">(Looping resets everything!!! Everything that just happened has been erased!!! Everything is back to normal!!! Bonnie is back to normal!!!)</span>",
         "en_clean": "(Looping resets everything!!! Everything that just happened has been erased!!!  Everything is back to normal!!! Bonnie is back to normal!!!)",
         "jp_raw": "<span class=\"shake\">(ループで全部元に戻る！ 今起きたこともチャラになった！ すべてが平常運転！ ボニーもいつも通り！)</span>",
         "jp_clean": "(ループで全部元に戻る！ 今起きたこともチャラになった！ すべてが平常運転！ ボニーもいつも通り！)",
@@ -1372,9 +1400,9 @@
         "checked": true
     },
     {
-        "en_raw": "<span class=\"shake\">\n (THEY'RE  FINE!!!!)\n</span>",
+        "en_raw": "<span class=\"shake\">\n (THEY'RE&nbsp; FINE!!!!)\n</span>",
         "en_clean": "(THEY'RE  FINE!!!!)",
-        "jp_raw": "<span class=\"shake\">(みんな！！！平気！！！)</span>",
+        "jp_raw": "<span class=\"shake\">(みんな！！！&nbsp;平気！！！)</span>",
         "jp_clean": "(みんな！！！平気！！！)",
         "checked": true
     },
@@ -1442,9 +1470,9 @@
         "checked": true
     },
     {
-        "en_raw": "(Bonnie is      okay.)",
+        "en_raw": "(Bonnie is&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;okay.)",
         "en_clean": "(Bonnie is      okay.)",
-        "jp_raw": "(ボニーは    大丈夫だ。)",
+        "jp_raw": "(ボニーは&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大丈夫だ。)",
         "jp_clean": "(ボニーは    大丈夫だ。)",
         "checked": true
     },
@@ -1966,10 +1994,10 @@
         "jp_clean": "(戻った。)",
         "checked": true
     },
-    {//TODO eng should be big
-        "en_raw": "<span class=\"shake\">\n (YOU'RE  BACK)\n</span>",
+    {
+        "en_raw": "<span class=\"shake big\">\n (YOU'RE&nbsp;&nbsp;BACK)\n</span>",
         "en_clean": "(YOU'RE  BACK)",
-        "jp_raw": "<span class=\"shake big\">(また戻った！)</span>",
+        "jp_raw": "<span class=\"shake big\">(また&nbsp;&nbsp;戻った！)</span>",
         "jp_clean": "(また戻った！)",
         "checked": true
     },
@@ -2009,9 +2037,9 @@
         "checked": true
     },
     {
-        "en_raw": "(Everyone in Vaugarde wished for your suffering!  Everyone wished for you to be stuck repeating everything, to bE ROTTING HERE FOREVER--)",
+        "en_raw": "(Everyone in Vaugarde wished for your suffering!&nbsp;&nbsp;Everyone wished for you to be stuck repeating everything, to bE ROTTING HERE FOREVER--)",
         "en_clean": "(Everyone in Vaugarde wished for your suffering!  Everyone wished for you to be stuck repeating everything, to bE ROTTING HERE FOREVER--)",
-        "jp_raw": "(ヴォーガルドの人は全員、僕の苦しみを願っていた... みんな僕があれもこれも繰り返して、永遠にここで腐り続けるのを願っていた――)",
+        "jp_raw": "(ヴォーガルドの人は全員、僕の苦しみを願っていた...&nbsp;&nbsp; みんな僕があれもこれも繰り返して、永遠にここで腐り続けるのを願っていた――)",
         "jp_clean": "(ヴォーガルドの人は全員、僕の苦しみを願っていた... みんな僕があれもこれも繰り返して、永遠にここで腐り続けるのを願っていた――)",
         "checked": true
     },
@@ -2296,7 +2324,7 @@
         "checked": true
     },
     {
-        "en_raw": "(But this thought...\n<span class=\"shake\">\n IS NOT ENOUGH FOR YOU TO GO ON ANYMORE!!!!!!)\n</span>",
+        "en_raw": "(But this thought... <span class=\"shake\">IS NOT ENOUGH FOR YOU TO GO ON ANYMORE!!!!!!)</span>",
         "en_clean": "(But this thought...IS NOT ENOUGH FOR YOU TO GO ON ANYMORE!!!!!!)",
         "jp_raw": "(でも、この考え方だと...<span class=\"shake\"> 僕自身がもうやっていけない！！！！！！！！！)</span>",
         "jp_clean": "(でも、この考え方だと... 僕自身がもうやっていけない！！！！！！！！！)",
@@ -2331,12 +2359,26 @@
         "checked": true
     },
     {
-        "en_raw": "(If only you knew if only the wish wasn't broken if only you could get to the king deal the final hit end it all and finally you'll be with your family forever and you'll be okay and you can just end it all you just need to get\n<br/>\nto the king deal the final hit make the wish come true make sure it all loops around you kill the king rip him to pieces for making you remember for making you see for not understanding for killing bonnie for getting in your\n<br/>\nblinding way every time you just need to kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him you just)",
-        "en_clean": "(If only you knew if only the wish wasn't broken if only you could get to the king deal the final hit end it all and finally you'll be with your family forever and you'll be okay and you can just end it all you just need to getto the king deal the final hit make the wish come true make sure it all loops around you kill the king rip him to pieces for making you remember for making you see for not understanding for killing bonnie for getting in yourblinding way every time you just need to kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him you just)",
+        "en_raw": "(If only you knew if only the wish wasn't broken if only you could get to the king deal the final hit end it all and finally you'll be with your family forever and you'll be okay and you can just end it all you just need to get",
+        "en_clean": "(If only you knew if only the wish wasn't broken if only you could get to the king deal the final hit end it all and finally you'll be with your family forever and you'll be okay and you can just end it all you just need to get",
         "jp_raw": "(知っていたら願いが壊れなかったら自分が王に最後の一撃を入れて全部終わらせていたら、そうすれば家族とずっと一緒にいられるし精神も落ち着くし何もかも決着がつくんだからやるべきことは",
         "jp_clean": "(知っていたら願いが壊れなかったら自分が王に最後の一撃を入れて全部終わらせていたら、そうすれば家族とずっと一緒にいられるし精神も落ち着くし何もかも決着がつくんだからやるべきことは",
         "checked": true
     },
+    {
+        "en_raw": "to the king deal the final hit make the wish come true make sure it all loops around you kill the king rip him to pieces for making you remember for making you see for not understanding for killing bonnie for getting in your",
+        "en_clean": "to the king deal the final hit make the wish come true make sure it all loops around you kill the king rip him to pieces for making you remember for making you see for not understanding for killing bonnie for getting in your",
+        "jp_raw": "王に自分がとどめを刺して願いを実現させてループの中心に自分がいて王を殺して八つ裂きにして仕返しをするんだ思い出させたことの見せたことの理解しなかったことのボニーを殺したことの僕を",
+        "jp_clean": "王に自分がとどめを刺して願いを実現させてループの中心に自分がいて王を殺して八つ裂きにして仕返しをするんだ思い出させたことの見せたことの理解しなかったことのボニーを殺したことの僕を",
+        "checked": true
+    },
+    {
+        "en_raw": "blinding way every time you just need to kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him you just)",
+        "en_clean": "blinding way every time you just need to kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him kill him you just)",
+        "jp_raw": "いつもいつもいつも手探りのキリキリ舞いにさせやがるからとにかく必ず殺すんだ殺すんだ殺すんだ殺すんだ殺すんだ殺すんだ殺すんだ殺すんだ絶対に)",
+        "jp_clean": "いつもいつもいつも手探りのキリキリ舞いにさせやがるからとにかく必ず殺すんだ殺すんだ殺すんだ殺すんだ殺すんだ殺すんだ殺すんだ殺すんだ絶対に)",
+        "checked": true
+    },//\n<br/>\n
     {
         "en_raw": "(need to get to the end)",
         "en_clean": "(need to get to the end)",
@@ -2394,9 +2436,9 @@
         "checked": true
     },
     {
-        "en_raw": "(You have  a country  to save)",
+        "en_raw": "(You have&nbsp; a country&nbsp; to save)",
         "en_clean": "(You have  a country  to save)",
-        "jp_raw": "(国を救わなきゃならない)",
+        "jp_raw": "(国を&nbsp;救わなきゃ&nbsp;ならない)",
         "jp_clean": "(国を救わなきゃならない)",
         "checked": true
     },
@@ -2506,9 +2548,9 @@
         "checked": true
     },
     {
-        "en_raw": "(You need  your family's strength)",
+        "en_raw": "(You need&nbsp; your family's strength)",
         "en_clean": "(You need  your family's strength)",
-        "jp_raw": "(必要なのは家族の力だ)",
+        "jp_raw": "(必要なのは&nbsp;家族の力だ)",
         "jp_clean": "(必要なのは家族の力だ)",
         "checked": true
     },
@@ -2520,9 +2562,9 @@
         "checked": true
     },
     {
-        "en_raw": "(you don't want  to be here  anymore.)",
+        "en_raw": "(you don't want&nbsp; to be here&nbsp; anymore.)",
         "en_clean": "(you don't want  to be here  anymore.)",
-        "jp_raw": "(もうこれ以上ここにはいたくない。)",
+        "jp_raw": "(もうこれ以上&nbsp;ここには&nbsp;いたくない。)",
         "jp_clean": "(もうこれ以上ここにはいたくない。)",
         "checked": true
     },
@@ -2548,10 +2590,10 @@
         "checked": true
     },
     {
-        "en_raw": "(You need  to make sure  they're all as powerful as they can be.)",
+        "en_raw": "(You need&nbsp; to make sure&nbsp; they're all as powerful as they can be.)",
         "en_clean": "(You need  to make sure  they're all as powerful as they can be.)",
-        "jp_raw": "(みんなを可能な限り強くしておかないといけないんだ。)",
-        "jp_clean": "(みんなを可能な限り強くしておかないといけないんだ。)",
+        "jp_raw": "(みんなを&nbsp;可能な限り強くしておかないといけないんだ。)",
+        "jp_clean": "(みんなを&nbsp;可能な限り&nbsp;強くしておかないといけないんだ。)",
         "checked": true
     },
     {

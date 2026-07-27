@@ -125,11 +125,18 @@
         "jp_clean": "(たぶん、なんでもないことを心配しているだけだ。)",
         "checked": true
     },
-    {//TODO choicer  "\"彼女がウツロイの神の祝福を受けていないとしたら、どうする？\"" "(やめておこう。)"
-        "en_raw": "",
-        "en_clean": "",
-        "jp_raw": null,
-        "jp_clean": null,
+    {
+        "en_raw": "\"How would you react if she wasn't actually blessed by the Change God?\"",
+        "en_clean": "\"How would you react if she wasn't actually blessed by the Change God?\"",
+        "jp_raw": "\"彼女がウツロイの神の祝福を受けていないとしたら、どうする？\"",
+        "jp_clean": "\"彼女がウツロイの神の祝福を受けていないとしたら、どうする？\"",
+        "checked": true
+    },
+    {
+        "en_raw": "(Nah.)",
+        "en_clean": "(Nah.)",
+        "jp_raw": "(やめておこう。)",
+        "jp_clean": "(やめておこう。)",
         "checked": true
     },
     {
@@ -228,6 +235,13 @@
         "en_clean": "(You understand Mirabelle a bit better, now.)",
         "jp_raw": "(ミラベルの心配を少し理解できたな。)",
         "jp_clean": "(ミラベルの心配を少し理解できたな。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(None of your business.)",
+        "en_clean": "(None of your business.)",
+        "jp_raw": "(僕には関係のないことだ。)",
+        "jp_clean": "(僕には関係のないことだ。)",
         "checked": true
     },
     {//TODO missing quotes on eng

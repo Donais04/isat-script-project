@@ -1,6 +1,6 @@
 import pyjson5, re
 
-file = "rooms_dormont_isatalk"
+file = "acts_act3-4_kingquest"
 with open("translations/"+file+".jsonc", 'r', encoding='utf-8') as f:
   text = f.read()
   text = text.replace("\\n ", "")
@@ -117,7 +117,7 @@ for i in site.split("\n"):
     i = i.replace("Tutorial Kid", "チュートリアル娘")
     i = i.replace("Unfinished Poem", "未完成の詩")
     i = i.replace("Wizard-Loving Kid", "魔法使いが気になる子ども")
-    i = i.replace("Wizard-loving kid", "魔法使いが気になる子ども")
+    i = i.replace("\"What is Craft?\"", "\"クラフトとは？\"")
     
   rebuilder.append(i)
 site = "\n".join(rebuilder)

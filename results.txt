@@ -1,4 +1,4 @@
-0.9901447187479536
+0.9901640415659108
 [{"name": "acts_act2_ending2", "count": 425, "percent": 1.0, "fileMade": true, "pageMade": true}
 {"name": "events_bombquest", "count": 74, "percent": 1.0, "fileMade": true, "pageMade": true}
 {"name": "events_bondingearrings", "count": 156, "percent": 1.0, "fileMade": true, "pageMade": true}
@@ -24,6 +24,14 @@
 {"name": "rooms_dormont_east", "count": 224, "percent": 1.0, "fileMade": true, "pageMade": true}
 {"name": "rooms_dormont_entertown", "count": 235, "percent": 1.0, "fileMade": true, "pageMade": true}
 {"name": "rooms_dormont_favortree", "count": 443, "percent": 1.0, "fileMade": true, "pageMade": true}
+{"name": "rooms_dormont_flowerhouse", "count": 41, "percent": 1.0, "fileMade": true, "pageMade": true}
+{"name": "rooms_dormont_isatalk", "count": 389, "percent": 1.0, "fileMade": true, "pageMade": true}
+{"name": "rooms_dormont_itemshop", "count": 74, "percent": 1.0, "fileMade": true, "pageMade": true}
+{"name": "rooms_dormont_library", "count": 123, "percent": 1.0, "fileMade": true, "pageMade": true}
+{"name": "rooms_dormont_meadow", "count": 372, "percent": 1.0, "fileMade": true, "pageMade": true}
+{"name": "rooms_dormont_miratalk", "count": 261, "percent": 1.0, "fileMade": true, "pageMade": true}
+{"name": "rooms_dormont_north", "count": 32, "percent": 1.0, "fileMade": true, "pageMade": true}
+{"name": "rooms_dormont_odiletalk", "count": 178, "percent": 1.0, "fileMade": true, "pageMade": true}
 {"name": "rooms_dormont_thingyhouse", "count": 11, "percent": 1.0, "fileMade": true, "pageMade": true}
 {"name": "acts_act3-4_kingquest", "count": 1224, "percent": 1.0, "fileMade": true, "pageMade": false}
 {"name": "acts_act5_endrooms5", "count": 253, "percent": 1.0, "fileMade": true, "pageMade": false}
@@ -40,14 +48,6 @@
 {"name": "random_souvenirs1", "count": 281, "percent": 1.0, "fileMade": true, "pageMade": false}
 {"name": "rooms_dormont_boulangerie", "count": 155, "percent": 1.0, "fileMade": true, "pageMade": false}
 {"name": "rooms_dormont_castlehouse", "count": 70, "percent": 1.0, "fileMade": true, "pageMade": false}
-{"name": "rooms_dormont_flowerhouse", "count": 39, "percent": 1.0, "fileMade": true, "pageMade": false}
-{"name": "rooms_dormont_isatalk", "count": 380, "percent": 1.0, "fileMade": true, "pageMade": false}
-{"name": "rooms_dormont_itemshop", "count": 72, "percent": 1.0, "fileMade": true, "pageMade": false}
-{"name": "rooms_dormont_library", "count": 112, "percent": 1.0, "fileMade": true, "pageMade": false}
-{"name": "rooms_dormont_meadow", "count": 366, "percent": 1.0, "fileMade": true, "pageMade": false}
-{"name": "rooms_dormont_miratalk", "count": 251, "percent": 1.0, "fileMade": true, "pageMade": false}
-{"name": "rooms_dormont_north", "count": 32, "percent": 1.0, "fileMade": true, "pageMade": false}
-{"name": "rooms_dormont_odiletalk", "count": 158, "percent": 1.0, "fileMade": true, "pageMade": false}
 {"name": "rooms_dormont_stylishhouse", "count": 62, "percent": 1.0, "fileMade": true, "pageMade": false}
 {"name": "rooms_dormont_tutokid", "count": 121, "percent": 1.0, "fileMade": true, "pageMade": false}
 {"name": "rooms_entrance_deathcorridor", "count": 129, "percent": 1.0, "fileMade": true, "pageMade": false}

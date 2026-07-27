@@ -27,11 +27,60 @@
         "jp_clean": "...何かお探しの本がありますか？",
         "checked": true
     },
-    {//TODO choicer "\"強力な攻撃に耐えるすべが書かれた本はある？\"" "\"時間のクラフトに関する本はある？\"" can't find "\"願いのクラフトに関する本はある？\"" "\"何か... 時間に関する本はある？\"" "(ないな。)" "\"あなたは何を願った？\""
+    {  
         "en_raw": "(Are you?)",
         "en_clean": "(Are you?)",
         "jp_raw": "(あったっけ？)",
         "jp_clean": "(あったっけ？)",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Anything about how to survive a very powerful attack?\"",
+        "en_clean": "\"Anything about how to survive a very powerful attack?\"",
+        "jp_raw": "\"強力な攻撃に耐えるすべが書かれた本はある？\"",
+        "jp_clean": "\"強力な攻撃に耐えるすべが書かれた本はある？\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Anything about Time Craft?\"",
+        "en_clean": "\"Anything about Time Craft?\"",
+        "jp_raw": "\"時間のクラフトに関する本はある？\"",
+        "jp_clean": "\"時間のクラフトに関する本はある？\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Any familytales?\"",
+        "en_clean": "\"Any familytales?\"",
+        "jp_raw": "\"一族の物語はある？\"",
+        "jp_clean": "\"一族の物語はある？\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Anything about... Time?\"",
+        "en_clean": "\"Anything about... Time?\"",
+        "jp_raw": "\"何か... 時間に関する本はある？\"",
+        "jp_clean": "\"何か... 時間に関する本はある？\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"Anything about Wish Craft?\"",
+        "en_clean": "\"Anything about Wish Craft?\"",
+        "jp_raw": "\"願いのクラフトに関する本はある？\"",
+        "jp_clean": "\"願いのクラフトに関する本はある？\"",
+        "checked": true
+    },
+    {
+        "en_raw": "(Nope.)",
+        "en_clean": "(Nope.)",
+        "jp_raw": "(ないな。)",
+        "jp_clean": "(ないな。)",
+        "checked": true
+    },
+    {
+        "en_raw": "\"What did you wish for?\"",
+        "en_clean": "\"What did you wish for?\"",
+        "jp_raw": "\"あなたは何を願った？\"",
+        "jp_clean": "\"あなたは何を願った？\"",
         "checked": true
     },
     {
@@ -62,9 +111,9 @@
         "jp_clean": "...秘密の書庫にならあるかもしれませんね。",
         "checked": true
     },
-    {//TODO eng needs quotes
-        "en_raw": "(The WHAT.) The WHAT?",
-        "en_clean": "(The WHAT.) The WHAT?",
+    {
+        "en_raw": "(The WHAT.) \"The WHAT?\"",
+        "en_clean": "(The WHAT.) \"The WHAT?\"",
         "jp_raw": "(なんだって。) \"なんだって？\"",
         "jp_clean": "(なんだって。) \"なんだって？\"",
         "checked": true
@@ -377,18 +426,32 @@
         "jp_clean": "(棚と壁の間に、古そうな本が挟まっている...)",
         "checked": true
     },
-    {//TODO this and next line choicer "(そうしよう。)" "(いや...)"
+    {
         "en_raw": "(Take it out?)",
         "en_clean": "(Take it out?)",
-        "jp_raw": "取り出す？",
-        "jp_clean": "取り出す？",
+        "jp_raw": "(取り出す？)",
+        "jp_clean": "(取り出す？)",
         "checked": true
     },
     {
         "en_raw": "(Get the book out again?)",
         "en_clean": "(Get the book out again?)",
-        "jp_raw": "もう一度取り出す？",
-        "jp_clean": "もう一度取り出す？",
+        "jp_raw": "(もう一度取り出す？)",
+        "jp_clean": "(もう一度取り出す？)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Yeah.)",
+        "en_clean": "(Yeah.)",
+        "jp_raw": "(そうしよう。)",
+        "jp_clean": "(そうしよう。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Nah.)",
+        "en_clean": "(Nah.)",
+        "jp_raw": "(いや...)",
+        "jp_clean": "(いや...)",
         "checked": true
     },
     {
@@ -616,6 +679,20 @@
         "checked": true
     },
     {
+        "en_raw": "(Yes.)",
+        "en_clean": "(Yes.)",
+        "jp_raw": "(そうしよう。)",
+        "jp_clean": "(そうしよう。)",
+        "checked": true
+    },
+    {
+        "en_raw": "(Nah...)",
+        "en_clean": "(Nah...)",
+        "jp_raw": "(いや...)",
+        "jp_clean": "(いや...)",
+        "checked": true
+    },
+    {
         "en_raw": "(You pick up the book and open it at a random page.)",
         "en_clean": "(You pick up the book and open it at a random page.)",
         "jp_raw": "(本を取り出し、ランダムにページを開く。)",
@@ -672,9 +749,9 @@
         "checked": true
     },
     {
-        "en_raw": "<i>\n \"Time Craft.\n <br/>\n You shouldn't be able to Craft time.\"\n</i>",
+        "en_raw": "<i>\"Time Craft.<br> You shouldn't be able to Craft time.\"</i>",
         "en_clean": "\"Time Craft. You shouldn't be able to Craft time.\"",
-        "jp_raw": "<i>「時間のクラフト。時間をクラフトすることはできません」</i>",
+        "jp_raw": "<i>「時間のクラフト。<br>時間をクラフトすることはできません」</i>",
         "jp_clean": "「時間のクラフト。時間をクラフトすることはできません」",
         "checked": true
     },
