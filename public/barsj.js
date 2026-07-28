@@ -105,7 +105,7 @@ class Helper extends HTMLElement {
         </div>
         <button onclick="toggleSettings()">Settings</button>
         <button onclick="topFunction()">Go to top</button>
-        <button onclick="languageToggle()">日本語</button>`
+        <button onclick="languageToggle()">English</button>`
     }
 }
 
@@ -209,7 +209,7 @@ function toggleSettings(state = null) {
 function languageToggle(state = null){
     const pageConst = window.location.href
     console.log(pageConst)
-    window.location.href = pageConst.substring(0,pageConst.indexOf("/",8)) + "/japanese_site" + pageConst.substring(pageConst.indexOf("/",8))
+    window.location.href = pageConst.substring(0,pageConst.indexOf("/",8)) + pageConst.substring(pageConst.indexOf("/",8)+14)
 }
 
 // // //                           animations                           // // //

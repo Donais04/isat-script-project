@@ -33,6 +33,10 @@ for i in data:
     else:
       linesJP[0] = linesJP[0] + linesJP.pop(1)
   for j in range(len(linesEN)):
+    #Tired of constant "multiple detected of (...), replacing first only"
+    if linesEN[j] == linesJP[j]:
+      continue
+    
     #this is to stop !'s in expressions getting mixed up
     count = 0
     firstIndex = 99999
@@ -56,6 +60,7 @@ for i in data:
 
 site = site.replace("FLAG_REMOVE_LATER","")
 site = site.replace('href="/style.css"', 'href="/stylejp.css"') # hi it's gold i'm invading your code. i think this should work
+site = site.replace('src="/bars.js"', 'src="/barsJ.js"')
 
 #replace headers
 rebuilder = []
