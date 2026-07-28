@@ -1,5 +1,6 @@
-0.9901640415659108
+0.9901714285714286
 [{"name": "acts_act2_ending2", "count": 425, "percent": 1.0, "fileMade": true, "pageMade": true}
+{"name": "acts_act3-4_kingquest", "count": 1247, "percent": 1.0, "fileMade": true, "pageMade": true}
 {"name": "events_bombquest", "count": 74, "percent": 1.0, "fileMade": true, "pageMade": true}
 {"name": "events_bondingearrings", "count": 156, "percent": 1.0, "fileMade": true, "pageMade": true}
 {"name": "events_bonnieside", "count": 217, "percent": 1.0, "fileMade": true, "pageMade": true}
@@ -33,7 +34,6 @@
 {"name": "rooms_dormont_north", "count": 32, "percent": 1.0, "fileMade": true, "pageMade": true}
 {"name": "rooms_dormont_odiletalk", "count": 178, "percent": 1.0, "fileMade": true, "pageMade": true}
 {"name": "rooms_dormont_thingyhouse", "count": 11, "percent": 1.0, "fileMade": true, "pageMade": true}
-{"name": "acts_act3-4_kingquest", "count": 1224, "percent": 1.0, "fileMade": true, "pageMade": false}
 {"name": "acts_act5_endrooms5", "count": 253, "percent": 1.0, "fileMade": true, "pageMade": false}
 {"name": "acts_act5_maldupays", "count": 186, "percent": 1.0, "fileMade": true, "pageMade": false}
 {"name": "acts_act5_VSFriends", "count": 373, "percent": 1.0, "fileMade": true, "pageMade": false}

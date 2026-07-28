@@ -1,6 +1,6 @@
 import pyjson5, re
 
-file = "acts_act3-4_kingquest"
+file = "acts_act5_endrooms5"
 with open("translations/"+file+".jsonc", 'r', encoding='utf-8') as f:
   text = f.read()
   text = text.replace("\\n ", "")
@@ -59,8 +59,6 @@ for i in data:
   #  print("Something's wrong with", i)
 
 site = site.replace("FLAG_REMOVE_LATER","")
-site = site.replace('href="/style.css"', 'href="/stylejp.css"') # hi it's gold i'm invading your code. i think this should work
-site = site.replace('src="/bars.js"', 'src="/barsJ.js"')
 
 #replace headers
 rebuilder = []
@@ -127,6 +125,10 @@ for i in site.split("\n"):
   rebuilder.append(i)
 site = "\n".join(rebuilder)
 site = untouched + site
+site = site.replace('href="/style.css"', 'href="/stylejp.css"') # hi it's gold i'm invading your code. i think this should work
+site = site.replace('src="/bars.js"', 'src="/barsJ.js"')#
+site = site.replace('lang="en"', 'lang="ja"')
+
 #write
 try:
   f = open("public/japanese_site/"+"/".join(file.split("_"))+".html", 'w', encoding='utf-8')

@@ -28,13 +28,13 @@ class Header extends HTMLElement {
                 <img src="/assets/images/header.png" alt="">
                 <nav>
                     <img src="/assets/images/Craft.png" alt="">
-                    <span><a href="/index.html">Home</a></span>
-                    <span><a href="/overview/acts.html">Story</a></span>
-                    <span><a href="/overview/events.html">Events</a></span>
-                    <span><a href="/overview/rooms.html">Rooms</a></span>
-                    <span><a href="/overview/random.html">Random</a></span>
-                    <span><a href="/overview/sasasap.html">START AGAIN</a></span>
-                    <span><a href="/thanks.html">Special Thanks</a></span>
+                    <span><a href="/japanese_site/index.html">Home</a></span>
+                    <span><a href="/japanese_site/overview/acts.html">Story</a></span>
+                    <span><a href="/japanese_site/overview/events.html">Events</a></span>
+                    <span><a href="/japanese_site/overview/rooms.html">Rooms</a></span>
+                    <span><a href="/japanese_site/overview/random.html">Random</a></span>
+                    <span><a href="/japanese_site/overview/sasasap.html">START AGAIN</a></span>
+                    <span><a href="/japanese_site/thanks.html">Special Thanks</a></span>
                     <span id="searchButtonDesktop">
                         <a id="magnifyingGlassIcon" href="#"><img src="/assets/images/magnifying-glass-white.png" alt=""></a>
                     </span>
@@ -207,9 +207,17 @@ function toggleSettings(state = null) {
 }
 
 function languageToggle(state = null){
-    const pageConst = window.location.href
-    console.log(pageConst)
-    window.location.href = pageConst.substring(0,pageConst.indexOf("/",8)) + pageConst.substring(pageConst.indexOf("/",8)+14)
+    const pageConst = window.location.href;
+    localStorage.setItem("scrollY", window.pageYOffset / 1.042);
+    console.log(localStorage);
+    window.location.href = pageConst.substring(0,pageConst.indexOf("/",8)) + pageConst.substring(pageConst.indexOf("/",8)+14);
+}
+
+window.onload = function(){
+    if (localStorage.getItem("scrollY")) {
+        window.scrollTo(0,localStorage.getItem("scrollY"))
+        localStorage.removeItem("scrollY");
+    }
 }
 
 // // //                           animations                           // // //
@@ -377,6 +385,8 @@ function updateButtonsPosition() {
 
 window.onscroll = updateButtonsPosition;
 window.onresize = updateButtonsPosition;
+
+
 
 
 

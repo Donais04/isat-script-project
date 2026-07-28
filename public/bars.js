@@ -207,9 +207,17 @@ function toggleSettings(state = null) {
 }
 
 function languageToggle(state = null){
-    const pageConst = window.location.href
-    console.log(pageConst)
-    window.location.href = pageConst.substring(0,pageConst.indexOf("/",8)) + "/japanese_site" + pageConst.substring(pageConst.indexOf("/",8))
+    const pageConst = window.location.href;
+    localStorage.setItem("scrollY", window.pageYOffset * 1.042);
+    console.log(localStorage);
+    window.location.href = pageConst.substring(0,pageConst.indexOf("/",8)) + "/japanese_site" + pageConst.substring(pageConst.indexOf("/",8));
+}
+
+window.onload = function(){
+    if (localStorage.getItem("scrollY")) {
+        window.scrollTo(0,localStorage.getItem("scrollY"))
+        localStorage.removeItem("scrollY");
+    }
 }
 
 // // //                           animations                           // // //
@@ -377,6 +385,4 @@ function updateButtonsPosition() {
 
 window.onscroll = updateButtonsPosition;
 window.onresize = updateButtonsPosition;
-
-
 

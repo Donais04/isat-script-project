@@ -210,9 +210,9 @@
         "checked": true
     },
     {
-        "en_raw": "(you can't  stand up)",
+        "en_raw": "(you can't&ensp;&ensp;stand up)",
         "en_clean": "(you can't  stand up)",
-        "jp_raw": "(立ち上がれない)",
+        "jp_raw": "(立ち上がれ&ensp;&ensp;ない)",
         "jp_clean": "(立ち上がれない)",
         "checked": true
     },
@@ -245,9 +245,9 @@
         "checked": true
     },
     {
-        "en_raw": "Siffrin, let me help you up...   Huh?",
+        "en_raw": "Siffrin, let me help you up...&ensp;&ensp;&ensp;Huh?",
         "en_clean": "Siffrin, let me help you up...   Huh?",
-        "jp_raw": "シフラン、手を貸すね... あれっ？",
+        "jp_raw": "シフラン、手を貸すね...&ensp;&ensp;&ensp;あれっ？",
         "jp_clean": "シフラン、手を貸すね... あれっ？",
         "checked": true
     },
@@ -301,9 +301,9 @@
         "checked": true
     },
     {
-        "en_raw": "(    loop,)",
+        "en_raw": "(&ensp;&ensp;&ensp;&ensp;loop,)",
         "en_clean": "(    loop,)",
-        "jp_raw": "(   ループ、)",
+        "jp_raw": "(&ensp;&ensp;&ensp;&ensp;ループ、)",
         "jp_clean": "(   ループ、)",
         "checked": true
     },
@@ -357,7 +357,7 @@
         "checked": true
     },
     {
-        "en_raw": "It was\n<span class=\"wave\">\n sooooooo\n</span>\ncool!!!",
+        "en_raw": "It was \n<span class=\"wave\">\n sooooooo\n</span> \ncool!!!",
         "en_clean": "It was sooooooo cool!!!",
         "jp_raw": "あれ、<span class=\"wave\">すっっっげえ</span>かっこいい！！",
         "jp_clean": "あれ、すっっっげえかっこいい！！",
@@ -595,9 +595,9 @@
         "checked": true
     },
     {
-        "en_raw": "Maybe...   Since he was so powerful, he was filled with Craft, which allowed him to change his size...",
+        "en_raw": "Maybe...&ensp;&ensp;&ensp;Since he was so powerful, he was filled with Craft, which allowed him to change his size...",
         "en_clean": "Maybe...   Since he was so powerful, he was filled with Craft, which allowed him to change his size...",
-        "jp_raw": "たぶん... 前は大きな力を持っていたし、体中がクラフトで満たされてたから、体のサイズも変えられたんだろう...",
+        "jp_raw": "たぶん...&ensp;&ensp;&ensp;前は大きな力を持っていたし、体中がクラフトで満たされてたから、体のサイズも変えられたんだろう...",
         "jp_clean": "たぶん... 前は大きな力を持っていたし、体中がクラフトで満たされてたから、体のサイズも変えられたんだろう...",
         "checked": true
     },
@@ -686,6 +686,20 @@
         "checked": true
     },
     {
+        "en_raw": "(yes)",
+        "en_clean": "(yes)",
+        "jp_raw": "(はい)",
+        "jp_clean": "(はい)",
+        "checked": true
+    },
+    {
+        "en_raw": "(no)",
+        "en_clean": "(no)",
+        "jp_raw": "(いいえ)",
+        "jp_clean": "(いいえ)",
+        "checked": true
+    },
+    {
         "en_raw": "You won't be going any farther, young one.",
         "en_clean": "You won't be going any farther, young one.",
         "jp_raw": "それ以上遠くへは行かせないぞ、若者よ。",
@@ -756,9 +770,9 @@
         "checked": true
     },
     {
-        "en_raw": "...   I got you, Sif.",
+        "en_raw": "...&ensp;&ensp;&ensp;I got you, Sif.",
         "en_clean": "...   I got you, Sif.",
-        "jp_raw": "...受け止めたぞ、シフ。",
+        "jp_raw": "...&ensp;&ensp;&ensp;受け止めたぞ、シフ。",
         "jp_clean": "...受け止めたぞ、シフ。",
         "checked": true
     },
@@ -973,8 +987,8 @@
         "checked": true
     },
     {
-        "en_raw": "<span class=\"shake\">\n (!!!!!!)\n</span>\n\"EVERYONE...?!\"",
-        "en_clean": "(!!!!!!)\"EVERYONE...?!\"",
+        "en_raw": "<span class=\"shake\">\n (!!!!!!)\n</span><br>\n\"EVERYONE...?!\"",
+        "en_clean": "(!!!!!!) \"EVERYONE...?!\"",
         "jp_raw": "(！！！) \"みんな...！？\"",
         "jp_clean": "(！！！) \"みんな...！？\"",
         "checked": true
@@ -1035,11 +1049,25 @@
         "jp_clean": "手を握ってやろうか、フラン？",
         "checked": true
     },
-    {//TODO missing choicer "(そうしてくれ)" "(いやいやいやいや大丈夫だ)"
+    {
         "en_raw": "(bonnie takes your hand)",
         "en_clean": "(bonnie takes your hand)",
         "jp_raw": "(ボニーが僕の手を取る)",
         "jp_clean": "(ボニーが僕の手を取る)",
+        "checked": true
+    },
+    {
+        "en_raw": "(yes)",
+        "en_clean": "(yes)",
+        "jp_raw": "(そうしてくれ)",
+        "jp_clean": "(そうしてくれ)",
+        "checked": true
+    },
+    {
+        "en_raw": "(no no no no no no it's fine)",
+        "en_clean": "(no no no no no no it's fine)",
+        "jp_raw": "(いやいやいやいや大丈夫だ)",
+        "jp_clean": "(いやいやいやいや大丈夫だ)",
         "checked": true
     },
     {
@@ -1105,18 +1133,39 @@
         "jp_clean": "侍祭長はすぐ先だからね！",
         "checked": true
     },
-    {//TODO missing line "\"ミラ\""
+    {
         "en_raw": "!!!",
         "en_clean": "!!!",
         "jp_raw": "！！！",
         "jp_clean": "！！！",
         "checked": true
     },
-    {//TODO missing lines "\"ごめん... あんなこと言って...\""  "\"それに... 誰にも... 話さなかったことも...\""
+    {
+        "en_raw": "\"mira\"",
+        "en_clean": "\"mira\"",
+        "jp_raw": "\"ミラ\"",
+        "jp_clean": "\"ミラ\"",
+        "checked": true
+    },
+    {
         "en_raw": "Um, yes?",
         "en_clean": "Um, yes?",
         "jp_raw": "ああ、そうだが？",
         "jp_clean": "ああ、そうだが？",
+        "checked": true
+    },
+    {
+        "en_raw": "\"i'm sorry... for what i said...\"",
+        "en_clean": "\"i'm sorry... for what i said...\"",
+        "jp_raw": "\"ごめん... あんなこと言って...\"",
+        "jp_clean": "\"ごめん... あんなこと言って...\"",
+        "checked": true
+    },
+    {
+        "en_raw": "\"and for not... talking... to anyone...\"",
+        "en_clean": "\"and for not... talking... to anyone...\"",
+        "jp_raw": "\"それに... 誰にも... 話さなかったことも...\"",
+        "jp_clean": "\"それに... 誰にも... 話さなかったことも...\"",
         "checked": true
     },
     {
@@ -1456,9 +1505,9 @@
         "checked": true
     },
     {
-        "en_raw": "I...   I don't know, but... I can feel everything around us so strongly, and it feels... Wrong.",
+        "en_raw": "I...&ensp;&ensp;&ensp;I don't know, but... I can feel everything around us so strongly, and it feels... Wrong.",
         "en_clean": "I...   I don't know, but... I can feel everything around us so strongly, and it feels... Wrong.",
-        "jp_raw": "私には... 分かりません。けれど... 私たちを取り巻くものを強く感じます。それは... 間違っている感じ。",
+        "jp_raw": "私には...&ensp;&ensp;&ensp;分かりません。けれど... 私たちを取り巻くものを強く感じます。それは... 間違っている感じ。",
         "jp_clean": "私には... 分かりません。けれど... 私たちを取り巻くものを強く感じます。それは... 間違っている感じ。",
         "checked": true
     },
@@ -1470,9 +1519,9 @@
         "checked": true
     },
     {
-        "en_raw": "It feels like something is...   Rotting...",
+        "en_raw": "It feels like something is...&ensp;&ensp;&ensp;Rotting...",
         "en_clean": "It feels like something is...   Rotting...",
-        "jp_raw": "何かが... 腐敗していくような...",
+        "jp_raw": "何かが...&ensp;&ensp;&ensp;腐敗していくような...",
         "jp_clean": "何かが... 腐敗していくような...",
         "checked": true
     },
@@ -1498,7 +1547,7 @@
         "checked": true
     },
     {
-        "en_raw": "Something's broken, something's failing,\n<span class=\"shake\">\n rotting--\n</span>",
+        "en_raw": "Something's broken, something's failing, \n<span class=\"shake\">\n rotting--\n</span>",
         "en_clean": "Something's broken, something's failing, rotting--",
         "jp_raw": "何かが壊れています、破綻しています、<span class=\"shake\">腐敗しています――</span>",
         "jp_clean": "何かが壊れています、破綻しています、腐敗しています――",
@@ -1610,9 +1659,9 @@
         "checked": true
     },
     {
-        "en_raw": "(you're still   stuck here)",
+        "en_raw": "(you're still&ensp;&ensp;&ensp;stuck here)",
         "en_clean": "(you're still   stuck here)",
-        "jp_raw": "(おまえはまだここに閉じ込められている)",
+        "jp_raw": "(おまえはまだ&ensp;&ensp;&ensp;ここに閉じ込められている)",
         "jp_clean": "(おまえはまだここに閉じ込められている)",
         "checked": true
     },
@@ -1624,16 +1673,16 @@
         "checked": true
     },
     {
-        "en_raw": "(eternity   is within your grasp)",
+        "en_raw": "(eternity&ensp;&ensp;&ensp;is within your grasp)",
         "en_clean": "(eternity   is within your grasp)",
-        "jp_raw": "(永遠が手の届く場所にある)",
+        "jp_raw": "(永遠が&ensp;&ensp;&ensp;手の届く場所にある)",
         "jp_clean": "(永遠が手の届く場所にある)",
         "checked": true
     },
     {
-        "en_raw": "And y y you, Mirabelle's companions... Th ank you for helping her get th i s far.",
+        "en_raw": "And y&nbsp;y&nbsp;you, Mirabelle's companions... Th&nbsp;ank you for helping her get th&nbsp;i&nbsp;s far.",
         "en_clean": "And y y you, Mirabelle's companions... Th ank you for helping her get th i s far.",
-        "jp_raw": "それから、ら、ら、ミラベルのお仲間さんたち... ありがとう。彼女に手を貸してくれて。",
+        "jp_raw": "それから、ら、ら、ミラベルのお仲間さんたち... あり&nbsp;がとう。&nbsp;彼女に手を貸して&nbsp;くれて。",
         "jp_clean": "それから、ら、ら、ミラベルのお仲間さんたち... ありがとう。彼女に手を貸してくれて。",
         "checked": true
     },
@@ -1666,9 +1715,9 @@
         "checked": true
     },
     {
-        "en_raw": "...   Soon, you'll be able to go back to your normal lives. Away from battle and strife.",
+        "en_raw": "...&ensp;&ensp;&ensp;Soon, you'll be able to go back to your normal lives. Away from battle and strife.",
         "en_clean": "...   Soon, you'll be able to go back to your normal lives. Away from battle and strife.",
-        "jp_raw": "...もうすぐ皆さんは日常生活に戻れるでしょう。闘争に別れを告げられます。",
+        "jp_raw": "...&ensp;&ensp;&ensp;もうすぐ皆さんは日常生活に戻れるでしょう。闘争に別れを告げられます。",
         "jp_clean": "...もうすぐ皆さんは日常生活に戻れるでしょう。闘争に別れを告げられます。",
         "checked": true
     },
@@ -1715,10 +1764,17 @@
         "checked": true
     },
     {
-        "en_raw": "<span class=\"shake\">\n (they'll go home  they'll go home  they'll go home they'll go home they'll go home they'll go home they'll go home they'll go home they'll go home they'll go home they'll gohomethey'llgohomethey'llgohomethey'llgohomethey'llgohomethey'llgohome)\n</span>",
+        "en_raw": "<span class=\"shake\">(they'll go home&ensp;&ensp;they'll go home&ensp;&ensp;they'll go home they'll go home they'll go home they'll go home they'll go home they'll go home they'll go home they'll go home they'll gohomethey'llgohomethey'llgohomethey'llgohomethey'llgohomethey'llgohome)</span>",
         "en_clean": "(they'll go home  they'll go home  they'll go home they'll go home they'll go home they'll go home they'll go home they'll go home they'll go home they'll go home they'll gohomethey'llgohomethey'llgohomethey'llgohomethey'llgohomethey'llgohome)",
         "jp_raw": "<span class=\"shake\">(故郷に帰る 故郷に帰る 故郷に帰る 故郷に帰る 故郷に帰る 故郷に帰る 故郷に帰る 故郷に帰る 故郷に帰る 故郷に帰る 故郷にかえるこきょうにかえるこきょうにかえるこきょうにかえるこきょうにかえるこきょうにかえる</span>",
         "jp_clean": "(故郷に帰る 故郷に帰る 故郷に帰る 故郷に帰る 故郷に帰る 故郷に帰る 故郷に帰る 故郷に帰る 故郷に帰る 故郷に帰る 故郷にかえるこきょうにかえるこきょうにかえるこきょうにかえるこきょうにかえるこきょうにかえる",
+        "checked": true
+    },
+    {
+        "en_raw": "\"NO!!!!!!\"",
+        "en_clean": "\"NO!!!!!!\"",
+        "jp_raw": "\"ダメだ！！！\"",
+        "jp_clean": "\"ダメだ！！！\"",
         "checked": true
     },
     {
@@ -1768,6 +1824,13 @@
         "en_clean": "EVERYONE, BE CAREFUL!!!",
         "jp_raw": "<span class=\"shake\">みんな、気をつけろ！！！</span>",
         "jp_clean": "みんな、気をつけろ！！！",
+        "checked": true
+    },
+    {
+        "en_raw": "(I WON'T LET YOU GO HOME.)",
+        "en_clean": "(I WON'T LET YOU GO HOME.)",
+        "jp_raw": "(故郷になんて帰さない。)",
+        "jp_clean": "(故郷になんて帰さない。)",
         "checked": true
     }
 ]
