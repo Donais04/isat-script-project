@@ -11,7 +11,6 @@ var shakeSpeed = 0.2;
 var shakeUnit = "%";
 
 
-
 ////////////////////////////////////////////////////////////////////////////////
 //                               custom elements                              //
 //                              (header / footer)                             //
@@ -105,7 +104,15 @@ class Helper extends HTMLElement {
         </div>
         <button onclick="toggleSettings()">Settings</button>
         <button onclick="topFunction()">Go to top</button>
-        <button onclick="languageToggle()">日本語</button>`
+        <button onclick="toggleLanguage()">日本語</button>`
+        
+        /*//delete once all japanese pages are done
+        const pageConst = window.location.href.replaceAll("/","\\");
+        console.log(pageConst);
+        let toCheck = "";
+        toCheck = await getDialogueLinesTXT();
+        if */
+        
     }
 }
 
@@ -113,6 +120,7 @@ customElements.define("head-er", Header);
 customElements.define("foot-er", Footer);
 customElements.define("side-bar", Sidebar);
 customElements.define("help-er", Helper);
+
 
 
 
@@ -206,7 +214,7 @@ function toggleSettings(state = null) {
     }
 }
 
-function languageToggle(state = null){
+function toggleLanguage(state = null){
     const pageConst = window.location.href;
     localStorage.setItem("scrollY", window.pageYOffset * 1.042);
     console.log(localStorage);
@@ -385,4 +393,3 @@ function updateButtonsPosition() {
 
 window.onscroll = updateButtonsPosition;
 window.onresize = updateButtonsPosition;
-

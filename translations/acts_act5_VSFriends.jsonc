@@ -35,7 +35,7 @@
         "checked": true
     },
     {
-        "en_raw": "You-- Siffrin!!!!!!!\n<!-- [sic] -->",
+        "en_raw": "You-- Siffrin!!!!!!! \n<!-- [sic] -->",
         "en_clean": "You-- Siffrin!!!!!!!",
         "jp_raw": "あなた―― シフラン！！！！！！",
         "jp_clean": "あなた―― シフラン！！！！！！",

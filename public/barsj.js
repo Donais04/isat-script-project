@@ -28,17 +28,16 @@ class Header extends HTMLElement {
                 <img src="/assets/images/header.png" alt="">
                 <nav>
                     <img src="/assets/images/Craft.png" alt="">
-                    <span><a href="/japanese_site/index.html">Home</a></span>
-                    <span><a href="/japanese_site/overview/acts.html">Story</a></span>
-                    <span><a href="/japanese_site/overview/events.html">Events</a></span>
-                    <span><a href="/japanese_site/overview/rooms.html">Rooms</a></span>
-                    <span><a href="/japanese_site/overview/random.html">Random</a></span>
-                    <span><a href="/japanese_site/overview/sasasap.html">START AGAIN</a></span>
-                    <span><a href="/japanese_site/thanks.html">Special Thanks</a></span>
+                    <span><a href="/japanese_site/index.html">始め</a></span>
+                    <span><a href="/japanese_site/overview/acts.html">ACTS</a></span>
+                    <span><a href="/japanese_site/overview/events.html">種目</a></span>
+                    <span><a href="/japanese_site/overview/rooms.html">部屋</a></span>
+                    <span><a href="/japanese_site/overview/random.html">雑多</a></span>
+                    <span><a href="/japanese_site/thanks.html">ありがとう</a></span>
                     <span id="searchButtonDesktop">
                         <a id="magnifyingGlassIcon" href="#"><img src="/assets/images/magnifying-glass-white.png" alt=""></a>
                     </span>
-                    <span id="searchButtonMobile"><a id="mobileSearchLink" href="#">Search</a></span>
+                    <span id="searchButtonMobile"><a id="mobileSearchLink" href="#">検索</a></span>
                     <img src="/assets/images/Craft.png" alt="">
                 </nav>
                 <span id="searchbarContainer"><search-er></search-er></span>
@@ -95,16 +94,16 @@ class Helper extends HTMLElement {
     connectedCallback() {
         this.innerHTML =
         `<div id="settings" style="display: none">
-            <button onclick="changeFontStyle(null)">Default font</button>
+            <button onclick="changeFontStyle(null)">標準フォント</button>
             <button onclick="changeFontStyle('CascadiaCode')">Cascadia Code</button>
             <button onclick="changeFontStyle('OpenDyslexic3')">OpenDyslexic3</button>
-            <button onclick="toggleAnimations()">Toggle animations</button>
-            <button onclick="toggleExpressions()" style="font-size: 0.95em">Toggle expressions</button>
-            <button onclick="toggleChoices()">Toggle choices</button>
-            <button onclick="changeWishStyle()">Change wish style</button>
+            <button onclick="toggleAnimations()">トグル動作</button>
+            <button onclick="toggleExpressions()" style="font-size: 0.95em">トグル面</button>
+            <button onclick="toggleChoices()">トグル選択</button>
+            <button onclick="changeWishStyle()">望みのスタイル</button>
         </div>
-        <button onclick="toggleSettings()">Settings</button>
-        <button onclick="topFunction()">Go to top</button>
+        <button onclick="toggleSettings()">オプション</button>
+        <button onclick="topFunction()">始めの行く</button>
         <button onclick="languageToggle()">English</button>`
     }
 }

@@ -1,6 +1,7 @@
-0.9901714285714286
+0.9901743161193445
 [{"name": "acts_act2_ending2", "count": 425, "percent": 1.0, "fileMade": true, "pageMade": true}
 {"name": "acts_act3-4_kingquest", "count": 1247, "percent": 1.0, "fileMade": true, "pageMade": true}
+{"name": "acts_act5_endrooms5", "count": 262, "percent": 1.0, "fileMade": true, "pageMade": true}
 {"name": "events_bombquest", "count": 74, "percent": 1.0, "fileMade": true, "pageMade": true}
 {"name": "events_bondingearrings", "count": 156, "percent": 1.0, "fileMade": true, "pageMade": true}
 {"name": "events_bonnieside", "count": 217, "percent": 1.0, "fileMade": true, "pageMade": true}
@@ -34,7 +35,6 @@
 {"name": "rooms_dormont_north", "count": 32, "percent": 1.0, "fileMade": true, "pageMade": true}
 {"name": "rooms_dormont_odiletalk", "count": 178, "percent": 1.0, "fileMade": true, "pageMade": true}
 {"name": "rooms_dormont_thingyhouse", "count": 11, "percent": 1.0, "fileMade": true, "pageMade": true}
-{"name": "acts_act5_endrooms5", "count": 253, "percent": 1.0, "fileMade": true, "pageMade": false}
 {"name": "acts_act5_maldupays", "count": 186, "percent": 1.0, "fileMade": true, "pageMade": false}
 {"name": "acts_act5_VSFriends", "count": 373, "percent": 1.0, "fileMade": true, "pageMade": false}
 {"name": "acts_act6_act6npcs", "count": 339, "percent": 1.0, "fileMade": true, "pageMade": false}
@@ -99,7 +99,7 @@
 {"name": "acts_act3-4_loopquest", "count": 1281, "percent": 0.9867291178766588, "fileMade": true, "pageMade": false}
 {"name": "rooms_loop_ihadaquestion", "count": 292, "percent": 0.9863013698630136, "fileMade": true, "pageMade": false}
 {"name": "acts_act3-4_odilequest", "count": 547, "percent": 0.9853747714808044, "fileMade": true, "pageMade": false}
-{"name": "acts_act2_intro2", "count": 410, "percent": 0.9853658536585366, "fileMade": true, "pageMade": true}
+{"name": "acts_act2_intro2", "count": 410, "percent": 0.9853658536585366, "fileMade": true, "pageMade": false}
 {"name": "rooms_loop_predialogue", "count": 495, "percent": 0.9818181818181818, "fileMade": true, "pageMade": false}
 {"name": "rooms_floor1_snackbreak1", "count": 323, "percent": 0.9814241486068112, "fileMade": true, "pageMade": false}
 {"name": "events_confession", "count": 269, "percent": 0.9814126394052045, "fileMade": true, "pageMade": false}

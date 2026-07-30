@@ -189,9 +189,9 @@
         "checked": true
     },
     {
-        "en_raw": "(The figure  opens its mouth...)",
+        "en_raw": "(The figure &nbsp;opens its mouth...)",
         "en_clean": "(The figure  opens its mouth...)",
-        "jp_raw": "(目の前の物体は口を開け...)",
+        "jp_raw": "(目の前の物体は&nbsp;口を開け...)",
         "jp_clean": "(目の前の物体は口を開け...)",
         "checked": true
     },
@@ -308,9 +308,9 @@
         "checked": true
     },
     {
-        "en_raw": "...But...  But, Frin...",
+        "en_raw": "...But... &nbsp;But, Frin...",
         "en_clean": "...But...  But, Frin...",
-        "jp_raw": "...でも... でもね、フラン...",
+        "jp_raw": "...でも... &nbsp;でもね、フラン...",
         "jp_clean": "...でも... でもね、フラン...",
         "checked": true
     },
@@ -504,23 +504,23 @@
         "checked": true
     },
     {
-        "en_raw": "If you don't have a home to go back to,  what kind of person does that make you?",
+        "en_raw": "If you don't have a home to go back to, &nbsp;what kind of person does that make you?",
         "en_clean": "If you don't have a home to go back to,  what kind of person does that make you?",
-        "jp_raw": "帰る故郷を持たないなんて、きみはどんな人間なんだ？",
+        "jp_raw": "帰る故郷を持たないなんて、&nbsp;きみはどんな人間なんだ？",
         "jp_clean": "帰る故郷を持たないなんて、きみはどんな人間なんだ？",
         "checked": true
     },
     {
-        "en_raw": "If you don't have memories of your own childhood,  can you still consider yourself human?",
+        "en_raw": "If you don't have memories of your own childhood, &nbsp;can you still consider yourself human?",
         "en_clean": "If you don't have memories of your own childhood,  can you still consider yourself human?",
-        "jp_raw": "子どもの頃の記憶がないのに、自分を人間だと言えるか？",
+        "jp_raw": "子どもの頃の記憶がないのに、&nbsp;自分を人間だと言えるか？",
         "jp_clean": "子どもの頃の記憶がないのに、自分を人間だと言えるか？",
         "checked": true
     },
     {
-        "en_raw": "If you have forgotten something as important as your country, your childhood, your family, your own name,  then are you even a person?",
+        "en_raw": "If you have forgotten something as important as your country, your childhood, your family, your own name, &nbsp;then are you even a person?",
         "en_clean": "If you have forgotten something as important as your country, your childhood, your family, your own name,  then are you even a person?",
-        "jp_raw": "自分の国や子どものときのこと、家族、自分の名前と同じくらい大切なことを忘れるなんて、人間か？",
+        "jp_raw": "自分の国や子どものときのこと、家族、自分の名前と同じくらい大切なことを忘れるなんて、&nbsp;人間か？",
         "jp_clean": "自分の国や子どものときのこと、家族、自分の名前と同じくらい大切なことを忘れるなんて、人間か？",
         "checked": true
     },
@@ -546,9 +546,9 @@
         "checked": true
     },
     {
-        "en_raw": "You forget them all,  and are forgotten by them in return.",
+        "en_raw": "You forget them all, &nbsp;and are forgotten by them in return.",
         "en_clean": "You forget them all,  and are forgotten by them in return.",
-        "jp_raw": "友のことを忘れてしまうだろう。そのむくいに、誰からも忘れられるんだ。",
+        "jp_raw": "友のことを忘れてしまうだろう。&nbsp;そのむくいに、誰からも忘れられるんだ。",
         "jp_clean": "友のことを忘れてしまうだろう。そのむくいに、誰からも忘れられるんだ。",
         "checked": true
     },
@@ -609,9 +609,9 @@
         "checked": true
     },
     {
-        "en_raw": "To  leave  you  behind.",
+        "en_raw": "To &nbsp;leave &nbsp;you &nbsp;behind.",
         "en_clean": "To  leave  you  behind.",
-        "jp_raw": "きみを一人残してゆくことも。",
+        "jp_raw": "きみを&nbsp;一人&nbsp;残して&nbsp;ゆくことも。",
         "jp_clean": "きみを一人残してゆくことも。",
         "checked": true
     },
@@ -714,16 +714,16 @@
         "checked": true
     },
     {
-        "en_raw": "Okay...  Here it comes.",
+        "en_raw": "Okay... &nbsp;Here it comes.",
         "en_clean": "Okay...  Here it comes.",
-        "jp_raw": "よし... 言うからな。",
+        "jp_raw": "よし... &nbsp;言うからな。",
         "jp_clean": "よし... 言うからな。",
         "checked": true
     },
     {
-        "en_raw": "I . . .",
+        "en_raw": "I&nbsp;.&nbsp;.&nbsp;.",
         "en_clean": "I . . .",
-        "jp_raw": "俺は...",
+        "jp_raw": "俺は&nbsp;.&nbsp;.&nbsp;.",
         "jp_clean": "俺は...",
         "checked": true
     },
@@ -1148,7 +1148,7 @@
         "checked": true
     },
     {
-        "en_raw": "<spanclass=\"shake\">\n (n  o)\n</span>",
+        "en_raw": "<span class=\"shake\">\n (n&nbsp;&nbsp;o)\n</span>",
         "en_clean": "(n  o)",
         "jp_raw": "<span class=\"shake\">(ちが...う)</span>",
         "jp_clean": "(ちが...う)",
@@ -1162,7 +1162,7 @@
         "checked": true
     },
     {
-        "en_raw": "<span class=\"shake\">\n (  )\n</span>",
+        "en_raw": "<span class=\"shake\">\n (&nbsp;&nbsp;)\n</span>",
         "en_clean": "(  )",
         "jp_raw": "<span class=\"shake\">(...)</span>",
         "jp_clean": "(...)",
@@ -1176,23 +1176,23 @@
         "checked": true
     },
     {
-        "en_raw": "(  )",
+        "en_raw": "(&nbsp;&nbsp;)",
         "en_clean": "(  )",
         "jp_raw": "(...)",
         "jp_clean": "(...)",
         "checked": true
     },
     {
-        "en_raw": "(it's     right)",
+        "en_raw": "(it's&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;right)",
         "en_clean": "(it's     right)",
-        "jp_raw": "(ああ... そのとおりだ)",
+        "jp_raw": "(ああ...&nbsp;&nbsp;&nbsp;そのとおりだ)",
         "jp_clean": "(ああ... そのとおりだ)",
         "checked": true
     },
     {
-        "en_raw": "(the  s adness  w ith in   yo u  i s   ri g h  t)",
+        "en_raw": "(the &nbsp;s&nbsp;adness &nbsp;w&nbsp;ith&nbsp;in &nbsp;&nbsp;yo&nbsp;u &nbsp;i&nbsp;s &nbsp;&nbsp;ri&nbsp;g&nbsp;h&nbsp;&nbsp;t)",
         "en_clean": "(the  s adness  w ith in   yo u  i s   ri g h  t)",
-        "jp_raw": "(僕 の 中 の哀し 身 が 言う と お り だ)",
+        "jp_raw": "(僕 &nbsp;の &nbsp;中 &nbsp;の哀し &nbsp;身 &nbsp;が &nbsp;言う &nbsp;と &nbsp;お &nbsp;り &nbsp;だ)",
         "jp_clean": "(僕 の 中 の哀し 身 が 言う と お り だ)",
         "checked": true
     },
@@ -1288,16 +1288,16 @@
         "checked": true
     },
     {
-        "en_raw": "( l e t )",
+        "en_raw": "(&nbsp;l&nbsp;e&nbsp;t&nbsp;)",
         "en_clean": "( l e t )",
-        "jp_raw": "(あきら)",
+        "jp_raw": "(&nbsp;あ&nbsp;き&nbsp;ら&nbsp;)",
         "jp_clean": "(あきら)",
         "checked": true
     },
     {
-        "en_raw": "(  g  o  )",
+        "en_raw": "(&nbsp;&nbsp;g&nbsp;&nbsp;o&nbsp;&nbsp;)",
         "en_clean": "(  g  o  )",
-        "jp_raw": "(めろ)",
+        "jp_raw": "(&nbsp;&nbsp;め&nbsp;&nbsp;ろ&nbsp;&nbsp;)",
         "jp_clean": "(めろ)",
         "checked": true
     }

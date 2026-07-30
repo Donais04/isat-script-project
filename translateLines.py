@@ -1,6 +1,6 @@
 import pyjson5, re
 
-file = "acts_act5_endrooms5"
+file = "acts_act5_VSFriends"
 with open("translations/"+file+".jsonc", 'r', encoding='utf-8') as f:
   text = f.read()
   text = text.replace("\\n ", "")
